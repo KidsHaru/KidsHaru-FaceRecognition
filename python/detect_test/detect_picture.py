@@ -16,7 +16,8 @@ def faceDetect():
     iteration_count = 100
     for cnt in range(0, iteration_count):
         # Read the image
-        image = cv2.imread('redVelbet.png')
+        # image = cv2.imread('redVelbet.png')
+        image = cv2.imread('001.jpg')
         gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     
         # Detect faces in the image
@@ -46,3 +47,7 @@ def faceDetect():
 
 faceDetect()
 # 출처: http://kinocoder.tistory.com/34 [키노코더 이야기]
+# https://www.popit.kr/openface-exo-member-face-recognition/
+# http://jayharvey.tistory.com/10
+# https://www.popit.kr/torch%EC%99%80-opencv%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%8D%B0%EB%AA%A8/
+# https://github.com/jaeho-kang/deep-learning/tree/master/library/openface
