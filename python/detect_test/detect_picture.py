@@ -16,16 +16,16 @@ def faceDetect():
     iteration_count = 100
     for cnt in range(0, iteration_count):
         # Read the image
-        # image = cv2.imread('redVelbet.png')
-        image = cv2.imread('001.jpg')
+        image = cv2.imread('redVelbet.png')
+        # image = cv2.imread('010.jpg')
         gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     
         # Detect faces in the image
         faces = faceCascade.detectMultiScale(
             gray,
             scaleFactor=1.1,     # 이미지에서 얼굴 크기가 서로 다른 것을 보상해주는 값
-            minNeighbors=5,    # 얼굴 사이의 최소 간격(픽셀)입니다
-            minSize=(20, 20),   # 얼굴의 최소 크기입니다
+            minNeighbors=2,    # 얼굴 사이의 최소 간격(픽셀)입니다
+            minSize=(3, 3),   # 얼굴의 최소 크기입니다
         )
 
         # 검출된 얼굴 주변에 사각형 그리기
