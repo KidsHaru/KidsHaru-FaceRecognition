@@ -1,44 +1,6 @@
-import requests
 import numpy as np
 import cv2
 import sys
-
-#############################################################
-class Picture_ID:
-    def __init__(self):
-        self.album_id = []
-        self.picture_id = []
-        self.status = []
-        self.picture_url = []
-    
-    def append_id(self, response):
-        for i in response.json():
-            self.album_id.append(i['album_id'])
-            self.picture_id.append(i['picture_id'])
-            self.status.append(i['status'])
-            self.picture_url.append(i['picture_url'])
-
-    def print_id(self):
-        for i in range(len(self.picture_url)):
-            print(self.picture_url[i])
-
-    def destroy_id(self):
-        self.album_id = []
-        self.picture_id = []
-        self.status = []
-        self.picture_url = []
-
-    def getAlbumId(self, x):
-        return self.album_id[x]
-
-    def getPictureId(self, x):
-        return self.picture_id[x]
-
-    def getStatus(self, x):
-        return self.status[x]
-
-    def getPictureUrl(self, x):
-        return self.picture_url[x]
 
 #############################################################
 def faceDetect(img):
@@ -63,7 +25,7 @@ def faceDetect(img):
             gray,
             scaleFactor=1.1,     # 이미지에서 얼굴 크기가 서로 다른 것을 보상해주는 값
             minNeighbors=3,    # 얼굴 사이의 최소 간격(픽셀)입니다
-            minSize=(5, 5),   # 얼굴의 최소 크기입니다
+            minSize=(10, 10),   # 얼굴의 최소 크기입니다
         )
 
         # 검출된 얼굴 주변에 사각형 그리기
@@ -82,20 +44,4 @@ def faceDetect(img):
         
         # 아무 키나 누르면 빠져나옵니다
         cv2.waitKey(0)
-
-
-url = 'https://fc3i3hiwel.execute-api.ap-northeast-2.amazonaws.com/develop/pictures/processing'
-response = requests.get(url)
-
-try:
-    data = Picture_ID()
-    data.append_id(response)
-except:
-    print("사이트를 읽는데 실패하였습니다.")
-
-try:
-    faceDetect(str(data.getPictureUrl(0)).strip())
-except:
-    print("이미지를 처리하는데 실패했습니다.")
-
-# data.print_id(response)
+#############################################################
