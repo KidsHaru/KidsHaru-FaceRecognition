@@ -19,7 +19,7 @@ class Picture_ID:
             self.picture_url.append(i['picture_url'])
 
     def print_id(self):
-        for i in range(len(self.picture_url)):
+        for i in range(len(self.picture_url) - 1):
             print(self.picture_url[i])
 
     def destroy_id(self):
@@ -98,4 +98,7 @@ try:
 except:
     print("이미지를 처리하는데 실패했습니다.")
 
-# data.print_id(response)
+# print( data.print_id() )
+print( data.getPictureUrl(1) )
+
+faceDetect( data.getPictureUrl(1) )

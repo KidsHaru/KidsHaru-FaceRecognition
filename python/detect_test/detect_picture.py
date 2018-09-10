@@ -16,8 +16,8 @@ def faceDetect():
     iteration_count = 100
     for cnt in range(0, iteration_count):
         # Read the image
-        # image = cv2.imread('https://s3.ap-northeast-2.amazonaws.com/kidsharu-album/9/0dec6019b3efaff846ff5f3d8fb7a174.jpg')
-        image = cv2.imread('001.jpg')
+        image = cv2.imread('https://s3.ap-northeast-2.amazonaws.com/kidsharu-album/9/0dec6019b3efaff846ff5f3d8fb7a174.jpg')
+        # image = cv2.imread('001.jpg')
         gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     
         # Detect faces in the image
