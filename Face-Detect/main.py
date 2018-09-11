@@ -18,14 +18,19 @@ except:
 
 # picture download
 try:
-    for i in range(1):
+    for i in range(data.getLen()):
         album_id = str(data.getAlbumId(i)).strip()
         picture_id = str(data.getAlbumId(i)).strip()
         file_name = str(data.getFileName(i)).strip()
         status = data.getStatus(i)
         picture_url = str(data.getPictureUrl(i)).strip()
-        
-        picture_download.getDownload(album_id, picture_id, file_name, status, picture_url)
+
+        # print(album_id, picture_id, file_name, status, picture_url)
+        download = picture_download.getDownload(album_id, picture_id, file_name, status, picture_url)
 except:
     print("사진을 다운로드하는데 실패하였습니다.")
+
+data.setStatus(100, "complete")
+data.print_id(0, data.getLen())
+
 # ata.print_id(0, 1)

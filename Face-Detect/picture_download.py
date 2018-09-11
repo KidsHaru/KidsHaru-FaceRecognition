@@ -2,22 +2,31 @@ import urllib.request
 import os
 
 def getDownload(album_id, picture_id, file_name, status, picture_url):
-    # mkdir
-    dirname = "img"
-    if not os.path.isdir("./" + dirname + "/"):
-    os.mkdir("./" + dirname + "/")
+    dirname = "img_before"                         # 체크하고자 하는 디렉토리명
+    if not os.path.isdir("./" + dirname + "/"):    # 디렉토리 유무 확인
+        os.mkdir("./" + dirname + "/")             # 없으면 생성하라
 
-    if not os.path.isdir("./" + album_id + "/"):
-    os.mkdir("./" + album_id + "/")
+    dirname += "/" + album_id
+    if not os.path.isdir("./" + dirname + "/"):    # 디렉토리 유무 확인
+        os.mkdir("./" + dirname + "/")             # 없으면 생성하라
 
-    if not os.path.isdir("./" + picture_id + "/"):
-    os.mkdir("./" + picture_id + "/")
+    dirname += "/" + picture_id
+    if not os.path.isdir("./" + dirname + "/"):    # 디렉토리 유무 확인
+        os.mkdir("./" + dirname + "/")             # 없으면 생성하라
 
+    dirname += "/" + file_name
+    print(dirname)
+
+    if os.path.isfile("./" + dirname):
+        print("파일이 이미 있습니다")
+        return -1
+
+    urllib.request.urlretrieve(picture_url, dirname)
     try:
-        print(img + "  ", src)
-        urllib.request.urlretrieve(img, src + file_name)
-        print(img + " 다운로드 완료!")
-        return true
+        urllib.request.urlretrieve(picture_url, dirname)
+        # print("다운로드 완료!")
+        return 1
     except:
-        return false
+        print("다운로드 오류!")
+        return -2
     
