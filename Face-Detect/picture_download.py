@@ -15,10 +15,10 @@ def getDownload(album_id, picture_id, file_name, status, picture_url):
         os.mkdir("./" + dirname + "/")             # 없으면 생성하라
 
     dirname += "/" + file_name
-    print(dirname)
+    # print(dirname)
 
     if os.path.isfile("./" + dirname):
-        print("파일이 이미 있습니다")
+        # print("파일이 이미 있습니다")
         return -1
 
     urllib.request.urlretrieve(picture_url, dirname)
@@ -27,6 +27,6 @@ def getDownload(album_id, picture_id, file_name, status, picture_url):
         # print("다운로드 완료!")
         return 1
     except:
-        print("다운로드 오류!")
+        # print("다운로드 오류!")
         return -2
     
