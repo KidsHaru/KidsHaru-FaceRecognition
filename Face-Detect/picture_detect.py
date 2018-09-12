@@ -1,6 +1,8 @@
 import numpy as np
 import cv2
 import sys
+import requests
+import json
 import urllib.request
 import os
 
@@ -55,11 +57,21 @@ def faceDetect(album_id, picture_id, file_name, status, picture_url):
         # 검출된 얼굴 주변에 사각형 그리기
         for (x, y, w, h) in faces:
             cv2.rectangle(image, (x, y), (x+w, y+h), (0, 255, 0), 2)
-            print(x, y, w, h)
-        
+            # print(x, y, w, h)
+
+            json_data = {"child_id": 1, "rect_x": x, "rect_y": y, "rect_width": w, "rect_height": y}
+            # json_string = json.dumps(json_data)
+
+            # url = "https://fc3i3hiwel.execute-api.ap-northeast-2.amazonaws.com/develop/albums/" + album_id + "/pictures/" + picture_id + "/children"
+            # print(web)
+
+            # res = requests.post(url, data=json_data)
+            # print(json_data)
+            print('')
+            
+
         # 얼굴을 검출한 이미지를 화면에 띄웁니다
         # cv2.imshow("Face Detected", image)
-    
     # cv2.imwrite(picture_url, dirname)
     print('처리 성공!')
     return 1

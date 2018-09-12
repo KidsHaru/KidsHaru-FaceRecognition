@@ -31,6 +31,15 @@ try:
 except:
     print("사진을 저장하는데 실패하였습니다.")
 
+for i in range(1):
+        album_id = str(data.getAlbumId(i)).strip()
+        picture_id = str(data.getAlbumId(i)).strip()
+        file_name = str(data.getFileName(i)).strip()
+        status = data.getStatus(i)
+        picture_url = str(data.getPictureUrl(i)).strip()
+
+        # print(album_id, picture_id, file_name, status, picture_url)
+        checking = picture_detect.faceDetect(album_id, picture_id, file_name, status, picture_url)
 try:
     for i in range(1):
         album_id = str(data.getAlbumId(i)).strip()
