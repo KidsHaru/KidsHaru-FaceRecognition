@@ -1,7 +1,9 @@
 import requests
+import json
 import picture_class
 import picture_download
 import picture_detect
+import picture_search
 
 # url get
 try:
@@ -19,9 +21,9 @@ except:
 
 # picture download
 try:
-    for i in range(data.getLen()):
+    for i in range(0, data.getLen()):
         album_id = str(data.getAlbumId(i)).strip()
-        picture_id = str(data.getAlbumId(i)).strip()
+        picture_id = str(data.getPictureId(i)).strip()
         file_name = str(data.getFileName(i)).strip()
         status = data.getStatus(i)
         picture_url = str(data.getPictureUrl(i)).strip()
@@ -31,26 +33,39 @@ try:
 except:
     print("사진을 저장하는데 실패하였습니다.")
 
-for i in range(1):
-        album_id = str(data.getAlbumId(i)).strip()
-        picture_id = str(data.getAlbumId(i)).strip()
-        file_name = str(data.getFileName(i)).strip()
-        status = data.getStatus(i)
-        picture_url = str(data.getPictureUrl(i)).strip()
+data.print_id(3, 8)
 
-        # print(album_id, picture_id, file_name, status, picture_url)
-        checking = picture_detect.faceDetect(album_id, picture_id, file_name, status, picture_url)
+# picture download
 try:
-    for i in range(1):
+    for i in range(0, data.getLen()):
+        print(i)
         album_id = str(data.getAlbumId(i)).strip()
-        picture_id = str(data.getAlbumId(i)).strip()
+        picture_id = str(data.getPictureId(i)).strip()
         file_name = str(data.getFileName(i)).strip()
         status = data.getStatus(i)
         picture_url = str(data.getPictureUrl(i)).strip()
 
-        # print(album_id, picture_id, file_name, status, picture_url)
-        checking = picture_detect.faceDetect(album_id, picture_id, file_name, status, picture_url)
+        print(album_id, picture_id, file_name, status, picture_url)
+        img_before, img_after = picture_search.faceSearch(album_id, picture_id, file_name, status, picture_url)
+        if(img_before != -1 and img_after != -1):
+             checking = picture_detect.faceDetect(album_id, picture_id, file_name, status, picture_url, img_before, img_after)
+
+        checking = 1
+        if(checking == 1):
+            put_url = "https://fc3i3hiwel.execute-api.ap-northeast-2.amazonaws.com/develop/albums/" + str(album_id) + "/pictures/" + str(picture_id)
+        
+        json_data = {
+             "status" : 'processing'
+        }
+            
+        json_string = json.dumps(json_data).encode("utf-8")
+        response = requests.put(put_url, data=json_string)
+
+        json_data = {
+           "status" : "checking"
+        } 
+        json_string = json.dumps(json_data).encode("utf-8")
+        response = requests.put(put_url, data=json_string) 
+
 except:
     print("사진을 처리하는데 실패하였습니다.")
-
-# ata.print_id(0, 1)

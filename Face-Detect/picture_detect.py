@@ -6,33 +6,9 @@ import json
 import urllib.request
 import os
 
-def faceDetect(album_id, picture_id, file_name, status, picture_url):
+def faceDetect(album_id, picture_id, file_name, status, picture_url, img_before, img_after):
     global x, y, w, h
 
-    checking = "img_before"
-    dirname = "img_after"                         # 체크하고자 하는 디렉토리명
-    if not os.path.isdir("./" + dirname + "/"):    # 디렉토리 유무 확인
-        os.mkdir("./" + dirname + "/")             # 없으면 생성하라
-
-    dirname += "/" + album_id
-    checking += "/" + album_id
-    if not os.path.isdir("./" + dirname + "/"):    # 디렉토리 유무 확인
-        os.mkdir("./" + dirname + "/")             # 없으면 생성하라
-
-    dirname += "/" + picture_id
-    checking += "/" + picture_id
-    if not os.path.isdir("./" + dirname + "/"):    # 디렉토리 유무 확인
-        os.mkdir("./" + dirname + "/")             # 없으면 생성하라
-
-    dirname += "/" + file_name
-    checking += "/" + file_name
-    print(dirname)
-
-    if os.path.isfile("./" + dirname):
-        print("파일이 이미 있습니다")
-        return -1
-
-    ###################################################
     font = cv2.FONT_HERSHEY_SIMPLEX
     cascPath = "haarcascade_frontface.xml"
 
@@ -43,36 +19,47 @@ def faceDetect(album_id, picture_id, file_name, status, picture_url):
     iteration_count = 1
     for cnt in range(0, iteration_count):
         # Read the image
-        image = cv2.imread("./" + checking)
+        image = cv2.imread("./" + img_before)
         gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     
         # Detect faces in the image
         faces = faceCascade.detectMultiScale(
             gray,
             scaleFactor=1.1,     # 이미지에서 얼굴 크기가 서로 다른 것을 보상해주는 값
-            minNeighbors=3,    # 얼굴 사이의 최소 간격(픽셀)입니다
-            minSize=(10, 10),   # 얼굴의 최소 크기입니다
+            minNeighbors=5,    # 얼굴 사이의 최소 간격(픽셀)입니다
+            minSize=(15, 15),   # 얼굴의 최소 크기입니다
         )
 
+        post_url = "https://fc3i3hiwel.execute-api.ap-northeast-2.amazonaws.com/develop/albums/" + str(album_id) + "/pictures/" + str(picture_id) + "/children"
+        print(post_url)
+
+        num = 1
         # 검출된 얼굴 주변에 사각형 그리기
         for (x, y, w, h) in faces:
             cv2.rectangle(image, (x, y), (x+w, y+h), (0, 255, 0), 2)
-            # print(x, y, w, h)
-
-            json_data = {"child_id": 1, "rect_x": x, "rect_y": y, "rect_width": w, "rect_height": y}
-            # json_string = json.dumps(json_data)
-
-            # url = "https://fc3i3hiwel.execute-api.ap-northeast-2.amazonaws.com/develop/albums/" + album_id + "/pictures/" + picture_id + "/children"
-            # print(web)
-
-            # res = requests.post(url, data=json_data)
-            # print(json_data)
-            print('')
+            print(x, y, w, h)
             
+            delete_url = post_url + "/" + str(num)
+            # print(delete_url)
+            json_data = {
+                "album_id" : int(album_id),
+                "picture_id" : int(picture_id),
+                "child_id": int(num), 
+                "rect_x": int(x), 
+                "rect_y": int(y), 
+                "rect_width": int(w), 
+                "rect_height": int(y)
+                }
+            
+            json_string = json.dumps(json_data).encode("utf-8")
+ 
+            response = requests.delete(delete_url)
+            response = requests.post(post_url, data=json_string)
+            num += 1
 
-        # 얼굴을 검출한 이미지를 화면에 띄웁니다
-        # cv2.imshow("Face Detected", image)
-    # cv2.imwrite(picture_url, dirname)
+        cv2.imwrite("./" + img_after, image)
+        print('저장 완료!')
+        
     print('처리 성공!')
     return 1
     
