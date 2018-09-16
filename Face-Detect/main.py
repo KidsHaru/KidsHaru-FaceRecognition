@@ -18,37 +18,33 @@ try:
     data.append_data(response)
 except:
     print("사이트를 읽는데 실패하였습니다")
-
+    
 # picture download
 try:
     for i in range(0, data.getLen()):
         album_id = str(data.getAlbumId(i)).strip()
         picture_id = str(data.getPictureId(i)).strip()
-        file_name = str(data.getFileName(i)).strip()
         status = data.getStatus(i)
         picture_url = str(data.getPictureUrl(i)).strip()
 
-        # print(album_id, picture_id, file_name, status, picture_url)
-        download = picture_download.getDownload(album_id, picture_id, file_name, status, picture_url)
+        # print(album_id, picture_id, status, picture_url)
+        download = picture_download.getDownload(album_id, picture_id, status, picture_url)
 except:
     print("사진을 저장하는데 실패하였습니다.")
 
-data.print_id(3, 8)
-
-# picture download
+# picture detecting
 try:
     for i in range(0, data.getLen()):
         print(i)
         album_id = str(data.getAlbumId(i)).strip()
         picture_id = str(data.getPictureId(i)).strip()
-        file_name = str(data.getFileName(i)).strip()
         status = data.getStatus(i)
         picture_url = str(data.getPictureUrl(i)).strip()
 
-        print(album_id, picture_id, file_name, status, picture_url)
-        img_before, img_after = picture_search.faceSearch(album_id, picture_id, file_name, status, picture_url)
+        print(album_id, picture_id, status, picture_url)
+        img_before, img_after = picture_search.faceSearch(album_id, picture_id, status, picture_url)
         if(img_before != -1 and img_after != -1):
-             checking = picture_detect.faceDetect(album_id, picture_id, file_name, status, picture_url, img_before, img_after)
+             checking = picture_detect.faceDetect(album_id, picture_id, status, picture_url, img_before, img_after)
 
         checking = 1
         if(checking == 1):

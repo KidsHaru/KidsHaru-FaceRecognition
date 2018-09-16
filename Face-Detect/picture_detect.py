@@ -6,7 +6,7 @@ import json
 import urllib.request
 import os
 
-def faceDetect(album_id, picture_id, file_name, status, picture_url, img_before, img_after):
+def faceDetect(album_id, picture_id, status, picture_url, img_before, img_after):
     global x, y, w, h
 
     font = cv2.FONT_HERSHEY_SIMPLEX
@@ -26,8 +26,8 @@ def faceDetect(album_id, picture_id, file_name, status, picture_url, img_before,
         faces = faceCascade.detectMultiScale(
             gray,
             scaleFactor=1.1,     # 이미지에서 얼굴 크기가 서로 다른 것을 보상해주는 값
-            minNeighbors=5,    # 얼굴 사이의 최소 간격(픽셀)입니다
-            minSize=(15, 15),   # 얼굴의 최소 크기입니다
+            minNeighbors=10,    # 얼굴 사이의 최소 간격(픽셀)입니다
+            minSize=(20, 20),   # 얼굴의 최소 크기입니다
         )
 
         post_url = "https://fc3i3hiwel.execute-api.ap-northeast-2.amazonaws.com/develop/albums/" + str(album_id) + "/pictures/" + str(picture_id) + "/children"
@@ -48,7 +48,7 @@ def faceDetect(album_id, picture_id, file_name, status, picture_url, img_before,
                 "rect_x": int(x), 
                 "rect_y": int(y), 
                 "rect_width": int(w), 
-                "rect_height": int(y)
+                "rect_height": int(h)
                 }
             
             json_string = json.dumps(json_data).encode("utf-8")

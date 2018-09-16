@@ -3,7 +3,6 @@ class picture_data:
     def __init__(self):
         self.album_id = []      # album_id
         self.picture_id = []    # picture_id
-        self.file_name = []     # file_name (.jpg)
         self.status = []        # status (processing)
         self.picture_url = []   # picture_url (http:// ... .jpg)
         print("생성되었습니다")
@@ -17,7 +16,6 @@ class picture_data:
         for i in response.json():
             self.album_id.append(i['album_id'])
             self.picture_id.append(i['picture_id'])
-            self.file_name.append(i['file_name'])
             self.status.append(i['status'])
             self.picture_url.append(i['picture_url'])
 
@@ -27,9 +25,6 @@ class picture_data:
 
     def setPictureId(self, x, data):
         self.picture_id[x] = data
-
-    def setFileName(self, x, data):
-        self.file_name[x] = data
 
     def setStatus(self, x, data):
         self.status[x] = data
@@ -43,9 +38,6 @@ class picture_data:
 
     def getPictureId(self, x):
         return self.picture_id[x]
-
-    def getFileName(self, x):
-        return self.file_name[x]
 
     def getStatus(self, x):
         return self.status[x]
@@ -61,6 +53,5 @@ class picture_data:
         for i in range(start, end):
             print(self.album_id[i])
             print(self.picture_id[i])
-            print(self.file_name[i])
             print(self.status[i])
             print(self.picture_url[i])
