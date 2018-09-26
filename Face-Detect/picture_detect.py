@@ -25,9 +25,9 @@ def faceDetect(album_id, picture_id, status, picture_url, img_before, img_after)
         # Detect faces in the image
         faces = faceCascade.detectMultiScale(
             gray,
-            scaleFactor=1.1,     # 이미지에서 얼굴 크기가 서로 다른 것을 보상해주는 값
-            minNeighbors=10,    # 얼굴 사이의 최소 간격(픽셀)입니다
-            minSize=(20, 20),   # 얼굴의 최소 크기입니다
+            scaleFactor=1.3,     # 이미지에서 얼굴 크기가 서로 다른 것을 보상해주는 값
+            minNeighbors=5,    # 얼굴 사이의 최소 간격(픽셀)입니다
+            minSize=(10, 10),   # 얼굴의 최소 크기입니다
         )
 
         post_url = "https://fc3i3hiwel.execute-api.ap-northeast-2.amazonaws.com/develop/albums/" + str(album_id) + "/pictures/" + str(picture_id) + "/children"
