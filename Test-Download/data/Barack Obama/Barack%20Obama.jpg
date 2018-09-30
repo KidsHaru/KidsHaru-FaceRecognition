@@ -1,134 +1,0 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-	<!--
-		Supersized - Fullscreen Slideshow jQuery Plugin
-		Version 3.1.4b
-		www.buildinternet.com/project/supersized
-		
-		By Sam Dunn / One Mighty Roar (www.onemightyroar.com)
-		Released under MIT License / GPL License
-	-->
-
-	<head>
-				<title>Digital Focus</title>
-		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-		
-		<link rel="stylesheet" href="http://digitalfocus.net/css/supersized.css" type="text/css" media="screen" />
-		<link rel="stylesheet" href="http://digitalfocus.net/css/mobile.css" type="text/css" media="only screen and (max-device-width: 6in), handheld" />
-		
-		
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
-		<script type="text/javascript" src="http://digitalfocus.net/js/jquery.easing.js"></script>
-		<script type="text/javascript" src="http://digitalfocus.net/js/supersized.3.1.4b.js"></script>		
-
-		
-		<script type="text/javascript">
-			
-			jQuery(function($){
-				$.supersized({
-				
-					//Functionality
-					slideshow               :   1,		// Slideshow on/off
-					autoplay				:	0,		// Slideshow starts playing automatically
-					start_slide             :   1,		// Start slide (0 is random)
-					random					: 	0,		// Randomize slide order (Ignores start slide)
-					slide_interval          :   5000,	// Length between transitions
-					transition              :   1, 		// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
-					transition_speed		:	300,	// Speed of transition
-					new_window				:	1,		// Image links open in new window/tab
-					pause_hover             :   0,		// Pause slideshow on hover
-					keyboard_nav            :   1,		// Keyboard navigation on/off
-					performance				:	1,		// 0-Normal, 1-Hybrid speed/quality, 2-Optimizes image quality, 3-Optimizes transition speed // (Only works for Firefox/IE, not Webkit)
-					image_protect			:	1,		// Disables image dragging and right click with Javascript
-					image_path				:	'img/', // Default image path
-														   
-					//Size & Position					   
-					min_width		        :   0,		// Min width allowed (in pixels)
-					min_height		        :   0,		// Min height allowed (in pixels)
-					vertical_center         :   1,		// Vertically center background
-					horizontal_center       :   1,		// Horizontally center background
-											fit_portrait         	:   1,		// Portrait images will not exceed browser height
-						fit_landscape			:   0,		// Landscape images will not exceed browser width
-																   
-					//Components
-					slide_links				:	0,		// Individual links for each slide
-					thumb_links				:	0,		// Individual thumb links for each slide							   
-					progress_bar			:	0,		// Timer for each slide
-					navigation              :   1,		// Slideshow controls on/off
-					thumbnail_navigation    :   0,		// Thumbnail navigation
-					slide_counter           :   1,		// Display slide numbers
-					slide_captions          :   1,		// Slide caption (Pull from "title" in slides array)
-					slides 					:  	[		// Slideshow Images
-																																										
-																										]
-												
-				});
-		    });
-		    
-		</script>
-		
-	</head>
-	<body>
-
-				<!--Logo-->
-		<a id="logo" href="http://digitalfocus.net"><img src="http://digitalfocus.net/img/peter-logo.png"/></a>
-
-		<!--Menu-->
-		<ul id="main-nav">
-			<li class="inactive">
-<a href="http://digitalfocus.net/Abstracts">Abstracts</a>
-<li class="inactive">
-<a href="http://digitalfocus.net/Architecture">Architecture</a>
-<li class="inactive">
-<a href="http://digitalfocus.net/Cityscapes">Cityscapes</a>
-<li class="inactive">
-<a href="http://digitalfocus.net/Desert_+_Ruins">Desert + Ruins</a>
-<li class="inactive">
-<a href="http://digitalfocus.net/Infrared">Infrared</a>
-<li class="inactive">
-<a href="http://digitalfocus.net/Panoramas">Panoramas</a>
-<li class="inactive">
-<a href="http://digitalfocus.net/People">People</a>
-<li class="inactive">
-<a href="http://digitalfocus.net/Travel_-_Cuba">Travel - Cuba</a>
-<li class="inactive">
-<a href="http://digitalfocus.net/slides">slides</a>
-<ul>
-<li class="active">
-<a href="http://digitalfocus.net/slides/Barack%20Obama.jpg">Barack%20Obama.jpg</a>
-</ul>
-			<li>&nbsp;</li>
-			<li class="inactive"><a href="http://digitalfocus.net/about">About</a></li>
-			<li class="inactive"><a href="http://digitalfocus.net/contact">Contact</a></li>
-			<li class="inactive"><a href="http://digitalfocus.net/prints">Prints</a></li>
-			<li><a href="http://www.alamy.com/stock-photography/120C9673-885A-4455-BBC5-203D95CB1A8B/Peter+Sills.html" target="_blank">Stock</a></li>
-			<li><br/></li>
-			<li><a class="wordpress" href="http://petersills.wordpress.com/" target="_blank">Blog</a></li>
-			<li><a class="facebook" href="https://www.facebook.com/pages/Digital-Focus/117449218280466?ref=ts" target="_blank">Facebook</a></li>
-		</ul>
-
-		<div id="details-bar" class="nav-item">
-			
-			<span id="slidecounter">
-				<span class="slidenumber"></span> / <span class="totalslides"></span>
-			</span>
-			<span id="slidecaption"></span> 
-		</div>
-		
-		<!--Arrow Navigation-->
-		<a id="prevslide" class="nav-item"></a>
-		<a id="nextslide" class="nav-item"></a>
-
-		<!--<div id="thumb-arrow"></div>
-
-		<div id="thumb-wrapper">
-			<div id="thumb-tray">
-				<div id="thumb-back"></div>
-				<div id="thumb-forward"></div>
-			</div>
-		</div>-->
-
-	</body>
-</html>
