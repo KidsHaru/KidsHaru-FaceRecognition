@@ -1,0 +1,1401 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Videogum - Stereogum</title>
+<link rel="icon" href="https://assets.stereogum.com/favicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.stereogum.com/feed">
+<link rel="stylesheet" href="https://www.stereogum.com/wp-content/themes/stereogum/assets/css/style.css?752d2619c5e6df554e2f0080eeb68baae3a67581" type="text/css" media="screen" />
+
+<script type="text/javascript">
+	
+			clarityPageData = {"site_code":"stereogum","zone":"feed_page"};
+	
+    (function(){
+    window.CLARITY = window.CLARITY || [];
+    var ns = document.createElement('script'), s = document.getElementsByTagName('script')[0];
+    ns.async = true; ns.type = 'text/javascript'; ns.src = '//lib.pgmcdn.com/clarity-1536861412649.min.js'; s.parentNode.insertBefore(ns, s);
+})();
+</script> <script type="text/javascript">
+    (function(){
+        window.moatYieldReady = function() {
+            window.moatPrebidApi.setMoatTargetingForAllSlots();
+        };
+
+        var ns = document.createElement('script'), s = document.getElementsByTagName('script')[0];
+        ns.async = true; ns.type = 'text/javascript'; ns.src = '//sejs.moatads.com/billboardprebidheader946633233358/yi.js'; s.parentNode.insertBefore(ns, s);
+    })();
+</script>
+<script>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    apstag.init({
+        pubID: 3125,
+        adServer: 'googletag',
+        videoAdServer: 'DFP',
+        bidTimeout: 600
+    });
+
+    // Tell Clarity not to load a9
+    CLARITY.push({
+        use: ['header'],
+        run: function(header) {
+            header.skipJsInject('a9');
+        }
+    });
+</script>
+<script>
+            var OX_dfp_ads = [
+                            ['/6419/stereogum/feed_page/leaderboard_bottom_lazy', ['728x90','970x250','970x90'], 'leaderboard_bottom_lazy_1', {"pos":[""], "pagetype": [""]}],
+                            ['/6419/stereogum/feed_page/leaderboard_top', ['728x90','970x250','970x90'], 'leaderboard_top_1', {"pos":[""], "pagetype": [""]}],
+                            ['/6419/stereogum/feed_page/medrec_bottom_lazy', ['300x250','300x600'], 'medrec_bottom_lazy_1', {"pos":[""], "pagetype": [""]}],
+                            ['/6419/stereogum/feed_page/medrec_top', ['300x250','300x600'], 'medrec_top_1', {"pos":[""], "pagetype": [""]}],
+                        ];
+        </script><script>
+            // add oxDone, this is added again in Clarity but if OX managed to come back between now and header.run we would miss it
+            window.oxDone = function() { 
+                CLARITY.push({
+                    use: ['header', 'logger'],
+                    run: function(header, logger) {
+                        try {
+                            logger.log("Setting OX targeting from template Clarity push", "header");
+                            header.partners.openx.setTargeting();
+                        } catch (e) {
+                            logger.log("header.oxSetTargeting failed with error : " + e,"error");
+                        }
+                    }
+                });
+            };
+            // Inject OpenX script tag
+            (function() {
+                    var s = document.createElement('script');
+                        s.type = 'text/javascript';
+                        s.async = true;
+                        s.src = (document.location.protocol === 'https:' ? 'https:' : 'http:') + '//spinmedia-d.openx.net/w/1.0/jstag?nc=6419-stereogum';
+                    var node = document.getElementsByTagName('script')[0];
+                        node.parentNode.appendChild(s);
+                })();
+            // Tell Clarity not to load OpenX
+            CLARITY.push({
+                use: ['header'],
+                run: function(header) {
+                    header.skipJsInject('openx');
+                }
+            });
+        </script>
+<script>
+            var rubicontag = rubicontag || {};
+                rubicontag.cmd = rubicontag.cmd || [];
+
+            // Load rubicon
+            (function() {
+                var account_id = 11872;
+                var rct = document.createElement('script');
+                    rct.type = 'text/javascript';
+                    rct.async = true;
+                    rct.src = (document.location.protocol === 'https:' ? 'https:' : 'http:') + '//ads.rubiconproject.com/header/' + account_id + '.js';
+                var node = document.getElementsByTagName('script')[0];
+                    node.parentNode.appendChild(rct);
+            })();
+
+            // Tell Clarity not to load Rubicon
+            CLARITY.push({
+                use: ['header'],
+                run: function(header) {
+                    header.skipJsInject('rubicon');
+                }
+            });
+        </script>
+<script>
+                CLARITY.push({
+                    use: ['header'],
+                    run: function(header) {
+                                                    var slotData = [
+                                                                    ["leaderboard_bottom_lazy_1", "/6419/stereogum/feed_page/leaderboard_bottom_lazy", [[728,90],[970,250],[970,90]], "leaderboard_bottom_lazy", false, 0],,                                                                    ["leaderboard_top_1", "/6419/stereogum/feed_page/leaderboard_top", [[728,90],[970,250],[970,90]], "leaderboard_top", false, 0],,                                                                    ["medrec_bottom_lazy_1", "/6419/stereogum/feed_page/medrec_bottom_lazy", [[300,250],[300,600]], "medrec_bottom_lazy", false, 0],,                                                                    ["medrec_top_1", "/6419/stereogum/feed_page/medrec_top", [[300,250],[300,600]], "medrec_top", false, 0],                                                            ];
+
+                            // Add header slots then run,
+                            // any slots added after initial run will be processed differently
+                            for(var i=0; i<slotData.length; i++) {
+                                header.addHeaderSlot.apply(header, slotData[i]);
+                            }
+                        
+                        header.run({"a9":{"account_id":3125,"positions":["leaderboard_top","leaderboard_bottom_lazy","medrec_top","medrec_bottom_lazy"]},"facebook":{"placementIds":{"^leaderboard_(top_)?[0-9]+":"194924564541615_194925301208208","^medrec_(bottom_)?lazy_[0-9]+":"194924564541615_194931317874273","^medrec_top_[0-9]+":"194924564541615_194925464541525"}},"moat":true,"openx":{"network_code":"6419-stereogum","positions":["leaderboard_top","leaderboard_bottom_lazy","medrec_top","medrec_bottom_lazy"]},"rubicon":{"account_id":11872,"positions":["leaderboard_top","leaderboard_bottom_lazy","medrec_top","medrec_bottom_lazy"]}});
+                    }
+                });
+            </script> <script>
+    if("I11C" in window && I11C.Morph == 1){
+        window.CLARITY.push({
+            use: ["instart"], 
+            run: function(instart) { 
+                instart.run({
+                    'unblocked_ads': ["leaderboard_top","medrec_top","medrec_bottom_lazy"]
+                });
+            }
+        });
+        window.CLARITY.push({use: ["ads"],run: function(Ads) { Ads.zone = 'unblocked'; }});
+    }
+</script><script language="javascript" type="text/javascript" tag="login-settings">
+            var show_login = false;        </script>
+
+<meta name="robots" content="noindex,follow" />
+<link rel='next' href='https://www.stereogum.com/category/videogum/page/2/' />
+<link rel="canonical" href="https://www.stereogum.com/category/vg-loc/videogum/" />
+
+<link rel='dns-prefetch' href='//assets.stereogum.com' />
+<link rel='dns-prefetch' href='//ak.sail-horizon.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Stereogum &raquo; Videogum Category Feed" href="https://www.stereogum.com/category/vg-loc/videogum/feed/" />
+<link rel='stylesheet' id='mobile-zoom-css' href='https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/css/vendor/mobile-zoom.css?ver=752d2619c5e6df554e2f0080eeb68baae3a67581' type='text/css' media='all' />
+<link rel='stylesheet' id='pi-gallery-css-css' href='https://assets.stereogum.com/wp-content/plugins/wp-pi-gallery/css/style.css?ver=752d2619c5e6df554e2f0080eeb68baae3a67581' type='text/css' media='all' />
+<link rel='stylesheet' id='pi-login-css' href='https://assets.stereogum.com/wp-content/plugins/wp-pi-login/css/login.css?ver=752d2619c5e6df554e2f0080eeb68baae3a67581' type='text/css' media='all' />
+<link rel='stylesheet' id='pi-player-css-css' href='https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/css/style.css?ver=752d2619c5e6df554e2f0080eeb68baae3a67581' type='text/css' media='all' />
+<link rel='stylesheet' id='icon-styles-css' href='https://www.stereogum.com/wp-content/themes/wp-theme-base/assets/css/icons.css?ver=752d2619c5e6df554e2f0080eeb68baae3a67581' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/underscore.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-widgets/js/ajax-widgets.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pgm_sailthru_vars = {"st_source":"web-stereogum-other"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-newsletter/js/sailthru.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://ak.sail-horizon.com/spm/spm.v1.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/jquery.lazyloadxt.extra.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/lazyloadxt.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/lazyoEmbeds.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_comments_vars = {"ajaxurl":"https:\/\/www.stereogum.com\/ajax"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-comments/js/feed_comment_count.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<link rel='https://api.w.org/' href='https://www.stereogum.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.stereogum.com/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.stereogum.com/wp/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.7.4" />
+<meta property="fb:pages" content="13472576978" /><script>
+    var ajax_url = 'https\x3A\x2F\x2Fwww.stereogum.com\x2Fajax';
+</script><link href='https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,700,700i|Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Asap:400,700,400italic,700italic|Montserrat:400,700' rel='stylesheet' type='text/css'>
+</head>
+<body class="archive category category-videogum category-54702">
+
+<noscript>
+                    <iframe
+                            src="//www.googletagmanager.com/ns.html?id=GTM-TSGWDG"
+                            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+                </noscript>
+<script>
+                    dataLayer = [{"postId":"none","pagetype":"feed-page","author":"none","category":"videogum","publishedDate":"none","parentTag":"none","tags":"none"}];
+                                        (function (w, d, s, l, i) {
+                        w[l] = w[l] || [];
+                        w[l].push({
+                            'gtm.start': new Date().getTime(), event: 'gtm.js'
+                        });
+                        var f = d.getElementsByTagName(s)[0],
+                            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                        j.async = true;
+                        j.src =
+                            '//www.googletagmanager.com/gtm.js?id=' + i + dl + '';
+                        f.parentNode.insertBefore(j, f);
+                    })(window, document, 'script', 'dataLayer', 'GTM-TSGWDG');</script>
+
+<div id="menu" class="navbar navbar-default navbar-fixed-top " role="navigation">
+<div class="container">
+<div class="inner-nav-holder">
+<div class="navbar-header">
+<a href="/" class="navbar-brand" id="logo">
+<img src="https://assets.stereogum.com/wp-content/themes/stereogum/assets/images/logo.svg" width="224" height="20" />
+</a>
+</div>
+<div class="collapse navbar-collapse">
+<ul class="main-nav nav navbar-nav">
+<li class="dropdown dropdown-hover   menu-item-has-children">
+<a href="/features" class="dropdown-toggle">
+Features
+<span class="caret"></span>
+</a>
+<div class="dropdown-menu"> <div class="menu-holder" role="menu">
+<div class="menu-column">
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/10-best-songs/">
+<span>
+10 Best Songs
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/album-of-the-week/">
+<span>
+Album Of The Week
+</span>
+</a>
+ </div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/band-to-watch/">
+<span>
+Band To Watch
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/cover-story/">
+<span>
+Cover Story
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/counting-down/">
+<span>
+Counting Down
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/gotcha-covered/">
+<span>
+Gotcha Covered
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/gummy-awards/">
+<span>
+Gummy Awards
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/interview/">
+<span>
+Interview
+</span>
+</a>
+</div>
+</div>
+<div class="menu-column">
+ <div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/premature-evaluation/">
+<span>
+Premature Evaluation
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/shut-up-dude/">
+<span>
+Shut Up Dude
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/sounding-board/">
+<span>
+Sounding Board
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/status-aint-hood/">
+<span>
+Status Ain't Hood
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/stereogum-sessions/">
+<span>
+Stereogum Sessions
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/straight-to-video/">
+<span>
+Straight To Video
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/the-5-best-songs-of-the-week/">
+<span>
+The 5 Best Songs Of The Week
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/the-anniversary/">
+<span>
+The Anniversary
+</span>
+</a>
+</div>
+</div>
+<div class="menu-column">
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/the-black-market/">
+<span>
+The Black Market
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/the-number-ones/">
+<span>
+The Number Ones
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/the-week-in-pop/">
+<span>
+The Week In Pop
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/tracking-down/">
+<span>
+Tracking Down
+</span>
+</a>
+</div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/ugly-beauty/">
+<span>
+Ugly Beauty
+</span>
+</a>
+ </div>
+<div class="menu-item">
+<a href="https://www.stereogum.com/category/franchises/ultimate-playlist/">
+<span>
+Ultimate Playlist
+</span>
+</a>
+</div>
+<div class="feature-link menu-item">
+<a href="https://www.stereogum.com/category/franchises/">
+<span>
+All Features
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="featured-nav">
+<span class="the-latest">the latest //</span>
+<span class="franchise-title">Status Ain't Hood</span>
+<a href="https://www.stereogum.com/2016153/brockhampton-iridescence-review/franchises/status-aint-hood/">
+<span>
+<img src="https://static.stereogum.com/uploads/2018/09/Brockhampton-1537977456-231x154.jpg" alt="Brockhampton Make The Leap">
+</span>
+</a>
+<div class="feat-title"><a href="https://www.stereogum.com/2016153/brockhampton-iridescence-review/franchises/status-aint-hood/">Brockhampton Make The Leap</a></div>
+</div>
+</div>
+</li>
+<li class="  ">
+<a href="/music">
+New Music
+</a>
+</li>
+<li class="  ">
+<a href="/video">
+Videos
+</a>
+</li>
+<li class="  ">
+<a href="https://www.stereogum.com/category/franchises/list/">
+Lists
+</a>
+</li>
+</ul>
+<div class="social-and-search">
+<ul class="social-links">
+<li>
+<a class="icon-facebook" href="https://www.facebook.com/Stereogum" target="_blank"></a>
+</li>
+<li>
+<a class="icon-twitter" href="https://www.twitter.com/stereogum" target="_blank"></a>
+</li>
+ <li class="more-social-icons">
+<span class="icon-plus"></span>
+<ul class="extra-4">
+<li>
+<a class="icon-instagram" href="https://www.instagram.com/stereogum" target="_blank"></a>
+</li>
+<li>
+<a class="icon-tumblr" href="http://stereogum.tumblr.com" target="_blank"></a>
+</li>
+<li>
+<a class="icon-spotify" href="https://open.spotify.com/user/stereogum" target="_blank"></a>
+</li>
+<li>
+<a class="icon-youtube" href="https://www.youtube.com/stereogum" target="_blank"></a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="search">
+<form role="search" action="/" method="GET" id="header-search">
+<div class="query-holder">
+<input type="text" name="s" placeholder="Search" autocomplete="off">
+</div>
+<span class="search-submit"></span>
+</form>
+</div>
+<div class="user-profile">
+<a href="" title="Your Profile">
+<span class="icon-user"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container ad-container">
+<div class="leaderboard_top-placeholder">
+<div class="leaderboard_top-holder">
+<div class="leaderboard-wrapper">
+<div class="ad_desktop_placeholder">
+<div class="ad_desktop_wrapper">
+<div class="ad_desktop leaderboard" data-position='leaderboard_top' data-sizes='[[728,91],[970,251],[970,91],[728,90],[970,250],[970,90]]' data-lazy-load='0' data-refresh='0' data-refresh-timer='0' data-swap='' data-load-order='1' style="min-width: 728px; min-height: 90px; box-sizing: content-box;">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="container main-container">
+<div class="row">
+<div class="col-sm-8 left-col">
+<h1>
+Videogum
+</h1>
+<div class="feed feed-split-image">
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741411/heaven-just-got-a-little-more-videogum/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2014/02/videogum-231x154.png" alt="videogum" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741411/heaven-just-got-a-little-more-videogum/vg-loc/videogum/">
+<h2>
+Heaven Just Got A Little More Videogum
+</h2>
+</a>
+<div class="preview">
+Here we are. There was no reason to think that Videogum would be around, the way that it has been for the past&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/kellyc/">Kelly Conaboy</a> <span class="sep">|</span> <span class="date">February 7, 2014 - 5:00 pm</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741411/heaven-just-got-a-little-more-videogum/vg-loc/videogum/#comments" class="comment-count-1741411"></a>
+<a href="https://www.stereogum.com/1741411/heaven-just-got-a-little-more-videogum/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741407/life-is-a-highway-you-guys/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2014/02/jack_lyrics-231x154.jpg" alt="Jack" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741407/life-is-a-highway-you-guys/vg-loc/videogum/">
+<h2>
+Life Is A Highway, You Guys
+</h2>
+</a>
+<div class="preview">
+from: Verne Troyer
+to: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b3d4d2d1d6f3c5dad7d6dcd4c6de9dd0dcde">[email&#160;protected]</a> 
+date: Sun, Dec 14, 2008 at 6:46 AM 
+subject: You are unbeleivable
+You are probably&hellip;
+ </div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/scott-2/">Scott Lapatine</a> <span class="sep">|</span> <span class="date">February 7, 2014 - 3:57 pm</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741407/life-is-a-highway-you-guys/vg-loc/videogum/#comments" class="comment-count-1741407"></a>
+<a href="https://www.stereogum.com/1741407/life-is-a-highway-you-guys/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741425/the-one-where-i-took-the-tmz-tour-of-hollywood-2/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2014/02/tmz_tour-231x154.jpg" alt="tmz_tour" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741425/the-one-where-i-took-the-tmz-tour-of-hollywood-2/vg-loc/videogum/">
+<h2>
+The One Where I Took The TMZ Tour Of Hollywood
+</h2>
+</a>
+<div class="preview">
+<em><strong>[<a href="http://www.videogum.com/490791/the-one-where-i-took-the-tmz-tour-of-hollywood/pranks-and-stunts/" target="_blank">Originally posted</a> on March 15th, 2012.]</strong></em>
+As part of this year's <a href="http://videogum.com/478601/enter-the-videogum-oscar-pool/awards/">Videogum Oscar Pool</a>, Kelly and I made a side bet wherein&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/gabe-2/">Gabe Delahaye</a> <span class="sep">|</span> <span class="date">February 7, 2014 - 3:00 pm</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741425/the-one-where-i-took-the-tmz-tour-of-hollywood-2/vg-loc/videogum/#comments" class="comment-count-1741425"></a>
+<a href="https://www.stereogum.com/1741425/the-one-where-i-took-the-tmz-tour-of-hollywood-2/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741424/benedict-cumberbatch-has-finally-gone-too-far-2/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2012/10/ben_baby-231x154.jpeg" alt="ben_baby" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741424/benedict-cumberbatch-has-finally-gone-too-far-2/vg-loc/videogum/">
+<h2>
+Benedict Cumberbatch Has Finally Gone Too Far
+</h2>
+</a>
+<div class="preview">
+<em><strong>[<a href="http://www.videogum.com/606631/benedict-cumberbatch-has-finally-gone-too-far/behind-the-scenes/" target="_blank">Originally posted</a> on October 31st, 2012.]</strong></em>
+Gabe has <a href="http://videogum.com/555652/operation-benedict-cumberbatch-everywhere/celebrity-gossip/">previously</a> <a href="http://videogum.com/558651/benedict-cumberbatch-was-nice-to-someone/behind-the-scenes/">reported</a> numerous accounts of this <a href="http://videogum.com/551072/beware-of-benedict-cumberbatch-ladies/behind-the-scenes/">dangerous sex monster</a>'s attempts at destroying the hearts&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/kellyc/">Kelly Conaboy</a> <span class="sep">|</span> <span class="date">February 7, 2014 - 2:30 pm</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741424/benedict-cumberbatch-has-finally-gone-too-far-2/vg-loc/videogum/#comments" class="comment-count-1741424"></a>
+<a href="https://www.stereogum.com/1741424/benedict-cumberbatch-has-finally-gone-too-far-2/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741413/the-walking-dead-s02e01-one-child-left-behind-2/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2011/10/BONK-231x154.jpg" alt="BONK" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741413/the-walking-dead-s02e01-one-child-left-behind-2/vg-loc/videogum/">
+<h2>
+<em>The Walking Dead</em> S02E01: One Child Left Behind
+</h2>
+</a>
+<div class="preview">
+<em><strong>[<a href="http://www.videogum.com/393602/the-walking-dead-s02e01-one-child-left-behind/tv/recaps/" target="_blank">Originally posted</a> on October 17th, 2011.]
+</strong></em>
+Oh boy. Yay? It's all our old friends! Look, there's Half Face! And Gut Bucket!
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/gabe-2/">Gabe Delahaye</a> <span class="sep">|</span> <span class="date">February 7, 2014 - 1:30 pm</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741413/the-walking-dead-s02e01-one-child-left-behind-2/vg-loc/videogum/#comments" class="comment-count-1741413"></a>
+<a href="https://www.stereogum.com/1741413/the-walking-dead-s02e01-one-child-left-behind-2/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741415/taking-one-for-the-team-glenn-becks-the-overton-window-2/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2014/02/glennandme-231x154.jpg" alt="glennandme" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741415/taking-one-for-the-team-glenn-becks-the-overton-window-2/vg-loc/videogum/">
+<h2>
+Taking One For The Team: Glenn Beck&#8217;s <em>The Overton Window</em>
+</h2>
+</a>
+<div class="preview">
+<em><strong>[<a href="http://www.videogum.com/196112/taking-one-for-the-team-glenn-becks-the-overton-window/franchises/taking-one-for-the-team" target="_blank">Originally posted</a> on June 28th, 2010.]</strong></em>
+<em><span style="color: #808080;">Ed. note: Joe Mande, stand-up comedian and the creator of the popular blog </span><span style="color: #808080;"><a href="http://www.latfh.com/">Look At</span></a></em>&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/joe_man/">Joe Mande</a> <span class="sep">|</span> <span class="date">February 7, 2014 - 12:45 pm</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741415/taking-one-for-the-team-glenn-becks-the-overton-window-2/vg-loc/videogum/#comments" class="comment-count-1741415"></a>
+<a href="https://www.stereogum.com/1741415/taking-one-for-the-team-glenn-becks-the-overton-window-2/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741417/teen-korner-oh-snap-more-twilight-dawgs-2/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2014/02/twilight_2-225x96.jpg" alt="twilight_2" width="225" height="96">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741417/teen-korner-oh-snap-more-twilight-dawgs-2/vg-loc/videogum/">
+<h2>
+Teen Korner: OH SNAP MORE TWILIGHT, DAWGS!
+</h2>
+</a>
+<div class="preview">
+<strong><em>[<a href="http://www.videogum.com/495901/teen-korner-oh-snap-more-twilight-dawgs/franchises/teen-korner/" target="_blank">Originally posted</a> on March 21st, 2012.]</em></strong>
+Ring ding dong, ring a ding ding ding dong, keep your heads Red Bull!
+What's&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/gabe-2/">Gabe Delahaye</a> <span class="sep">|</span> <span class="date">February 7, 2014 - 12:00 pm</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741417/teen-korner-oh-snap-more-twilight-dawgs-2/vg-loc/videogum/#comments" class="comment-count-1741417"></a>
+<a href="https://www.stereogum.com/1741417/teen-korner-oh-snap-more-twilight-dawgs-2/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741419/a-friendly-chat-with-gabe-and-kelly-helping-martha-stewart-pick-her-match-com-profile-picture/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2014/02/martha1-231x154.jpg" alt="martha1" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741419/a-friendly-chat-with-gabe-and-kelly-helping-martha-stewart-pick-her-match-com-profile-picture/vg-loc/videogum/">
+<h2>
+A Friendly Chat With Gabe And Kelly: Helping Martha Stewart Pick Her Match.Com Profile Picture
+</h2>
+</a>
+<div class="preview">
+<em><strong>[<a href="http://www.videogum.com/710852/a-friendly-chat-with-gabe-and-kelly-helping-martha-stewart-pick-her-match-com-profile-picture-2/franchises/friendly-chat/" target="_blank">Originally posted</a> on May 1st, 2013.]</strong></em>
+<span style="color: #ff0000;">Kelly:</span> Hey, Gabe!
+<span style="color: #ff0000;">Kelly:</span> WAAAZAAAAAAAAP?
+<span style="color: #0000ff;">Gabe:</span> yo kelly, what up tho?
+<span style="color: #ff0000;">Kelly:</span> nm nm&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/staff/">staff</a> <span class="sep">|</span> <span class="date">February 7, 2014 - 11:30 am</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741419/a-friendly-chat-with-gabe-and-kelly-helping-martha-stewart-pick-her-match-com-profile-picture/vg-loc/videogum/#comments" class="comment-count-1741419"></a>
+<a href="https://www.stereogum.com/1741419/a-friendly-chat-with-gabe-and-kelly-helping-martha-stewart-pick-her-match-com-profile-picture/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741422/movies-for-dudes-unstoppable-2/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2014/02/UNSTOPPABLE_MAIN-231x154.jpg" alt="UNSTOPPABLE_MAIN" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741422/movies-for-dudes-unstoppable-2/vg-loc/videogum/">
+<h2>
+Movies For Dudes: <em>Unstoppable</em>
+</h2>
+</a>
+<div class="preview">
+<em><strong>[<a href="http://www.videogum.com/246712/movies-for-dudes-unstoppable/top-stories/" target="_blank">Originally posted</a> on November 15th, 2010.]</strong></em>
+<em><span style="color: #888888;">[<a href="https://twitter.com/gabeliedman">Gabe Liedman</a> is a stand-up comedian. In his new column, he takes on the genre</span></em>&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/gabeliedm/">Gabe Liedman</a> <span class="sep">|</span> <span class="date">February 7, 2014 - 11:00 am</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741422/movies-for-dudes-unstoppable-2/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741414/entourage-s08e08-series-finale-2/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2011/09/entourage_rip-231x154.jpg" alt="entourage_rip" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741414/entourage-s08e08-series-finale-2/vg-loc/videogum/">
+<h2>
+<em>Entourage</em> S08E08: Series Finale
+</h2>
+</a>
+<div class="preview">
+<em><strong>[<a href="http://www.videogum.com/371241/entourage-s08e08-series-finale/tv/recaps/" target="_blank">Originally posted</a> on September 12th, 2011.]</strong></em>
+Well, here we are. Pretty incredible. After ten thousand episodes and 45 years of memories, <em>Entourage</em>&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/gabe-2/">Gabe Delahaye</a> <span class="sep">|</span> <span class="date">February 7, 2014 - 10:30 am</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741414/entourage-s08e08-series-finale-2/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741409/the-tonight-show-with-jay-leno-series-finale-open-thread/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2014/02/jay_finale-231x154.jpg" alt="jay_finale" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741409/the-tonight-show-with-jay-leno-series-finale-open-thread/vg-loc/videogum/">
+<h2>
+<em>The Tonight Show With Jay Leno</em> Series Finale Open Thread
+</h2>
+</a>
+<div class="preview">
+Gosh, who would have ever thought Jay Leno would spend the last half hour of his final episode of <em>The Tonight Show</em> lying&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/kellyc/">Kelly Conaboy</a> <span class="sep">|</span> <span class="date">February 7, 2014 - 9:40 am</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741409/the-tonight-show-with-jay-leno-series-finale-open-thread/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741467/david-blaine-electrified-one-million-questions-always-what-2/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2012/10/electrified1-231x154.jpg" alt="electrified1" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741467/david-blaine-electrified-one-million-questions-always-what-2/vg-loc/videogum/">
+<h2>
+David Blaine: Electrified: One Million Questions Always What?
+</h2>
+</a>
+<div class="preview">
+<strong><em>[<a href="http://www.videogum.com/595592/david-blaine-electrified-one-million-questions-always-what/ad-wizards/" target="_blank">Originally posted</a> on October 8th, 2012.]</em></strong>
+As of right now, Monday, October 8, 2012, 5:30PM EST David Blaine has been standing in&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/kellyc/">Kelly Conaboy</a> <span class="sep">|</span> <span class="date">February 6, 2014 - 5:15 pm</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741467/david-blaine-electrified-one-million-questions-always-what-2/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741427/you-can-make-it-up-kevin-bacon-wears-a-mask-to-the-store-2/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2014/02/kevin_bacon_shopping-231x154.jpg" alt="kevin_bacon_shopping" width="231" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741427/you-can-make-it-up-kevin-bacon-wears-a-mask-to-the-store-2/vg-loc/videogum/">
+<h2>
+You Can Make It Up: Kevin Bacon Wears A Mask To The Store
+</h2>
+</a>
+<div class="preview">
+<em><strong>[<a href="http://www.videogum.com/364952/you-can-make-it-up-kevin-bacon-wears-a-mask-to-the-store/franchises/you-can-make-it-up/" target="_blank">Originally posted</a> on September 1st, 2011.]
+</strong></em>
+Kevin Bacon was so tired of being famous and he wanted to see what it&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/gabe-2/">Gabe Delahaye</a> <span class="sep">|</span> <span class="date">February 6, 2014 - 4:15 pm</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741427/you-can-make-it-up-kevin-bacon-wears-a-mask-to-the-store-2/vg-loc/videogum/#comments" class="comment-count-1741427"></a>
+<a href="https://www.stereogum.com/1741427/you-can-make-it-up-kevin-bacon-wears-a-mask-to-the-store-2/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741429/a-refuge-for-homeless-monsters/vg-loc/videogum/">
+<div class="generic">
+<div class="img-wrap">
+<img itemprop="image" src="https://lib.pgmcdn.com/common/stereogum/DefaultImage.jpg" alt="A Refuge For Homeless Monsters">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741429/a-refuge-for-homeless-monsters/vg-loc/videogum/">
+<h2>
+A Refuge For Homeless Monsters
+</h2>
+</a>
+<div class="preview">
+Our own Ladyrainicorn (human name: Theresa) has set up a blog for those of you looking for a clean corner of this garbage-filled Internet to&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/kellyc/">Kelly Conaboy</a> <span class="sep">|</span> <span class="date">February 6, 2014 - 3:30 pm</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741429/a-refuge-for-homeless-monsters/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="post row">
+<div class="image-holder pull-left">
+<a href="https://www.stereogum.com/1741430/who-should-play-maverick-jr-in-top-gun-2-2/vg-loc/videogum/">
+<div class="mainembed photoembed mainembed-left-col/split align-">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2014/02/top_gun-225x154.jpg" alt="top_gun" width="225" height="154">
+</div>
+</div>
+</a>
+</div>
+<div class="preview-holder pull-left">
+<h2 class="franchise-title-feed">
+<a href="https://www.stereogum.com/category/vg-loc/videogum/">Videogum</a>
+</h2>
+<a href="https://www.stereogum.com/1741430/who-should-play-maverick-jr-in-top-gun-2-2/vg-loc/videogum/">
+<h2>
+Who Should Play Maverick Jr. In <em>Top Gun 2</em>?
+</h2>
+</a>
+<div class="preview">
+<em><strong>[<a href="http://www.videogum.com/393412/who-should-play-maverick-jr-in-top-gun-2/casting-calls/" target="_blank">Originally posted</a> on October 17, 2011.]</strong></em>
+It's 2011, so the time has FINALLY come for a <em>Top Gun</em> sequel. "We're ready now." -&hellip;
+</div>
+<div class="author author-holder">
+<a href="https://www.stereogum.com/author/gabe-2/">Gabe Delahaye</a> <span class="sep">|</span> <span class="date">February 6, 2014 - 2:45 pm</span>
+<div class="comments pull-right">
+<a href="https://www.stereogum.com/1741430/who-should-play-maverick-jr-in-top-gun-2-2/vg-loc/videogum/#comments" class="comments-bubble"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sp-pagination row">
+<div class="col-sm-3 prev inactive">
+<div class="pag-arrow inactive icon-chevron-light-left"></div> Previous
+</div>
+<div class="current col-sm-6">
+<span class="active">1</span>
+<a href="https://www.stereogum.com/category/videogum/page/2">2</a>
+<a href="https://www.stereogum.com/category/videogum/page/3">3</a>
+<a href="https://www.stereogum.com/category/videogum/page/4">4</a>
+<span class="dots">...</span>
+</div>
+<div class="col-sm-3 next ">
+<a href="https://www.stereogum.com/category/videogum/page/2">Next</a>
+<a href="https://www.stereogum.com/category/videogum/page/2" class="pag-arrow icon-chevron-light-right"></a>
+</div>
+</div> </div>
+<div class="col-sm-4 sidebar">
+<div class="sm-widget sm-widget-ad-holder"><div class="sm-widget-ad"> <div class="ad_desktop" data-position='medrec_top' data-sizes='[[300,251],[300,601],[300,250],[300,600]]' data-lazy-load='0' data-refresh='0' data-refresh-timer='0' data-swap='' data-load-order='2' style="min-width: 300px; min-height: 250px; box-sizing: content-box;">
+</div>
+</div></div><div class="sidebar-module ajax-widget" data-widget-id="spinmedia_widgets_widgetsaggregator-10"></div><div class="sidebar-mobule sm-widget sm-widget-sailthru">
+<div class="widget-head">
+<h3>SIGN UP FOR THE STEREOGUM DIGEST</h3>
+</div>
+<div class="widget-content">
+<div class="success hidden">
+Thank you for signing up for our newsletter.
+</div>
+<div class="error hidden">
+An error has occurred.
+</div>
+<form method="post" action="" data-js-sailthru-customer-id="1c863b713365e9d3e9efb90fcc6c4fc5" data-js-sailthru-list="stereogum-master-list">
+<input class="stFieldEmail" type="text" name="email" placeholder="Enter Your Email" required />
+<button class="st-submit" type="submit">Submit</button>
+</form>
+<div class="disclaimer">
+By clicking Submit, I agree to the <a href="/terms-and-conditions" target="_blank">Terms of Use</a> and <a href="/privacy-policy" target="_blank">Privacy Policy</a>.
+</div>
+</div>
+</div>
+<div class="sidebar-module record">
+<div class="feed feed-tile"><div class="title-holder clearfix"><div class="title left"><a href="/heavy-rotation"><h2>
+Heavy Rotation
+</h2></a></div><div class="see-all right"><a href="/heavy-rotation">All »</a></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/gouge-away"><img src="https://static.stereogum.com/uploads/2018/09/Gouge-Away-Burnt-Sugar-1537875090-146x146.jpg" width="146" height="146" alt="Gouge Away &#8211; Burnt Sugar"></a></div><div class="preview-holder"><a href="/tag/gouge-away"><span>Gouge Away &#8211; Burnt Sugar</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/bad-moves"><img src="https://static.stereogum.com/uploads/2018/09/bad-moves-tell-no-one-1537545922-146x146.jpg" width="146" height="146" alt="Bad Moves &#8211; Tell No One"></a></div><div class="preview-holder"><a href="/tag/bad-moves"><span>Bad Moves &#8211; Tell No One</span></a></div></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/human-people"><img src="https://static.stereogum.com/uploads/2018/09/human-people-butterflies-hr-1537545911-146x146.jpg" width="146" height="146" alt="Human People &#8211; Butterflies Drink Turtle Tears"></a></div><div class="preview-holder"><a href="/tag/human-people"><span>Human People &#8211; Butterflies Drink Turtle Tears</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/milo"><img src="https://static.stereogum.com/uploads/2018/09/Milo-Budding-Ornithologists-Are-Weary-Of-Tired-Analogies-1537540407-146x146.jpg" width="146" height="146" alt="Milo &#8211; Budding Ornithologists Are Weary Of Tired Analogies"></a></div><div class="preview-holder"><a href="/tag/milo"><span>Milo &#8211; Budding Ornithologists Are Weary Of Tired Analogies</span></a></div></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/brockhampton"><img src="https://static.stereogum.com/uploads/2018/09/brockhampton-iridescence-1537471241-146x146.png" width="146" height="146" alt="Brockhampton &#8211; Iridescence"></a></div><div class="preview-holder"><a href="/tag/brockhampton"><span>Brockhampton &#8211; Iridescence</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/restorations"><img src="https://static.stereogum.com/uploads/2018/09/Restorations-LP5000-1537467331-146x146.jpg" width="146" height="146" alt="Restorations &#8211; LP5000"></a></div><div class="preview-holder"><a href="/tag/restorations"><span>Restorations &#8211; LP5000</span></a></div></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/advance-base"><img src="https://static.stereogum.com/uploads/2018/09/Advance-Base-Animal-Companionship-1537284529-146x146.jpg" width="146" height="146" alt="Advance Base &#8211; Animal Companionship"></a></div><div class="preview-holder"><a href="/tag/advance-base"><span>Advance Base &#8211; Animal Companionship</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/noname"><img src="https://static.stereogum.com/uploads/2018/09/Noname-1536850116-146x146.jpg" width="146" height="146" alt="Noname &#8211; Room 25"></a></div><div class="preview-holder"><a href="/tag/noname"><span>Noname &#8211; Room 25</span></a></div></div></div></div> </div><div class="sm-widget sm-widget-ad-holder"><div class="sm-widget-ad"> <div class="ad_desktop" data-position='medrec_bottom_lazy' data-sizes='[[300,250],[300,600]]' data-lazy-load='1' data-refresh='1' data-refresh-timer='15' data-swap='' data-load-order='' style="min-width: 300px; min-height: 250px; box-sizing: content-box;">
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="container footer-ad-holder">
+<div class="leaderboard-wrapper">
+<div class="ad_desktop leaderboard" data-position='leaderboard_bottom_lazy' data-sizes='[[728,90],[970,250],[970,90]]' data-lazy-load='1' data-refresh='0' data-refresh-timer='0' data-swap='' data-load-order='' style="min-width: 728px; min-height: 90px; box-sizing: content-box;">
+</div>
+</div>
+</div>
+<div class="footer-recommended">
+<div class="container">
+<h3>
+In Case You Missed It </h3>
+<div class="row">
+ <a href="/2007171/30-essential-grunge-songs-playlist/franchises/ultimate-playlist/">
+<div class="post col-sm-4">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2018/07/essential-grunge-playlist-1-1533063509-293x195.jpg" width="293" height="195" alt="30 Essential Grunge Songs">
+</div>
+<div class="title">
+<div>30 Essential Grunge Songs</div>
+</div>
+</div>
+</a>
+<a href="/1945648/31-essential-shoegaze-tracks/franchises/ultimate-playlist/">
+<div class="post col-sm-4">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2017/06/Shoegaze-1497388150-293x195.jpg" width="293" height="195" alt="31 Essential Shoegaze Tracks">
+</div>
+<div class="title">
+<div>31 Essential Shoegaze Tracks</div>
+</div>
+</div>
+</a>
+<a href="/1685920/30-essential-songs-from-the-golden-era-of-emo/franchises/ultimate-playlist/">
+<div class="post col-sm-4">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2014/07/titr-293x195.jpg" width="293" height="195" alt="30 Essential Songs From The Golden Era Of Emo">
+</div>
+<div class="title">
+<div>30 Essential Songs From The Golden Era Of Emo</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<footer id="footer">
+<div class="container">
+<div class="comscore">
+<div class="comscore-header clearfix">
+<div class="right">
+<div class="mobile-site-footer">
+</div>
+<div class="footer-logo">
+<a href="/">
+<img src="https://assets.stereogum.com/wp-content/themes/stereogum/assets/images/logo-white.svg" width="200" height="16" />
+</a>
+</div>
+</div>
+<div class="left">
+<ul class="social-links">
+<li>
+<a href="https://www.facebook.com/Stereogum" target="_blank">
+<div class="social-icon square facebook">
+<span class="icon-facebook"></span>
+</div>
+</a>
+</li>
+<li>
+<a href="https://www.twitter.com/stereogum" target="_blank">
+<div class="social-icon square twitter">
+ <span class="icon-twitter"></span>
+</div>
+</a>
+</li>
+</ul>
+<div class="menu">
+<a href="https://www.stereogum.com/features" alt="features">FEATURES</a>
+<a href="https://www.stereogum.com/music" alt="SONGS">SONGS</a>
+<a href="https://www.stereogum.com/video" alt="VIDEOS">VIDEOS</a>
+<a href="https://www.stereogum.com/category/franchises/list" alt="LISTS">LISTS</a>
+<a href="/cdn-cgi/l/email-protection#afdbc6dfdcefdcdbcaddcac0c8dac281ccc0c2" alt="CONTACT US">CONTACT US</a>
+</div>
+<span class="site-name">Stereogum</span>.com is a member of Billboard Music, a division of Billboard-Hollywood Reporter Media Group.
+<div class="comscore-header-links">
+<a class="comscore--link comscore--header-link" href="/about" rel="nofollow">About <span class="comscore--bold">Stereogum</span></a>
+<a class="comscore--link comscore--header-link" href="/privacy-policy" target="_blank">Privacy Policy</a>
+<a class="comscore--link comscore--header-link" href="/about-our-ads" target="_blank" class="cs_aboutBug">
+<img src="https://lib.pgmcdn.com/choices/collisionadmarkerwht.png" alt="adChoices" class="comscore--img">
+</a>
+<a class="comscore--link" href="/copyright" target="_blank">Copyright</a>
+</div>
+</div>
+</div>
+<div class="comscore--body">
+<a class="comscore--link" href="//www.billboard.com" target="_blank">Billboard</a> |
+<a class="comscore--link" href="//www.hollywoodreporter.com/" target="_blank">The Hollywood Reporter</a> |
+<a class="comscore--link" href="//www.spin.com/" target="_blank">SPIN</a> |
+<a class="comscore--link" href="//www.vibe.com/" target="_blank">VIBE</a> |
+<a class="comscore--link" href="//www.stereogum.com/" target="_blank">Stereogum</a>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script id="ad_slot" type="text/template">
+            <div class="ad_desktop" data-sizes="[[160,600],[300,250],[300,600]]" data-position="300c"></div>
+        </script>
+<div id="hidden_div" class="hidden"></div>
+<div class="ad_desktop" data-position='zergnet' data-sizes='[[4,4]]' data-lazy-load='0' data-refresh='0' data-refresh-timer='0' data-swap='' data-load-order='' style="min-width: 4px; min-height: 4px; box-sizing: content-box;">
+</div>
+<div id="ad_native_instream" class="ad_desktop" data-sizes="[2,2]" data-position="native_instream_lazy"></div>
+<div id="ad_native_rightrail" class="ad_desktop" data-sizes="[2,2]" data-position="native_detail_lazy"></div><script type="text/html" id="sc_interrupter_template">
+<div class="post row wp-pi-sponsored-content-interrupter">
+    <div class="posts-holder"> 
+                    <div class="interrupter-post"> 
+            <div class="image-holder"> 
+            <a href="<% if(typeof post_link !== "undefined") { print(post_link) } %>" <% if(open_blank_links) { %> target="_blank" <% } %>> 
+                <img src="<% if(typeof post_images == "object") { print(post_images.feed.split) } %>"> 
+            </a> 
+            <div class="text-overlay">
+                <a href="<% if(typeof post_link !== "undefined") { print(post_link) } %>" <% if(open_blank_links) { %> target="_blank" <% } %>>
+                    <% if(typeof promoted_text !== "undefined") { print(promoted_text) } else { print('Promoted') } %>
+                </a>
+            </div> 
+        </div> 
+        <div class="preview-holder"> 
+                    <% if(open_blank_links && typeof shared_from_site !== "undefined" && shared_from_site) { %>
+                <div class="shared-by">
+                    <% if(typeof shared_from_text !== "undefined") { print(shared_from_text) } %> <a href="<% if(typeof shared_from_link !== "undefined") { print(shared_from_link) } %>" target="_blank"><% if(typeof shared_from_site !== "undefined") { print(shared_from_site) } %></a>
+                </div>
+            <% } %>    
+                <h2> 
+            <a href="<% if(typeof post_link !== "undefined") { print(post_link) } %>" <% if(open_blank_links) { %> target="_blank" <% } %>> 
+                <% if(typeof post_title !== "undefined") { print(post_title) } %>
+            </a> 
+        </h2> 
+        <% if(typeof sponsor_image !== "undefined") { %>
+            <div class="sponsor"> 
+                                <% if(typeof show_sponsor !== "undefined" && !show_sponsor && typeof sponsor_text !== "undefined") { print(sponsor_text) } %>
+
+                <a href="<% if(typeof sponsor_link !== "undefined") { print(sponsor_link) } %>" target="_blank">
+                    <img src="<% if(typeof sponsor_image !== "undefined") { print(sponsor_image) } %>" alt="">
+                </a> 
+                
+                                <% if((typeof show_sponsor === "undefined" || show_sponsor )
+                        && typeof sponsor_name !== "undefined") { %>
+                    <% if(typeof sponsor_text !== "undefined") { print(sponsor_text) } %>
+                    <a href="<% if(typeof sponsor_link !== "undefined") { print(sponsor_link) } %>" target="_blank">
+                        <span>
+                            <% if(typeof sponsor_name !== "undefined") { print(sponsor_name) } %>
+                        </span>
+                    </a> 
+                <% } %>
+            </div> 
+        <% } %>
+                <div class="preview"> 
+            <% if(typeof post_preview !== "undefined") { print(post_preview) } %>
+        </div> 
+            </div> 
+</div>            </div> 
+</div>
+</script><script type="text/html" id="sc_interrupter_template_sidebar">
+<div class="sidebar-module wp-pi-sponsored-content-interrupter"> 
+    <div class="title-holder clearfix"> 
+                    <div class="title left"> 
+                <a href="<% if(typeof post_link !== "undefined") { print(post_link) } %>" <% if(open_blank_links) { %>target="_blank"<% } %>>
+                    <h3>
+                        <% if(typeof promoted_text !== "undefined") { print(promoted_text) } else { print('Promoted') } %>
+                    </h3>
+                </a>
+            </div> 
+            </div> 
+    <div class="posts-holder"> 
+        <div class="interrupter-post"> 
+            <div class="image-holder"> 
+                <a href="<% if(typeof post_link !== "undefined") { print(post_link) } %>" <% if(open_blank_links) { %>target="_blank"<% } %>> 
+                    <img src="<% if(typeof post_images == "object") { print(post_images.sidebar) } %>">
+                </a> 
+            </div> 
+            <div class="preview-holder"> 
+                                    <% if(open_blank_links && typeof shared_from_site !== "undefined" && shared_from_site) { %>
+                        <div class="shared-by">
+                            <% if(typeof shared_from_text !== "undefined") { print(shared_from_text) } %> <a href="<% if(typeof shared_from_link !== "undefined") { print(shared_from_link) } %>" target="_blank"><% if(typeof shared_from_site !== "undefined") { print(shared_from_site) } %></a>
+                        </div>
+                    <% } %>    
+                                <h2> 
+                    <a href="<% if(typeof post_link !== "undefined") { print(post_link) } %>" <% if(open_blank_links) { %>target="_blank"<% } %>>
+                        <% if(typeof post_title !== "undefined") { print(post_title) } %>
+                    </a> 
+                </h2> 
+                <% if(typeof sponsor_image !== "undefined") { %>
+                     
+                        <div class="sponsor">
+                                                        <% if(typeof show_sponsor !== "undefined" && !show_sponsor && typeof sponsor_text !== "undefined") { print(sponsor_text) } %> 
+                            
+                            <a href="<% if(typeof sponsor_link !== "undefined") { print(sponsor_link) } %>" target="_blank">
+                                <img src="<% if(typeof sponsor_image !== "undefined") { print(sponsor_image) } %>" alt="">
+                            </a> 
+                            <% if((typeof show_sponsor === "undefined" || show_sponsor)
+                                    && typeof sponsor_name !== "undefined") { %>
+                                <% if(typeof sponsor_text !== "undefined") { print(sponsor_text) } %> 
+                                <a href="<% if(typeof sponsor_link !== "undefined") { print(sponsor_link) } %>" target="_blank">
+                                    <span>
+                                        <% if(typeof sponsor_name !== "undefined") { print(sponsor_name) } %>
+                                    </span>
+                                </a> 
+                            <% } %>
+                        </div> 
+                     
+                <% } %>
+            </div> 
+        </div> 
+    </div> 
+</div>
+</script> <style>
+            #pi-fb-oauth-error-dialog {
+                text-align: center !important;
+            }
+        </style>
+<div id="fb-root"></div>
+<div id="pi-fb-oauth-error-dialog" title="FACEBOOK WARNING" class="pi-fb-oauth-popup" style="text-align: center;">
+<div style="clear: both"></div>
+<span id="pi-fb-oauth-error-dialog-message" style="font-size: 14px;">&nbsp;</span>
+
+<div class="ui-dialog-buttonset">
+<button style="top: 80px;left: 80px;" type="button" class="close-pi-fb-oauth-error-dialog ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false">
+<span class="ui-button-text">Close</span>
+</button>
+</div>
+</div>
+<script type="text/javascript">
+            var PI_OAUTH_FACEBOOK_APP_ID = '248953356872';
+            var PI_OAUTH_FACEBOOK_SCOPE = '';
+            var PI_OAUTH_FACEBOOK_ERROR_CALLBACK = typeof(piLoginShowErrorMassage) == 'function' ? piLoginShowErrorMassage : '';
+        </script>
+<div class="ad_desktop" data-position='out_of_page' data-sizes='[[1,1]]' data-lazy-load='0' data-refresh='0' data-refresh-timer='0' data-swap='' data-load-order='3' data-out-of-page='true' style="display: none;">
+</div>
+<script>CLARITY.push({use:['ads','header','doubleunderscore','logger'],run:function(Ads,Header,__,logger){var $slots=$('[data-position="medrec_lazy"],[data-position="leaderboard_lazy"]');$slots.each(function(i){var $this=$(this),id=$this.attr('id');var addLazyLoadedSlots=function(){try{var id=$this.attr('id'),ad=Ads.getById(id);Header.addHeaderSlot(id,ad._getAdUnitPath(),ad.options.sizes,ad.options.position);}catch(e){logger.log("addLazyLoadedSlots failed with error : "+e,"error");}};if(id){addLazyLoadedSlots();}else{$this.on('clarity:create-ad',function(){addLazyLoadedSlots();});}});}});</script>
+<script>CLARITY.push({use:['ads'],run:function(Ads){Ads.site_code="stereogum";if(!Ads.zone){Ads.zone="feed_page";}
+var keywords=[];keywords.push({keywords:"",keyvalues:"category=videogum",paths:"",positions:"all"});keywords.push({keywords:"",keyvalues:"domain=www.stereogum.com",paths:"",positions:"all"});keywords.push({keywords:"",keyvalues:"archive=videogum",paths:"",positions:"all"});keywords.push({keywords:"",keyvalues:"url=a235fbaa",paths:"",positions:"all"});keywords.push({keywords:"",keyvalues:"pagetype=feed_page",paths:"",positions:"all"});Ads.keywords=keywords;Ads.optionDefaults=Ads.optionDefaults||{};Ads.autoPopulate();}});</script><div class="pi-login-popups" style="display: none">
+<div id="sign-in-dialog" title="Sign In:" class="pi-login-popup">
+<div style="clear: both"></div>
+<span id="lPiLogin_Status">&nbsp;</span>
+<div class="login-response-text"></div>
+<div class="login-form">
+<form name="PiLogin_Form" id="PiLogin_Form" action="#" method="post">
+<div>
+<div class="restore2 input-holder">
+<label>Username</label>
+<input type="text" name="PiLoginName" id="lPiLoginName" class="input" />
+</div>
+<div class="restore2 input-holder">
+<label>Password</label>
+<input type="password" name="PiLoginPass" id="lPiLoginPass" class="input" value="" />
+</div>
+<div>
+<input type="hidden" name="redirect_to" id="redirect_to" value="" />
+</div>
+</div>
+<div class="form-input-links">
+<div class="remember-my-checkbox">
+<input type="checkbox" name="PiLoginRemember" id="lPiLoginRemember" checked="checked" value="1" />
+<span>Remember me &nbsp;</span>
+</div>
+<div class="links-right">
+<div style="display: inline-block;">Not a member?</div>
+<div style="display: inline-block;; padding-left: 5px;"><a class="sign-up-link" href="#">Sign Up</a> / <a class="forgot-link" href="#">Forgot your password?</a></div>
+</div>
+<div class="links-left"><a href="" onclick="fb_start_login(); return false;" class="fb_oauth2_login" title="Sign in with Facebook">Sign in with Facebook</a></div>
+<div style="clear:both;float:none;"></div>
+</div>
+</form>
+</div>
+</div>
+<div id="sign-up-dialog" title="Sign Up:" class="pi-login-popup">
+<div style="clear: both"></div>
+<span id="rPiLogin_Status">&nbsp;</span>
+<div class="login-response-text"></div>
+<div class="login-form">
+<form name="PiSignon_Form" id="PiSignon_Form" action="#" method="post">
+<div class="register-form">
+<div class="input-holder">
+<label>
+Email
+</label>
+<input type="text" name="email" id="a_email" class="input" />
+</div>
+<div class="input-holder">
+<label>
+Username
+</label>
+<input type="text" name="user_login" id="a_user_login" class="input" />
+</div>
+</div>
+<div class="register-form">
+<div class="input-holder">
+<label>
+Password
+</label>
+<input type="password" name="pass1" id="a_pass1" class="input" value="" />
+</div>
+<div class="input-holder">
+ <label>
+Confirm Password
+</label>
+<input type="password" name="pass2" id="a_pass2" class="input" value="" />
+</div>
+</div>
+<div class="sign-up-fb-2"><a href="" onclick="fb_start_login(); return false;" class="fb_oauth2_login" title="Sign in with Facebook">Sign in with Facebook</a> </div>
+<input type="hidden" name="redirect_to" value="http:// " />
+<div class="form-input-links">Already a member? <a class="sign-in-link" href="#">Sign In</a></div>
+</form>
+</div>
+</div>
+<div id="forgot-dialog" title="Restore password:" class="pi-login-popup">
+<div style="clear: both"></div>
+<span id="fPiLogin_Status">&nbsp;</span>
+<div class="login-response-text"></div>
+<div class="login-form">
+<form name="PiForgot_Form" id="PiForgot_Form" action="#" method="post">
+<div class="restore input-holder">
+<label>Please enter your account email address, we'll send you an email with instructions to reset your password:</label>
+<br /><br />
+<input type="text" name="PiLoginEmail" id="fPiLoginEmail" class="input" />
+<br /><br />
+<div class="g-recaptcha" data-sitekey="6LfKVRcTAAAAAGVoC_uNf5P1uE_JY9X7V2-4_mKL"></div>
+</div>
+<input type="hidden" name="redirect_to" value="http:// " />
+<div class="form-input-links rest"><a class="sign-in-link" href="#">Cancel</a></div>
+</form>
+</div>
+</div>
+</div>
+<script type="text/html" id="pe_zoom_overlay">
+        <div class="pe-zoom-overlay scroll-<%= scroll_dir %>">
+            <div class="image-holder">
+                <img itemprop="image"
+                     src="<%= img_src %>">
+            </div>
+            <div class="pe-zoom-close-x"></div>
+        </div>
+    </script><link rel='stylesheet' id='ad-css-css' href='https://assets.stereogum.com/wp-content/plugins/wp-pi-clarity/css/clarity.css?ver=752d2619c5e6df554e2f0080eeb68baae3a67581' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mobileDetect = {"isMobile":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.stereogum.com/wp-content/plugins/wp-pi-mobile-theme/js/mobile_detect.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/soundcloud.sdk.4.0.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var localize = {"ajaxurl":"https:\/\/www.stereogum.com\/wp\/wp-admin\/admin-ajax.php","soundcloud_client_id":"3289dfd5994e22ec60c5bd8f9a877275"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/playlist.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/player.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/vendor/img-touch-canvas.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/wp-util.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/mobile-zoom.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/jquery/ui/core.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/jquery/ui/widget.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/jquery/ui/mouse.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/jquery/ui/resizable.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/jquery/ui/draggable.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/jquery/ui/button.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/jquery/ui/position.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/jquery/ui/dialog.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp-content/plugins/wp-pi-fb-oauth/pi-fb-oauth.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='//www.google.com/recaptcha/api.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var the_ajax_script = {"ajaxurl":"https:\/\/www.stereogum.com\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-login/js/login.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-sponsored-content/js/interrupter/interrupter.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/vendor/lodash.2.4.1.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp-content/themes/wp-theme-base/assets/js/all.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp-content/themes/stereogum/assets/js/all.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://www.stereogum.com/wp/wp-includes/js/wp-embed.min.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-clarity/js/sticky.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-widgets/js/widgets-aggregator.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+<script type='text/javascript' src='https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/player-integration.js?ver=752d2619c5e6df554e2f0080eeb68baae3a67581'></script>
+</body>
+</html>

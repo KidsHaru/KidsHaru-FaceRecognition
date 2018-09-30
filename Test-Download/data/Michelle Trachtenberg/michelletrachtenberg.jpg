@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="nl" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://teching.nl/xmlrpc.php">
+
+<title>Teching.nl &ndash; Start Teching!</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Start Teching!"/>
+<link rel="canonical" href="https://teching.nl/" />
+<link rel="next" href="http://teching.nl/page/2/" />
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Teching.nl &ndash; Start Teching!" />
+<meta property="og:description" content="Start Teching!" />
+<meta property="og:url" content="https://teching.nl/" />
+<meta property="og:site_name" content="Teching.nl" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Start Teching!" />
+<meta name="twitter:title" content="Teching.nl &ndash; Start Teching!" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/teching.nl\/","name":"Teching.nl","potentialAction":{"@type":"SearchAction","target":"https:\/\/teching.nl\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Teching.nl &raquo; Feed" href="https://teching.nl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Teching.nl &raquo; Reactiesfeed" href="https://teching.nl/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.9 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-62266285-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-62266285-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/teching.nl\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cptch_stylesheet-css'  href='https://teching.nl/wp-content/plugins/captcha/css/front_end_style.css?ver=4.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://teching.nl/wp-includes/css/dashicons.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_desktop_style-css'  href='https://teching.nl/wp-content/plugins/captcha/css/desktop_style.css?ver=4.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='simone-style-css'  href='https://teching.nl/wp-content/themes/simone/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='simone-layout-css'  href='https://teching.nl/wp-content/themes/simone/layouts/content-sidebar.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='simone-google-fonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A100%2C300%2C400%2C400italic%2C700%2C900%2C900italic%7CPT+Serif%3A400%2C700%2C400italic%2C700italic&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='simone_fontawesome-css'  href='https://teching.nl/wp-content/themes/simone/fonts/font-awesome/css/font-awesome.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widget-social-icons-styles-css'  href='https://teching.nl/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://teching.nl/wp-content/plugins/jetpack/css/jetpack.css?ver=6.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://teching.nl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://teching.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/teching.nl","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://teching.nl/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.9'></script>
+<link rel='https://api.w.org/' href='https://teching.nl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://teching.nl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://teching.nl/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel='shortlink' href='https://wp.me/72MIH' />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>    <style type="text/css">
+        .site-branding {
+            background: ;
+        }
+
+        .category-list a:hover,
+        .entry-meta a:hover,
+        .tag-links a:hover,
+        .widget-area a:hover,
+        .nav-links a:hover,
+        .comment-meta a:hover,
+        .continue-reading a,
+        .entry-title a:hover,
+        .entry-content a,
+        .comment-content a {
+            color: ;
+        }
+
+        .border-custom {
+            border:  solid 1px;
+        }
+
+    </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://teching.nl/wp-content/themes/simone/images/pattern.svg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+
+<body class="home blog custom-background">
+<div id="page" class="hfeed site">
+
+	<header id="masthead" class="site-header" role="banner">
+            <a class="skip-link screen-reader-text" href="#content">Spring naar inhoud</a>
+                            <div class="site-branding header-background-image" style="background-image: url(https://teching.nl/wp-content/uploads/2015/07/cropped-header-1.jpg)">                    <div class="title-box">
+			<h1 class="site-title"><a href="https://teching.nl/" rel="home">Teching.nl</a></h1>
+			<h2 class="site-description">Start Teching!</h2>
+                    </div>
+		</div>
+
+		<nav id="site-navigation" class="main-navigation clear" role="navigation">
+                    <h1 class="menu-toggle"><a href="#">Menu</a></h1>
+
+			<div class="menu"><ul>
+<li class="current_page_item"><a href="https://teching.nl/">Home</a></li></ul></div>
+
+                        <div class="search-toggle">
+                            <i class="fa fa-search"></i>
+                            <a href="#search-container" class="screen-reader-text">Zoeken</a>
+                        </div>
+                        
+
+		</nav><!-- #site-navigation -->
+
+                <div id="header-search-container" class="search-box-wrapper clear hide">
+			<div class="search-box clear">
+				<form role="search" method="get" class="search-form" action="https://teching.nl/">
+				<label>
+					<span class="screen-reader-text">Zoeken naar:</span>
+					<input type="search" class="search-field" placeholder="Zoeken &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Zoeken" />
+			</form>			</div>
+		</div>
+
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+						
+				
+<article id="post-139" class="post-139 post type-post status-publish format-standard hentry category-endnote category-osx category-word tag-endnote tag-macos tag-word-2016">
+    <div class="index-box">	<header class="entry-header clear">
+            <div class="category-list"><a href="https://teching.nl/category/endnote/" rel="category tag">EndNote</a>, <a href="https://teching.nl/category/osx/" rel="category tag">OSX / macOS</a>, <a href="https://teching.nl/category/word/" rel="category tag">Word</a></div>		<h1 class="entry-title"><a href="https://teching.nl/2017/05/word-verspringt-regelmatig-endnote/" rel="bookmark">Word verspringt regelmatig door EndNote</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Geschreven door <span class="author vcard"><a class="url fn n" href="https://teching.nl/author/mgalama/">Menno</a></span></span><span class="mobile-hide"> op </span><span class="posted-on"><a href="https://teching.nl/2017/05/word-verspringt-regelmatig-endnote/" rel="bookmark"><time class="entry-date published" datetime="2017-05-29T07:55:26+00:00">29 mei 2017</time><time class="updated" datetime="2017-05-29T07:55:50+00:00">29 mei 2017</time></a></span><span class="mobile-hide">.</span>                        <span class="comments-link"><a href="https://teching.nl/2017/05/word-verspringt-regelmatig-endnote/#respond">Een reactie plaatsen</a></span>                        		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+        <div class="entry-content">
+<!-- Easy Plugin for AdSense V8.67 -->
+<!-- [leadin: 0 urCount: 0 urMax: 0] -->
+<div class="ezAdsense adsense adsense-leadin" style="float:right;margin:12px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Teching -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3015351623451519"
+     data-ad-slot="5128093282"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<!-- Easy Plugin for AdSense V8.67 -->
+<p>Op mijn MacBook heb ik er last van dat Word regelmatig verspringt als ik gebruik maak van EndNote citaten. Dit probleem is echter makkelijker op te lossen.</p>
+<p>Ik maak gebruik van Word 2016 op macOS Sierra en EndNote X7.</p>
+<p>Op het moment dat de verspringing plaats vindt binnen Word, worden de citaten geupdate en verspringt het scherm enkele pagina&#8217;s. Dit wordt veroorzaakt door de functie van EndNote die &#8220;Instant Formatting&#8221; wordt genoemd. Deze functie kun je (tijdelijk) uitschakelen vanuit Word. Hiervoor navigeer je naar het tabblad EndNote en selecteer je in een dropdown menu: &#8220;Instant Formatting is Off&#8221;, zie ook onderstaande afbeelding.</p>
+<p><a href="https://i1.wp.com/teching.nl/wp-content/uploads/2017/05/AfbeeldingenInstantFormattingOFf.jpg"><img data-attachment-id="140" data-permalink="https://teching.nl/2017/05/word-verspringt-regelmatig-endnote/afbeeldingeninstantformattingoff/" data-orig-file="https://i1.wp.com/teching.nl/wp-content/uploads/2017/05/AfbeeldingenInstantFormattingOFf.jpg?fit=805%2C101&amp;ssl=1" data-orig-size="805,101" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="EndNote Instant Formatting Off" data-image-description="" data-medium-file="https://i1.wp.com/teching.nl/wp-content/uploads/2017/05/AfbeeldingenInstantFormattingOFf.jpg?fit=300%2C38&amp;ssl=1" data-large-file="https://i1.wp.com/teching.nl/wp-content/uploads/2017/05/AfbeeldingenInstantFormattingOFf.jpg?fit=805%2C101&amp;ssl=1" class="alignnone size-full wp-image-140" src="https://i1.wp.com/teching.nl/wp-content/uploads/2017/05/AfbeeldingenInstantFormattingOFf.jpg?resize=805%2C101" alt="" width="805" height="101" srcset="https://i1.wp.com/teching.nl/wp-content/uploads/2017/05/AfbeeldingenInstantFormattingOFf.jpg?w=805&amp;ssl=1 805w, https://i1.wp.com/teching.nl/wp-content/uploads/2017/05/AfbeeldingenInstantFormattingOFf.jpg?resize=300%2C38&amp;ssl=1 300w, https://i1.wp.com/teching.nl/wp-content/uploads/2017/05/AfbeeldingenInstantFormattingOFf.jpg?resize=768%2C96&amp;ssl=1 768w" sizes="(max-width: 805px) 100vw, 805px" data-recalc-dims="1" /></a></p>
+<p>Op het moment dat je nu een referentie toevoegd zal opvallen dat deze een ander formaat krijgt, namelijk: <em>{Ebert, 2016 #9013}</em>. Dit is tijdelijk. Op het moment dat je weer kiest voor &#8220;Instant Formatting is On&#8221; worden deze referenties bijgewerkt naar het bekende formaat, bijvoorbeeld: <em>(Ebert, 2016)</em>, afhankelijk van de stijl die je hebt gekozen. Dus let erop dat je voor het printen of versturen van je bestand deze optie weer even terug zet zodat alle citaten het juiste formaat krijgen.</p>
+<p>N.b.: Het opvallende is dat deze problemen in Windows met Word 2016 niet optreden.</p>
+</div><footer class="entry-footer continue-reading"><a href="https://teching.nl/2017/05/word-verspringt-regelmatig-endnote/" title="Lees Word verspringt regelmatig door EndNote" rel="bookmark">Lees  <span aria-hidden="true">het artikel</span><i class="fa fa-arrow-circle-o-right"></i><span class="screen-reader-text"> Word verspringt regelmatig door EndNote</span></a></footer><!-- .entry-footer -->
+    </div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-124" class="post-124 post type-post status-publish format-standard hentry category-android tag-adoptable-storage tag-onvoldoende-opslagruimte tag-samsung-galaxy-s5 tag-sd-kaart">
+    <div class="index-box">	<header class="entry-header clear">
+            <div class="category-list"><a href="https://teching.nl/category/android/" rel="category tag">Android</a></div>		<h1 class="entry-title"><a href="https://teching.nl/2017/04/onvoldoende-opslagruimte-samsung-galaxy-s5-sd-kaart-slim-inzetten/" rel="bookmark">Onvoldoende opslagruimte Samsung Galaxy S5 &#8211; SD-kaart slim inzetten</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Geschreven door <span class="author vcard"><a class="url fn n" href="https://teching.nl/author/mgalama/">Menno</a></span></span><span class="mobile-hide"> op </span><span class="posted-on"><a href="https://teching.nl/2017/04/onvoldoende-opslagruimte-samsung-galaxy-s5-sd-kaart-slim-inzetten/" rel="bookmark"><time class="entry-date published" datetime="2017-04-23T15:55:43+00:00">23 april 2017</time><time class="updated" datetime="2018-03-22T18:07:40+00:00">22 maart 2018</time></a></span><span class="mobile-hide">.</span>                        <span class="comments-link"><a href="https://teching.nl/2017/04/onvoldoende-opslagruimte-samsung-galaxy-s5-sd-kaart-slim-inzetten/#respond">Een reactie plaatsen</a></span>                        		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+                    <div class="entry-content">
+
+                <p>Eerder schreef ik hier al hoe je ruimte op je Samsung Galaxy S5 (of andere Android telefoon) kunt maken door de cache gegevens zo nu en dan op te schonen. Een nadeel hiervan is dat het na verloop van tijd niet echt heel veel meer oplevert, zelfs ookal heb je voldoende ruimte op je SD-kaart beschikbaar. Hier nu een [&hellip;]</p>
+            </div><!-- .entry-content -->
+            <footer class="entry-footer continue-reading">
+		<a href="https://teching.nl/2017/04/onvoldoende-opslagruimte-samsung-galaxy-s5-sd-kaart-slim-inzetten/" title="Lees verderOnvoldoende opslagruimte Samsung Galaxy S5 &#8211; SD-kaart slim inzetten" rel="bookmark">Lees verder<i class="fa fa-arrow-circle-o-right"></i><span class="screen-reader-text"> Onvoldoende opslagruimte Samsung Galaxy S5 &#8211; SD-kaart slim inzetten</span></a>            </footer><!-- .entry-footer -->
+        
+    </div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-119" class="post-119 post type-post status-publish format-standard hentry category-android">
+    <div class="index-box">	<header class="entry-header clear">
+            <div class="category-list"><a href="https://teching.nl/category/android/" rel="category tag">Android</a></div>		<h1 class="entry-title"><a href="https://teching.nl/2017/04/solve-your-storage-problems-on-samsung-galaxy-s5-with-adoptable-storage/" rel="bookmark">Solve your storage problems on Samsung Galaxy S5 with Adoptable Storage</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Geschreven door <span class="author vcard"><a class="url fn n" href="https://teching.nl/author/mgalama/">Menno</a></span></span><span class="mobile-hide"> op </span><span class="posted-on"><a href="https://teching.nl/2017/04/solve-your-storage-problems-on-samsung-galaxy-s5-with-adoptable-storage/" rel="bookmark"><time class="entry-date published" datetime="2017-04-17T21:39:50+00:00">17 april 2017</time><time class="updated" datetime="2017-04-17T21:40:56+00:00">17 april 2017</time></a></span><span class="mobile-hide">.</span>                        <span class="comments-link"><a href="https://teching.nl/2017/04/solve-your-storage-problems-on-samsung-galaxy-s5-with-adoptable-storage/#comments">6 reacties</a></span>                        		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+                    <div class="entry-content">
+
+                <p>One of the most annoying things on my Samsung Galaxy S5 is the fact it I am running out of internal storage capacity all the time. Every time I was cleaning the cache or trying to move apps to the SD card, but each time an updated was installed the apps were back on my internal [&hellip;]</p>
+            </div><!-- .entry-content -->
+            <footer class="entry-footer continue-reading">
+		<a href="https://teching.nl/2017/04/solve-your-storage-problems-on-samsung-galaxy-s5-with-adoptable-storage/" title="Lees verderSolve your storage problems on Samsung Galaxy S5 with Adoptable Storage" rel="bookmark">Lees verder<i class="fa fa-arrow-circle-o-right"></i><span class="screen-reader-text"> Solve your storage problems on Samsung Galaxy S5 with Adoptable Storage</span></a>            </footer><!-- .entry-footer -->
+        
+    </div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-107" class="post-107 post type-post status-publish format-standard hentry category-macbook category-windows tag-bootcamp tag-macbook tag-stuck-on-windows-logo tag-windows-10">
+    <div class="index-box">	<header class="entry-header clear">
+            <div class="category-list"><a href="https://teching.nl/category/macbook/" rel="category tag">MacBook</a>, <a href="https://teching.nl/category/windows/" rel="category tag">Windows</a></div>		<h1 class="entry-title"><a href="https://teching.nl/2017/03/bootcamp-windows-10-stuck-on-logo/" rel="bookmark">Bootcamp Windows 10 stuck on logo</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Geschreven door <span class="author vcard"><a class="url fn n" href="https://teching.nl/author/mgalama/">Menno</a></span></span><span class="mobile-hide"> op </span><span class="posted-on"><a href="https://teching.nl/2017/03/bootcamp-windows-10-stuck-on-logo/" rel="bookmark"><time class="entry-date published" datetime="2017-03-28T20:06:37+00:00">28 maart 2017</time><time class="updated" datetime="2017-03-28T20:09:37+00:00">28 maart 2017</time></a></span><span class="mobile-hide">.</span>                        <span class="comments-link"><a href="https://teching.nl/2017/03/bootcamp-windows-10-stuck-on-logo/#comments">4 reacties</a></span>                        		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+                    <div class="entry-content">
+
+                <p>So now and then I use a Windows 10 installation on my MacBook Pro (13 inch 2015), but this time I wanted to use it but it didn&#8217;t boot. It was stuck on the blue Windows logo and nothing happened. After several tries I started Googling for a solution, eventually I found a working solution which [&hellip;]</p>
+            </div><!-- .entry-content -->
+            <footer class="entry-footer continue-reading">
+		<a href="https://teching.nl/2017/03/bootcamp-windows-10-stuck-on-logo/" title="Lees verderBootcamp Windows 10 stuck on logo" rel="bookmark">Lees verder<i class="fa fa-arrow-circle-o-right"></i><span class="screen-reader-text"> Bootcamp Windows 10 stuck on logo</span></a>            </footer><!-- .entry-footer -->
+        
+    </div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-104" class="post-104 post type-post status-publish format-standard hentry category-mongodb category-windows tag-kerberos tag-mongodb tag-spn tag-windows-server-2012r2">
+    <div class="index-box">	<header class="entry-header clear">
+            <div class="category-list"><a href="https://teching.nl/category/mongodb/" rel="category tag">MongoDB</a>, <a href="https://teching.nl/category/windows/" rel="category tag">Windows</a></div>		<h1 class="entry-title"><a href="https://teching.nl/2017/02/mongodb-and-kerberos-authentication/" rel="bookmark">MongoDB and Kerberos authentication</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Geschreven door <span class="author vcard"><a class="url fn n" href="https://teching.nl/author/mgalama/">Menno</a></span></span><span class="mobile-hide"> op </span><span class="posted-on"><a href="https://teching.nl/2017/02/mongodb-and-kerberos-authentication/" rel="bookmark"><time class="entry-date published" datetime="2017-02-15T09:45:54+00:00">15 februari 2017</time></a></span><span class="mobile-hide">.</span>                        <span class="comments-link"><a href="https://teching.nl/2017/02/mongodb-and-kerberos-authentication/#respond">Een reactie plaatsen</a></span>                        		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+                    <div class="entry-content">
+
+                <p>Recently I had to configure Kerberos authentication for MongoDB in a Windows environment. The configuration in this case: MongoDB 3.0 On Windows 2012 R2 VM Active Directory as KDC (Key Distribution Center) On the website of MongoDB (here) you&#8217;ll find a proper manual how to configure this. So you can follow this manual to configure it. [&hellip;]</p>
+            </div><!-- .entry-content -->
+            <footer class="entry-footer continue-reading">
+		<a href="https://teching.nl/2017/02/mongodb-and-kerberos-authentication/" title="Lees verderMongoDB and Kerberos authentication" rel="bookmark">Lees verder<i class="fa fa-arrow-circle-o-right"></i><span class="screen-reader-text"> MongoDB and Kerberos authentication</span></a>            </footer><!-- .entry-footer -->
+        
+    </div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-93" class="post-93 post type-post status-publish format-standard hentry category-mongodb tag-mongodb tag-powershell">
+    <div class="index-box">	<header class="entry-header clear">
+            <div class="category-list"><a href="https://teching.nl/category/mongodb/" rel="category tag">MongoDB</a></div>		<h1 class="entry-title"><a href="https://teching.nl/2017/02/powershell-and-mongodb/" rel="bookmark">PowerShell and MongoDB</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Geschreven door <span class="author vcard"><a class="url fn n" href="https://teching.nl/author/mgalama/">Menno</a></span></span><span class="mobile-hide"> op </span><span class="posted-on"><a href="https://teching.nl/2017/02/powershell-and-mongodb/" rel="bookmark"><time class="entry-date published" datetime="2017-02-03T14:52:56+00:00">03 februari 2017</time><time class="updated" datetime="2017-02-11T11:08:25+00:00">11 februari 2017</time></a></span><span class="mobile-hide">.</span>                        <span class="comments-link"><a href="https://teching.nl/2017/02/powershell-and-mongodb/#comments">1 reactie</a></span>                        		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+                    <div class="entry-content">
+
+                <p>At the company I am working we&#8217;re using MongoDB on the Windows machines. For administration and automating purposes it is common for us to use PowerShell as a scripting language. Out of the box it is not possible to connect to MongoDB via PowerShell. To make this possible you should use the MongoDB C# or [&hellip;]</p>
+            </div><!-- .entry-content -->
+            <footer class="entry-footer continue-reading">
+		<a href="https://teching.nl/2017/02/powershell-and-mongodb/" title="Lees verderPowerShell and MongoDB" rel="bookmark">Lees verder<i class="fa fa-arrow-circle-o-right"></i><span class="screen-reader-text"> PowerShell and MongoDB</span></a>            </footer><!-- .entry-footer -->
+        
+    </div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-83" class="post-83 post type-post status-publish format-standard hentry category-osx tag-macos tag-mission-control tag-sierra">
+    <div class="index-box">	<header class="entry-header clear">
+            <div class="category-list"><a href="https://teching.nl/category/osx/" rel="category tag">OSX / macOS</a></div>		<h1 class="entry-title"><a href="https://teching.nl/2016/12/macos-mission-control-not-working/" rel="bookmark">macOS &#8211; Mission Control not working</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Geschreven door <span class="author vcard"><a class="url fn n" href="https://teching.nl/author/mgalama/">Menno</a></span></span><span class="mobile-hide"> op </span><span class="posted-on"><a href="https://teching.nl/2016/12/macos-mission-control-not-working/" rel="bookmark"><time class="entry-date published" datetime="2016-12-21T11:02:58+00:00">21 december 2016</time><time class="updated" datetime="2017-05-31T07:32:38+00:00">31 mei 2017</time></a></span><span class="mobile-hide">.</span>                        <span class="comments-link"><a href="https://teching.nl/2016/12/macos-mission-control-not-working/#respond">Een reactie plaatsen</a></span>                        		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+                    <div class="entry-content">
+
+                <p>A problem that I recently experienced is that Mission Control wasn&#8217;t working on macOS Sierra anymore. It didn&#8217;t respond to the touchpad gestures, the function key on the keyboard or the launching it from the applications menu. One of the first things I always try when something isn&#8217;t working, is rebooting the system. But that didn&#8217;t [&hellip;]</p>
+            </div><!-- .entry-content -->
+            <footer class="entry-footer continue-reading">
+		<a href="https://teching.nl/2016/12/macos-mission-control-not-working/" title="Lees verdermacOS &#8211; Mission Control not working" rel="bookmark">Lees verder<i class="fa fa-arrow-circle-o-right"></i><span class="screen-reader-text"> macOS &#8211; Mission Control not working</span></a>            </footer><!-- .entry-footer -->
+        
+    </div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-78" class="post-78 post type-post status-publish format-standard hentry category-column tag-column tag-smartwatch tag-toekomst">
+    <div class="index-box">	<header class="entry-header clear">
+            <div class="category-list"><a href="https://teching.nl/category/column/" rel="category tag">Column</a></div>		<h1 class="entry-title"><a href="https://teching.nl/2016/05/column-de-smartwatch-als-jou-persoonlijke-gateway-naar-technologie/" rel="bookmark">Column: De Smartwatch als jou persoonlijke gateway naar technologie?</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Geschreven door <span class="author vcard"><a class="url fn n" href="https://teching.nl/author/mgalama/">Menno</a></span></span><span class="mobile-hide"> op </span><span class="posted-on"><a href="https://teching.nl/2016/05/column-de-smartwatch-als-jou-persoonlijke-gateway-naar-technologie/" rel="bookmark"><time class="entry-date published" datetime="2016-05-18T13:43:03+00:00">18 mei 2016</time><time class="updated" datetime="2016-05-21T13:27:10+00:00">21 mei 2016</time></a></span><span class="mobile-hide">.</span>                        <span class="comments-link"><a href="https://teching.nl/2016/05/column-de-smartwatch-als-jou-persoonlijke-gateway-naar-technologie/#respond">Een reactie plaatsen</a></span>                        		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+                    <div class="entry-content">
+
+                <p>Technologie wordt een steeds groter onderdeel van ons dagelijks leven. Waar je zo&#8217;n 20 jaar geleden nog praktisch niemand met een mobiele telefoon zag lopen, heeft (op de oudere generatie na) eigenlijk iedereen er altijd wel een bij zich. Overal en nergens hebben we toegang tot informatie, die we eerst op andere manieren moesten proberen te [&hellip;]</p>
+            </div><!-- .entry-content -->
+            <footer class="entry-footer continue-reading">
+		<a href="https://teching.nl/2016/05/column-de-smartwatch-als-jou-persoonlijke-gateway-naar-technologie/" title="Lees verderColumn: De Smartwatch als jou persoonlijke gateway naar technologie?" rel="bookmark">Lees verder<i class="fa fa-arrow-circle-o-right"></i><span class="screen-reader-text"> Column: De Smartwatch als jou persoonlijke gateway naar technologie?</span></a>            </footer><!-- .entry-footer -->
+        
+    </div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-61" class="post-61 post type-post status-publish format-standard hentry category-synology">
+    <div class="index-box">	<header class="entry-header clear">
+            <div class="category-list"><a href="https://teching.nl/category/synology/" rel="category tag">Synology</a></div>		<h1 class="entry-title"><a href="https://teching.nl/2016/04/gratis-https-certificaat-met-synology-dsm-6/" rel="bookmark">Gratis https certificaat met Synology DSM 6</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Geschreven door <span class="author vcard"><a class="url fn n" href="https://teching.nl/author/mgalama/">Menno</a></span></span><span class="mobile-hide"> op </span><span class="posted-on"><a href="https://teching.nl/2016/04/gratis-https-certificaat-met-synology-dsm-6/" rel="bookmark"><time class="entry-date published" datetime="2016-04-12T18:54:51+00:00">12 april 2016</time><time class="updated" datetime="2016-05-21T13:28:03+00:00">21 mei 2016</time></a></span><span class="mobile-hide">.</span>                        <span class="comments-link"><a href="https://teching.nl/2016/04/gratis-https-certificaat-met-synology-dsm-6/#comments">2 reacties</a></span>                        		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+                    <div class="entry-content">
+
+                <p>Let&#8217;s Encrypt is hard op weg om het internet veiliger te maken door gratis https certificaten uit te delen. Tot nu toe waren er eigenlijk alleen betaalde alternatieven beschikbaar, waar je een certificaat voor je domein moest kopen. Let&#8217;s Encrypt biedt daarentegen nu een gratis certificaat aan wat dit ook mogelijk maak. Met de komst van [&hellip;]</p>
+            </div><!-- .entry-content -->
+            <footer class="entry-footer continue-reading">
+		<a href="https://teching.nl/2016/04/gratis-https-certificaat-met-synology-dsm-6/" title="Lees verderGratis https certificaat met Synology DSM 6" rel="bookmark">Lees verder<i class="fa fa-arrow-circle-o-right"></i><span class="screen-reader-text"> Gratis https certificaat met Synology DSM 6</span></a>            </footer><!-- .entry-footer -->
+        
+    </div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-55" class="post-55 post type-post status-publish format-standard hentry category-android tag-android tag-galaxy-s5 tag-onvoldoende-opslagruimte tag-samsung">
+    <div class="index-box">	<header class="entry-header clear">
+            <div class="category-list"><a href="https://teching.nl/category/android/" rel="category tag">Android</a></div>		<h1 class="entry-title"><a href="https://teching.nl/2016/04/onvoldoende-opslagruimte-beschikbaar-op-galaxy-s5/" rel="bookmark">Onvoldoende opslagruimte beschikbaar op Galaxy S5</a></h1>
+
+				<div class="entry-meta">
+			<span class="byline">Geschreven door <span class="author vcard"><a class="url fn n" href="https://teching.nl/author/mgalama/">Menno</a></span></span><span class="mobile-hide"> op </span><span class="posted-on"><a href="https://teching.nl/2016/04/onvoldoende-opslagruimte-beschikbaar-op-galaxy-s5/" rel="bookmark"><time class="entry-date published" datetime="2016-04-06T20:04:06+00:00">06 april 2016</time><time class="updated" datetime="2017-04-26T07:25:24+00:00">26 april 2017</time></a></span><span class="mobile-hide">.</span>                        <span class="comments-link"><a href="https://teching.nl/2016/04/onvoldoende-opslagruimte-beschikbaar-op-galaxy-s5/#comments">1 reactie</a></span>                        		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+                    <div class="entry-content">
+
+                <p>Al meerdere keren heb ik de melding &#8216;Onvoldoende opslagruimte beschikbaar&#8217; op de Samsung Galaxy S5 gehad. Als gevolg hiervan lukt het vaak niet om updates voor apps te installeren. Naast het verwijderen van onnodige bestanden op de interne sd kaart, kan het vaak helpen om de cache te legen. Na enige tijd kan het voorkomen [&hellip;]</p>
+            </div><!-- .entry-content -->
+            <footer class="entry-footer continue-reading">
+		<a href="https://teching.nl/2016/04/onvoldoende-opslagruimte-beschikbaar-op-galaxy-s5/" title="Lees verderOnvoldoende opslagruimte beschikbaar op Galaxy S5" rel="bookmark">Lees verder<i class="fa fa-arrow-circle-o-right"></i><span class="screen-reader-text"> Onvoldoende opslagruimte beschikbaar op Galaxy S5</span></a>            </footer><!-- .entry-footer -->
+        
+    </div>
+</article><!-- #post-## -->
+
+			
+				<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Berichtennavigatie</h1>
+			<ul class='page-numbers'>
+	<li><span aria-current='page' class='page-numbers current'>1</span></li>
+	<li><a class='page-numbers' href='https://teching.nl/page/2/'>2</a></li>
+	<li><a class="next page-numbers" href="https://teching.nl/page/2/">Volgende &rarr;</a></li>
+</ul>
+	</nav><!-- .navigation -->
+	
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://teching.nl/">
+				<label>
+					<span class="screen-reader-text">Zoeken naar:</span>
+					<input type="search" class="search-field" placeholder="Zoeken &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Zoeken" />
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h1 class="widget-title">Meest recente berichten</h1>		<ul>
+											<li>
+					<a href="https://teching.nl/2017/05/word-verspringt-regelmatig-endnote/">Word verspringt regelmatig door EndNote</a>
+									</li>
+											<li>
+					<a href="https://teching.nl/2017/04/onvoldoende-opslagruimte-samsung-galaxy-s5-sd-kaart-slim-inzetten/">Onvoldoende opslagruimte Samsung Galaxy S5 &#8211; SD-kaart slim inzetten</a>
+									</li>
+											<li>
+					<a href="https://teching.nl/2017/04/solve-your-storage-problems-on-samsung-galaxy-s5-with-adoptable-storage/">Solve your storage problems on Samsung Galaxy S5 with Adoptable Storage</a>
+									</li>
+											<li>
+					<a href="https://teching.nl/2017/03/bootcamp-windows-10-stuck-on-logo/">Bootcamp Windows 10 stuck on logo</a>
+									</li>
+											<li>
+					<a href="https://teching.nl/2017/02/mongodb-and-kerberos-authentication/">MongoDB and Kerberos authentication</a>
+									</li>
+					</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h1 class="widget-title">Categorieën</h1>		<ul>
+	<li class="cat-item cat-item-6"><a href="https://teching.nl/category/android/" >Android</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://teching.nl/category/column/" >Column</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="https://teching.nl/category/endnote/" >EndNote</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="https://teching.nl/category/macbook/" >MacBook</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="https://teching.nl/category/mongodb/" >MongoDB</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://teching.nl/category/netwerk/" title="In deze categorie staan netwerk gerelateerde artikelen.">Netwerk</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="https://teching.nl/category/osx/" title="In deze categorie staan OSX en macOS gerelateerde artikelen.">OSX / macOS</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://teching.nl/category/sql/" >SQL</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://teching.nl/category/synology/" >Synology</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://teching.nl/category/windows/" title="In deze categorie staan Windows gerelateerde artikelen.">Windows</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="https://teching.nl/category/word/" >Word</a>
+</li>
+		</ul>
+</aside>	</div><!-- #secondary -->
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+            		<div class="site-info">
+						Ondersteund door <a href="http://wordpress.org/" rel="generator">WordPress</a>			<span class="sep"> | </span>
+			Vormgeving: <a href="http://wordpress.org/themes/simone/" rel="nofollow">Simone</a> door <a href="http://mor10.com/" rel="designer nofollow">mor10.com</a>		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://teching.nl/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css?ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://teching.nl/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201839'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2018Sepaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://teching.nl/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://teching.nl/wp-content/themes/simone/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='https://teching.nl/wp-content/themes/simone/js/hide-search.js?ver=20120206'></script>
+<script type='text/javascript' src='https://teching.nl/wp-content/themes/simone/js/superfish.min.js?ver=20140328'></script>
+<script type='text/javascript' src='https://teching.nl/wp-content/themes/simone/js/superfish-settings.js?ver=20140328'></script>
+<script type='text/javascript' src='https://teching.nl/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://teching.nl/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://teching.nl/wp-content/themes/simone/js/masonry-settings.js?ver=20140401'></script>
+<script type='text/javascript' src='https://teching.nl/wp-content/themes/simone/js/enquire.min.js?ver=20140429'></script>
+<script type='text/javascript' src='https://teching.nl/wp-content/themes/simone/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='https://teching.nl/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://teching.nl/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='https://teching.nl/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"nl","ajaxurl":"https:\/\/teching.nl\/wp-admin\/admin-ajax.php","nonce":"b928aa7fc1","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Reactie","post_comment":"Reactie plaatsen","write_comment":"Laat een reactie achter...","loading_comments":"Reacties laden....","download_original":"Bekijk volledige grootte <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Zorg ervoor dat je de reactie van tekst voorziet.","no_comment_email":"Gelieve een e-mailadres te geven om te kunnen reageren.","no_comment_author":"Gelieve je naam op te geven om te kunnen reageren.","comment_post_error":"Helaas, er trad een probleem op bij het plaatsen van je reactie. Probeer het later nog een keer.","comment_approved":"Je reactie is goedgekeurd.","comment_unapproved":"Je reactie is in behandeling.","camera":"Camera","aperture":"Opening","shutter_speed":"Sluitersnelheid","focal_length":"Focuslengte","copyright":"Auteursrecht","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/teching.nl\/wp-login.php?redirect_to=https%3A%2F%2Fteching.nl%2F2017%2F05%2Fword-verspringt-regelmatig-endnote%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">E-mailadres (Vereist)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Naam (Vereist)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://teching.nl/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20170209'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201839.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.3.2',blog:'104098291',post:'0',tz:'1',srv:'teching.nl'} ]);
+	_stq.push([ 'clickTrackerInit', '104098291', '0' ]);
+</script>
+
+</body>
+</html>

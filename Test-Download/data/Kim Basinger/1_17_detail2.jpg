@@ -1,0 +1,3284 @@
+<!DOCTYPE html>
+<html lang="de" prefix="og: http://ogp.me/ns#">
+<head>
+<title>Startseite WDR 2  - WDR 2 - Radio - WDR</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="pragma" content="no-cache"/>
+<meta http-equiv="cache-control" content="no-cache"/>
+<meta http-equiv="expires" content="Thu, 08 Oct 1981 12:00:00 GMT"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0"/>
+<meta property="fb:pages" content="1613685202193059,90642806830,130548627130448,526552690751146,384926558186855,129317673783457,106705622731646,259129067792159,861081030663297,144547849298445,212279448791080,1721380974797710,516462941896253,358433614205531,1615399212084960,544719199043323,1434661813258193,186835904683265,296289606573,421965021500752,1121862397919896,195377794250046,338029309880185,181756501864579,523140377699682,817293555066265,186702484702033,371082536270295,364704117198947,124207927630198,221940214516485,1475134875830953,759533957391820,325475550831853,216419568456863,429139000022,399241730563,174242895924927,53288989368,113750185472846,445562568971817,167378096628240,145008745706730,733049073494844,135072289873287,344196332337797,460210664060478,303598826385957,170611996376433,253874014683788,131969380240974,294785953870202,119668774820442,162845840490657,139707956130959,281374231896419,217409215341,306696179357452,150226341758049,303752069636561,342934919135634,419475644748902,830059210436802,559469264109750,273426262942,767705053304994,336836156649172"/>
+<meta name="Keywords" content="WDR,Radio, WDR 2, Startseite, Homepage, HP"/>
+<meta name="Description" content="WDR2.de, die Startseite der Radiowelle WDR 2. Sie enthält aktuelle Informationen, Musik, Sport und Service aus NRW, Deutschland und aller Welt sowie Audios und Videos."/>
+<meta name="Author" content="Akinci"/>
+<meta name="DC.Rights" content="Nur WDR"/>
+<meta name="DC.Date" content="2017-11-29T11:33+01:00"/>
+<meta name="Publisher" content="wdr.de"/>
+<meta property="og:title" content="Startseite WDR 2"/>
+<meta property="og:description" content="WDR2.de, die Startseite der Radiowelle WDR 2. Sie enthält aktuelle Informationen, Musik, Sport und Service aus NRW, Deutschland und aller Welt sowie Audios und Videos."/>
+<meta property="og:image" content="https://www1.wdr.de/radio/startseite/symbolbilder/dummy-logo108~_v-gseagaleriexl.jpg"/>
+<meta property="og:url" content="https://www1.wdr.de/radio/wdr2/index.html"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@wdr"/>
+<meta name="robots" content="index,follow,noarchive"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/resources/img/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/resources/img/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/resources/img/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/resources/img/favicon/manifest.json">
+<link rel="shortcut icon" href="/resources/img/favicon/favicon.ico">
+<meta name="msapplication-config" content="/resources/img/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/radio/wdr2/wdrzwei-startseite-102.feed"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/merged_base.css?version=5.58.1" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/merged_print.css?version=5.58.1" media="print"/>
+<noscript>
+<link rel="stylesheet" type="text/css" href="/resources/css/merged_noScript.css?version=5.58.1"/>
+</noscript>
+<script type="text/javascript">
+var cssPath = '/resources/css/merged_';
+var webappVersion = '5.58.1';
+</script>
+<script type="text/javascript" src="/resources/js/merged_scripts.js?version=5.58.1"></script>
+<link rel="stylesheet" href="/radio/wdr2/bereichscss_wdr2-100.css" type="text/css"/>
+<link rel="stylesheet" href="/radio/wdr2/rebrush-import100.css" type="text/css"/>
+<style type="text/css">
+/* Hintergrund-Definitionen XS */
+@media screen and (min-width: 0px) and (max-width: 479px) {
+body.wdr {
+background-image: url("/radio/wdr2/hintergrundgrafik-wdrzwei-test-light-100~_v-ARDAustauschformat.jpg");
+background-repeat: no-repeat;
+background-position: center 0;
+background-attachment: fixed;
+background-size: cover;
+}
+}
+/* Hintergrund-Definitionen S */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+body.wdr {
+background-image: url("/radio/wdr2/hintergrundgrafik-wdrzwei-test-light-100~_v-TeaserAufmacher.jpg");
+background-repeat: no-repeat;
+background-position: center 0;
+background-attachment: fixed;
+background-size: cover;
+}
+}
+/* Hintergrund-Definitionen M */
+@media screen and (min-width: 768px) and (max-width: 1009px) {
+body.wdr {
+background-image: url("/radio/wdr2/hintergrundgrafik-wdrzwei-test-light-100~_v-ARDFotogalerie.jpg");
+background-repeat: no-repeat;
+background-position: center 0;
+background-attachment: fixed;
+background-size: cover;
+}
+}
+/* Hintergrund-Definitionen L */
+@media screen and (min-width: 1010px) and (max-width: 1900px) {
+body.wdr {
+background-image: url("/radio/wdr2/hintergrundgrafik-wdrzwei-test-light-100~_v-HintergrundL.jpg");
+background-repeat: no-repeat;
+background-position: center 0;
+background-attachment: fixed;
+background-size: cover;
+}
+}
+/* Hintergrund-Definitionen XL */
+@media screen and (min-width: 1901px) {
+body.wdr {
+background-image: url("/radio/wdr2/hintergrundgrafik-wdrzwei-test-light-100~_v-HintergrundXL.jpg");
+background-repeat: no-repeat;
+background-position: center 0;
+background-attachment: fixed;
+background-size: cover;
+}
+}
+</style>
+</head>
+<body class="wdr themen viewL  " >
+<a id="goToHead"></a>
+<div id="header" >
+<div class="wrapper">
+<div class="section sectionA" data-ctrl-layoutable="{'id':'laySub','action':{'default':['widthBound'],'s':['disable'],'xs':['disable']}}" data-ctrl-collapsible="{'id':'collHead','action':{'default':['closeEntries','closeEntriesOnVanish','enable']}}">
+<div data-ctrl-layoutable="{'id':'laySub','action':{'default':['widthBound'],'s':['disable'],'xs':['disable']}}" class="mnHolder">
+<div class="fixedHeader">
+<div class="mnHolder">
+<ul id="skipLinks">
+<li>
+<a class="hidden" href="#goToContent">zum Inhalt</a>
+</li>
+<li>
+<a class="hidden" href="#wdrNavi">zur Navigation</a>
+</li>
+<li>
+<a class="hidden" href="#wdrSuche">zur Suche</a>
+</li>
+</ul>
+<div role="banner" class="logo">
+<a href="/index.html" >
+<img alt="zu Startseite WDR" src="/resources/img/wdr/logo/wdr_logo.svg" title="zu Startseite WDR"/>
+</a>
+</div>
+<div class="servicenavi" role="navigation">
+<ul data-ctrl-collhead-h3-body="{}">
+<li class="wetter">
+<a href="/wetter/index.html" title="Startseite Wetter">
+<span>Wetter</span>
+</a>
+</li>
+<li class="verkehr">
+<a href="/verkehr/index.html" title="Startseite Verkehr">
+<span>Verkehr</span>
+</a>
+</li>
+</ul>
+</div>
+<div role="search" class="searchBox" data-ctrl-collHead-entry="{'id':'ab4f1660-3f7b-4072-820d-b198e24cbab8-id'}">
+<a id="wdrSuche" class="hidden"></a>
+<div class="searchToggle" data-ctrl-collHead-ab4f1660-3f7b-4072-820d-b198e24cbab8-id-trigger="{'action':{'default':['closeOtherEntries','toggleBody']}}">
+<a href="/suche/index.jsp">Suche</a>
+</div>
+<form name="form_ab4f1660-3f7b-4072-820d-b198e24cbab8-id"
+class="searchForm"
+method="post"
+action="/suche/index.jsp"
+data-ctrl-collHead-ab4f1660-3f7b-4072-820d-b198e24cbab8-id-body={}
+data-ctrl-formular="{'id':'form_ab4f1660-3f7b-4072-820d-b198e24cbab8-id'}">
+<input
+class="searchInput"
+name="q"
+type="text"
+value="im WDR suchen"
+data-ctrl-form_ab4f1660-3f7b-4072-820d-b198e24cbab8-id-input="{'action':{'default':['switchValue']}}"
+/>
+<a	href="/suche/index.jsp"
+class="searchSubmit"
+data-ctrl-form_ab4f1660-3f7b-4072-820d-b198e24cbab8-id-trigger="{'action':{'default':['submit']}}">
+</a>
+</form>
+</div>
+<div class="naviToggle menueToggle" data-ctrl-collhead-h0-trigger="{'action':{'default':['closeOtherNavis','toggleBody']}}">
+<a href="#">Menü</a>
+</div>
+</div>
+</div>
+<div class="naviCont" data-ctrl-collhead-entry="{'id':'h0'}">
+<div class="navis" data-ctrl-collhead-h0-body="{}">
+<div role="navigation" class="subnavi" data-ctrl-navigation="{'id':'csub','action':{'default':['closeEntries','closeEntriesOnVanish']}}">
+<a class="hidden" name="wdrNavi" id="wdrNavi"></a>
+<ul class="ressorts">
+<li data-ctrl-csub-entry="{'id':'a1'}">
+<span class="collapsed subressort " data-ctrl-csub-a1-trigger="{'action':{'default':['closeOtherNavis','toggleBody']}}">
+<a href="/nachrichten/index.html">
+Nachrichten
+</a>
+</span>
+<ul class="subressorts" style="display: none;" data-ctrl-csub-a1-body="{}" data-ctrl-laySub-entry="{}">
+<li>
+<a href="/nachrichten/index.html">
+Übersicht Nachrichten
+</a>
+</li>
+<li>
+<a href="/nachrichten/rheinland/index.html">
+Rheinland
+</a>
+</li>
+<li>
+<a href="/nachrichten/westfalen-lippe/index.html">
+Westfalen-Lippe
+</a>
+</li>
+<li>
+<a href="/nachrichten/ruhrgebiet/index.html">
+Ruhrgebiet
+</a>
+</li>
+<li>
+<a href="/nachrichten/landespolitik/index.html">
+Landespolitik
+</a>
+</li>
+<li>
+<a href="/nachrichten/wirtschaft/index.html">
+Wirtschaft
+</a>
+</li>
+<li>
+<a href="/nachrichten/investigatives/index.html">
+Investigatives
+</a>
+</li>
+</ul>
+</li>
+<li data-ctrl-csub-entry="{'id':'a2'}">
+<span class="collapsed subressort " data-ctrl-csub-a2-trigger="{'action':{'default':['closeOtherNavis','toggleBody']}}">
+<a href="/sport/index.html">
+Sport
+</a>
+</span>
+<ul class="subressorts" style="display: none;" data-ctrl-csub-a2-body="{}" data-ctrl-laySub-entry="{}">
+<li>
+<a href="/sport/index.html">
+Übersicht Sport
+</a>
+</li>
+<li>
+<a href="/sport/fussball/index.html">
+Fußball
+</a>
+</li>
+<li>
+<a href="/sport/eishockey/index.html">
+Eishockey
+</a>
+</li>
+<li>
+<a href="/sport/handball/index.html">
+Handball
+</a>
+</li>
+<li>
+<a href="/sport/ergebnisse/index.html">
+Ergebnisse
+</a>
+</li>
+</ul>
+</li>
+<li data-ctrl-csub-entry="{'id':'a3'}">
+<span class="collapsed subressort " data-ctrl-csub-a3-trigger="{'action':{'default':['closeOtherNavis','toggleBody']}}">
+<a href="/wissen/index.html">
+Wissen
+</a>
+</span>
+<ul class="subressorts" style="display: none;" data-ctrl-csub-a3-body="{}" data-ctrl-laySub-entry="{}">
+<li>
+<a href="/wissen/index.html">
+Übersicht Wissen
+</a>
+</li>
+<li>
+<a href="/wissen/mensch/index.html">
+Mensch
+</a>
+</li>
+<li>
+<a href="/wissen/natur/index.html">
+Natur
+</a>
+</li>
+<li>
+<a href="/wissen/technik/index.html">
+Technik
+</a>
+</li>
+</ul>
+</li>
+<li data-ctrl-csub-entry="{'id':'a4'}">
+<span class="collapsed subressort " data-ctrl-csub-a4-trigger="{'action':{'default':['closeOtherNavis','toggleBody']}}">
+<a href="/verbraucher/index.html">
+Verbraucher
+</a>
+</span>
+<ul class="subressorts" style="display: none;" data-ctrl-csub-a4-body="{}" data-ctrl-laySub-entry="{}">
+<li>
+<a href="/verbraucher/index.html">
+Übersicht Verbraucher
+</a>
+</li>
+<li>
+<a href="/verbraucher/rezepte/index.html">
+Rezepte
+</a>
+</li>
+<li>
+<a href="/verbraucher/ernaehrung/index.html">
+Ernährung
+</a>
+</li>
+<li>
+<a href="/verbraucher/gesundheit/index.html">
+Gesundheit
+</a>
+</li>
+<li>
+<a href="/verbraucher/geld/index.html">
+Geld
+</a>
+</li>
+<li>
+<a href="/verbraucher/freizeit/index.html">
+Freizeit
+</a>
+</li>
+<li>
+<a href="/verbraucher/digital/index.html">
+Digital
+</a>
+</li>
+</ul>
+</li>
+<li data-ctrl-csub-entry="{'id':'a5'}">
+<span class="collapsed subressort " data-ctrl-csub-a5-trigger="{'action':{'default':['closeOtherNavis','toggleBody']}}">
+<a href="/kultur/index.html">
+Kultur
+</a>
+</span>
+<ul class="subressorts" style="display: none;" data-ctrl-csub-a5-body="{}" data-ctrl-laySub-entry="{}">
+<li>
+<a href="/kultur/index.html">
+Übersicht Kultur
+</a>
+</li>
+<li>
+<a href="/kultur/buecher/index.html">
+Bücher
+</a>
+</li>
+<li>
+<a href="/kultur/buehne/index.html">
+Bühne
+</a>
+</li>
+<li>
+<a href="/kultur/film/index.html">
+Film
+</a>
+</li>
+<li>
+<a href="/kultur/kunst/index.html">
+Kunst
+</a>
+</li>
+<li>
+<a href="/kultur/musik/index.html">
+Musik
+</a>
+</li>
+<li>
+<a href="/kultur/orchester-chor/index.html">
+Orchester und Chor
+</a>
+</li>
+</ul>
+</li>
+<li data-ctrl-csub-entry="{'id':'a6'}">
+<span class="collapsed subressort " data-ctrl-csub-a6-trigger="{'action':{'default':['closeOtherNavis','toggleBody']}}">
+<a href="/unterhaltung/index.html">
+Unterhaltung
+</a>
+</span>
+<ul class="subressorts" style="display: none;" data-ctrl-csub-a6-body="{}" data-ctrl-laySub-entry="{}">
+<li>
+<a href="/unterhaltung/index.html">
+Übersicht Unterhaltung
+</a>
+</li>
+<li>
+<a href="/unterhaltung/film-und-serie/index.html">
+Film und Serie
+</a>
+</li>
+<li>
+<a href="/unterhaltung/kabarett-und-comedy/index.html">
+Kabarett und Comedy
+</a>
+</li>
+<li>
+<a href="/unterhaltung/show-und-talk/index.html">
+Show und Talk
+</a>
+</li>
+<li>
+<a href="/unterhaltung/unterhaltung-im-westen/index.html">
+Unterhaltung im Westen
+</a>
+</li>
+<li>
+<a href="/unterhaltung/karneval/index.html">
+Karneval
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<noscript>
+<div class="naviChooser">
+<form action="/system/formnavi.jsp" method="post">
+<p>Detail Navigation:</p>
+<select name="path" class="naviSelect">
+<option value="/">WDR</option>
+<optgroup label="Nachrichten">
+<option value="/nachrichten">Übersicht Nachrichten</option>
+<option value="/nachrichten/rheinland">Rheinland</option>
+<option value="/nachrichten/westfalen-lippe">Westfalen-Lippe</option>
+<option value="/nachrichten/ruhrgebiet">Ruhrgebiet</option>
+<option value="/nachrichten/landespolitik">Landespolitik</option>
+<option value="/nachrichten/wirtschaft">Wirtschaft</option>
+<option value="/nachrichten/investigatives">Investigatives</option>
+</optgroup>
+<optgroup label="Sport">
+<option value="/sport">Übersicht Sport</option>
+<option value="/sport/fussball">Fußball</option>
+<option value="/sport/eishockey">Eishockey</option>
+<option value="/sport/handball">Handball</option>
+<option value="/sport/ergebnisse">Ergebnisse</option>
+</optgroup>
+<optgroup label="Wissen">
+<option value="/wissen">Übersicht Wissen</option>
+<option value="/wissen/mensch">Mensch</option>
+<option value="/wissen/natur">Natur</option>
+<option value="/wissen/technik">Technik</option>
+</optgroup>
+<optgroup label="Verbraucher">
+<option value="/verbraucher">Übersicht Verbraucher</option>
+<option value="/verbraucher/rezepte">Rezepte</option>
+<option value="/verbraucher/ernaehrung">Ernährung</option>
+<option value="/verbraucher/gesundheit">Gesundheit</option>
+<option value="/verbraucher/geld">Geld</option>
+<option value="/verbraucher/freizeit">Freizeit</option>
+<option value="/verbraucher/digital">Digital</option>
+</optgroup>
+<optgroup label="Kultur">
+<option value="/kultur">Übersicht Kultur</option>
+<option value="/kultur/buecher">Bücher</option>
+<option value="/kultur/buehne">Bühne</option>
+<option value="/kultur/film">Film</option>
+<option value="/kultur/kunst">Kunst</option>
+<option value="/kultur/musik">Musik</option>
+<option value="/kultur/orchester-chor">Orchester und Chor</option>
+</optgroup>
+<optgroup label="Unterhaltung">
+<option value="/unterhaltung">Übersicht Unterhaltung</option>
+<option value="/unterhaltung/film-und-serie">Film und Serie</option>
+<option value="/unterhaltung/kabarett-und-comedy">Kabarett und Comedy</option>
+<option value="/unterhaltung/show-und-talk">Show und Talk</option>
+<option value="/unterhaltung/unterhaltung-im-westen">Unterhaltung im Westen</option>
+<option value="/unterhaltung/karneval">Karneval</option>
+</optgroup>
+</select>
+<input value="Zum Ressort wechseln" type="submit">
+</form>
+</div>
+</noscript>
+<div class="masternavi" role="navigation" data-ctrl-navigation="{'id':'clayer','action':{'default':['closeEntries','closeEntriesOnVanish']}, 'refreshOnAdded':'true'}">
+<ul>
+<li class="mt" >
+<a href="/mediathek/index.html">
+Mediathek
+</a>
+</li>
+<li class="tv" data-ctrl-clayer-entry="{'id':'tvlayer'}">
+<span class="subressort collapsed layer" data-ctrl-clayer-tvlayer-trigger="{'action':{'default':['closeOtherNavis','toggleBody','openLayerEntry'],'s':['preventToggle'],'xs':['preventToggle'] }}">
+<a href="/fernsehen/index.html" data-ctrl-attributeswap="{'action':{'xs': {'href': '/fernsehen/hp-fernsehlayer-100.html'}, 's': {'href': '/fernsehen/hp-fernsehlayer-100.html'}}}">Fernsehen</a>
+</span>
+<div class="subressorts" data-ctrl-clayer-tvlayer-body="{}" id="tvlayer">
+<div class="section sectionA index rubric" data-ctrl-loadable="{'id':'lytv','action':{'s':['disable'],'xs':['disable']}}">
+<div class="con" data-ctrl-lytv-target="{}"></div>
+<span data-ctrl-lytv-source="{'action':{'default':['load']},'url':'/fernsehen/hp-fernsehlayer-100~fragment.html','method':'GET','singleLoad':false}">
+<a class="layerTrigger" href="#"></a>
+</span>
+</div>
+</div>
+</li>
+<li class="active radio" data-ctrl-clayer-entry="{'id':'radiolayer'}">
+<span class="subressort collapsed layer" data-ctrl-clayer-radiolayer-trigger="{'action':{'default':['closeOtherNavis','toggleBody','openLayerEntry'],'s':['preventToggle'],'xs':['preventToggle'] }}">
+<a href="/radio/index.html" data-ctrl-attributeswap="{'action':{'xs': {'href': '/radio/index.html'}, 's': {'href': '/radio/index.html'}}}">Radio</a>
+</span>
+<div class="subressorts" data-ctrl-clayer-radiolayer-body="{}" id="radiolayer">
+<div class="section sectionA index rubric" data-ctrl-loadable="{'id':'lyradio','action':{'s':['disable'],'xs':['disable']}}">
+<div class="con" data-ctrl-lyradio-target="{}"></div>
+<span data-ctrl-lyradio-source="{'action':{'default':['load']},'url':'/radio/radiolayer-100~fragment.html','method':'GET','singleLoad':false}">
+<a class="layerTrigger" href="#"></a>
+</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="content" class="home" data-page-url="https://www1.wdr.de/radio/wdr2/index.html">
+<div class="wrapper equalHeight" role="main">
+<div class="section sectionA hidden">
+<div class="breadcrumb screenReader">
+<p class="hidden">Sie befinden sich hier: </p>
+<ul>
+<li>
+<a href="/index.html">WDR</a>
+</li>
+<li>
+<a href="/radio/index.html">Radio</a>
+</li>
+<li>
+WDR 2
+</li>
+</ul>
+</div>
+</div>
+<a id="goToContent"></a>
+<div class="section sectionA">
+<div class="con clean" data-ctrl-hideable="{'id':'radiomodul-wdrzwei-100','action':{'default':['enable']}}">
+<h2 class="conHeadline hidden">Radiomodul</h2>
+<div class="modCon">
+<div class="mod modA modRadioModule" data-ctrl-epg="{ 'id': 'epg-radiomodul-wdrzwei-100', 'url': '/radio/wdr2/radiomodul-wdrzwei-100.html', 'interval': 60000 }">
+<div class="moduleTop">
+<div class="moduleInfo clearfix">
+<div class="showLogo">
+<a href="/radio/wdr2/index.html" >
+<img alt="Zur Startseite WDR 2" title="Zur Startseite WDR 2" src="/resources/img/wdr/logo/epgmodule/wdr2_logo_claim.svg" data-ctrl-attributeswap="{'action':{'default':{'src':'/resources/img/wdr/logo/epgmodule/wdr2_logo_claim.svg'},'xs':{'src':'/resources/img/wdr/logo/epgmodule/wdr2_logo.svg'},'s':{'src':'/resources/img/wdr/logo/epgmodule/wdr2_logo.svg'}}}"/>
+</a>
+</div>
+<a class="playArea" data-ctrl-popup="{ 'id': 'radiomodul-radiomodul-wdrzwei-100', 'url': '/radio/player/radioplayer104~_layout-popupVersion.html', 'height': 800, 'width': 700, 'windowName': 'wdr2Webradio', 'action': { 'default': ['popup'] } }" href="/radio/player/radioplayer104~_layout-popupVersion.html">
+<span class="showName">
+Live hören
+</span>
+</a>
+<div class="currentShow" data-ctrl-epg-radiomodul-wdrzwei-100-target="{}">
+Jetzt läuft:
+Love on the brain von Rihanna
+</div>
+</div>
+</div>
+<div class="moduleBottom clearfix" data-ctrl-epg-radiomodul-wdrzwei-100-target="{}">
+<div class="showInfo">
+<span class="playTime">05.00 - 09.00 Uhr</span>
+<a class="playName" href="http://www1.wdr.de/radio/wdr2/index.html">WDR 2 Der Morgen</a>
+</div>
+<div class="showPic">
+<img src="/radio/wdr2/ueber-uns/vogt-stefan-100~_v-ARDGrosserTeaser.jpg"    title="Stefan Vogt | Bildquelle: wdr" alt="Stefan Vogt im Porträt" height="108" width='192' />
+</div>
+<div class="moduleFooter">
+<span class="moderator">
+mit <a href="https://www1.wdr.de/radio/wdr2/ueber-uns/stefan-vogt-moderator-100.html">Stefan Vogt</a>
+</span>
+<a href="/radio/wdr2/kontakt/index.html" class="studioMail">
+<span>Mail ins Studio</span>
+</a>
+<a href="/radio/wdr2/musik/playlist/index.html" class="playlist">
+<span>Playlist und Titelsuche</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div data-ctrl-collapsible="{'id':'navProgram','action':{'default':['openEntries','disable'], 'xs':['closeEntries','closeEntriesOnVanish','enable'],'s':['closeEntries','closeEntriesOnVanish','enable']}}" class="innerNavi">
+<div class="naviSerialProgram" role="navigation" data-ctrl-navprogram-entry="{'id':'nav1'}" data-ctrl-collapsible="{'id':'innerNavi','action':{'default':['closeEntries','closeEntriesOnVanish']}}">
+<div class="menueToggle hasArrow" data-ctrl-navprogram-nav1-trigger="{'action':{'default':['closeOtherEntries','toggleBody']}}" style="position: static; cursor: default;">
+<a href="#">Men&uuml;</a>
+</div>
+<ul class="menu" data-ctrl-navprogram-nav1-body="{}">
+<li >
+<span class="collapsed subressort" >
+<a href="/radio/wdr2/programm/index.html">Programm</a>
+</span>
+</li>
+<li >
+<span class="collapsed subressort" >
+<a href="/radio/wdr2/musik/index.html">Musik</a>
+</span>
+</li>
+<li >
+<span class="collapsed subressort" >
+<a href="/radio/wdr2/abisz/index.html">A - Z</a>
+</span>
+</li>
+<li >
+<span class="collapsed subressort" >
+<a href="/radio/wdr2/veranstaltungen/index.html">Veranstaltungen</a>
+</span>
+</li>
+<li >
+<span class="collapsed subressort" >
+<a href="/radio/wdr2/ueber-uns/index.html">Über uns</a>
+</span>
+</li>
+<li >
+<span class="collapsed subressort" >
+<a href="/radio/wdr2/kontakt/index.html">Kontakt</a>
+</span>
+</li>
+</ul>
+<div class="clearMe"></div>
+</div>
+</div>
+</div>
+<!-- wdr -->
+
+
+<h1 class="siteHeadline hidden">Startseite WDR 2 </h1>
+<noscript>
+<div class="section sectionA">
+<div class="con">
+<div class="modCon">
+<div class="mod modA modStage">
+<div class="boxCon">
+<div class="box">
+<div class="teaser">
+<div class="mediaCon">
+<div class="media mediaA">
+<img alt="Javascript-Fehler" title="Javascript-Fehler" src="/resources/img/wdr/various/error.jpg" class="img" />
+</div>
+</div>
+<div class="textWrapper">
+<h4 class="headline">Diese Seite ben&ouml;tigt JavaScript. Bitte &auml;ndern Sie die Konfiguration Ihres Browsers.</h4>
+<p class="teasertext">Falls JavaScript in Ihrem Browser deaktiviert wurde, &auml;ndern Sie dies bitte &uuml;ber das
+entsprechende Einstellungs-Men&uuml; Ihres Browsers. Nur mit aktiviertem JavaScript kann unser Angebot richtig dargestellt
+und mit allen Funktionen genutzt werden.</p>
+</div>
+<!-- googleon: all -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</noscript>
+<div class="section sectionA">
+<div class="con highlight">
+<h2 class="conHeadline hidden">Premium Teaser</h2>
+<div class="modCon">
+<div class="mod modA modPremium">
+<div class="boxCon">
+<div class="box">
+<h3 class="ressort">
+<a href="/mediathek/video/index.html">
+Video
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/video/radio/wdr2/wdr2tour/video-das-radiokonzert-mit-the-night-game-live-aus-oberhausen-100.html" data-extension='{"mediaObj":{"offset":"0.0"}}' title="Das WDR 2 Radiokonzert mit The Night Game">
+<div class="mediaCon">
+<div class="media mediaA video">
+<picture>
+<source srcset="/radio/wdr2/aktionen/wdr2-tour/the-night-game-128~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/aktionen/wdr2-tour/the-night-game-128~_v-bannerhochl.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/aktionen/wdr2-tour/the-night-game-128~_v-bannerhochm.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/aktionen/wdr2-tour/the-night-game-128~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/aktionen/wdr2-tour/the-night-game-128~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/aktionen/wdr2-tour/the-night-game-128~_v-bannerhochl.jpg" />
+<img class="img" alt="The Night Game live aus Oberhausen" title="The Night Game live aus Oberhausen | Bildquelle: WDR/Thomas Brill" src="/radio/wdr2/aktionen/wdr2-tour/the-night-game-128~_v-bannerhochl.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="video" class="headline">
+<span class="hidden">Video:</span>
+Das Radiokonzert mit The Night Game live aus Oberhausen
+</h4>
+<p class="teasertext">
+Es war eine ganz besondere Atmosphäre: The Night Game rockten einen Abend lang das historische Ebertbad in Oberhausen. Die Fans waren mehr als begeistert.
+&nbsp;|&nbsp;
+<strong>video</strong>
+</p>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con highlight">
+<h2 class="conHeadline">
+WDR 2 Tour
+</h2>
+<div class="mod modD">
+<div class="boxCon equalHeight" >
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/radio/wdr2/aktionen/wdr2-tour/the-night-game-126.html" >
+<div class="mediaCon">
+<div class="media mediaA gallery">
+<picture>
+<source srcset="/radio/wdr2/the-night-game-142~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/the-night-game-142~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/the-night-game-142~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/the-night-game-142~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/the-night-game-142~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/the-night-game-142~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="The Night Game live aus Oberhausen" title="The Night Game live aus Oberhausen | Bildquelle: WDR/Thomas Brill" src="/radio/wdr2/the-night-game-142~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="bilder" class="headline">
+<span class="hidden">Fotostrecke:</span>
+The Night Game in Oberhausen
+</h4>
+<p class="teasertext">
+Es war eine ganz besondere Atmosphäre: The Night Game rockten einen Abend lang das historische Ebertbad in Oberhausen. Die Fans waren mehr als begeistert.
+&nbsp;|&nbsp;
+<strong>bilder</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" >
+<h3 class="ressort">
+<a href="/mediathek/video/index.html">
+Video
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/video/radio/wdr2/wdr2tour/video-das-radiokonzert-mit-wincent-weiss-live-aus-alsdorf-100.html" data-extension='{"mediaObj":{"offset":"0.0"}}' title="Das WDR 2 Radiokonzert mit Wincent Weiss">
+<div class="mediaCon">
+<div class="media mediaA video">
+<picture>
+<source srcset="/radio/wdr2/wincent-weiss-184~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/wincent-weiss-184~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/wincent-weiss-184~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/wincent-weiss-184~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/wincent-weiss-184~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/wincent-weiss-184~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="WDR 2 Tour - Wincent Weiss live aus Alsdorf" title="WDR 2 Tour - Wincent Weiss live aus Alsdorf | Bildquelle: Thomas Brill/WDR" src="/radio/wdr2/wincent-weiss-184~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="video" class="headline">
+<span class="hidden">Video:</span>
+Das Radiokonzert mit Wincent Weiss live aus Alsdorf
+</h4>
+<p class="teasertext">
+<strong>video</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/radio/wdr2/aktionen/wdr2-tour/wincent-weiss-166.html" >
+<div class="mediaCon">
+<div class="media mediaA gallery">
+<picture>
+<source srcset="/radio/wdr2/wincent-weiss-216~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/wincent-weiss-216~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/wincent-weiss-216~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/wincent-weiss-216~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/wincent-weiss-216~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/wincent-weiss-216~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="WDR 2 Tour - Wincent Weiss live aus Alsdorf" title="WDR 2 Tour - Wincent Weiss live aus Alsdorf | Bildquelle: Thomas Brill/WDR" src="/radio/wdr2/wincent-weiss-216~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="bilder" class="headline">
+<span class="hidden">Fotostrecke:</span>
+WDR 2 Radiokonzert mit Wincent Weiss
+</h4>
+<p class="teasertext">
+<strong>bilder</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/radio/wdr2/aktionen/wdr2-tour/tour-startseite-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/aktionen/wdr2-tour/teaserbild196~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/aktionen/wdr2-tour/teaserbild196~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/aktionen/wdr2-tour/teaserbild196~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/aktionen/wdr2-tour/teaserbild196~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/aktionen/wdr2-tour/teaserbild196~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/aktionen/wdr2-tour/teaserbild196~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Die WDR 2 Tour 2018" title="Die WDR 2 Tour 2018 | Bildquelle: WDR" src="/radio/wdr2/aktionen/wdr2-tour/teaserbild196~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Alles zur WDR 2 Tour
+</h4>
+<p class="teasertext">
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con">
+<div class="mod modB">
+<div class="boxCon equalHeight" >
+<div class="box" >
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser">
+<a href="/mediathek/audio/wdr2/audio-spd-vize-ralf-stegner-wir-sind-der-serioese-teil-der-bundesregierung-100.html" title="WDR 2">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/wdr2/aktuell/ralf-stegner-102~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/aktuell/ralf-stegner-102~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/aktuell/ralf-stegner-102~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/aktuell/ralf-stegner-102~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/aktuell/ralf-stegner-102~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/aktuell/ralf-stegner-102~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Ralf Stegner, Landes- und Fraktionsvorsitzender der SPD Schleswig-Holstein, am 17.12.2015 in seinem Büro im Landeshaus in Kiel" title="Ralf Stegner, Landes- und Fraktionsvorsitzender der SPD Schleswig-Holstein, am 17.12.2015 in seinem Büro im Landeshaus in Kiel | Bildquelle: dpa" src="/radio/wdr2/aktuell/ralf-stegner-102~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+SPD-Vize Ralf Stegner: "Wir sind der seriöse Teil der Bundesregierung"
+</h4>
+<p class="programInfo">WDR 2 | 26.09.2018 | <span class="hidden">L&auml;nge: </span>04:21 <abbr title="Minuten">Min.</abbr></p>
+<p class="teasertext">
+"Dass es tatsächlich zur Abwahl des langjährigen Vertrauten von Angela Merkel kommt, das hat nicht nur mich überrascht", sagt SPD-Vize Ralf Stegner zur Abwahl von Volker Kauder als Vorsitzendem der Unionsfraktion. Auf WDR 2 betont er: "Wir sind der seriöse Teil der Bundesregierung." Die SPD kümmere sich um Themen wie Rente, Wohnen, Bildung und Pflege.
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/mediathek/audio/wdr2/audio-wolfgang-kubicki-fdp-merkel-hat-kein-vertrauen-mehr-100.html" title="WDR 2">
+<span>Wolfgang Kubicki, FDP: "Merkel hat kein Vertrauen mehr"</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+<li >
+<a href="//www.tagesschau.de/inland/interview-fraktionschef-wahl-101.html" >
+<span>Merkel und die Fraktion: Vertrauensfrage? "So weit ist es noch nicht"</span> <span>|</span> <strong>tagesschau</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" >
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser">
+<a href="/mediathek/audio/wdr2/audio-ralph-brinkhaus-kein-aufstand-gegen-die-bundeskanzlerin-100.html" title="WDR 2">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/wdr5/sendungen/morgenecho/ralph-brinkhaus-100~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr5/sendungen/morgenecho/ralph-brinkhaus-100~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr5/sendungen/morgenecho/ralph-brinkhaus-100~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr5/sendungen/morgenecho/ralph-brinkhaus-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr5/sendungen/morgenecho/ralph-brinkhaus-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr5/sendungen/morgenecho/ralph-brinkhaus-100~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Ralph Brinkhaus, 25.09.2018" title="Ralph Brinkhaus, 25.09.2018 | Bildquelle: Kay Nietfeld / dpa" src="/radio/wdr5/sendungen/morgenecho/ralph-brinkhaus-100~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+Ralph Brinkhaus: "Kein Aufstand gegen die Bundeskanzlerin"
+</h4>
+<p class="programInfo">WDR 2 | 26.09.2018 | <span class="hidden">L&auml;nge: </span>03:12 <abbr title="Minuten">Min.</abbr></p>
+<p class="teasertext">
+Das Wahlergebnis sei "kein Aufstand gegen die Bundeskanzlerin", sagte Ralph Brinkhaus, neu gewählter Unionsfraktions-Vorsitzender, auf WDR 2 zu seinem Wahlsieg über den langjährigen Amtsinhaber und Vertrauten Merkels, Volker Kauder. Die Fraktion wolle aber eigenständiger sein.
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/mediathek/audio/wdr2/audio-weggefaehrte-schaefer-ueber-brinkhaus-richtiger-mann-zur-richtigen-zeit-100.html" title="WDR 2">
+<span>Weggefährte Schäfer über Brinkhaus: "Richtiger Mann zur richtigen Zeit"</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+<li >
+<a href="/mediathek/audio/wdr2/audio-michael-spreng-merkel-in-der-schlussphase-ihrer-kanzlerschaft-100.html" title="WDR 2">
+<span>Michael Spreng: "Merkel in der Schlussphase ihrer Kanzlerschaft"</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con highlight">
+<h2 class="conHeadline hidden">Premium Teaser</h2>
+<div class="modCon">
+<div class="mod modA modPremium">
+<div class="boxCon">
+<div class="box">
+<h3 class="ressort">
+<a href="/radio/wdr2/programm/kino/index.html">
+WDR 2 Kino
+</a>
+</h3>
+<div class="teaser">
+<a href="http://www1.wdr.de/radio/wdr2/programm/kino/kino-uebersichtsseite-102.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/programm/kino/ballon-104~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/programm/kino/ballon-104~_v-bannerhochl.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/programm/kino/ballon-104~_v-bannerhochm.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/programm/kino/ballon-104~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/programm/kino/ballon-104~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/programm/kino/ballon-104~_v-bannerhochl.jpg" />
+<img class="img" alt="Der Film &#034;Ballon&#034; von Bully Herbig erzählt die Flucht von zwei Familien aus der DDR per Heißluftballon" title="Der Film &#034;Ballon&#034; von Bully Herbig erzählt die Flucht von zwei Familien aus der DDR per Heißluftballon | Bildquelle: StudioCanal/dpa" src="/radio/wdr2/programm/kino/ballon-104~_v-bannerhochl.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Aktuelle Filme im Überblick
+</h4>
+<p class="teasertext">
+Neu im Kino: "Ballon" erzählt die packende Geschichte einer Flucht aus der DDR im Heißluftballon, "Offenes Geheimnis" enttäuscht trotz Starbesetzung und "Die Unglaublichen 2" ist ein großer Spaß für die ganze Familie.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/mediathek/audio/wdr2/wdr2-kino/index.html" >
+<span>WDR 2 Kino</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con">
+<h2 class="conHeadline">
+<a href="/mediathek/audio/wdr2/mediathek-wdr2-audiokalender-100.html" >
+AKTUELLE AUDIOS
+</a>
+</h2>
+<div class="modCon" >
+<div class="mod modD modMini" data-ctrl-slidable="{'id':'sl5',related:['audio-copa-unbekannte-nummer-100'],'action':{'default':['disableWhenNotNeeded'],'loaded':['disableWhenNotNeeded']}}">
+<div class="boxCon equalHeight" aria-live="polite" data-ctrl-sl5-slider="{}" >
+<div class="box" data-ctrl-audio-copa-unbekannte-nummer-100-source="{'action':{'default':['load','slideTo']},'content':'0_5_1'}">
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/audio/wdr2/wdr2-copacabana/audio-copa-unbekannte-nummer-100.html" title="WDR2 Copacabana">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Copacabana-Schild mit Palme" title="Copacabana-Schild mit Palme | Bildquelle: wdr" src="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+Copa "Unbekannte Nummer"
+</h4>
+<p class="teasertext">
+Die Copa Boys sind zurück aus der Sommerpause und erklären wieder sich und dem Rest der Welt dieselbige. Also die Welt. Alles ohne fertigen Text, lupenreine Improvisationscomedy. Im WDR 2 Comedyherbst auch live unterwegs im Westen. Klingt interessant, isses auch.
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-audio-copa-unbekannte-nummer-100-source="{'action':{'default':['load','slideTo']},'content':'0_5_2'}">
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/audio/wdr2/audio-gesetz-fuer-kuerzere-wartezeiten-auf-arzttermine-100.html" title="WDR 2">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/nachrichten/landarzt-110~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/landarzt-110~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/landarzt-110~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/landarzt-110~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/landarzt-110~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/landarzt-110~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Landarzt mit Patient" title="Landarzt mit Patient | Bildquelle: dpa/ Bernd Weissbrod" src="/nachrichten/landarzt-110~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+Gesetz für kürzere Wartezeiten auf Arzttermine
+</h4>
+<p class="teasertext">
+Kassenpatienten sollen schneller einen Termin beim Arzt bekommen. Das Bundeskabinett hat ein entsprechendes Gesetzespaket auf den Weg gebracht. So sollen Kassenärzte unter anderem mehr Sprechstunden anbieten und Zuschläge bekommen, wenn sie neue Patienten aufnehmen, berichtet Christopher Jähnert, WDR 2 Berlin.
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-audio-copa-unbekannte-nummer-100-source="{'action':{'default':['load','slideTo']},'content':'0_5_3'}">
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/audio/wdr2/audio-wolfgang-kubicki-fdp-merkel-hat-kein-vertrauen-mehr-100.html" title="WDR 2">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/wdr2/kubicki-wolfgang-fdp-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/kubicki-wolfgang-fdp-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/kubicki-wolfgang-fdp-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/kubicki-wolfgang-fdp-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/kubicki-wolfgang-fdp-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/kubicki-wolfgang-fdp-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Wolfgang Kubicki, stellvertretender Bundesvorsitzender der FDP, spricht am 18. Mai 2018 in die Mikrofone der Pressevertreter" title="Wolfgang Kubicki, stellvertretender Bundesvorsitzender der FDP, spricht am 18. Mai 2018 in die Mikrofone der Pressevertreter | Bildquelle: dpa" src="/radio/wdr2/kubicki-wolfgang-fdp-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+Wolfgang Kubicki, FDP: "Merkel hat kein Vertrauen mehr"
+</h4>
+<p class="teasertext">
+Mit der Vertrauensfrage könne Angela Merkel im Parlament dokumentieren, ob sie noch die Mehrzeit des Hauses hinter sich versammeln könne, sagte Wolfgang Kubicki, FDP, auf WDR 2:  Es habe sich gezeigt, dass "eine Vielzahl von Abgeordneten sowohl der SPD als auch der CDU/CSU ihre Politik nicht mehr mittragen will".
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="//www.tagesschau.de/inland/interview-fraktionschef-wahl-101.html" >
+<span>Merkel und die Fraktion: Vertrauensfrage? "So weit ist es noch nicht"</span> <span>|</span> <strong>tagesschau</strong>
+</a>
+</li>
+<li >
+<a href="//www.tagesschau.de/inland/brinkhaus-fraktionschef-101.html" >
+<span>Union nach Brinkhaus-Wahl: Wie groß ist Merkels Rückhalt noch?</span> <span>|</span> <strong>tagesschau</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" data-ctrl-audio-copa-unbekannte-nummer-100-source="{'action':{'default':['load','slideTo']},'content':'0_5_4'}">
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/audio/wdr2/audio-peter-klaas-koelner-zoo-spinnen-mal-auf-die-hand-nehmen-100.html" title="WDR 2">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/wdr2/aktuell/vogelspinne-wdr-zwei-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/aktuell/vogelspinne-wdr-zwei-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/aktuell/vogelspinne-wdr-zwei-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/aktuell/vogelspinne-wdr-zwei-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/aktuell/vogelspinne-wdr-zwei-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/aktuell/vogelspinne-wdr-zwei-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Eine Vogelspinne auf der Hand von Peter Claas, Zoo Köln" title="Eine Vogelspinne auf der Hand von Peter Claas, Zoo Köln | Bildquelle: WDR" src="/radio/wdr2/aktuell/vogelspinne-wdr-zwei-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+Peter Klaas, Kölner Zoo: "Spinnen mal auf die Hand nehmen"
+</h4>
+<p class="teasertext">
+Herbstzeit, Spinnenzeit: Viele Achtbeiner suchen nun das Warme und zeigen sich in Wohnungen. Peter Klass, Zoo Köln, war mit zwei Vogelspinnen bei WDR 2 zu Gast - die gibt es zwar nicht in der hiesigen Natur, aber mit ihnen könne man Spinnenangst gut abbauen: Sie hätten "langsame und ästhetische Bewegungen".
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="https://www.planet-wissen.de/natur/insekten_und_spinnentiere/spinnen/index.html" >
+<span>Spinnen</span> <span>|</span> <strong>planet-wissen</strong>
+</a>
+</li>
+<li >
+<a href="https://www.planet-wissen.de/natur/insekten_und_spinnentiere/spinnen/pwiekuriosesausderspinnenwelt100.html" >
+<span>Kurioses aus der Spinnenwelt</span> <span>|</span> <strong>planet-wissen</strong>
+</a>
+</li>
+<li >
+<a href="https://www.planet-wissen.de/natur/insekten_und_spinnentiere/spinnen/pwiearachnophobieangstvorspinnen100.html" >
+<span>Arachnophobie</span> <span>|</span> <strong>planet-wissen</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" data-ctrl-audio-copa-unbekannte-nummer-100-source="{'action':{'default':['load','slideTo']},'content':'0_5_5'}">
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/audio/wdr2/wdr2-kabarett/audio-fritz-eckenga-buecherherbst-100.html" title="WDR 2 Kabarett">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/wdr2/kabarett118~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/kabarett118~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/kabarett118~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/kabarett118~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/kabarett118~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/kabarett118~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Fritz Eckenga" title="Fritz Eckenga | Bildquelle: wdr" src="/radio/wdr2/kabarett118~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+WDR 2 Fritz Eckenga: Bücherherbst
+</h4>
+<p class="teasertext">
+Das Herbstwetter kommt und mit ihm die Buchmesse und die neuen Bücher. Egal ob Papier oder Digital: WDR 2 Satiriker Fritz Eckenga mit einem ersten Überblick. Autor/-en: Fritz Eckenga.
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-audio-copa-unbekannte-nummer-100-source="{'action':{'default':['load','slideTo']},'content':'0_5_6'}">
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/audio/wdr2/audio-michael-spreng-merkel-in-der-schlussphase-ihrer-kanzlerschaft-100.html" title="WDR 2">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/cosmo/programm/sendungen/koeln-radyosu/aktuelles/angela-merkel-216~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/cosmo/programm/sendungen/koeln-radyosu/aktuelles/angela-merkel-216~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/cosmo/programm/sendungen/koeln-radyosu/aktuelles/angela-merkel-216~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/cosmo/programm/sendungen/koeln-radyosu/aktuelles/angela-merkel-216~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/cosmo/programm/sendungen/koeln-radyosu/aktuelles/angela-merkel-216~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/cosmo/programm/sendungen/koeln-radyosu/aktuelles/angela-merkel-216~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Bundeskanzlerin Angela Merkel im Bundestag" title="Bundeskanzlerin Angela Merkel im Bundestag | Bildquelle: dpa" src="/radio/cosmo/programm/sendungen/koeln-radyosu/aktuelles/angela-merkel-216~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+Michael Spreng: "Merkel in der Schlussphase ihrer Kanzlerschaft"
+</h4>
+<p class="teasertext">
+Bundeskanzlerin Angela Merkel habe in ihrer eigenen Bundestagsfraktion massiv an Autorität verloren, bewertet Michael H. Spreng, Journalist und Politikberater, die Abwahl ihres Vertrauten Volker Kauder als Unionsfraktionschef. Künftig müsse sie führen anstelle zu moderieren, sich mehr erklären, mehr auf die Menschen zugehen.
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="//www.tagesschau.de/inland/presseschau-brinkhaus-101.html" >
+<span>Pressestimmen zur Kauder-Schlappe: "Erosion von Merkels Macht"</span> <span>|</span> <strong>tagesschau</strong>
+</a>
+</li>
+<li >
+<a href="//www.tagesschau.de/inland/brinkhaus-fraktionschef-101.html" >
+<span>Union nach Brinkhaus-Wahl: Wie groß ist Merkels Rückhalt noch?</span> <span>|</span> <strong>tagesschau</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" data-ctrl-audio-copa-unbekannte-nummer-100-source="{'action':{'default':['load','slideTo']},'content':'0_5_7'}">
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/audio/wdr2/wdr2-stichtag/audio-stanislaw-petrow-verhindert-einen-atomkrieg-am--100.html" title="WDR 2-Stichtag">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/stichtag/20180926-Stanislaw-Petrow-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/stichtag/20180926-Stanislaw-Petrow-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/stichtag/20180926-Stanislaw-Petrow-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/stichtag/20180926-Stanislaw-Petrow-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/stichtag/20180926-Stanislaw-Petrow-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/stichtag/20180926-Stanislaw-Petrow-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Stanislaw Petrow, ehemaliger Leutnant der sowjetischen Luftverteidigungsstreitkräfte (Aufnahme von 2015)" title="Stanislaw Petrow, ehemaliger Leutnant der sowjetischen Luftverteidigungsstreitkräfte (Aufnahme von 2015) | Bildquelle: Pavel Golovkin/AP/dpa" src="/stichtag/20180926-Stanislaw-Petrow-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+WDR 2 Stichtag: Stanislaw Petrow verhindert einen Atomkrieg (am 26.09.1983)
+</h4>
+<p class="teasertext">
+Die Zeit des Kalten Kriegs ist zum Glück vorbei. Viele Menschen hatten damals Angst vor einem Atomkrieg. Nach dem Fall des Eisernen Vorhangs wurde bekannt, dass damals, nämlich am 26. September 1983, tatsächlich beinahe der Dritte Weltkrieg begonnen hätte. Autor: Daniela Wakkonigg.
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-audio-copa-unbekannte-nummer-100-source="{'action':{'default':['load','slideTo']},'content':'0_5_8'}">
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/audio/wdr2/audio-weggefaehrte-schaefer-ueber-brinkhaus-richtiger-mann-zur-richtigen-zeit-100.html" title="WDR 2">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/nachrichten/landespolitik/ralph-brinkhaus-104~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/landespolitik/ralph-brinkhaus-104~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/landespolitik/ralph-brinkhaus-104~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/landespolitik/ralph-brinkhaus-104~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/landespolitik/ralph-brinkhaus-104~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/landespolitik/ralph-brinkhaus-104~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Unionsfraktionschef Ralph Brinkhaus" title="Unionsfraktionschef Ralph Brinkhaus | Bildquelle: dpa/Kay Nietfeld" src="/nachrichten/landespolitik/ralph-brinkhaus-104~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+Weggefährte Schäfer über Brinkhaus: "Richtiger Mann zur richtigen Zeit"
+</h4>
+<p class="teasertext">
+Hans Schäfer, (CDU), stellvertretender Bürgermeister von Schloß Holte-Stukenbrock im Kreis Gütersloh, sagte auf WDR 2 über seinen langjährigen Weggefährten Ralph Brinkhaus: "Es geht ihm immer um die gemeinsame Sache." Brinkhaus werde die Kanzlerin unterstützen und zu neuen Taten beflügeln.
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/mediathek/audio/wdr2/audio-ralph-brinkhaus-kein-aufstand-gegen-die-bundeskanzlerin-100.html" title="WDR 2">
+<span>Ralph Brinkhaus: "Kein Aufstand gegen die Bundeskanzlerin"</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+<li >
+<a href="/mediathek/audio/wdr2/audio-nach--jahren-ein-neuer-unionsfraktionschef-ralph-brinkhaus-100.html" title="WDR 2">
+<span>Nach 13 Jahren ein neuer Unionsfraktionschef: Ralph Brinkhaus</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+<li >
+<a href="//www.tagesschau.de/inland/brinkhaus-fraktionschef-101.html" >
+<span>Union nach Brinkhaus-Wahl: Wie groß ist Merkels Rückhalt noch?</span> <span>|</span> <strong>tagesschau</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" data-ctrl-audio-copa-unbekannte-nummer-100-source="{'action':{'default':['load','slideTo']},'content':'0_5_9'}">
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/audio/wdr2/wdr2-copacabana/audio-copa-pilz-pirsch-100.html" title="WDR2 Copacabana">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Copacabana-Schild mit Palme" title="Copacabana-Schild mit Palme | Bildquelle: wdr" src="/mediathek/audio/sendereihen-bilder/copacabana-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+Copa "Pilz-Pirsch"
+</h4>
+<p class="teasertext">
+Die Copa Boys sind zurück aus der Sommerpause und erklären wieder sich und dem Rest der Welt dieselbige. Also die Welt. Alles ohne fertigen Text, lupenreine Improvisationscomedy. Im WDR 2 Comedyherbst auch live unterwegs im Westen. Klingt interessant, isses auch.
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+</div>
+</div>
+</div>
+<div class="controls sliding" data-ctrl-sl5-controls="{}">
+<div class="buttons">
+<a href="#" data-ctrl-sl5-trigger="{'action':{'default':['slideEntireWidthPrev']}}" class="prev"></a> <a href="#" data-ctrl-sl5-trigger="{'action':{'default':['slideEntireWidthNext']}}" class="next"></a>
+</div>
+<div class="labels">
+<div class="entries" data-ctrl-sl5-label="{}"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con clean">
+<h2 class="conHeadline">
+<a href="/radio/wdr2/musik/neu-auf-wdr2/index.html" >NEU AUF WDR 2</a>
+<span class="hidden">Liste mit 8 Einträgen</span>
+</h2>
+<div class="modCon modConStageMedia">
+<div data-ctrl-slidable="{'id':'smsl6','action':{'default':['disableWhenNotNeeded'],'xs':['clearAnimation'],'s':['clearAnimation']},'refreshOnAdded':'true','carousel':'true','center':'true','animate':'true','makeVisibleChildrenActive':'true','animationInterval':'5000','pixTitle':'Stage'}" aria-live="off" class="mod modA modStageMedia">
+<h2 class="modHeadline hidden">
+TV-Highlights
+<span class="hidden">Liste mit 8 Einträgen</span>
+</h2>
+<div data-ctrl-smsl6-slider="" class="boxCon">
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/1live/events/1live-eine-nacht-in-essen/kygo-live-muenster-102~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/1live/events/1live-eine-nacht-in-essen/kygo-live-muenster-102~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/1live/events/1live-eine-nacht-in-essen/kygo-live-muenster-102~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/1live/events/1live-eine-nacht-in-essen/kygo-live-muenster-102~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/1live/events/1live-eine-nacht-in-essen/kygo-live-muenster-102~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/1live/events/1live-eine-nacht-in-essen/kygo-live-muenster-102~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Kygo live in Münster" title="Kygo live in Münster | Bildquelle: 1LIVE / Alyssa Meister" src="/radio/1live/events/1live-eine-nacht-in-essen/kygo-live-muenster-102~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/musik/neu-auf-wdr2/kygo-imagine-dragons-born-to-be-yours-102.html" class="teaserLink" aria-labelledby="teaserLabel-01">
+<div id="teaserLabel-01" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+Kygo &amp; Imagine Dragons - Born To Be Yours
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/1live-krone/revolverheld150~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/1live-krone/revolverheld150~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/1live-krone/revolverheld150~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/1live-krone/revolverheld150~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/1live-krone/revolverheld150~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/1live-krone/revolverheld150~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Revolverheld" title="Revolverheld | Bildquelle: Benedikt Schnermann" src="/radio/1live-krone/revolverheld150~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/musik/neu-auf-wdr2/revolverheld-antje-schomaker-liebe-auf-distanz-100.html" class="teaserLink" aria-labelledby="teaserLabel-02">
+<div id="teaserLabel-02" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+Revolverheld feat. Antje Schomaker - Liebe auf Distanz
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/1live/musik/neu-fuer-den-sektor/maroon-five-144~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/1live/musik/neu-fuer-den-sektor/maroon-five-144~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/1live/musik/neu-fuer-den-sektor/maroon-five-144~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/1live/musik/neu-fuer-den-sektor/maroon-five-144~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/1live/musik/neu-fuer-den-sektor/maroon-five-144~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/1live/musik/neu-fuer-den-sektor/maroon-five-144~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Maroon 5" title="Maroon 5 | Bildquelle: Universal Music" src="/radio/1live/musik/neu-fuer-den-sektor/maroon-five-144~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/musik/neu-auf-wdr2/maroon-five-girls-like-you-100.html" class="teaserLink" aria-labelledby="teaserLabel-03">
+<div id="teaserLabel-03" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+Maroon 5 - Girls like you
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/rea-garvey-148~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/rea-garvey-148~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/rea-garvey-148~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/rea-garvey-148~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/rea-garvey-148~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/rea-garvey-148~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Der Sänger Rea Garvey während eines Konzertes in Hamburg, 21.09.2017" title="Der Sänger Rea Garvey während eines Konzertes in Hamburg, 21.09.2017 | Bildquelle: imago/APP-Photo" src="/radio/wdr2/rea-garvey-148~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/musik/neu-auf-wdr2/rea-garvey-kiss-me-100.html" class="teaserLink" aria-labelledby="teaserLabel-04">
+<div id="teaserLabel-04" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+Rea Garvey – Kiss Me
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/musik/bosse-180~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/musik/bosse-180~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/musik/bosse-180~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/musik/bosse-180~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/musik/bosse-180~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/musik/bosse-180~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Der Musike Axel &#034;Aki&#034; Bosse steht mit einer Basecap in einem Strauch" title="Der Musike Axel &#034;Aki&#034; Bosse steht mit einer Basecap in einem Strauch | Bildquelle: Tim Brüning" src="/radio/wdr2/musik/bosse-180~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/musik/neu-auf-wdr2/bosse-augen-zu-musik-an-102.html" class="teaserLink" aria-labelledby="teaserLabel-05">
+<div id="teaserLabel-05" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+Bosse - Augen zu Musik an
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/musik/neu-auf-wdr2/shawn-mendes-180~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/musik/neu-auf-wdr2/shawn-mendes-180~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/musik/neu-auf-wdr2/shawn-mendes-180~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/musik/neu-auf-wdr2/shawn-mendes-180~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/musik/neu-auf-wdr2/shawn-mendes-180~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/musik/neu-auf-wdr2/shawn-mendes-180~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Shawn Mendes performt &#034;In My Blood&#034; bei den MTV Music Awards am 20.08.2018 in New York" title="Shawn Mendes performt &#034;In My Blood&#034; bei den MTV Music Awards am 20.08.2018 in New York | Bildquelle: AP" src="/radio/wdr2/musik/neu-auf-wdr2/shawn-mendes-180~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/musik/neu-auf-wdr2/shawn-mendes-nervous-102.html" class="teaserLink" aria-labelledby="teaserLabel-06">
+<div id="teaserLabel-06" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+Shawn Mendes - Nervous
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/fernsehen/koelner-treff/gaeste-5050~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/fernsehen/koelner-treff/gaeste-5050~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/fernsehen/koelner-treff/gaeste-5050~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/fernsehen/koelner-treff/gaeste-5050~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/fernsehen/koelner-treff/gaeste-5050~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/fernsehen/koelner-treff/gaeste-5050~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Michael Patrick Kelly" title="Michael Patrick Kelly | Bildquelle: WDR/Melanie Grande" src="/fernsehen/koelner-treff/gaeste-5050~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/musik/neu-auf-wdr2/michael-patrick-kelly-et-voila-100.html" class="teaserLink" aria-labelledby="teaserLabel-07">
+<div id="teaserLabel-07" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+Michael Patrick Kelly - Et voilà
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/1live/musik/neu-fuer-den-sektor/hugo-helmig-106~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/1live/musik/neu-fuer-den-sektor/hugo-helmig-106~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/1live/musik/neu-fuer-den-sektor/hugo-helmig-106~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/1live/musik/neu-fuer-den-sektor/hugo-helmig-106~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/1live/musik/neu-fuer-den-sektor/hugo-helmig-106~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/1live/musik/neu-fuer-den-sektor/hugo-helmig-106~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Hugo Helmig" title="Hugo Helmig | Bildquelle: The Bank" src="/radio/1live/musik/neu-fuer-den-sektor/hugo-helmig-106~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/musik/neu-auf-wdr2/hugo-helmig-wild-102.html" class="teaserLink" aria-labelledby="teaserLabel-08">
+<div id="teaserLabel-08" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+Hugo Helmig - Wild
+</h4>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div data-ctrl-smsl6-controls="" class="controls sliding">
+<span class="shadow prev"></span> <span class="shadow next"></span>
+<div class="buttons">
+<a href="#"	data-ctrl-smsl6-trigger="{'action':{'default':['clearAnimation','slideOneChildPrev']}}" class="prev"></a>
+<a href="#"	data-ctrl-smsl6-trigger="{'action':{'default':['clearAnimation','slideOneChildNext']}}" class="next"></a>
+<div data-ctrl-smsl6-trigger="{'action':{'default':['toggleAnimation']}}" class="animation active">
+<p class="status">
+Animation: <strong>An</strong>
+</p>
+<a href="#" class="ani">Animation an/aus</a>
+</div>
+</div>
+<div class="labels">
+<div data-ctrl-smsl6-label="" class="entries"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con">
+<h2 class="conHeadline">
+Musik
+</h2>
+<div class="mod modC">
+<div class="boxCon equalHeight" >
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/musik/szene-im-westen/index.html">
+WDR 2 Szene im Westen
+</a>
+</h3>
+<div class="teaser">
+<a href="/radio/wdr2/musik/szene-im-westen/szene-214.html" >
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/wdr2/szene-nrw-teaserbild-100~_v-TeaserAufmacher.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/szene-nrw-teaserbild-100~_v-ARDAustauschformats.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/szene-nrw-teaserbild-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/szene-nrw-teaserbild-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/szene-nrw-teaserbild-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/szene-nrw-teaserbild-100~_v-ARDAustauschformats.jpg" />
+<img class="img" alt="Publikum beim Konzert" title="Publikum beim Konzert | Bildquelle: wdr" src="/radio/wdr2/szene-nrw-teaserbild-100~_v-ARDAustauschformats.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Anhören und abstimmen
+</h4>
+<p class="teasertext">
+Jede Woche stellen wir in WDR 2 POP! drei Bands aus Nordrhein-Westfalen vor. Eine Woche lang können Sie hier abstimmen und den Wochen-Gewinner wählen.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/radio/wdr2/musik/index.html" >
+<span>Musik bei WDR 2</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+<li >
+<a href="/radio/wdr2/musik/szene-im-westen/szene-westen-wochengewinner-100.html" >
+<span>WDR 2 Szene im Westen Wochengewinner</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+<li class="bcInfo noLink radio">
+<span class="hidden">Sendehinweis: </span>
+WDR 2 POP!
+| 1. Oktober 2018, 20.00 - 23.30 Uhr
+| WDR&nbsp;2
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" >
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser">
+<a href="/mediathek/audio/wdr2/audio-roosevelt-zu-gast-bei-wdrpop-100.html" title="WDR 2">
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/wdr2/musik/roosevelt-128~_v-TeaserAufmacher.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/musik/roosevelt-128~_v-ARDAustauschformats.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/musik/roosevelt-128~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/musik/roosevelt-128~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/musik/roosevelt-128~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/musik/roosevelt-128~_v-ARDAustauschformats.jpg" />
+<img class="img" alt="Marius Lauber alias Roosevelt mit WDR 2 Moderator Mike Litt" title="Marius Lauber alias Roosevelt mit WDR 2 Moderator Mike Litt | Bildquelle: WDR" src="/radio/wdr2/musik/roosevelt-128~_v-ARDAustauschformats.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="audio" class="headline">
+<span class="hidden">Audio:</span>
+Roosevelt zu Gast bei WDR 2 POP!
+</h4>
+<p class="programInfo">WDR 2 | 18.09.2018 | <span class="hidden">L&auml;nge: </span>09:15 <abbr title="Minuten">Min.</abbr></p>
+<p class="teasertext">
+Hinter Roosevelt verbirgt sich der aus Viersen stammende Musiker Marius Lauber. Nächste Woche erscheint sein neues Album "Young Romance". Bei WDR 2 POP! sprach Roosevelt mit Moderator Mike Litt über die korrekte Aussprache seines Künstlernamens, seinen musikalischen Werdegang und die Bedeutung der Achtzigerjahre für die Popmusik.
+&nbsp;|&nbsp;
+<strong>audio</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/veranstaltungen/index.html">
+Veranstaltungen
+</a>
+</h3>
+<div class="teaser">
+<a href="http://www1.wdr.de/radio/wdr2/veranstaltungen/index.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/veranstaltungen/hausparty/hausparty-wuppertal-170~_v-TeaserAufmacher.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/veranstaltungen/hausparty/hausparty-wuppertal-170~_v-ARDAustauschformats.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/veranstaltungen/hausparty/hausparty-wuppertal-170~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/veranstaltungen/hausparty/hausparty-wuppertal-170~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/veranstaltungen/hausparty/hausparty-wuppertal-170~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/veranstaltungen/hausparty/hausparty-wuppertal-170~_v-ARDAustauschformats.jpg" />
+<img class="img" alt="WDR 2 Hausparty-Jubiläum in Wuppertal" title="WDR 2 Hausparty-Jubiläum in Wuppertal | Bildquelle: WDR/Brill" src="/radio/wdr2/veranstaltungen/hausparty/hausparty-wuppertal-170~_v-ARDAustauschformats.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+WDR 2 präsentiert
+</h4>
+<p class="teasertext">
+Konzerte, Comedy, Hausparty oder "Pistors Fußballschule" live auf der Bühne - alles im Überblick. Hier geht's zu den Veranstaltungen, die WDR 2 präsentiert.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/radio/wdr2/veranstaltungen/kylie-minogue-konzert-koeln-100.html" >
+<span>Kylie Minogue - präsentiert von WDR 2</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+<li >
+<a href="/radio/wdr2/gaeste/felix-jaehn-250.html" >
+<span>Felix Jaehn zu Gast bei WDR 2</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con highlight">
+<div class="mod modA modStage">
+<div class="boxCon equalHeight" >
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/musik/musiktipp/index.html">
+WDR 2 Musiktipp
+</a>
+</h3>
+<div class="teaser">
+<a href="/radio/wdr2/musik/musiktipp/christine-and-the-queens-chris-102.html" >
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/wdr2/musik/musiktipp/christine-and-the-queens-chris-100~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/musik/musiktipp/christine-and-the-queens-chris-100~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/musik/musiktipp/christine-and-the-queens-chris-100~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/musik/musiktipp/christine-and-the-queens-chris-100~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/musik/musiktipp/christine-and-the-queens-chris-100~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/musik/musiktipp/christine-and-the-queens-chris-100~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Das Cover des Albums Chris von Christine and the Queens" title="Das Cover des Albums Chris von Christine and the Queens | Bildquelle: Because Music (Universal Music)" src="/radio/wdr2/musik/musiktipp/christine-and-the-queens-chris-100~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Christine and the Queens - Chris
+</h4>
+<p class="teasertext">
+Dass Feminismus und politisches Bewusstsein verführerisch und tanzbar klingen können, beweist die Französin Héloïse Letissier alias Christine and the Queens nun mit ihrem eindrucksvollen zweiten Album.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/mediathek/audio/wdr2/wdr2-musik/audio-christine-and-the-queens---doesnt-matter-102.html" title="WDR 2 Musik">
+<span>Christine and the Queens - Doesn't matter</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+<li >
+<a href="/mediathek/audio/wdr2/wdr2-musik/audio-christine-and-the-queens---girlfriend-102.html" title="WDR 2 Musik">
+<span>Christine and the Queens - Girlfriend</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+<li >
+<a href="/mediathek/audio/wdr2/wdr2-musik/audio-christine-and-the-queens---la-marcheuse-100.html" title="WDR 2 Musik">
+<span>Christine and the Queens - "La marcheuse"</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con">
+<div class="mod modB">
+<div class="boxCon equalHeight" >
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/aktuell/index.html">
+WDR 2 Aktuell
+</a>
+</h3>
+<div class="teaser">
+<a href="https://data.wdr.de/verbraucher/online-lebensmittel/" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr4/wort/zur-sache/same_day_lieferung-102~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr4/wort/zur-sache/same_day_lieferung-102~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr4/wort/zur-sache/same_day_lieferung-102~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr4/wort/zur-sache/same_day_lieferung-102~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr4/wort/zur-sache/same_day_lieferung-102~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr4/wort/zur-sache/same_day_lieferung-102~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Der Irrsinn des Online-Versandhandels" title="Der Irrsinn des Online-Versandhandels | Bildquelle: dpa" src="/radio/wdr4/wort/zur-sache/same_day_lieferung-102~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Online-Lebensmittelhändler in NRW
+</h4>
+<p class="teasertext">
+Mit ein paar Klicks den Einkauf erledigen und die Ware nach Hause geliefert bekommen. Doch Lieferzeiten, -gebiete und das Sortiment der neuen Online-Supermärkte unterscheiden sich deutlich: Wir haben uns Lieferbedingungen der Anbieter angeschaut und zusammengefasst.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/programm/lesen/index.html">
+WDR 2 Lesen
+</a>
+</h3>
+<div class="teaser">
+<a href="/radio/wdr2/programm/lesen/chan-ho-kei-das-auge-von-hongkong-102.html" >
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/wdr2/programm/lesen/chan-ho-kei-das-auge-von-hongkong-100~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/programm/lesen/chan-ho-kei-das-auge-von-hongkong-100~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/programm/lesen/chan-ho-kei-das-auge-von-hongkong-100~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/programm/lesen/chan-ho-kei-das-auge-von-hongkong-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/programm/lesen/chan-ho-kei-das-auge-von-hongkong-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/programm/lesen/chan-ho-kei-das-auge-von-hongkong-100~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Cover des Buchs &#034;Das Auge von Hongkong&#034; von Chan Ho-kei: Mann läuft durch Hongkong. Hinterm Cover sieht man die Skyline von Hongkong" title="Cover des Buchs &#034;Das Auge von Hongkong&#034; von Chan Ho-kei: Mann läuft durch Hongkong. Hinterm Cover sieht man die Skyline von Hongkong | Bildquelle: Atrium/AFP" src="/radio/wdr2/programm/lesen/chan-ho-kei-das-auge-von-hongkong-100~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Chan Ho-kei - Das Auge von Hongkong
+</h4>
+<p class="teasertext">
+Er weiß, worauf es ankommt, ist ein genauer Beobachter und zieht messerscharfe Schlüsse. Und er hat eine ganze Menge gesehen. Er ist "Das Auge von Hongkong" - ein Polizist und seine Stadt.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/mediathek/audio/wdr2/wdr2-krimitipp/audio-chan-ho-kei---das-auge-von-hongkong-100.html" title="WDR 2 Krimitipp">
+<span>Chan Ho-kei - Das Auge von Hongkong</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con">
+<div class="mod modB">
+<div class="boxCon equalHeight" >
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/alle-gegen-pistor/index.html">
+WDR 2 Alle gegen Pistor
+</a>
+</h3>
+<div class="teaser">
+<a href="https://allegegenpistor.wdr2.de" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/pistor_fussball_wdr-sachs100~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/pistor_fussball_wdr-sachs100~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/pistor_fussball_wdr-sachs100~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/pistor_fussball_wdr-sachs100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/pistor_fussball_wdr-sachs100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/pistor_fussball_wdr-sachs100~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Sven Pistor hält den Ball nicht flach; Rechte: WDR/ Sachs" title="Sven Pistor hält den Ball nicht flach; Rechte: WDR/ Sachs | Bildquelle: WDR/ Sachs" src="/radio/wdr2/pistor_fussball_wdr-sachs100~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Alle gegen Pistor: Anmelden, tippen, gewinnen
+</h4>
+<p class="teasertext">
+Tippen Sie die Bundesliga gegen WDR 2 Liga Live Moderator Sven Pistor. Jeden Spieltag gibt es Tickets für die Bundesliga. Und am Saisonende fahren die zehn besten Tipper und ein ausgeloster Hörer zum DFB-Pokalfinale nach Berlin. Am fünften Spieltag geht es um<strong> </strong>Tickets für die Bundesliga-Begegnung <strong>Fortuna </strong><strong>Düsseldorf – Schalke 04 am 06.10.2018</strong><strong>.</strong>
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="http://www1.wdr.de/mediathek/audio/wdr2/wdr2-bundesliga-togo/index.html" >
+<span>WDR 2 Bundesliga ToGo - der Liga Live Podcast</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+<li >
+<a href="/radio/wdr2/programm/bundesligakonferenz-100.html" >
+<span>ARD Bundesliga-Konferenz</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/programm/jetzt-gote/index.html">
+WDR 2 Jetzt Gote!
+</a>
+</h3>
+<div class="teaser">
+<a href="/radio/wdr2/programm/jetzt-gote/index.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/helmutgote100~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/helmutgote100~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/helmutgote100~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/helmutgote100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/helmutgote100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/helmutgote100~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="WDR 2 Koch Helmut Gote" title="WDR 2 Koch Helmut Gote | Bildquelle: wdr" src="/radio/wdr2/helmutgote100~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+WDR 2 Jetzt Gote!
+</h4>
+<p class="teasertext">
+Wenn's ums Essen geht, ist WDR 2 Koch Helmut Gote gefragt: Kochen, braten, backen, schmoren - jede Woche gibt es ein neues Rezept. Mal süß, mal herzhaft - und immer lecker.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/radio/wdr2/programm/jetzt-gote/gote-den-westen-geniessen-100.html" >
+<span>WDR 2 Den Westen genießen</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con highlight">
+<h2 class="conHeadline">
+WDR 2 Serien
+</h2>
+<div class="modCon" >
+<div class="mod modD modMini" data-ctrl-slidable="{'id':'sl11',related:['stichtag-stapellauf-queen-elizabeth-100'],'action':{'default':['disableWhenNotNeeded'],'loaded':['disableWhenNotNeeded']}}">
+<div class="boxCon equalHeight" aria-live="polite" data-ctrl-sl11-slider="{}" >
+<div class="box" data-ctrl-stichtag-stapellauf-queen-elizabeth-100-source="{'action':{'default':['load','slideTo']},'content':'0_11_1'}">
+<h3 class="ressort">
+<a href="/stichtag/index.html">
+Stichtag
+</a>
+</h3>
+<div class="teaser">
+<a href="/stichtag/stichtag-stapellauf-queen-elizabeth-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr5/sendungen/zeitzeichen/queen-elizabeth-128~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr5/sendungen/zeitzeichen/queen-elizabeth-128~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr5/sendungen/zeitzeichen/queen-elizabeth-128~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr5/sendungen/zeitzeichen/queen-elizabeth-128~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr5/sendungen/zeitzeichen/queen-elizabeth-128~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr5/sendungen/zeitzeichen/queen-elizabeth-128~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Queen Elizabeth" title="Queen Elizabeth | Bildquelle: dpa/empics/PA" src="/radio/wdr5/sendungen/zeitzeichen/queen-elizabeth-128~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+27. September 1938 - Stapellauf der "<span lang="en">Queen Elizabeth</span>"
+</h4>
+<p class="teasertext">
+Eigentlich ist die "<span lang="en">Queen Elizabeth</span>" als Luxusliner geplant. Dann kommt der Zweite Weltkrieg und der Dampfer bringt nun US-Soldaten über den Atlantik.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-stichtag-stapellauf-queen-elizabeth-100-source="{'action':{'default':['load','slideTo']},'content':'0_11_2'}">
+<h3 class="ressort">
+<a href="/radio/wdr2/programm/lesen/index.html">
+WDR 2 Lesen
+</a>
+</h3>
+<div class="teaser">
+<a href="/radio/wdr2/programm/lesen/kinderbuecher-104.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/nachrichten/kinderbuchausstellung-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/kinderbuchausstellung-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/kinderbuchausstellung-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/kinderbuchausstellung-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/kinderbuchausstellung-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/kinderbuchausstellung-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Ein Kind liest in einem Kinderbuch" title="Ein Kind liest in einem Kinderbuch | Bildquelle: dpa/Marijan Murat" src="/nachrichten/kinderbuchausstellung-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+WDR 2 Kinderbücher
+</h4>
+<p class="teasertext">
+Lesen und Vorlesen macht nicht nur sehr viel Spaß, sondern ist auch sehr wichtig für die emotionale, kulturelle und geistige Entwicklung von Kinder. Auf WDR 2 stellen Kinder Kinderbücher vor.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/mediathek/audio/wdr2/audio-bei-bibliothekarin-trixie-heisst-es-lese-lieber-ungewoehnlich-100.html" title="WDR 2">
+<span>Bei Bibliothekarin Trixie heißt es "Lese lieber ungewöhnlich"</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+<li >
+<a href="/mediathek/audio/wdr2/audio-christine-urspruch-lesen-lehrt-den-umgang-mit-der-sprache-100.html" title="WDR 2">
+<span>ChrisTine Urspruch: Lesen lehrt den Umgang mit der Sprache</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" data-ctrl-stichtag-stapellauf-queen-elizabeth-100-source="{'action':{'default':['load','slideTo']},'content':'0_11_3'}">
+<h3 class="ressort">
+<a href="/radio/wdr2/programm/sonntagsfragen/index.html">
+WDR 2 Sonntagsfragen
+</a>
+</h3>
+<div class="teaser">
+<a href="/radio/wdr2/programm/sonntagsfragen/an-englishman-in-nrw-100.html" >
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/wdr2/programm/london-flaggen-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/programm/london-flaggen-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/programm/london-flaggen-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/programm/london-flaggen-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/programm/london-flaggen-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/programm/london-flaggen-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Straßenbeflaggung in London für das Diamantene Thronjubiläum von Königin Elisabeth II" title="Straßenbeflaggung in London für das Diamantene Thronjubiläum von Königin Elisabeth II | Bildquelle: picture alliance" src="/radio/wdr2/programm/london-flaggen-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+An Englishman in NRW
+</h4>
+<p class="teasertext">
+Tony Gray war Matrose, verkaufte Dart-Spiele und lebte in Spanien. 1969 verließ er schließlich London, um in Deutschland als Englischlehrer sesshaft zu werden. So ungewöhnlich wie sein Leben sind seine Konversationskurse, von denen er in den Sonntagsfragen erzählt.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/mediathek/audio/wdr2/wdr2-sonntagsfragen/audio-an-englishman-in-nrw-100.html" data-extension='{"mediaObj":{"offset":"0.0"}}' title="WDR 2 Sonntagsfragen">
+<span>An Englishman in NRW</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" data-ctrl-stichtag-stapellauf-queen-elizabeth-100-source="{'action':{'default':['load','slideTo']},'content':'0_11_4'}">
+<h3 class="ressort">
+<a href="/radio/wdr2/programm/lesen/index.html">
+WDR 2 Lesen
+</a>
+</h3>
+<div class="teaser">
+<a href="/radio/wdr2/programm/lesen/buchtipp-westermann-scheck-uebersicht-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/programm/lesen/buchtipp-westermann-scheck-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/programm/lesen/buchtipp-westermann-scheck-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/programm/lesen/buchtipp-westermann-scheck-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/programm/lesen/buchtipp-westermann-scheck-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/programm/lesen/buchtipp-westermann-scheck-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/programm/lesen/buchtipp-westermann-scheck-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Portätfotos von  Christine Westermann und Denis Scheck" title="Portätfotos von  Christine Westermann und Denis Scheck | Bildquelle: wdr" src="/radio/wdr2/programm/lesen/buchtipp-westermann-scheck-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+WDR 2 Buchtipp
+</h4>
+<p class="teasertext">
+Krimitipps, Sachbücher, Romane - jede Woche sonntags und montags stellen die WDR 2 Literaturkritiker ausgewählte Bücher vor.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-stichtag-stapellauf-queen-elizabeth-100-source="{'action':{'default':['load','slideTo']},'content':'0_11_5'}">
+<h3 class="ressort">
+<a href="/radio/wdr2/programm/lesen/index.html">
+WDR 2 Lesen
+</a>
+</h3>
+<div class="teaser">
+<a href="/radio/wdr2/programm/lesen/lesen-uebersicht-krimitipp-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/programm/lesen/lesen-krimitipp-rubrik-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/programm/lesen/lesen-krimitipp-rubrik-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/programm/lesen/lesen-krimitipp-rubrik-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/programm/lesen/lesen-krimitipp-rubrik-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/programm/lesen/lesen-krimitipp-rubrik-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/programm/lesen/lesen-krimitipp-rubrik-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Umrisse eines Leichenfundortes auf dem Boden einer Tiefgarage" title="Umrisse eines Leichenfundortes auf dem Boden einer Tiefgarage | Bildquelle: WDR / mauritius" src="/radio/wdr2/programm/lesen/lesen-krimitipp-rubrik-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+WDR 2 Krimitipp
+</h4>
+<p class="teasertext">
+Verboten gut: Jede Woche Montags stellen die WDR 2 Krimitipper ausgewählte Kriminalromane vor.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-stichtag-stapellauf-queen-elizabeth-100-source="{'action':{'default':['load','slideTo']},'content':'0_11_6'}">
+<h3 class="ressort">
+<a href="/radio/wdr2/gaeste/index.html">
+WDR 2 Gäste
+</a>
+</h3>
+<div class="teaser">
+<a href="/radio/wdr2/gaeste/clueso-204.html" >
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/radio/wdr2/musik/clueso-210~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/musik/clueso-210~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/musik/clueso-210~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/musik/clueso-210~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/musik/clueso-210~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/musik/clueso-210~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Der Musiker Clueso am 23.08.2018 auf Studiobesuch bei WDR 2" title="Der Musiker Clueso am 23.08.2018 auf Studiobesuch bei WDR 2 | Bildquelle: WDR" src="/radio/wdr2/musik/clueso-210~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Clueso zu Gast im WDR 2 Studio
+</h4>
+<p class="teasertext">
+Viele seiner Songs entstehen unterwegs, spontan in Hotelzimmern, beim Warten auf Flughäfen. "Handgepäck" heißt Cluesos neues Album. Aus seinem Reisetagebuch berichtete er am Donnerstag (23.08.2018) bei WDR 2.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/mediathek/audio/wdr2/audio-clueso-bei-wdr-mit-handgepaeck-auf-clubtour-100.html" title="WDR 2">
+<span>Clueso bei WDR 2: Mit "Handgepäck" auf Clubtour</span> <span>|</span> <strong>audio</strong>
+</a>
+</li>
+<li >
+<a href="/radio/wdr2/musik/neu-auf-wdr2/die-fantastischen-vier-clueso-zusammen-100.html" >
+<span>Die Fantastischen Vier feat. Clueso - Zusammen</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+<li >
+<a href="/radio/wdr2/programm/in-concert/clueso-200.html" >
+<span>Clueso auf der WDR 2 Tour</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" data-ctrl-stichtag-stapellauf-queen-elizabeth-100-source="{'action':{'default':['load','slideTo']},'content':'0_11_7'}">
+<h3 class="ressort">
+<a href="/radio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser">
+<a href="/radio/wdr2/programm/essen-westen-uebersicht-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/programm/hackbarth-kartoffelsalat-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/programm/hackbarth-kartoffelsalat-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/programm/hackbarth-kartoffelsalat-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/programm/hackbarth-kartoffelsalat-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/programm/hackbarth-kartoffelsalat-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/programm/hackbarth-kartoffelsalat-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Gebratene Blutwurst und Apfelspalten auf einem Bett aus Kartoffelsalat, angerichtet auf einem Teller" title="Gebratene Blutwurst und Apfelspalten auf einem Bett aus Kartoffelsalat, angerichtet auf einem Teller | Bildquelle: Hackbarth&#039;s Restaurant" src="/radio/wdr2/programm/hackbarth-kartoffelsalat-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+WDR 2 Essen im Westen
+</h4>
+<p class="teasertext">
+Steffi Neu holt sich für ihre Show jeden Samstag Rezepttipps von Köchen und Gastronomen aus dem Westen. Hier finden Sie alle Rezepte der vergangenen Wochen.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/radio/wdr2/programm/jetzt-gote/index.html" >
+<span>WDR 2 Jetzt Gote! - Rezepte im Überblick</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+<li >
+<a href="/verbraucher/rezepte/index.html" >
+<span>WDR-Rezepte im Überblick</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+<li >
+<a href="/radio/wdr2/programm/essen-westen-uebersicht-100.html" >
+<span>WDR 2 Essen im Westen</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="controls sliding" data-ctrl-sl11-controls="{}">
+<div class="buttons">
+<a href="#" data-ctrl-sl11-trigger="{'action':{'default':['slideEntireWidthPrev']}}" class="prev"></a> <a href="#" data-ctrl-sl11-trigger="{'action':{'default':['slideEntireWidthNext']}}" class="next"></a>
+</div>
+<div class="labels">
+<div class="entries" data-ctrl-sl11-label="{}"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con clean">
+<h2 class="conHeadline">
+WDR 2 Comedy
+<span class="hidden">Liste mit 8 Einträgen</span>
+</h2>
+<div class="modCon modConStageMedia">
+<div data-ctrl-slidable="{'id':'smsl12','action':{'default':['disableWhenNotNeeded'],'xs':['clearAnimation'],'s':['clearAnimation']},'refreshOnAdded':'true','carousel':'true','center':'true','animate':'true','makeVisibleChildrenActive':'true','animationInterval':'5000','pixTitle':'Stage'}" aria-live="off" class="mod modA modStageMedia">
+<h2 class="modHeadline hidden">
+TV-Highlights
+<span class="hidden">Liste mit 8 Einträgen</span>
+</h2>
+<div data-ctrl-smsl12-slider="" class="boxCon">
+<div class="box">
+<div class="teaser video">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/programm/comedy/wdr2johann-koenig110~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/programm/comedy/wdr2johann-koenig110~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/programm/comedy/wdr2johann-koenig110~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/programm/comedy/wdr2johann-koenig110~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/programm/comedy/wdr2johann-koenig110~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/programm/comedy/wdr2johann-koenig110~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Johann König bei der WDR 2 Preview seines Programms am 7. September in Köln. " title="Johann König bei der WDR 2 Preview seines Programms am 7. September in Köln.  | Bildquelle: Boris Breuer" src="/radio/wdr2/programm/comedy/wdr2johann-koenig110~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/mediathek/av/video-johann-koenig-obacht-100.html" class="teaserLink" aria-labelledby="teaserLabel-01">
+<div id="teaserLabel-01" class="textWrapper">
+<h4 class="headline" data-more-text="video">
+<span class="hidden">Video: </span>
+Johann König: "Obacht!"
+</h4>
+<p class="subtitle"><span class="hidden">L&auml;nge: </span>07:08 <abbr title="Minuten">Min.</abbr> <strong>| mehr </strong></p>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/wdr2comedy-korrekturensohn100~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/wdr2comedy-korrekturensohn100~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/wdr2comedy-korrekturensohn100~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/wdr2comedy-korrekturensohn100~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/wdr2comedy-korrekturensohn100~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/wdr2comedy-korrekturensohn100~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Herr Schröder mit seiner Klasse" title="Herr Schröder mit seiner Klasse | Bildquelle: Yashar Khosravani" src="/radio/wdr2/wdr2comedy-korrekturensohn100~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/programm/comedy/wdr2-comedy-korrekturensohn100.html" class="teaserLink" aria-labelledby="teaserLabel-02">
+<div id="teaserLabel-02" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+WDR 2 Herr Schröder: Der Korrekturensohn
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/wdr2comedy-copacabana100~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/wdr2comedy-copacabana100~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/wdr2comedy-copacabana100~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/wdr2comedy-copacabana100~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/wdr2comedy-copacabana100~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/wdr2comedy-copacabana100~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Jünter, Jötz und Jürgen mit rosa Plastikschwan" title="Jünter, Jötz und Jürgen mit rosa Plastikschwan | Bildquelle: Herby Sachs / WDR" src="/radio/wdr2/wdr2comedy-copacabana100~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/programm/comedy/wdr2comedy-Copacabana100.html" class="teaserLink" aria-labelledby="teaserLabel-03">
+<div id="teaserLabel-03" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+Copacabana Live: Klingt interessant...
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/programm/comedy/wdr2-angie-zappt100~_v-videowebl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/programm/comedy/wdr2-angie-zappt100~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/programm/comedy/wdr2-angie-zappt100~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/programm/comedy/wdr2-angie-zappt100~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/programm/comedy/wdr2-angie-zappt100~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/programm/comedy/wdr2-angie-zappt100~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Angie in 70er Jahre Fernseher" title="Angie in 70er Jahre Fernseher | Bildquelle: WDR, dpa" src="/radio/wdr2/programm/comedy/wdr2-angie-zappt100~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/programm/comedy/wdr2comedy-angie-zappt100.html" class="teaserLink" aria-labelledby="teaserLabel-04">
+<div id="teaserLabel-04" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+WDR 2 Angie zappt
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/wdr2comedy-rene-steinberg218~_v-SportschauAufmacherVariabel.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/wdr2comedy-rene-steinberg218~_v-SportschauAufmacherVariabel.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/wdr2comedy-rene-steinberg218~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/wdr2comedy-rene-steinberg218~_v-SportschauAufmacherVariabel.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/wdr2comedy-rene-steinberg218~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/wdr2comedy-rene-steinberg218~_v-SportschauAufmacherVariabel.jpg" />
+<img class="img" alt="René Steinberg auf der Bühne" title="René Steinberg auf der Bühne | Bildquelle: Thomas Rodriguez" src="/radio/wdr2/wdr2comedy-rene-steinberg218~_v-SportschauAufmacherVariabel.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/programm/comedy/wdr2comedy822.html" class="teaserLink" aria-labelledby="teaserLabel-05">
+<div id="teaserLabel-05" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+René Steinbergs "Irres ist menschlich"
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/programm/zugabe-pur/onkel-fisch100~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/programm/zugabe-pur/onkel-fisch100~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/programm/zugabe-pur/onkel-fisch100~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/programm/zugabe-pur/onkel-fisch100~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/programm/zugabe-pur/onkel-fisch100~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/programm/zugabe-pur/onkel-fisch100~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Zugabe-Moderatoren Onkel Fisch, Bildrechte: WDR / Mirko Schweikert" title="Zugabe-Moderatoren Onkel Fisch, Bildrechte: WDR / Mirko Schweikert | Bildquelle: WDR / Mirko Schweikert" src="/radio/wdr2/programm/zugabe-pur/onkel-fisch100~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/programm/comedy/index.html" class="teaserLink" aria-labelledby="teaserLabel-06">
+<div id="teaserLabel-06" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+WDR 2 Zugabe Pur
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/wdr2comedy714~_v-original.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/wdr2comedy714~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/wdr2comedy714~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/wdr2comedy714~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/wdr2comedy714~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/wdr2comedy714~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Meinung am Mittwoch Grafik" title="Meinung am Mittwoch Grafik | Bildquelle: dpa/WDR" src="/radio/wdr2/wdr2comedy714~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/programm/comedy/wdr2comedy710.html" class="teaserLink" aria-labelledby="teaserLabel-07">
+<div id="teaserLabel-07" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+WDR 2 Meinung am Mittwoch
+</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="teaser audio">
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/eckenga108~_v-gseapremiumxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/eckenga108~_v-TeaserAufmacher.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/eckenga108~_v-gseaclassicxl.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/eckenga108~_v-TeaserAufmacher.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/eckenga108~_v-TeaserNormal.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/eckenga108~_v-TeaserAufmacher.jpg" />
+<img class="img" alt="Fritz Eckenga" title="Fritz Eckenga | Bildquelle: wdr" src="/radio/wdr2/eckenga108~_v-TeaserAufmacher.jpg"/>
+</picture>
+</div>
+</div>
+<a href="/radio/wdr2/programm/comedy/REL-fritz-eckenga-100.html" class="teaserLink" aria-labelledby="teaserLabel-08">
+<div id="teaserLabel-08" class="textWrapper">
+<h4 class="headline" data-more-text="mehr">
+Fritz Eckenga
+</h4>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div data-ctrl-smsl12-controls="" class="controls sliding">
+<span class="shadow prev"></span> <span class="shadow next"></span>
+<div class="buttons">
+<a href="#"	data-ctrl-smsl12-trigger="{'action':{'default':['clearAnimation','slideOneChildPrev']}}" class="prev"></a>
+<a href="#"	data-ctrl-smsl12-trigger="{'action':{'default':['clearAnimation','slideOneChildNext']}}" class="next"></a>
+<div data-ctrl-smsl12-trigger="{'action':{'default':['toggleAnimation']}}" class="animation active">
+<p class="status">
+Animation: <strong>An</strong>
+</p>
+<a href="#" class="ani">Animation an/aus</a>
+</div>
+</div>
+<div class="labels">
+<div data-ctrl-smsl12-label="" class="entries"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionB">
+<div class="con">
+<h2 class="conHeadline">
+<a href="https://www.tagesschau.de/" >tagesschau.de</a>
+</h2>
+<div class="modCon">
+<div class="mod modA modPicList">
+<div class="boxCon equalHeight">
+<div class="box">
+<h3 class="hidden">Teaser</h3>
+<div class="teaser">
+<div class="linklist">
+<ul  class="list">
+<li >
+<a href="//www.tagesschau.de/ausland/trump-un-china-kavanaugh-101.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="//www.tagesschau.de/multimedia/bilder/trump-1899~_v-klein16x9.jpg" media="(min-width: 1901px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/trump-1899~_v-klein16x9.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/trump-1899~_v-klein16x9.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/trump-1899~_v-klein16x9.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/trump-1899~_v-klein16x9.jpg" media="(max-width: 479px)"/>
+<source srcset="//www.tagesschau.de/multimedia/bilder/trump-1899~_v-klein16x9.jpg" />
+<img class="img" alt="US-Präsident Trump beantwortet auf einer PK in New York Fragen." title="US-Präsident Trump beantwortet auf einer PK in New York Fragen. | Bildquelle: AFP" src="//www.tagesschau.de/multimedia/bilder/trump-1899~_v-klein16x9.jpg"/>
+</picture>
+</div>
+</div>
+<span>Trumps New-York-Bilanz: "Ohne mich gäbe es Millionen Tote"</span> <span>|</span> <strong>tagesschau</strong>
+</a>
+</li>
+<li >
+<a href="//www.tagesschau.de/ausland/maas-un-107.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="//www.tagesschau.de/multimedia/bilder/sendungsbild-418837~_v-klein16x9.jpg" media="(min-width: 1901px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/sendungsbild-418837~_v-klein16x9.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/sendungsbild-418837~_v-klein16x9.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/sendungsbild-418837~_v-klein16x9.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/sendungsbild-418837~_v-klein16x9.jpg" media="(max-width: 479px)"/>
+<source srcset="//www.tagesschau.de/multimedia/bilder/sendungsbild-418837~_v-klein16x9.jpg" />
+<img class="img" alt="Sendungsbild" title="Sendungsbild | Bildquelle: video" src="//www.tagesschau.de/multimedia/bilder/sendungsbild-418837~_v-klein16x9.jpg"/>
+</picture>
+</div>
+</div>
+<span>Minister Maas: "Trumps Patriotismus wird nicht funktionieren"</span> <span>|</span> <strong>tagesschau</strong>
+</a>
+</li>
+<li >
+<a href="//www.tagesschau.de/ausland/kavanaugh-129.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="//www.tagesschau.de/multimedia/bilder/kavanaugh-131~_v-klein16x9.jpg" media="(min-width: 1901px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/kavanaugh-131~_v-klein16x9.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/kavanaugh-131~_v-klein16x9.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/kavanaugh-131~_v-klein16x9.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="//www.tagesschau.de/multimedia/bilder/kavanaugh-131~_v-klein16x9.jpg" media="(max-width: 479px)"/>
+<source srcset="//www.tagesschau.de/multimedia/bilder/kavanaugh-131~_v-klein16x9.jpg" />
+<img class="img" alt="Brett Kavanaugh" title="Brett Kavanaugh | Bildquelle: AP" src="//www.tagesschau.de/multimedia/bilder/kavanaugh-131~_v-klein16x9.jpg"/>
+</picture>
+</div>
+</div>
+<span>Belästigungsvorwürfe: Weitere Frau beschuldigt Kavanaugh</span> <span>|</span> <strong>tagesschau</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionB">
+<div class="con">
+<h2 class="conHeadline">
+<a href="http://www.sportschau.de/sp/" >sportschau.de</a>
+</h2>
+<div class="modCon">
+<div class="mod modA modPicList">
+<div class="boxCon equalHeight">
+<div class="box">
+<h3 class="hidden">Teaser</h3>
+<div class="teaser">
+<div class="linklist">
+<ul  class="list">
+<li >
+<a href="https://www.sportschau.de/fussball/bundesliga/spielbericht-dortmund-nuernberg-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-106~_v-ARDKleinerTeaser.jpg" media="(min-width: 1901px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-106~_v-ARDKleinerTeaser.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-106~_v-ARDKleinerTeaser.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-106~_v-ARDKleinerTeaser.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-106~_v-ARDKleinerTeaser.jpg" media="(max-width: 479px)"/>
+<source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-106~_v-ARDKleinerTeaser.jpg" />
+<img class="img" alt="Dortmunds Torschütze Marco Reus (2.v.r.) jubelt mit Axel Witsel, Maximilian Philipp und Achraf Hakimi (L-R) über seinen Treffer zum 2:0." title="Dortmunds Torschütze Marco Reus (2.v.r.) jubelt mit Axel Witsel, Maximilian Philipp und Achraf Hakimi (L-R) über seinen Treffer zum 2:0. | Bildquelle: dpa/Bernd Thissen" src="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-106~_v-ARDKleinerTeaser.jpg"/>
+</picture>
+</div>
+</div>
+<span>Sieben Tore - Starker BVB überrollt Nürnberg</span> <span>|</span> <strong>sportschau</strong>
+</a>
+</li>
+<li >
+<a href="https://www.sportschau.de/fussball/bundesliga/spielbericht-gladbach-frankfurt-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="//www.sportschau.de/fussball/bundesliga/gladbach-frankfurt-116~_v-ARDKleinerTeaser.jpg" media="(min-width: 1901px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/gladbach-frankfurt-116~_v-ARDKleinerTeaser.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/gladbach-frankfurt-116~_v-ARDKleinerTeaser.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/gladbach-frankfurt-116~_v-ARDKleinerTeaser.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/gladbach-frankfurt-116~_v-ARDKleinerTeaser.jpg" media="(max-width: 479px)"/>
+<source srcset="//www.sportschau.de/fussball/bundesliga/gladbach-frankfurt-116~_v-ARDKleinerTeaser.jpg" />
+<img class="img" alt="Frankfurts Jetro Willems (l.) und Gladbachs Patrick Herrmann " title="Frankfurts Jetro Willems (l.) und Gladbachs Patrick Herrmann  | Bildquelle: imago/Chai v.d. Laage" src="//www.sportschau.de/fussball/bundesliga/gladbach-frankfurt-116~_v-ARDKleinerTeaser.jpg"/>
+</picture>
+</div>
+</div>
+<span>Gladbach besiegt Angstgegner Frankfurt</span> <span>|</span> <strong>sportschau</strong>
+</a>
+</li>
+<li >
+<a href="https://www.sportschau.de/fussball/bundesliga/spielbericht-leipzig-stuttgart-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="//www.sportschau.de/fussball/bundesliga/leipzig-stuttgart-104~_v-ARDKleinerTeaser.jpg" media="(min-width: 1901px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/leipzig-stuttgart-104~_v-ARDKleinerTeaser.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/leipzig-stuttgart-104~_v-ARDKleinerTeaser.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/leipzig-stuttgart-104~_v-ARDKleinerTeaser.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/leipzig-stuttgart-104~_v-ARDKleinerTeaser.jpg" media="(max-width: 479px)"/>
+<source srcset="//www.sportschau.de/fussball/bundesliga/leipzig-stuttgart-104~_v-ARDKleinerTeaser.jpg" />
+<img class="img" alt="Leipzigs Emil Forsberg (l) wird von Stuttgarts Christian Gentner (M) und Dennis Aogo gestoppt. " title="Leipzigs Emil Forsberg (l) wird von Stuttgarts Christian Gentner (M) und Dennis Aogo gestoppt.  | Bildquelle: dpa" src="//www.sportschau.de/fussball/bundesliga/leipzig-stuttgart-104~_v-ARDKleinerTeaser.jpg"/>
+</picture>
+</div>
+</div>
+<span>Leipzig schlägt sieglosen VfB Stuttgart</span> <span>|</span> <strong>sportschau</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con">
+<h2 class="conHeadline">
+<a href="/nachrichten/index.html" >
+Aktuelles aus den NRW-Regionen
+</a>
+</h2>
+<div class="modCon" >
+<div class="mod modD modMini" data-ctrl-slidable="{'id':'sl14',related:['feuerwehr-blausteinsee-kanister-100'],'action':{'default':['disableWhenNotNeeded'],'loaded':['disableWhenNotNeeded']}}">
+<div class="boxCon equalHeight" aria-live="polite" data-ctrl-sl14-slider="{}" >
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_1'}">
+<h3 class="ressort">
+<a href="/nachrichten/rheinland/index.html">
+Rheinland
+</a>
+</h3>
+<div class="teaser">
+<a href="/nachrichten/rheinland/feuerwehr-blausteinsee-kanister-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/nachrichten/rheinland/feuerwehr-blausteinsee-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/rheinland/feuerwehr-blausteinsee-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/rheinland/feuerwehr-blausteinsee-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/rheinland/feuerwehr-blausteinsee-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/rheinland/feuerwehr-blausteinsee-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/rheinland/feuerwehr-blausteinsee-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Zwei Feuerwehrleute am Blausteinsee mit gelben Schutzanzügen" title="Zwei Feuerwehrleute am Blausteinsee mit gelben Schutzanzügen | Bildquelle: Jaeger TV/Johannes Jaeger" src="/nachrichten/rheinland/feuerwehr-blausteinsee-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Eschweiler See: Chemikalien-Kanister illegal entsorgt
+</h4>
+<p class="teasertext">
+Unbekannte haben in der Nacht zu Mittwoch (26.09.2018) am Eschweiler Blausteinsee etwa 300 Kanister illegal entsorgt. Möglicherweise enthalten sie giftige Chemikalien.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_2'}">
+<h3 class="ressort">
+<a href="/nachrichten/rheinland/index.html">
+Rheinland
+</a>
+</h3>
+<div class="teaser">
+<a href="/nachrichten/rheinland/strassenbahn-tram-aachen-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/fernsehen/weltweit/dietram104~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/fernsehen/weltweit/dietram104~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/fernsehen/weltweit/dietram104~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/fernsehen/weltweit/dietram104~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/fernsehen/weltweit/dietram104~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/fernsehen/weltweit/dietram104~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="die Tram" title="die Tram | Bildquelle: wdr" src="/fernsehen/weltweit/dietram104~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+<abbr title="Aachener">Öcher</abbr> Tram: Bekommt Aachen wieder eine Straßenbahn?
+</h4>
+<p class="teasertext">
+Nach dem gescheiterten Projekt Campusbahn vor fünf Jahren ist jetzt eine neue Tram im Gespräch: Von Baesweiler über Alsdorf, Herzogenrath und Würselen bis zum Aachener Bushof. Heute kommt das Thema in der Städteregion zur Sprache.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_3'}">
+<h3 class="ressort">
+<a href="/nachrichten/rheinland/index.html">
+Rheinland
+</a>
+</h3>
+<div class="teaser">
+<a href="/nachrichten/rheinland/exzellenzcluster-uni-bonn-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/nachrichten/rheinland/uni-bonn-108~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/rheinland/uni-bonn-108~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/rheinland/uni-bonn-108~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/rheinland/uni-bonn-108~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/rheinland/uni-bonn-108~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/rheinland/uni-bonn-108~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Leuchtturm der Wissenschaft: Das Hauptgebäude der Universität strahlt in der Abendsonne. " title="Leuchtturm der Wissenschaft: Das Hauptgebäude der Universität strahlt in der Abendsonne.  | Bildquelle: Volker Lannert/Uni Bonn" src="/nachrichten/rheinland/uni-bonn-108~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Exzellenz<span lang="en">cluster</span>: Auswahlausschuss trifft in Bonn Förderentscheidungen
+</h4>
+<p class="teasertext">
+88 Forschungsverbünde deutscher Hochschulen haben es in die Endauswahl für die nächste Förderperiode geschafft. Die Uni Bonn ist mit sieben Exzellenz<span lang="en">cluster</span>-Anträgen als Spitzenreiter im Rennen.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_4'}">
+<h3 class="ressort">
+<a href="/nachrichten/rheinland/index.html">
+Rheinland
+</a>
+</h3>
+<div class="teaser">
+<a href="/nachrichten/rheinland/ritter-ausstellung-lvr-museum-bonn-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/nachrichten/rheinland/ritter-ausstellung-bonn-102~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/rheinland/ritter-ausstellung-bonn-102~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/rheinland/ritter-ausstellung-bonn-102~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/rheinland/ritter-ausstellung-bonn-102~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/rheinland/ritter-ausstellung-bonn-102~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/rheinland/ritter-ausstellung-bonn-102~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Ein Mann sitzt auf einem Pferderücken aus Holz." title="Ein Mann sitzt auf einem Pferderücken aus Holz. | Bildquelle: WDR - Stephan Kern" src="/nachrichten/rheinland/ritter-ausstellung-bonn-102~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+<abbr title="Landschaftsverband Rheinland">LVR</abbr>-Landesmuseum Bonn zeigt Ritterausstellung zum Mitmachen
+</h4>
+<p class="teasertext">
+Im <abbr title="Landschaftsverband Rheinland">LVR</abbr>-Landesmuseum Bonn können sich Besucher ab heute in einer Erlebniswelt auf die Spuren des Mittelalters begeben.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_5'}">
+<h3 class="ressort">
+<a href="/sport/index.html">
+Sport
+</a>
+</h3>
+<div class="teaser">
+<a href="/sport/fussball/gladbach-frankfurt-110.html" >
+<div class="mediaCon">
+<div class="media mediaA audio video">
+<picture>
+<source srcset="/sport/fussball/gladbach-frankfurt-114~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/sport/fussball/gladbach-frankfurt-114~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/sport/fussball/gladbach-frankfurt-114~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/sport/fussball/gladbach-frankfurt-114~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/sport/fussball/gladbach-frankfurt-114~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/sport/fussball/gladbach-frankfurt-114~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Gladbachs Louis Beyer (l.) im Kopfballduell gegen Eintracht-Stürmer Sebastian Haller." title="Gladbachs Louis Beyer (l.) im Kopfballduell gegen Eintracht-Stürmer Sebastian Haller. | Bildquelle: firo Sportphoto/Jürgen Fromme" src="/sport/fussball/gladbach-frankfurt-114~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Gladbach feiert verdienten Heimsieg
+</h4>
+<p class="teasertext">
+Borussia Mönchengladbach hat am fünften Spieltag einen verdienten Heimsieg gegen Eintracht Frankfurt verbucht.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_6'}">
+<h3 class="ressort">
+<a href="/sport/index.html">
+Sport
+</a>
+</h3>
+<div class="teaser">
+<a href="/sport/fussball/dortmund-nuernberg-100.html" >
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-104~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-104~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-104~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-104~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-104~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-104~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Torjubel bei den Spielern von Borussia Dortmund " title="Torjubel bei den Spielern von Borussia Dortmund  | Bildquelle: imago/nordphoto / Rauch" src="//www.sportschau.de/fussball/bundesliga/dortmund-nuernberg-104~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Dortmunder Schützenfest gegen Nürnberg
+</h4>
+<p class="teasertext">
+Borussia Dortmund hat am 5. Bundesliga-Spieltag den dritten Saisonsieg gefeiert und bleibt weiter ungeschlagen. Die Mannschaft von Trainer Lucien Favre gewann am Mittwoch ihr Heimspiel gegen den 1. FC Nürnberg deutlich.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="https://www1.wdr.de/sport/ergebnisse/sport-ergebnisse-102~_eam-86dea5068359540c30909322c589542e_eap__liga-BL1_eap__sportart-fb.html?eap=8oI34N4hym4RDV6dhKK0OnLYM%2FNzIoiKmKv2HkJYKgPxCIifwJGZmigVNLw42zmko7u1BzkuenjmTtn3qNivmX14aKf8Eh3Vmo7rkrCbOWqEVVWZAU31vWd%2BhB5P6j3k8h08OaqZyQk%3D" >
+<span>5. Spieltag</span> <span>|</span> <strong>&#252;berblick</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_7'}">
+<h3 class="ressort">
+<a href="/sport/index.html">
+Sport
+</a>
+</h3>
+<div class="teaser">
+<a href="/sport/fussball/magdeburg-duisburg-100.html" >
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/sport/fussball/stanislav-iljutcenko100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/sport/fussball/stanislav-iljutcenko100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/sport/fussball/stanislav-iljutcenko100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/sport/fussball/stanislav-iljutcenko100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/sport/fussball/stanislav-iljutcenko100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/sport/fussball/stanislav-iljutcenko100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Stanislav Iljutcenko (l.) erzielt das Führungstor für den MSV Duisburg in Magdeburg." title="Stanislav Iljutcenko (l.) erzielt das Führungstor für den MSV Duisburg in Magdeburg. | Bildquelle: firo Sportphoto/Fabian Simons" src="/sport/fussball/stanislav-iljutcenko100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Torspektakel zwischen Magdeburg und Duisburg
+</h4>
+<p class="teasertext">
+Der MSV Duisburg hat am Mittwochabend beim 1. FC Magdeburg ein gerechtes Unentschieden erreicht. Trotz des 3:3 (1:0) bleiben die Meidericher allerdings auch nach sieben Spieltagen noch ohne Sieg.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_8'}">
+<h3 class="ressort">
+<a href="/nachrichten/ruhrgebiet/index.html">
+Ruhrgebiet
+</a>
+</h3>
+<div class="teaser">
+<a href="/nachrichten/ruhrgebiet/duisburger-filmwoche-136.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/nachrichten/fernsehkamera100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/fernsehkamera100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/fernsehkamera100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/fernsehkamera100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/fernsehkamera100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/fernsehkamera100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Eine Fernsehkamera." title="Eine Fernsehkamera. | Bildquelle: dpa/Tobias Hase" src="/nachrichten/fernsehkamera100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Duisburger Filmwoche startet mit "Kulenkampffs Schuhe"
+</h4>
+<p class="teasertext">
+Migration, Digitalisierung, Menschen am Rande der Gesellschaft - das sind die großen Themen auf der 42. "Duisburger Filmwoche" im November.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_9'}">
+<h3 class="ressort">
+&nbsp;
+</h3>
+<div class="teaser">
+<a href="/nachrichten/aldi-nord-hufnagel-100.html" >
+<div class="mediaCon">
+<div class="media mediaA video">
+<picture>
+<source srcset="/nachrichten/aldi-nord-schild-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/aldi-nord-schild-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/aldi-nord-schild-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/aldi-nord-schild-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/aldi-nord-schild-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/aldi-nord-schild-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Eine Leuchtreklame mit dem Logo von Aldi Nord." title="Eine Leuchtreklame mit dem Logo von Aldi Nord. | Bildquelle: dpa/Hauke-Christian Dittrich" src="/nachrichten/aldi-nord-schild-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Torsten Hufnagel wird neuer Aldi-Nord-Chef
+</h4>
+<p class="teasertext">
+Nach dem Abgang von Aldi-Nord-Chef Marc Heußinger ist die Nachfolgefrage geklärt: Torsten Hufnagel wird neuer Gesamtverantwortlicher für den Essener Discounter.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_10'}">
+<h3 class="ressort">
+<a href="/nachrichten/ruhrgebiet/index.html">
+Ruhrgebiet
+</a>
+</h3>
+<div class="teaser">
+<a href="/nachrichten/ruhrgebiet/ermittlungen-rechsextreme-demo-dortmund-100.html" >
+<div class="mediaCon">
+<div class="media mediaA video">
+<picture>
+<source srcset="/nachrichten/ruhrgebiet/rechte-demo-dortmund-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/ruhrgebiet/rechte-demo-dortmund-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/ruhrgebiet/rechte-demo-dortmund-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/ruhrgebiet/rechte-demo-dortmund-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/ruhrgebiet/rechte-demo-dortmund-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/ruhrgebiet/rechte-demo-dortmund-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Polizisten stehen vor fahnenschwenkenden Demonstranten bei einer Demonstration von Rechtsextremisten in der Dortmunder Innenstadt." title="Polizisten stehen vor fahnenschwenkenden Demonstranten bei einer Demonstration von Rechtsextremisten in der Dortmunder Innenstadt. | Bildquelle: picture alliance/David Young" src="/nachrichten/ruhrgebiet/rechte-demo-dortmund-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Ermittlungen nach Rechten-Demos in Dortmund
+</h4>
+<p class="teasertext">
+Nach Kritik am Verhalten der Polizei bei zwei Demonstrationszügen von Rechtsextremen in Dortmund ermitteln die Behörden nun wegen des Verdachts der Volksverhetzung.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_11'}">
+<h3 class="ressort">
+<a href="/nachrichten/westfalen-lippe/index.html">
+Westfalen-Lippe
+</a>
+</h3>
+<div class="teaser">
+<a href="/nachrichten/westfalen-lippe/modepark-plettenberg-eroeffnung-102.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/nachrichten/westfalen-lippe/modepark-plettenberg-eroeffnung-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/westfalen-lippe/modepark-plettenberg-eroeffnung-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/westfalen-lippe/modepark-plettenberg-eroeffnung-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/westfalen-lippe/modepark-plettenberg-eroeffnung-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/westfalen-lippe/modepark-plettenberg-eroeffnung-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/westfalen-lippe/modepark-plettenberg-eroeffnung-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Modepark Röther" title="Modepark Röther | Bildquelle: WDR" src="/nachrichten/westfalen-lippe/modepark-plettenberg-eroeffnung-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Plettenberg: Grünes Licht für umstrittenen Modepark
+</h4>
+<p class="teasertext">
+Der umstrittene Modepark Röther in Plettenberg darf heute eröffnen. Nach einer Klage der Nachbarstadt Attendorn haben die Ratsmitglieder am Mittwochabend einem Vergleich zugestimmt.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_12'}">
+<h3 class="ressort">
+<a href="/sport/index.html">
+Sport
+</a>
+</h3>
+<div class="teaser">
+<a href="/sport/fussball/stpauli-paderborn-100.html" >
+<div class="mediaCon">
+<div class="media mediaA audio">
+<picture>
+<source srcset="/sport/fussball/babacar-gueye-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/sport/fussball/babacar-gueye-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/sport/fussball/babacar-gueye-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/sport/fussball/babacar-gueye-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/sport/fussball/babacar-gueye-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/sport/fussball/babacar-gueye-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="St. Paulis Torwart Robin Himmelmann (r.) rettet einen Ball vor dem heranstürmenden Paderborns Babacar Gueye. " title="St. Paulis Torwart Robin Himmelmann (r.) rettet einen Ball vor dem heranstürmenden Paderborns Babacar Gueye.  | Bildquelle: dpa/Axel Heimken" src="/sport/fussball/babacar-gueye-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Paderborn verliert in St. Pauli unglücklich
+</h4>
+<p class="teasertext">
+Der SC Paderborn hat beim FC St. Pauli eine unglückliche Niederlage kassiert. Das Hamburger Siegtor fiel in der Nachspielzeit.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="https://www1.wdr.de/sport/ergebnisse/sport-ergebnisse-102~_eam-86dea5068359540c30909322c589542e_eap__liga-BL2_eap__saison-2019_eap__spieltag-1-7_eap__sportart-fb.html?eap=8oI34N4hym4RDV6dhKK0OnLYM%2FNzIoiKmKv2HkJYKgPxCIifwJGZmigVNLw42zmko7u1BzkuenjmTtn3qNivmX14aKf8Eh3Vmo7rkrCbOWqEVVWZAU31vWd%2BhB5P6j3k8h08OaqZyQk%3D" >
+<span>7. Spieltag</span> <span>|</span> <strong>&#252;berblick</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_13'}">
+<h3 class="ressort">
+<a href="/nachrichten/westfalen-lippe/index.html">
+Westfalen-Lippe
+</a>
+</h3>
+<div class="teaser">
+<a href="/nachrichten/westfalen-lippe/mitarbeiter-treffen-sondermann-100.html" >
+<div class="mediaCon">
+<div class="media mediaA video">
+<picture>
+<source srcset="/nachrichten/westfalen-lippe/sondermann-baeckerei-102~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/westfalen-lippe/sondermann-baeckerei-102~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/westfalen-lippe/sondermann-baeckerei-102~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/westfalen-lippe/sondermann-baeckerei-102~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/westfalen-lippe/sondermann-baeckerei-102~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/westfalen-lippe/sondermann-baeckerei-102~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Bäckerei Sondermann " title="Bäckerei Sondermann  | Bildquelle: WDR" src="/nachrichten/westfalen-lippe/sondermann-baeckerei-102~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Sondermann-Mitarbeiter treffen sich in Hagen
+</h4>
+<p class="teasertext">
+Nachdem die Bäckereikette Sondermann aus Drolshagen Insolvenzantrag für einige Tochterfirmen gestellt hat, tauschen sich die Mitarbeiter darüber aus, wie es für sie weitergeht.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+<div class="linklist">
+<ul class="list">
+<li >
+<a href="/nachrichten/westfalen-lippe/baeckerei-sondermann-insolvenzantrag-drolshagen-100.html" >
+<span>Bäckerei Sondermann Drolshagen: Tochterfirmen stellen Insolvenzantrag</span> <span>|</span> <strong>mehr</strong>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_14'}">
+<h3 class="ressort">
+<a href="/nachrichten/westfalen-lippe/index.html">
+Westfalen-Lippe
+</a>
+</h3>
+<div class="teaser">
+<a href="/nachrichten/westfalen-lippe/tierversuche-uni-muenster-gestattet-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/nachrichten/westfalen-lippe/tierversuche-maeuse-labor-104~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/westfalen-lippe/tierversuche-maeuse-labor-104~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/westfalen-lippe/tierversuche-maeuse-labor-104~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/westfalen-lippe/tierversuche-maeuse-labor-104~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/westfalen-lippe/tierversuche-maeuse-labor-104~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/westfalen-lippe/tierversuche-maeuse-labor-104~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Eine weiße Maus sitzt auf der Hand einer Labormitarbeiterin, sie trägt Gummihandschuhe" title="Eine weiße Maus sitzt auf der Hand einer Labormitarbeiterin, sie trägt Gummihandschuhe | Bildquelle: WDR" src="/nachrichten/westfalen-lippe/tierversuche-maeuse-labor-104~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Gericht erlaubt Münsteraner Forscherin Tierversuche
+</h4>
+<p class="teasertext">
+Eine Wissenschaftlerin der Uniklinik Münster darf weiterhin Tierversuche durchführen. Das hat das Oberverwaltungsgericht entschieden.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" data-ctrl-feuerwehr-blausteinsee-kanister-100-source="{'action':{'default':['load','slideTo']},'content':'0_14_15'}">
+<h3 class="ressort">
+<a href="/nachrichten/westfalen-lippe/index.html">
+Westfalen-Lippe
+</a>
+</h3>
+<div class="teaser">
+<a href="/nachrichten/westfalen-lippe/kiepenkerl-katastrophe-tourismus-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/nachrichten/westfalen-lippe/kiepenkerl-wiedereroeffnung-terasse-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/nachrichten/westfalen-lippe/kiepenkerl-wiedereroeffnung-terasse-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/nachrichten/westfalen-lippe/kiepenkerl-wiedereroeffnung-terasse-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/nachrichten/westfalen-lippe/kiepenkerl-wiedereroeffnung-terasse-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/nachrichten/westfalen-lippe/kiepenkerl-wiedereroeffnung-terasse-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/nachrichten/westfalen-lippe/kiepenkerl-wiedereroeffnung-terasse-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Gäste des Kiepenkerls sitzen auf der sonnigen Terasse." title="Gäste des Kiepenkerls sitzen auf der sonnigen Terasse. | Bildquelle: WDR" src="/nachrichten/westfalen-lippe/kiepenkerl-wiedereroeffnung-terasse-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Kiepenkerl-Chefin beklagt respektlose Touristen in Münster
+</h4>
+<p class="teasertext">
+Das pietätlose Verhalten einiger Touristen und Gäste nach der Amokfahrt erschüttert die Mitarbeiter und Betreiber der Gaststätte Großer Kiepenkerl in Münster.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+</div>
+<div class="controls sliding" data-ctrl-sl14-controls="{}">
+<div class="buttons">
+<a href="#" data-ctrl-sl14-trigger="{'action':{'default':['slideEntireWidthPrev']}}" class="prev"></a> <a href="#" data-ctrl-sl14-trigger="{'action':{'default':['slideEntireWidthNext']}}" class="next"></a>
+</div>
+<div class="labels">
+<div class="entries" data-ctrl-sl14-label="{}"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionB">
+<div class="con">
+<div class="modCon serviceCon">
+<div class="mod modA">
+<div class="boxCon">
+<div class="box modWetter">
+<h2 class="ressort"><a href="/wetter/wettervorhersage/index.html">Wetter</a></h2>
+<ul class="weatherCont">
+<li class="dynamicWeatherLink">
+<a href="/wetter/wettervorhersage/wetter_nrw_ea100~_eam-ee242a6b2d8de8d7f002cad10bbeeeb8.jsp?eap=cj56eK5eQY5xQX7W7%2Fu8YAD6XUvoz2Wr07cULrpRKkJqY%2FR%2BbyV8EyMUJLif1litkJR6mlk85YSHad7w3AhIFbsYI0rX4w%2F4wSL2lfoQPm1xDWorYY9Wy0fNbEThZ4KdbcJTIzSaByEzL4WV3P7zjg%3D%3D">
+<span class="hidden">4-Tage-Prognose f&uuml;r </span><span class="city-name">Duisburg</span>
+</a>
+</li>
+<li class="dynamicWeatherInfo">
+<span class="city-name hidden">Duisburg, </span>
+<span class="date-desc">Heute</span>
+<span class="hidden">: wolkenlos</span>
+<img src="/resources/img/wdr/wetter/day.1.svg" class="weather-icon" alt="">
+<span class="hidden"> Tageshöchsttemperatur </span>
+<span class="max-temperature">Max: 22°</span>
+<span class="hidden"> / Tagestiefsttemperatur </span>
+<span class="min-temperature">Min: 10°</span>
+</li>
+<li class="dynamicWeatherInfo">
+<span class="city-name hidden">Duisburg, </span>
+<span class="date-desc">Morgen</span>
+<span class="hidden">: wolkig</span>
+<img src="/resources/img/wdr/wetter/day.1.svg" class="weather-icon" alt="">
+<span class="hidden"> Tageshöchsttemperatur </span>
+<span class="max-temperature">Max: 15°</span>
+<span class="hidden"> / Tagestiefsttemperatur </span>
+<span class="min-temperature">Min: 10°</span>
+</li>
+</ul>
+<form data-ctrl-formular="{'id':'form-weather'}" action="/wetter/wettervorhersage/wetter_nrw_ea100~_eam-a5f1fec8c6c0d6846f97f6d63ff849b7.jsp" name="form-weather">
+<fieldset>
+<legend>4-Tage-Prognose für:</legend>
+<div class="unitA"><span class="unitA">
+<label for="weather-search" class="hidden">Postleitzahl oder Ort eingeben </label></span><span class="unitA">
+<input type="text" autocomplete="off" value="Postleitzahl oder Ort suchen" data-ctrl-form-weather-input="{'action':{'default':['switchValue']}}" name="_query" class="weather-search"></span><span class="unitA">
+<button type="Submit" value="Suchen" data-ctrl-form-weather-trigger="{'action':{'default':['submit']}}" class="submit"></button></span></div>
+</fieldset>
+<input type="hidden" value="cj56eK5eQY5xQX7W7/u8YAD6XUvoz2Wr07cULrpRKkJqY/R+byV8EyMUJLif1litkJR6mlk85YSHad7w3AhIFbsYI0rX4w/4urfKD7VG1wUNYPWCY4zRoI6lMaPnt9V9kQvmm1cjSPh2wVRfooQmWw==" name="eap">
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionB">
+<div class="con">
+<div class="modCon serviceCon">
+<div class="mod modA">
+<div class="boxCon">
+<div class="box modVerkehr">
+<h2 class="ressort"><a href="http://www.wdr.de/verkehrslage/">Verkehrslage</a></h2>
+<div class="stauList">
+<ul class="clearfix">
+<li><a  class="button" href="http://www1.wdr.de/verkehr/nrw/meldungen/index.html#A1">A 1</a></li>
+<li><a  class="button" href="http://www1.wdr.de/verkehr/nrw/meldungen/index.html#A2">A 2</a></li>
+<li><a  class="button" href="http://www1.wdr.de/verkehr/nrw/meldungen/index.html#A3">A 3</a></li>
+<li><a  class="button" href="http://www1.wdr.de/verkehr/nrw/meldungen/index.html#A4">A 4</a></li>
+<li><a  class="button" href="http://www1.wdr.de/verkehr/nrw/meldungen/index.html#A40">A 40</a></li>
+<li><a  class="button" href="http://www1.wdr.de/verkehr/nrw/meldungen/index.html#A43">A 43</a></li>
+<li><a  class="button" href="http://www1.wdr.de/verkehr/nrw/meldungen/index.html#A44">A 44</a></li>
+<li><a  class="button" href="http://www1.wdr.de/verkehr/nrw/meldungen/index.html#A46">A 46</a></li>
+<li class="doubleCont"><a  class="button" href="http://www1.wdr.de/verkehr/nrw/meldungen/index.html">Alle Staus</a></li>
+</ul>
+</div>
+<div class="linklist">
+<ul class="list">
+<li><a href="http://www1.wdr.de/verkehr/nrw/meldungen/index.html">
+<span>55 km Stau</span> in <acronym title="Nordrhein-Westfalen">NRW</acronym>
+<span> | <strong>mehr</strong></span></a>
+</li>
+<li><span>WDR Staunummer: <strong>0221 1680 3050</strong></span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con">
+<h2 class="conHeadline hidden">
+Banner Teaser
+</h2>
+<div class="modCon">
+<div class="mod modA modStopper">
+<div class="boxCon">
+<div class="box viewA">
+<h3 class="ressort">
+<a href="/radio/wdr2/kontakt/index.html">
+Kontakt
+</a>
+</h3>
+<div class="teaser">
+<a href="/radio/wdr2/kontakt/wettermelder-102.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/fernsehen/abenteuer-erde/streuobstwiese-mit-bunten-baeumen-100~_v-gseabannerxl.jpg" media="(min-width: 1901px)"/><source srcset="/fernsehen/abenteuer-erde/streuobstwiese-mit-bunten-baeumen-100~_v-gseabannerl.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/fernsehen/abenteuer-erde/streuobstwiese-mit-bunten-baeumen-100~_v-gseabannerm.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/fernsehen/abenteuer-erde/streuobstwiese-mit-bunten-baeumen-100~_v-gseabanners.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/fernsehen/abenteuer-erde/streuobstwiese-mit-bunten-baeumen-100~_v-gseabannerxs.jpg" media="(max-width: 479px)"/>
+<source srcset="/fernsehen/abenteuer-erde/streuobstwiese-mit-bunten-baeumen-100~_v-gseabannerl.jpg" />
+<img class="img" alt="Blick auf eine Streuobstwiese, deren Bäume goldgelbe und rötliche Blätter haben." title="Blick auf eine Streuobstwiese, deren Bäume goldgelbe und rötliche Blätter haben. | Bildquelle: WDR / Steffan Sailer" src="/fernsehen/abenteuer-erde/streuobstwiese-mit-bunten-baeumen-100~_v-gseabannerl.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+<abbr title="Westdeutscher Rundfunk">Jetzt WDR</abbr> 2 Wettermelder werden!
+</h4>
+<p class="teasertext">
+Die <abbr title="Westdeutscher Rundfunk">WDR</abbr> 2 Meteorologen haben das Wetter im Westen für Sie im Blick. Aber wir wollen auch wissen, wie das Wetter bei Ihnen vor der Haustür gerade ist. Werden Sie jetzt <abbr title="Westdeutscher Rundfunk">WDR</abbr> 2 Wettermelder.
+&nbsp;|&nbsp;
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="con">
+<div class="mod modD">
+<div class="boxCon equalHeight" >
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="http://www1.wdr.de/mediathek/audio/wdr2/mediathek-wdr2-audiokalender-100.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/mediathek/mediathek-symbolbild-faecher-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/mediathek/mediathek-symbolbild-faecher-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/mediathek/mediathek-symbolbild-faecher-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/mediathek/mediathek-symbolbild-faecher-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/mediathek/mediathek-symbolbild-faecher-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/mediathek/mediathek-symbolbild-faecher-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Mediathek Symbolbild" title="Mediathek Symbolbild | Bildquelle: wdr" src="/mediathek/mediathek-symbolbild-faecher-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Alle Beiträge chronologisch
+</h4>
+<p class="teasertext">
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" >
+<h3 class="ressort">
+<a href="/mediathek/audio/wdr2/index.html">
+WDR 2
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/audio/wdr2/index.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/podcast-logo-100~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/podcast-logo-100~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/podcast-logo-100~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/podcast-logo-100~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/podcast-logo-100~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/podcast-logo-100~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="WDR 2 Podcast" title="WDR 2 Podcast | Bildquelle: wdr" src="/radio/wdr2/podcast-logo-100~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+WDR 2 Podcast und Audio
+</h4>
+<p class="teasertext">
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" >
+<h3 class="ressort">
+<a href="/mediathek/video/index.html">
+Video
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/mediathek/video/radio/wdr2/index.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/tva-export/wdr-zwei-174~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/tva-export/wdr-zwei-174~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/tva-export/wdr-zwei-174~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/tva-export/wdr-zwei-174~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/tva-export/wdr-zwei-174~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/tva-export/wdr-zwei-174~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="WDR 2" title="WDR 2 | Bildquelle: wdr" src="/radio/tva-export/wdr-zwei-174~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+WDR 2 Videos
+</h4>
+<p class="teasertext">
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+<div class="box" >
+<h3 class="ressort">
+<a href="/radio/wdr2/aktionen/app/index.html">
+WDR 2 App
+</a>
+</h3>
+<div class="teaser hideTeasertext">
+<a href="/radio/wdr2/app/index.html" >
+<div class="mediaCon">
+<div class="media mediaA">
+<picture>
+<source srcset="/radio/wdr2/wdrzwei-app-logo-102~_v-gseaclassicxl.jpg" media="(min-width: 1901px)"/><source srcset="/radio/wdr2/wdrzwei-app-logo-102~_v-ARDAustauschformat.jpg" media="(min-width: 1010px) and (max-width: 1900px)"/><source srcset="/radio/wdr2/wdrzwei-app-logo-102~_v-ARDAustauschformat.jpg" media="(min-width: 768px) and (max-width: 1009px)"/><source srcset="/radio/wdr2/wdrzwei-app-logo-102~_v-ARDAustauschformat.jpg" media="(min-width: 480px) and (max-width: 767px)"/><source srcset="/radio/wdr2/wdrzwei-app-logo-102~_v-TeaserKlein.jpg" media="(max-width: 479px)"/>
+<source srcset="/radio/wdr2/wdrzwei-app-logo-102~_v-ARDAustauschformat.jpg" />
+<img class="img" alt="Screenshot des WDR 2 App Icons auf einem Smartphone" title="Screenshot des WDR 2 App Icons auf einem Smartphone | Bildquelle: wdr" src="/radio/wdr2/wdrzwei-app-logo-102~_v-ARDAustauschformat.jpg"/>
+</picture>
+</div>
+</div>
+<h4 data-more-text="mehr" class="headline">
+Die WDR 2 App
+</h4>
+<p class="teasertext">
+<strong>mehr</strong>
+</p>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section sectionA">
+<div class="breadcrumb">
+<p class="hidden">Sie befinden sich hier: </p>
+<ul>
+<li>
+<a href="/index.html">WDR</a>
+</li>
+<li>
+<a href="/radio/index.html">Radio</a>
+</li>
+<li>
+WDR 2
+</li>
+</ul>
+</div>
+<div class="poweruser">
+<span>Darstellung:</span>
+<ul>
+<li><a onclick="app.mediaMatcher.forceQuery('auto',0); return false;" href="#">AUTO</a></li>
+<li data-ctrl-attributeswap="{'action':{'default':{'class':''},'xs':{'class':'active'}}}"><a onclick="app.mediaMatcher.forceQuery(0,48); return false;" href="#">XS</a></li>
+<li data-ctrl-attributeswap="{'action':{'default':{'class':''},'s':{'class':'active'}}}"><a onclick="app.mediaMatcher.forceQuery(1,48);  return false;" href="#">S</a></li>
+<li data-ctrl-attributeswap="{'action':{'default':{'class':''},'m':{'class':'active'}}}"><a onclick="app.mediaMatcher.forceQuery(2,48);  return false;" href="#">M</a></li>
+<li data-ctrl-attributeswap="{'action':{'default':{'class':''},'l':{'class':'active'}}}"><a onclick="app.mediaMatcher.forceQuery(3,48);  return false;" href="#">L</a></li>
+<li data-ctrl-attributeswap="{'action':{'default':{'class':''},'xl':{'class':'active'}}}"><a onclick="app.mediaMatcher.forceQuery(4,48);  return false;" href="#">XL</a></li>
+</ul>
+<a class="button inv" data-ctrl-attributeswap="{'action':{'default':{'href':'#goToHead'},'xs':{'href':'#goToContent'},'s':{'href':'#goToContent'}}}" href="#goToHead">
+<span>Zum Seitenanfang</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<!--googleoff: index-->
+<div id="footer">
+<div class="wrapper" role="navigation">
+<div class="section sectionA" data-ctrl-collapsible="{'id':'collfoot','action':{'default':['openEntries','disable'],'xs':['enable','closeEntries'],'s':['enable','closeEntries'],'m':['enable','closeEntries']}}">
+<h2 class="hidden">Links auf weitere Angebotsteile</h2>
+<div class="unitD" data-ctrl-collfoot-entry="{'id':'wdrfooterlinksa100'}">
+<h3 id="wdrfooterlinksa100-tab" data-ctrl-collfoot-wdrfooterlinksa100-trigger="{'action':{'default':['closeOtherEntries','toggleBody']}}" aria-controls="wdrfooterlinksa100-panel" role="tab">Der WDR</h3>
+<ul id="wdrfooterlinksa100-panel" data-ctrl-collfoot-wdrfooterlinksa100-body="{}" aria-labeledby="wdrfooterlinksa100-tab" role="tabpanel">
+<li><a href="/unternehmen/index.html">Unternehmen</a></li>
+<li><a href="/unternehmen/der-wdr/gremien/index.html">Aufsichtsgremien</a></li>
+<li><a href="https://presse.wdr.de/plounge/index.html">Presse</a></li>
+<li><a href="/unternehmen/der-wdr/karriere/index.html">Karriere</a></li>
+<li><a href="/unternehmen/der-wdr/medienundbildung/index.html">Medien und Bildung</a></li>
+<li><a href="/unternehmen/der-wdr/standorte/studios/index.html">Studios in NRW</a></li>
+<li><a href="/fernsehen/startseite/index.html">Fernsehen</a></li>
+<li><a href="https://www1.wdr.de/radio/radiolayer-100.html">Radio</a></li>
+<li><a href="/fernsehen/der-wdr-und-das-erste-100.html">Der WDR im Ersten</a></li>
+<li><a href="/unternehmen/der-wdr/serviceangebot/services/print/wdr-print-108.html">WDR print</a></li>
+<li><a href="https://www.rundfunkbeitrag.de/">Rundfunkbeitrag</a></li>
+<li><a href="/veranstaltungen/index.html">Veranstaltungen</a></li>
+<li><a href="/unternehmen/der-wdr/profil/jugendmedienschutz/index.html">Jugendmedienschutz </a></li>
+</ul>
+</div>
+<div class="unitD" data-ctrl-collfoot-entry="{'id':'wdrfooterlinksb100'}">
+<h3 id="wdrfooterlinksb100-tab" data-ctrl-collfoot-wdrfooterlinksb100-trigger="{'action':{'default':['closeOtherEntries','toggleBody']}}" aria-controls="wdrfooterlinksb100-panel" role="tab">Service</h3>
+<ul id="wdrfooterlinksb100-panel" data-ctrl-collfoot-wdrfooterlinksb100-body="{}" aria-labeledby="wdrfooterlinksb100-tab" role="tabpanel">
+<li><a href="https://www.wdr.de/programmvorschau/">Programmvorschau</a></li>
+<li><a href="https://www.wdr.de/programmvorschau/download.html">Programm zum Download</a></li>
+<li><a href="/unternehmen/der-wdr/programme/radioprogramm/index.html">Radioprogramm online</a></li>
+<li><a href="https://www1.wdr.de/unternehmen/der-wdr/technik/frequenzen182.html">Empfang und Frequenzen</a></li>
+<li><a href="/wdrtext/index.html">WDR Text</a></li>
+<li><a href="/unternehmen/der-wdr/serviceangebot/kontakt/hotlines-servicenummern100.html">Hotlines</a></li>
+<li><a href="/unternehmen/der-wdr/serviceangebot/services/besucherservice-102.html">Besucherservice</a></li>
+<li><a href="/unternehmen/der-wdr/serviceangebot/kontakt/publikumsstelle-104.html">Publikumsstelle</a></li>
+<li><a href="/hilfe/uebersicht-barrierefreiheit-100.html">Barrierefreiheit</a></li>
+<li><a href="/hilfe/leichte-sprache/index.html">Leichte Sprache</a></li>
+<li><a href="/hilfe/newsletter112.html">Newsletter</a></li>
+<li><a href="/global/feeds100.html">RSS-Feeds</a></li>
+<li><a href="/sitemap/index.html">Sitemap</a></li>
+<li><a href="/mediathek/podcast/index.html">Podcast</a></li>
+<li><a href="/app/index.html">Die WDR App</a></li>
+<li><a href="https://twitter.com/WDR">WDR aktuell bei Twitter</a></li>
+<li><a href="https://www.facebook.com/WDR">WDR bei Facebook</a></li>
+<li><a href="https://www.instagram.com/wdr/">WDR bei Instagram</a></li>
+<li><a href="https://www.youtube.com/channel/UCn7wWR5KnpX_N6ZaBNuyVYw">WDR Youtube-Channel</a></li>
+<li><a href="https://www.wdr-mediagroup.com/programmvermarktung/produktvertrieb/wdrshop/#_bn">WDR Shop</a></li>
+</ul>
+</div>
+<div class="unitD" data-ctrl-collfoot-entry="{'id':'wdrfooterlinksc100'}">
+<h3 id="wdrfooterlinksc100-tab" data-ctrl-collfoot-wdrfooterlinksc100-trigger="{'action':{'default':['closeOtherEntries','toggleBody']}}" aria-controls="wdrfooterlinksc100-panel" role="tab">Themen</h3>
+<ul id="wdrfooterlinksc100-panel" data-ctrl-collfoot-wdrfooterlinksc100-body="{}" aria-labeledby="wdrfooterlinksc100-tab" role="tabpanel">
+<li><a href="https://kinder.wdr.de/index.html">Kinder</a></li>
+<li><a href="https://blog.wdr.de/digitalistan/">Digitalistan</a></li>
+<li><a href="/pageflow-uebersicht102.html">Multimedia-Reportagen </a></li>
+<li><a href="/nachrichten/wdrforyou/index.html">WDRforyou</a></li>
+<li><a href="/nachrichten/investigatives/index.html">Investigative Recherchen</a></li>
+<li><a href="/dossiers/religion/index.html">Die Weltreligionen</a></li>
+<li><a href="/radio/kirche-im-wdr-100.html">Kirche im WDR</a></li>
+<li><a href="/radio/hoerspiel/index.html">Hörspiele</a></li>
+<li><a href="/radio/feature/index.html">Radiofeature</a></li>
+<li><a href="/fernsehen/dokumentation-und-reportage/index.html">Dokumentationen</a></li>
+<li><a href="/fernsehen/dokumentation-und-reportage/index.html">Reportagen</a></li>
+<li><a href="https://digit.wdr.de">Digit</a></li>
+<li><a href="/archiv/index.html">Archiv</a></li>
+<li><a href="/abisz120.html">Themen-Übersicht</a></li>
+</ul>
+</div>
+<div class="unitD" data-ctrl-collfoot-entry="{'id':'wdrfooterlinksd100'}">
+<h3 id="wdrfooterlinksd100-tab" data-ctrl-collfoot-wdrfooterlinksd100-trigger="{'action':{'default':['closeOtherEntries','toggleBody']}}" aria-controls="wdrfooterlinksd100-panel" role="tab">Orchester und Chor</h3>
+<ul id="wdrfooterlinksd100-panel" data-ctrl-collfoot-wdrfooterlinksd100-body="{}" aria-labeledby="wdrfooterlinksd100-tab" role="tabpanel">
+<li><a href="/orchester-und-chor/sinfonieorchester/index.html">WDR Sinfonieorchester</a></li>
+<li><a href="/orchester-und-chor/rundfunkchor/index.html">WDR Rundfunkchor</a></li>
+<li><a href="/orchester-und-chor/funkhausorchester/index.html">WDR Funkhausorchester</a></li>
+<li><a href="/orchester-und-chor/bigband/index.html">WDR Big Band</a></li>
+<li><a href="/orchester-und-chor/wdrmusikvermittlung/index.html">WDR Musikvermittlung</a></li>
+</ul>
+</div>
+<div class="foot">
+<h2 class="hidden">Globale Links</h2>
+<ul class="help">
+<li><a href="/impressum/index.html">Impressum</a>
+</li>
+<li><a href="/hilfe/datenschutz102.html">Datenschutz</a>
+</li>
+<li><a href="/hilfe/index.html">Hilfe</a>
+</li>
+<li><a href="/kontakt/index.html">Kontakt</a>
+</li>
+</ul>
+<p class="copy">
+<a href="/copyright/index.html">&copy; WDR
+2018</a>
+</p>
+<a class="logo" href="/index.html">
+<img alt="zu Startseite WDR" title="zu Startseite WDR" src="/resources/img/wdr/logo/wdr_logo.svg"/>
+</a>
+</div>
+</div>
+<a href="#goToHead" class="hidden">Zum Anfang</a>
+</div>
+</div>
+<script type="text/javascript" src="/radio/wdr2/digitale_initiative_navi_fix_js_100.js"></script>
+<!--googleon: index-->
+</body>
+</html>

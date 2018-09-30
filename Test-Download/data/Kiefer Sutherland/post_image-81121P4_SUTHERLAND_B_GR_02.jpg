@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Bauer-Griffin.com</title>
+<meta name="description" content="Exclusive photos of Hollywood's hottest stars... Bauer-Griffin is The Hollywood Hunt Club... and this is the web site."/>
+<meta name="keywords" content="celebrity, celebrity gossip, celebrity photos, celebrity news, celebrity pictures, celebrity pics, celebrity photo gallery, celebrity fashion, exclusive photos, hollywood stars, hollywood pics, hollywood photos, hollywood fashion, paparazzi"/>
+<link href="/bauer_files/frontpage.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+#loginform {
+    width: 100%;
+    text-align:center;
+}
+
+#loginleft {
+    display: inline-block;
+    margin-left: -100px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width:100px;
+}
+
+#logincenter {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width:200px;
+}
+
+#loginright {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width:100px;
+}
+body {
+	background-color: #000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(/bauer_files/background_repeat.png);
+	background-repeat: repeat-x;
+}
+</style>
+<style>
+/* Popup container */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    font-size: 10px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+</style>
+<script src="/slideshows/monoslideshow.js" type="text/javascript"></script>
+</head>
+
+<body onload="onLoadComplete();">
+<div id="pagecontainer">
+  <div id="filmstrip">
+  <div style="float:left;position:relative;top:20px;">
+		<div id="monoslideshowHolder" style="height:120px;width:1020px;overflow:hidden;">
+		<script type="text/javascript">
+function onLoadComplete() {
+var mss = new Monoslideshow('monoslideshowHolder', {showLogo: false}, {showRegistration: false});
+mss.load('/slideshows/monoslideshow01.xml');
+}
+</script>
+		</div>
+</div>
+  </div>
+  <div id="content">
+  &nbsp;
+    <div id="controlbox">
+      <div id="links">
+      <a href="/contact" target="popup" onClick="window.open('','popup','width=550, height=525,scrollbars=1')"><img src="/bauer_files/contact_us.png" alt="Contact Us" width="188" height="29" border="0" /></a><img src="/bauer_files/vertical_separator.png" width="2" height="29" /><a href="/about" target="popup" onClick="window.open('','popup','width=550, height=600,scrollbars=1')"><img src="/bauer_files/about_us.png" width="189" height="29" border="0" /></a><img src="/bauer_files/vertical_separator.png" width="2" height="29" /><a href="/terms" target="popup" onClick="window.open('','popup','width=550, height=450')"><img src="/bauer_files/legal_link.png" width="172" height="29" border="0" /></a></div>
+      <div id="loginbox">
+    <div id="loginform">
+      <form method=post name=if_login action="http://www.bauergriffin.com/scripts/SecureDAM/SecureDAM.cgi">
+      <input type=hidden name=start value="">
+      <input type=hidden name=login value="2">
+  <div>
+  <div id="loginleft">
+  <img src="/bauer_files/username.png" width="112" height="24" align="absmiddle" />
+  </div>
+  
+  <div id="logincenter">
+  <input name="if_username" class="textField" id="if_username" size="24" maxlength="50" type="text">
+ </div>
+
+          
+          <div id="loginright">
+                  <input name="entree" type="image" id="entree" src="/bauer_files/login.png" align="absmiddle" border="0">
+          </div>
+          
+          </div>
+<div>
+    <div id="loginleft">
+    <img src="/bauer_files/password.png" width="112" height="24" align="absmiddle" />      
+    </div>
+
+  <div id="logincenter">
+  <input name="if_password" class="textField" id="if_password" size="24" maxlength="50" type="password">
+</div>
+
+
+          <div id="loginright" class="popup" onclick="myFunction()">
+<img src="/bauer_files/register.png" border="0" align="absmiddle">
+          <span class="popuptext" id="myPopup">Registrations are closed</span>
+          </div>
+
+          
+</div>
+          
+      </form>
+      </div>
+<div align="center"><a href="/scripts/SecureDAM/SecureDAM.cgi?account=lostpw"><img src="/bauer_files/forgot-password.png" border="0"></a></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="footer" class="copyright">
+&copy; Copyright 2001-2018 Bauer-Griffin, LLC. All Rights Reserved. <a href="/terms" target="popup" onClick="window.open('','popup','width=550, height=450')">Terms &amp; Conditions
+    of use</a>
+</div>
+<script>
+// When the user clicks on div, open the popup
+function myFunction() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+}
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11218388-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

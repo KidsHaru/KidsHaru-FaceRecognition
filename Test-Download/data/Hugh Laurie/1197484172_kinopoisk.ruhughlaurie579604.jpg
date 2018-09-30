@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link type="text/css" rel="stylesheet" href="h.css" />
+<script type="text/javascript" src="h.js"></script>
+<script type="text/javascript">getImages();</script>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="keywords" content="хостинг, hosting, размещение сайтов, virtual private server, co-location, dedicated, айчына, размещение серверов" />
+<meta name="title" content="Хостинг ОДО Айчына-Плюс" />
+<meta name="description" content="Хостинг от телекоммуникационной компании Айчына-Плюс. Компания Айчына-Плюс предоставляет услуги хостинга, размещения серверов, а так же многие другие услуги." />
+<title>Хостинг - ОДО &#8220;Айчына Плюс&#8221;</title>
+</head>
+<body>
+<div class="center" align="center">
+<div class="main" name="main"> 
+ <div class="head">
+  <div class="logo">
+   <a href="http://aplus.by/ru/"><img src="img/logo.png" border="0" /></a>
+  </div>
+  <div class="tel">
+   <img src="img/tel.png" />
+  </div>
+ </div>
+<div class="menu">
+ <a href="about.html">О компании</a>&#160;|&#160;<a href="faq.html">Вопросы и ответы</a>&#160;|&#160;<a href="cont.html">Контакты</a>
+</div>
+<div class="topblank"></div>
+ <table width="100%" cellpadding="0" cellspacing="0" class="big">
+ <tr>
+  <td align="center">
+   <a href="hosting.html"><img src="img/host.png" class="plan" name="host" border="0" onmouseover="document.host.src='img/host-pres.png';" onmouseout="document.host.src='img/host.png';" /></a><br />
+   <img src="img/host1.png" class="shadow" border="0"/>
+  </td>
+  <td align="center">
+   <a href="co-loc.html"><img src="img/co-loc.png" class="plan" name="coloc" border="0" onmouseover="document.coloc.src='img/co-loc-pres.png';" onmouseout="document.coloc.src='img/co-loc.png';" /></a><br />
+   <img src="img/co-loc1.png" class="shadow" border="0" />   
+  </td>
+  <td align="center">
+   <a href="ded.html"><img src="img/ded.png" class="plan" name="ded" border="0" onmouseover="document.ded.src='img/ded-pres.png';" onmouseout="document.ded.src='img/ded.png';" /></a><br />
+   <img src="img/ded1.png" class="shadow" border="0" />      
+  </td>
+  <td align="center">
+   <a href="vps.html"><img src="img/vps.png" class="plan" name="vps" border="0" onmouseover="document.vps.src='img/vps-pres.png';" onmouseout="document.vps.src='img/vps.png';"/></a><br />
+   <img src="img/vps1.png" class="shadow" border="0" />      
+  </td>    
+ </tr>
+  <tr>
+  <td align="center">
+   <div class="text">
+   <a href="hosting.html">Хостинг</a> - это коммерческая услуга по предоставлению дискового пространства для физического размещения информации на сервере, постоянно находящемся в сети Интернет.
+   </div>
+  </td>
+  <td align="center">
+   <div class="text">
+   <a href="co-loc.html">Co-location</a> — услуга связи, состоящая в том, что провайдер размещает оборудование клиента на своей территории 
+(в датацентре) и подключает его к каналам связи с высокой пропускной способностью.
+   </div>
+  </td>
+  <td align="center">
+   <div class="text">
+   <a href="ded.html">Dedicated</a> — вид хостинга, 
+при котором клиенту целиком предоставляется отдельная физическая машина. Обычно используется для запуска приложений, которые не могут сосуществовать на одном сервере с другими проектами 
+или имеют повышенные требования к ресурсам.
+   </div>
+  </td>
+  <td align="center">
+   <div class="text">
+   <a href="vps.html">Virtual Private Server</a> или VDS Virtual Dedicated Server — услуга, в рамках которой пользователю предоставляется так называемый Виртуальный выделенный сервер. В плане управления операционной системой по большей части она соответствует физическому выделенному серверу. 
+   </div>
+  </td>    
+ </tr>
+</table>
+
+
+<div class="bottomblank"></div>
+</div>
+
+
+
+<div id="footer">
+      <span class="copyright">
+        ОДО «Айчына Плюс» © 2016<br/>
+
+      </span>
+      <span class="phones">
+        (017) 389-71-71<br/>
+		<br/>
+		
+      </span>
+	  
+	<span  class="phones" style=" margin-top: 0; background: none;">
+	   <a class="archiv" style="" href="/ru/service/archive.html#content">Архив</a>
+		</span>
+    </div>
+</div>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter43437774 = new Ya.Metrika({
+                    id:43437774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/43437774" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

@@ -1,0 +1,1233 @@
+
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head id="Head1"><meta charset="utf-8" />
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" /><title>
+	 | TVSA
+</title><link rel="stylesheet" href="/includes/jqueryui/css/ui-lightness/jquery-ui-1.9.2.custom.min.css" /><link rel="stylesheet" href="/Includes/Site/Stylesheets/custom2.css" /><link rel="stylesheet" type="text/css" href="/includes/combine_v12.css?r=083F087F970950721CD1B091B0598F9B" /><link rel="stylesheet" href="/Includes/jquery-tokeninput/styles/token-input-facebook.css" />
+    <link rel="stylesheet" href="/includes/site/stylesheets/custom.css?v=1.8">
+    
+
+    <!--[if lt IE 7]>
+	<style type="text/css">
+		#wrapcontainer {display:table;height:100%}
+	</style>
+<![endif]-->
+<script type="text/javascript" src="/includes/combinetop_v1.js?r=909439E57949352674871BC906F62DC6"></script>
+    <!-- IE Fix for HTML5 Tags -->
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    
+    <link rel="stylesheet" href="/includes/owl-carousel/owl.carousel.css" />
+    <link rel="stylesheet" href="/includes/owl-carousel/owl.theme.css" />
+    <script src="/includes/owl-carousel/owl.carousel.min.js"></script>
+    
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-2194812-1', 'tvsa.co.za');
+        ga('send', 'pageview');
+
+    </script>
+    
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6730769/336x280_Actor_Profiles_Mid', [[300, 250], [336, 280]], 'div-gpt-ad-1502438636634-0').addService(googletag.pubads());
+    googletag.defineSlot('/6730769/Mobi_Actors_Bottom', [[300, 250], [336, 280]], 'div-gpt-ad-1502438636634-7').addService(googletag.pubads());
+    googletag.defineSlot('/6730769/300x250_Mobi_Actors_Mid', [[300, 250], [336, 280]], 'div-gpt-ad-1502438636634-8').addService(googletag.pubads());
+    googletag.enableServices();
+  });
+</script>
+
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7562341865286967",
+          enable_page_level_ads: true
+     });
+</script>
+		
+	<script type="text/javascript">
+        //<![CDATA[
+        function HideAdd(id)
+        {
+            document.getElementById(id).style.display = 'none';
+        }
+        function OpenSearchBox()
+        {
+            try
+            {
+                var searchBox = document.getElementById('searchContainer'), inputBox = document.getElementById('txtGSearch');
+                inputBox.style.width = searchBox.style.width = '1px';
+                searchBox.style.display = 'block';
+
+                var containerPos = GetElementPositionById('headercontainer');
+                var searchBoxPos = GetElementPosition(searchBox), inputBoxPos = GetElementPosition(inputBox)
+                searchBox.style.width = (containerPos.right - searchBoxPos.left - 20) + 'px';
+                inputBox.style.width = (containerPos.right - inputBoxPos.left - 90) + 'px';
+
+                document.getElementById('txtGSearch').focus();
+
+                if (window.addEventListener)
+                {
+                    
+                    window.setTimeout('document.addEventListener(\'click\', window[\'CloseSearchBox\'], false);', 100);
+                    
+                }
+                else if (window.attachEvent)
+                {
+                    
+                    window.setTimeout('document.attachEvent(\'onclick\', window[\'CloseSearchBox\']);', 100);
+                    
+                }
+            }
+            catch (ex) { }
+        }
+
+        function CloseSearchBox()
+        {
+            document.getElementById('searchContainer').style.display='none';
+
+            if (window.addEventListener)
+            {
+                
+                document.removeEventListener('click', CloseSearchBox, false);
+                
+                window.removeEventListener('resize', CloseSearchBox, false);
+            }
+            else if (window.attachEvent)
+            {
+                
+                document.detachEvent('onclick', CloseSearchBox, false);
+                
+                window.detachEvent('onresize', CloseSearchBox, false);
+            }
+        }
+
+        function DoClickSearchBox(event)
+        {
+            if (event.stopPropagation)
+                event.stopPropagation();
+
+            else
+                event.cancelBubble = true;
+        }
+
+        function DoGSearch()
+        {
+            var value = document.getElementById('txtGSearch').value.replace(/^\s+|\s+$/g, '');
+
+            if (value.length > 0) window.location.href = '/searchresults.aspx?cx=013944795887846508942%3Ac1bowe8cwei&cof=FORID%3A11&q=' + encodeURIComponent(value) + '&sa=Search+TVSA&siteurl=tvsa.co.za%2F&ref=&ss=';
+        }
+
+        function ToggleProfileMenu()
+        {
+            var menu = document.getElementById('profileMenu');
+
+            if (menu.style.display = menu.style.display == 'block')
+                menu.style.display = 'none';
+
+            else
+            {
+                document.getElementById('mainMenu').style.display = 'none';
+                menu.style.display = 'block';
+            }
+        }
+
+        function CloseProfileMenu()
+        {
+            document.getElementById('profileMenu').style.display = 'none';
+        }
+
+        function ToggleMainMenu()
+        {
+            var menu = document.getElementById('mainMenu');
+
+            if (menu.style.display = menu.style.display == 'block')
+                menu.style.display = 'none';
+
+            else
+            {
+                document.getElementById('profileMenu').style.display = 'none';
+                menu.style.display = 'block';
+            }
+        }
+
+        function CloseMainMenu()
+        {
+            document.getElementById('mainMenu').style.display = 'none';
+        }
+        //]]>
+    </script>
+
+</head>
+<body>
+    
+    <form method="post" action="./725_sutherland_kiefer_2.jpg?404%3bhttps%3a%2f%2fwww.tvsa.co.za%3a443%2factorimages%2f725_sutherland_kiefer_2.jpg" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM4MTkyNzI1Mw9kFgJmD2QWAmYPZBYCAgMPZBYCZg9kFhJmD2QWAmYPZBYEZg8WAh4EVGV4dGVkAgEPFgIfAGVkAgUPFgIeB1Zpc2libGVoZAIGDxYEHhBkYXRhLW1lc3NhZ2UtaWRzZR8BaGQCBw9kFgJmD2QWBGYPFgIfAAXtAjxzY3JpcHQgYXN5bmMgc3JjPSIvL3BhZ2VhZDIuZ29vZ2xlc3luZGljYXRpb24uY29tL3BhZ2VhZC9qcy9hZHNieWdvb2dsZS5qcyI+PC9zY3JpcHQ+DQo8IS0tIDk3MHg5MCBMYXJnZSBMZWFkZXJib2FyZCAtLT4NCjxpbnMgY2xhc3M9ImFkc2J5Z29vZ2xlIg0KICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6OTcwcHg7aGVpZ2h0OjkwcHgiDQogICAgIGRhdGEtYWQtY2xpZW50PSJjYS1wdWItNzU2MjM0MTg2NTI4Njk2NyINCiAgICAgZGF0YS1hZC1zbG90PSIyMzM3Mzc4ODgwIj48L2lucz4NCjxzY3JpcHQ+DQooYWRzYnlnb29nbGUgPSB3aW5kb3cuYWRzYnlnb29nbGUgfHwgW10pLnB1c2goe30pOw0KPC9zY3JpcHQ+ZAIBDxYCHwAF9AI8c2NyaXB0IGFzeW5jIHNyYz0iLy9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9wYWdlYWQvanMvYWRzYnlnb29nbGUuanMiPjwvc2NyaXB0Pg0KPCEtLSAzMjB4MTAwIExhcmdlIE1vYmkgTGVhZGVyYm9hcmQgLS0+DQo8aW5zIGNsYXNzPSJhZHNieWdvb2dsZSINCiAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lLWJsb2NrO3dpZHRoOjMyMHB4O2hlaWdodDoxMDBweCINCiAgICAgZGF0YS1hZC1jbGllbnQ9ImNhLXB1Yi03NTYyMzQxODY1Mjg2OTY3Ig0KICAgICBkYXRhLWFkLXNsb3Q9IjQ4MjMxNTM2ODciPjwvaW5zPg0KPHNjcmlwdD4NCihhZHNieWdvb2dsZSA9IHdpbmRvdy5hZHNieWdvb2dsZSB8fCBbXSkucHVzaCh7fSk7DQo8L3NjcmlwdD5kAgkPZBYCZg9kFgRmDxYCHwAF7AI8c2NyaXB0IGFzeW5jIHNyYz0iLy9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9wYWdlYWQvanMvYWRzYnlnb29nbGUuanMiPjwvc2NyaXB0Pg0KPCEtLSAzMDB4NjAwIGFib3ZlIHRoZSBmb2xkIC0tPg0KPGlucyBjbGFzcz0iYWRzYnlnb29nbGUiDQogICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZS1ibG9jazt3aWR0aDozMDBweDtoZWlnaHQ6NjAwcHgiDQogICAgIGRhdGEtYWQtY2xpZW50PSJjYS1wdWItNzU2MjM0MTg2NTI4Njk2NyINCiAgICAgZGF0YS1hZC1zbG90PSIxNzYyMjY5Mjg0Ij48L2lucz4NCjxzY3JpcHQ+DQooYWRzYnlnb29nbGUgPSB3aW5kb3cuYWRzYnlnb29nbGUgfHwgW10pLnB1c2goe30pOw0KPC9zY3JpcHQ+ZAIBDxYCHwBlZAILD2QWAmYPZBYEZg8WAh8ABewCPHNjcmlwdCBhc3luYyBzcmM9Ii8vcGFnZWFkMi5nb29nbGVzeW5kaWNhdGlvbi5jb20vcGFnZWFkL2pzL2Fkc2J5Z29vZ2xlLmpzIj48L3NjcmlwdD4NCjwhLS0gMzAweDYwMCBiZWxvdyB0aGUgZm9sZCAtLT4NCjxpbnMgY2xhc3M9ImFkc2J5Z29vZ2xlIg0KICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MzAwcHg7aGVpZ2h0OjYwMHB4Ig0KICAgICBkYXRhLWFkLWNsaWVudD0iY2EtcHViLTc1NjIzNDE4NjUyODY5NjciDQogICAgIGRhdGEtYWQtc2xvdD0iODE5MjM5MzY4MCI+PC9pbnM+DQo8c2NyaXB0Pg0KKGFkc2J5Z29vZ2xlID0gd2luZG93LmFkc2J5Z29vZ2xlIHx8IFtdKS5wdXNoKHt9KTsNCjwvc2NyaXB0PmQCAQ8WAh8ABe0CPHNjcmlwdCBhc3luYyBzcmM9Ii8vcGFnZWFkMi5nb29nbGVzeW5kaWNhdGlvbi5jb20vcGFnZWFkL2pzL2Fkc2J5Z29vZ2xlLmpzIj48L3NjcmlwdD4NCjwhLS0gMzM2eDI4MCBNb2JpIFJPUyBCb3R0b20gLS0+DQo8aW5zIGNsYXNzPSJhZHNieWdvb2dsZSINCiAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lLWJsb2NrO3dpZHRoOjMzNnB4O2hlaWdodDoyODBweCINCiAgICAgZGF0YS1hZC1jbGllbnQ9ImNhLXB1Yi03NTYyMzQxODY1Mjg2OTY3Ig0KICAgICBkYXRhLWFkLXNsb3Q9IjIwMjQ5Mzg0ODUiPjwvaW5zPg0KPHNjcmlwdD4NCihhZHNieWdvb2dsZSA9IHdpbmRvdy5hZHNieWdvb2dsZSB8fCBbXSkucHVzaCh7fSk7DQo8L3NjcmlwdD5kAgwPZBYCZg9kFgRmDxYCHwAFwiggPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCi5zb2FwaWV0YWJsZXsNCmJhY2tncm91bmQtY29sb3I6ICNmZmZmZmY7DQpiYWNrZ3JvdW5kLWltYWdlOiBub25lOw0KYmFja2dyb3VuZC1yZXBlYXQ6IHJlcGVhdDsNCmJhY2tncm91bmQtYXR0YWNobWVudDogc2Nyb2xsOw0KYmFja2dyb3VuZC1wb3NpdGlvbjogMCUgMCU7DQpiYWNrZ3JvdW5kLWNsaXA6IGJvcmRlci1ib3g7DQpiYWNrZ3JvdW5kLW9yaWdpbjogcGFkZGluZy1ib3g7DQpiYWNrZ3JvdW5kLXNpemU6IGF1dG8gYXV0bzsNCmJvcmRlci10b3AtbGVmdC1yYWRpdXM6IDNweDsNCmJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiAzcHg7DQpib3JkZXItYm90dG9tLXJpZ2h0LXJhZGl1czogM3B4Ow0KYm9yZGVyLWJvdHRvbS1sZWZ0LXJhZGl1czogM3B4Ow0KYm9yZGVyLXRvcC13aWR0aDogMXB4Ow0KYm9yZGVyLXJpZ2h0LXdpZHRoOiAxcHg7DQpib3JkZXItYm90dG9tLXdpZHRoOiAxcHg7DQpib3JkZXItbGVmdC13aWR0aDogMXB4Ow0KYm9yZGVyLXRvcC1zdHlsZTogc29saWQ7DQpib3JkZXItcmlnaHQtc3R5bGU6IHNvbGlkOw0KYm9yZGVyLWJvdHRvbS1zdHlsZTogc29saWQ7DQpib3JkZXItbGVmdC1zdHlsZTogc29saWQ7DQpib3JkZXItdG9wLWNvbG9yOiAjZGRkZGRkOw0KYm9yZGVyLXJpZ2h0LWNvbG9yOiAjZGRkZGRkOw0KYm9yZGVyLWJvdHRvbS1jb2xvcjogI2RkZGRkZDsNCmJvcmRlci1sZWZ0LWNvbG9yOiAjZGRkZGRkOw0KYm9yZGVyLWltYWdlLXNvdXJjZTogbm9uZTsNCmJvcmRlci1pbWFnZS1zbGljZTogMTAwJSAxMDAlIDEwMCUgMTAwJTsNCmJvcmRlci1pbWFnZS13aWR0aDogMSAxIDEgMTsNCmJvcmRlci1pbWFnZS1vdXRzZXQ6IDAgMCAwIDA7DQpib3JkZXItaW1hZ2UtcmVwZWF0OiBzdHJldGNoIHN0cmV0Y2g7DQp3aWR0aDogMzAwcHg7DQp0ZXh0LWFsaWduOiBsZWZ0Ow0KcGFkZGluZzogNXB4Ow0KbWFyZ2luLWxlZnQ6IGF1dG87DQptYXJnaW4tcmlnaHQ6IGF1dG87DQpkaXNwbGF5OiBibG9jazsNCmZsb2F0OiBub25lOw0KfQ0KPC9zdHlsZT4NCg0KPGRpdiBjbGFzcz0idHdlbHZlIGNvbHVtbnMgdGV4dC1sZWZ0Ij4NCjxoND5MQVRFU1QgU09BUElFIFRFQVNFUlM8L2g0Pg0KPC9kaXY+PGJyIC8+DQoNCjxkaXYgc3R5bGU9IndpZHRoOjMwMHB4OyB0ZXh0LWFsaWduOmNlbnRlcjsgbWFyZ2luLWxlZnQ6IGF1dG87IG1hcmdpbi1yaWdodDogYXV0bzsiPg0KPGRpdiBjbGFzcz0ic29hcGlldGFibGUiPjxiciAvPg0KDQo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMXB4Ij4NCg0KPHN0cm9uZz5Ob3ZlbWJlcjwvc3Ryb25nPjxiciAvPg0KPGJyIC8+DQo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMXB4Ij4NCg0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTk1MCI+R2V0cm91ZCBtZXQgUnVnYnkgVGVhc2VycyAtIE5vdmVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTkzNSI+VXphbG8gVGVhc2VycyAtIE5vdmVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTk1MyI+QmlubmVsYW5kZXJzIFRlYXNlcnMgLSBOb3ZlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5MzgiPlJoeXRobSBDaXR5IFRlYXNlcnMgLSBOb3ZlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5MzYiPlN1aWRvb3N0ZXIgVGVhc2VycyAtIE5vdmVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTkzNCI+R2VuZXJhdGlvbnMgVGVhc2VycyAtIE5vdmVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTkyOCI+U2tlZW0gU2FhbSBUZWFzZXJzIC0gTm92ZW1iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTIzIj5Qcmlzb25lcnMgb2YgTG92ZSAyIFRlYXNlcnMgLSBOb3ZlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5MjIiPk9uIHRoZSBPdGhlciBTaWRlIG9mIHRoZSBXYWxsIFRlYXNlcnMgLSBOb3ZlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5MTgiPkxvcmQgb2YgdGhlIFNraWVzIDIgVGVhc2VycyAtIE5vdmVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KDQoNCjxicj4NCg0KPHN0cm9uZz5PY3RvYmVyPC9zdHJvbmc+PGJyIC8+DQo8YnIgLz4NCjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDExcHgiPg0KDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTU4Ij5UaGUgQm9sZCBhbmQgdGhlIEJlYXV0aWZ1bCBUZWFzZXJzIC0gT2N0b2JlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5NDciPlRoZSBUaHJvbmUgVGVhc2VycyAtIE9jdG9iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTQ0Ij5UaGlzIGlzIExvdmUgVGVhc2VycyAtIE9jdG9iZXIgMjAxODwvYT48YnIgLz4NCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5NTIiPklzaWJheWEgVGVhc2VycyAtIE9jdG9iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTUxIj5UaGUgUXVlZW4gVGVhc2VycyAtIE9jdG9iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTQ5Ij5Jc2l0aGVtYmlzbyBUZWFzZXJzIC0gT2N0b2JlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5NDYiPlR3aXN0IG9mIEZhdGUgMiBUZWFzZXJzIC0gT2N0b2JlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5NDEiPklyb24gTGFkeSAyIFRlYXNlcnMgLSBPY3RvYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTkxNiI+VGhlIFJpdmVyIFRlYXNlcnMgLSBPY3RvYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTg5MCI+QW55dGhpbmcgYnV0IFBsYWluIFRlYXNlcnMgLSBPY3RvYmVyIDIwMTg8L2E+PGJyIC8+IA0KDQo8YnI+DQoNCjxzdHJvbmc+U2VwdGVtYmVyPC9zdHJvbmc+PGJyIC8+DQo8YnIgLz4NCjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDExcHgiPg0KDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTEwIj5Ob3QgV2l0aG91dCBNeSBGYW1pbHkgVGVhc2VycyAtIFNlcHRlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5MTQiPkdhbWUgb2YgTG92ZSBUZWFzZXJzIC0gU2VwdGVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTkxMyI+V2FpdGluZyBmb3IgTG92ZSBUZWFzZXJzIC0gU2VwdGVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTgzNSI+Rm9yZXZlciBZb3VycyBUZWFzZXJzIC0gU2VwdGVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTg2NSI+SG9wZSBUZWFzZXJzIC0gU2VwdGVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTg3NSI+WW91bmcgTG92ZSBUZWFzZXJzIC0gU2VwdGVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTg3NSI+VHJ1ZSBMb3ZlIFRlYXNlcnMgLSBTZXB0ZW1iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5ODY2Ij5JbXBlcmlvIFRlYXNlcnMgLSBTZXB0ZW1iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5ODU3Ij5Gb290YmFsbCBEcmVhbXMgVGVhc2VycyAtIFNlcHRlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk4NTYiPlRoaXMgaXMgTG92ZSBUZWFzZXJzIC0gU2VwdGVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTczNyI+R2V0cm91ZCBtZXQgUnVnYnkgVGVhc2VycyAtIFNlcHRlbWJlciAyMDE4PC9hPjxiciAvPiANCg0KPGJyPg0KDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5Njc3Ij48c3Ryb25nPkNsaWNrIEhFUkUgZm9yIGFsbCBTZXB0ZW1iZXIgdGVhc2Vycy48L3N0cm9uZz48L2E+PGJyIC8+DQoNCjwvc3Bhbj4NCg0KPGJyIC8+DQoNCjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDExcHgiPg0KDQo8YSBocmVmPSIvYmxvZ3Nob21lLmFzcHg/dGFnPVNvYXBpZSUyMFRlYXNlcnMiPjxzdHJvbmc+Q2xpY2sgSEVSRSBmb3IgQUxMIHRlYXNlcnMhPC9zdHJvbmc+PC9hPjxiciAvPg0KDQo8L3NwYW4+DQoNCjxiciAvPg0KDQo8L2Rpdj4NCjwvZGl2PjxiciAvPmQCAQ8WAh8ABcIoIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQouc29hcGlldGFibGV7DQpiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZmZmOw0KYmFja2dyb3VuZC1pbWFnZTogbm9uZTsNCmJhY2tncm91bmQtcmVwZWF0OiByZXBlYXQ7DQpiYWNrZ3JvdW5kLWF0dGFjaG1lbnQ6IHNjcm9sbDsNCmJhY2tncm91bmQtcG9zaXRpb246IDAlIDAlOw0KYmFja2dyb3VuZC1jbGlwOiBib3JkZXItYm94Ow0KYmFja2dyb3VuZC1vcmlnaW46IHBhZGRpbmctYm94Ow0KYmFja2dyb3VuZC1zaXplOiBhdXRvIGF1dG87DQpib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAzcHg7DQpib3JkZXItdG9wLXJpZ2h0LXJhZGl1czogM3B4Ow0KYm9yZGVyLWJvdHRvbS1yaWdodC1yYWRpdXM6IDNweDsNCmJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDNweDsNCmJvcmRlci10b3Atd2lkdGg6IDFweDsNCmJvcmRlci1yaWdodC13aWR0aDogMXB4Ow0KYm9yZGVyLWJvdHRvbS13aWR0aDogMXB4Ow0KYm9yZGVyLWxlZnQtd2lkdGg6IDFweDsNCmJvcmRlci10b3Atc3R5bGU6IHNvbGlkOw0KYm9yZGVyLXJpZ2h0LXN0eWxlOiBzb2xpZDsNCmJvcmRlci1ib3R0b20tc3R5bGU6IHNvbGlkOw0KYm9yZGVyLWxlZnQtc3R5bGU6IHNvbGlkOw0KYm9yZGVyLXRvcC1jb2xvcjogI2RkZGRkZDsNCmJvcmRlci1yaWdodC1jb2xvcjogI2RkZGRkZDsNCmJvcmRlci1ib3R0b20tY29sb3I6ICNkZGRkZGQ7DQpib3JkZXItbGVmdC1jb2xvcjogI2RkZGRkZDsNCmJvcmRlci1pbWFnZS1zb3VyY2U6IG5vbmU7DQpib3JkZXItaW1hZ2Utc2xpY2U6IDEwMCUgMTAwJSAxMDAlIDEwMCU7DQpib3JkZXItaW1hZ2Utd2lkdGg6IDEgMSAxIDE7DQpib3JkZXItaW1hZ2Utb3V0c2V0OiAwIDAgMCAwOw0KYm9yZGVyLWltYWdlLXJlcGVhdDogc3RyZXRjaCBzdHJldGNoOw0Kd2lkdGg6IDMwMHB4Ow0KdGV4dC1hbGlnbjogbGVmdDsNCnBhZGRpbmc6IDVweDsNCm1hcmdpbi1sZWZ0OiBhdXRvOw0KbWFyZ2luLXJpZ2h0OiBhdXRvOw0KZGlzcGxheTogYmxvY2s7DQpmbG9hdDogbm9uZTsNCn0NCjwvc3R5bGU+DQoNCjxkaXYgY2xhc3M9InR3ZWx2ZSBjb2x1bW5zIHRleHQtbGVmdCI+DQo8aDQ+TEFURVNUIFNPQVBJRSBURUFTRVJTPC9oND4NCjwvZGl2PjxiciAvPg0KDQo8ZGl2IHN0eWxlPSJ3aWR0aDozMDBweDsgdGV4dC1hbGlnbjpjZW50ZXI7IG1hcmdpbi1sZWZ0OiBhdXRvOyBtYXJnaW4tcmlnaHQ6IGF1dG87Ij4NCjxkaXYgY2xhc3M9InNvYXBpZXRhYmxlIj48YnIgLz4NCg0KPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTFweCI+DQoNCjxzdHJvbmc+Tm92ZW1iZXI8L3N0cm9uZz48YnIgLz4NCjxiciAvPg0KPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTFweCI+DQoNCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5NTAiPkdldHJvdWQgbWV0IFJ1Z2J5IFRlYXNlcnMgLSBOb3ZlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5MzUiPlV6YWxvIFRlYXNlcnMgLSBOb3ZlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5NTMiPkJpbm5lbGFuZGVycyBUZWFzZXJzIC0gTm92ZW1iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTM4Ij5SaHl0aG0gQ2l0eSBUZWFzZXJzIC0gTm92ZW1iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTM2Ij5TdWlkb29zdGVyIFRlYXNlcnMgLSBOb3ZlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5MzQiPkdlbmVyYXRpb25zIFRlYXNlcnMgLSBOb3ZlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5MjgiPlNrZWVtIFNhYW0gVGVhc2VycyAtIE5vdmVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTkyMyI+UHJpc29uZXJzIG9mIExvdmUgMiBUZWFzZXJzIC0gTm92ZW1iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTIyIj5PbiB0aGUgT3RoZXIgU2lkZSBvZiB0aGUgV2FsbCBUZWFzZXJzIC0gTm92ZW1iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTE4Ij5Mb3JkIG9mIHRoZSBTa2llcyAyIFRlYXNlcnMgLSBOb3ZlbWJlciAyMDE4PC9hPjxiciAvPiANCg0KDQo8YnI+DQoNCjxzdHJvbmc+T2N0b2Jlcjwvc3Ryb25nPjxiciAvPg0KPGJyIC8+DQo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMXB4Ij4NCg0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTk1OCI+VGhlIEJvbGQgYW5kIHRoZSBCZWF1dGlmdWwgVGVhc2VycyAtIE9jdG9iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTQ3Ij5UaGUgVGhyb25lIFRlYXNlcnMgLSBPY3RvYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTk0NCI+VGhpcyBpcyBMb3ZlIFRlYXNlcnMgLSBPY3RvYmVyIDIwMTg8L2E+PGJyIC8+DQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTUyIj5Jc2liYXlhIFRlYXNlcnMgLSBPY3RvYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTk1MSI+VGhlIFF1ZWVuIFRlYXNlcnMgLSBPY3RvYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTk0OSI+SXNpdGhlbWJpc28gVGVhc2VycyAtIE9jdG9iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTQ2Ij5Ud2lzdCBvZiBGYXRlIDIgVGVhc2VycyAtIE9jdG9iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTQxIj5Jcm9uIExhZHkgMiBUZWFzZXJzIC0gT2N0b2JlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5MTYiPlRoZSBSaXZlciBUZWFzZXJzIC0gT2N0b2JlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk4OTAiPkFueXRoaW5nIGJ1dCBQbGFpbiBUZWFzZXJzIC0gT2N0b2JlciAyMDE4PC9hPjxiciAvPiANCg0KPGJyPg0KDQo8c3Ryb25nPlNlcHRlbWJlcjwvc3Ryb25nPjxiciAvPg0KPGJyIC8+DQo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMXB4Ij4NCg0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTkxMCI+Tm90IFdpdGhvdXQgTXkgRmFtaWx5IFRlYXNlcnMgLSBTZXB0ZW1iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5OTE0Ij5HYW1lIG9mIExvdmUgVGVhc2VycyAtIFNlcHRlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk5MTMiPldhaXRpbmcgZm9yIExvdmUgVGVhc2VycyAtIFNlcHRlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk4MzUiPkZvcmV2ZXIgWW91cnMgVGVhc2VycyAtIFNlcHRlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk4NjUiPkhvcGUgVGVhc2VycyAtIFNlcHRlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk4NzUiPllvdW5nIExvdmUgVGVhc2VycyAtIFNlcHRlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk4NzUiPlRydWUgTG92ZSBUZWFzZXJzIC0gU2VwdGVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTg2NiI+SW1wZXJpbyBUZWFzZXJzIC0gU2VwdGVtYmVyIDIwMTg8L2E+PGJyIC8+IA0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTg1NyI+Rm9vdGJhbGwgRHJlYW1zIFRlYXNlcnMgLSBTZXB0ZW1iZXIgMjAxODwvYT48YnIgLz4gDQo8YSBocmVmPSIvdXNlci9ibG9ncy92aWV3YmxvZ3Bvc3QuYXNweD9ibG9ncG9zdGlkPTQ5ODU2Ij5UaGlzIGlzIExvdmUgVGVhc2VycyAtIFNlcHRlbWJlciAyMDE4PC9hPjxiciAvPiANCjxhIGhyZWY9Ii91c2VyL2Jsb2dzL3ZpZXdibG9ncG9zdC5hc3B4P2Jsb2dwb3N0aWQ9NDk3MzciPkdldHJvdWQgbWV0IFJ1Z2J5IFRlYXNlcnMgLSBTZXB0ZW1iZXIgMjAxODwvYT48YnIgLz4gDQoNCjxicj4NCg0KPGEgaHJlZj0iL3VzZXIvYmxvZ3Mvdmlld2Jsb2dwb3N0LmFzcHg/YmxvZ3Bvc3RpZD00OTY3NyI+PHN0cm9uZz5DbGljayBIRVJFIGZvciBhbGwgU2VwdGVtYmVyIHRlYXNlcnMuPC9zdHJvbmc+PC9hPjxiciAvPg0KDQo8L3NwYW4+DQoNCjxiciAvPg0KDQo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMXB4Ij4NCg0KPGEgaHJlZj0iL2Jsb2dzaG9tZS5hc3B4P3RhZz1Tb2FwaWUlMjBUZWFzZXJzIj48c3Ryb25nPkNsaWNrIEhFUkUgZm9yIEFMTCB0ZWFzZXJzITwvc3Ryb25nPjwvYT48YnIgLz4NCg0KPC9zcGFuPg0KDQo8YnIgLz4NCg0KPC9kaXY+DQo8L2Rpdj48YnIgLz5kAhAPZBYCZg9kFgRmDxYCHwAFowE8YSBocmVmPSJodHRwczovL2MudHJhY2tteXRhcmdldC5jb20vZ2szMzB4IiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub2ZvbGxvdyI+PGltZyBzcmM9Imh0dHBzOi8vaS50cmFja215dGFyZ2V0LmNvbS9nazMzMHgiIHdpZHRoPSIzMDAiIGhlaWdodD0iNjAwIiBib3JkZXI9IjAiLz48L2E+ZAIBDxYCHwBlZAIRD2QWAmYPZBYEZg8WAh8AZWQCAQ8WAh8ABaMBPGEgaHJlZj0iaHR0cHM6Ly9jLnRyYWNrbXl0YXJnZXQuY29tL2drMzMweCIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9mb2xsb3ciPjxpbWcgc3JjPSJodHRwczovL2kudHJhY2tteXRhcmdldC5jb20vZ2szMzB4IiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjYwMCIgYm9yZGVyPSIwIi8+PC9hPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFI2N0bDAwJGN0bDAwJEJvZHkkTG9naW5TdGF0dXMxJGN0bDAxBSNjdGwwMCRjdGwwMCRCb2R5JExvZ2luU3RhdHVzMSRjdGwwM9tU0dppiEN/VAlCeoNLNX2xcr/w" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AB827D4F" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAKiICoQzmoc0DbdVxa0uods1cgd/5zCX+Y4WH1EVttmx4YWxpLUiPYWF72tgpcbGAKmaq5h" />
+    
+	<div class="row" id="maincanvas">
+        <div class="twelve columns">
+        <!-- HEADER BAR -->
+        <div id="headercontainer" class="row">
+		
+		<div id="Body_Ad37_divAdd" class="row">
+        
+            <div class="twelve columns text-center hide-for-small">
+                
+            </div>
+            <div class="twelve columns text-center show-for-small">
+                
+            </div>
+            
+        </div>
+
+
+
+           
+            <div class="row">
+                <div class="searchContainer" id="searchContainer" onclick="DoClickSearchBox(event);">
+                    <a class="search" href="javascript:DoGSearch();"><img src="/images/site/srch-btn.png" alt="search"/></a>
+                    <a class="close" href="javascript:CloseSearchBox();">x&nbsp;close</a>
+                    <input type="text" class="searchBox" onkeypress="return DoCheckEnterPressed(this, event, DoGSearch);" id="txtGSearch" placeholder="Search for shows, actors ,articles, teasers and more...."/>
+                </div>
+
+                <a class="headerLogo" href="/" id="headerlogo"><img src="/images/site/logo.png" alt="TVSA Logo" /></a>
+
+                <div class="headerButtons" style="margin-top:0;">
+                    <div class="show-for-small" style="margin-bottom:5px;font-weight:bold;color:#FFE700;font-size:13px;">
+                        SOUTH AFRICA'S TV WEBSITE
+                    </div>
+
+                    
+                        <a href="/Account/Register.aspx"><img src="/images/site/sign-in.png" alt="SIGN IN" /></a>
+                    
+                    <a href="javascript:OpenSearchBox();" id="lnkGSearch"><img src="/images/site/search-yellow.png" alt="SEARCH" /></a>
+                    <a href="javascript:ToggleMainMenu();"><img src="/images/site/menu.png" alt="MENU" /></a>
+
+                    <div class="hide-for-small" style="margin-top:5px;font-weight:bold;color:#FFE700;">
+                        SOUTH AFRICA'S TV WEBSITE
+                    </div>
+                </div>
+
+                <div class="headerLinks">
+                    <a href="/actors/default.aspx">ACTORS</a>&nbsp;|&nbsp;<a href="/blogshome.aspx">ARTICLES</a>&nbsp;|&nbsp;<a href="/user/blogs/viewblog.aspx?blogid=891">CASTINGS</a>&nbsp;|&nbsp;<a href="/shows/default.aspx">SHOWS</a>&nbsp;|&nbsp;<a href="/blogshome.aspx?tag=Soapie%20Teasers">TEASERS</a>
+                </div>
+            </div>
+
+            <div class="main-menu" id="profileMenu">
+                <div class="main-menu-close"><a href="javascript:CloseProfileMenu();">X&nbsp;&nbsp;close</a></div>
+                
+                <h4 style="margin-top:0 !important;">MY ACCOUNT</h4>
+                <div class="menu-col first-col">
+                    <a href="/user/profile/viewprofile.aspx?userid=0">View My Profile</a>
+                </div>
+
+                <div class="menu-col second-col">
+                    <a href="/user/profile/viewprofile.aspx?userid=0&tab=galleries">My Galleries</a>
+                </div>
+
+                <div class="menu-col third-col">
+                    <a href="/account/blogs/blogdashboard.aspx">My Blogs</a>
+                </div>
+
+                <div class="menu-col fourth-col">
+                    <a href="/account/managesubscriptions.aspx">My Favourites</a>
+                </div>
+
+                <div class="menu-col fifth-col">
+                    <a href="/account/profile/accountsettings.aspx">Edit My Account Settings</a>                    
+                </div>
+
+                <div class="menu-col first-col">
+                    <a href="/account/profile/editprofile.aspx?tab=1&uid=0">Edit My Profile</a>
+                    
+                </div>
+
+                <div class="menu-col second-col">
+                    <a href="/Account/Messages/Inbox.aspx">My Messages</a>
+                </div>
+
+                <div class="menu-col third-col">
+                    <a id="Body_LoginStatus1" href="javascript:__doPostBack(&#39;ctl00$ctl00$Body$LoginStatus1$ctl02&#39;,&#39;&#39;)">Login</a>
+                </div>
+
+                <div style="clear:both;"></div>
+                <div class="divider"></div>
+
+                <div class="menu-col first-col">
+                    <a href="/account">Account Dashboard &raquo;</a>
+                </div>
+
+                <div style="clear:both;"></div>
+
+                <h4>FAVOURITE ACTORS</h4>
+                
+
+                <div style="clear:both"></div>
+                <div class="divider"></div>
+
+                <div class="menu-col first-col">
+                    <a href="/account/managesubscriptions.aspx">All favourite actors &raquo;</a>
+                </div>
+
+                <div style="clear:both;"></div>
+
+                <h4>FAVOURITE SHOWS</h4>
+                
+
+                <div style="clear:both"></div>
+                <div class="divider"></div>
+
+                <div class="menu-col first-col">
+                    <a href="/account/managesubscriptions.aspx">All favourite shows &raquo;</a>
+                </div>
+
+                <div style="clear:both;"></div>
+
+                <h4>FAVOURITE BLOGS</h4>
+                
+
+                <div style="clear:both"></div>
+                <div class="divider"></div>
+
+                <div class="menu-col first-col">
+                <a href="/account/managesubscriptions.aspx">All favourite blogs &raquo;</a>
+                </div>
+
+                <div style="clear:both;"></div>
+
+                
+
+                <div style="clear:both"></div>
+
+                <div class="main-menu-close bottom-close"><a href="javascript:CloseProfileMenu();">X&nbsp;&nbsp;close</a></div>
+            </div>
+            
+            
+
+            <div class="main-menu" id="mainMenu">
+                <div class="main-menu-close"><a href="javascript:CloseMainMenu();">X&nbsp;&nbsp;close</a></div>
+
+                <h4 style="margin-top:0 !important;">SHOWS</h4>
+                <div class="menu-col first-col">
+                    <a href="/shows/default.aspx">Shows Home</a>
+                </div>
+
+                <div class="menu-col second-col">
+                    <a href="/shows/listshows.aspx?sort=3&latest=true">Latest Updated Shows</a>
+                </div>
+
+                <div class="menu-col third-col">
+                    <a href="/shows/listshowreviews.aspx">Show Reviews</a>
+                </div>
+
+                <div class="menu-col fourth-col">
+                    <a href="/shows/listshowvideos.aspx">Show Videos</a>
+                </div>
+
+                <div class="menu-col fifth-col">
+                    <a href="/user/blogs/viewblog.aspx?blogid=524">TAMS Ratings</a>
+                </div>
+
+                <div class="menu-col first-col">
+                    <a href="/shows/listupcomingshows.aspx">Upcoming Shows</a>
+                </div>
+
+                <div class="menu-col second-col">
+                    <a href="/shows/listshowrankings.aspx">TVSA Show Rankings</a>
+                </div>
+
+                <div class="menu-col third-col">
+                    <a href="/shows/listshowpictures.aspx">Show Pictures</a>
+                </div>
+
+                <div class="menu-col fourth-col">
+                    <a href="/forums/default.aspx?categoryId=1">Show Message Boards</a>
+                </div>
+
+                <div style="clear:both;"></div>
+
+                <h4>TEASERS</h4>
+                <div class="menu-col first-col">
+                    <a href="/blogshome.aspx?tag=Soapie%20Teasers">Soapies</a>
+                </div>
+
+                <div class="menu-col second-col">
+                    <a href="/blogshome.aspx?tag=Talk%20Show%20Teasers">Talk Shows</a>
+                </div>
+
+                <div class="menu-col third-col">
+                    <a href="/blogshome.aspx?tag=Other%20Teasers">Other</a>
+                </div>
+
+                <div style="clear:both;"></div>
+
+                <h4>ACTORS</h4>
+                <div class="menu-col first-col">
+                    <a href="/actors/default.aspx">Actors Home</a>
+                </div>
+
+                <div class="menu-col second-col">
+                    <a href="/actors/listactorpictures.aspx">Actor Pictures</a>
+                </div>
+
+                <div class="menu-col third-col">
+                    <a href="/actors/listactorvideos.aspx">Actor Videos</a>
+                </div>
+
+                <div class="menu-col fourth-col">
+                    <a href="/forums/default.aspx?categoryId=2">Actor Message Boards</a>
+                </div>
+
+                <div class="menu-col fifth-col">
+                    <a href="/user/blogs/viewblog.aspx?blogid=492">Celeb Q&amp;As</a>
+                </div>
+
+                <div class="menu-col sixth-col">
+                    <a href="/user/blogs/viewblog.aspx?blogid=466">Interviews</a>
+                </div>
+
+                <div class="menu-col first-col">
+                    <a href="/actors/listactorrankings.aspx">Actor Rankings</a>
+                </div>
+
+                <div style="clear:both;"></div>
+
+                <h4>TV BIZ</h4>
+                <div class="menu-col first-col">
+                    <a href="/user/blogs/viewblog.aspx?blogid=891">Casting Calls</a>
+                </div>
+
+                <div class="menu-col second-col">
+                    <a href="/user/blogs/viewblog.aspx?blogid=1088">TV Jobs</a>
+                </div>
+
+                <div class="menu-col third-col">
+                    <a href="/user/blogs/viewblog.aspx?blogid=1176">TV Production</a>
+                </div>
+
+                <div style="clear:both;"></div>
+
+                <h4>COMMUNITY</h4>
+                <div class="menu-col first-col">
+                    <a href="/tvsacentral.aspx">TVSA CENTRAL</a>
+                </div>
+
+                <div style="clear:both;"></div>
+
+                <h5>BLOGS</h5>
+                <div class="menu-col first-col">
+                    <a href="/blogshome.aspx">Blogs Home</a>
+                </div>
+
+                <div class="menu-col second-col">
+                    <a href="/allblogs.aspx">All Blogs</a>
+                </div>
+
+                <div class="menu-col third-col">
+                    <a href="/latestblogreplies.aspx">Latest Blog Replies</a>
+                </div>
+
+                <div class="menu-col fourth-col">
+                    <a href="/account/blogs/blogcreationwizard.aspx">Create Blog</a>
+                </div>
+
+                <div style="clear:both;"></div>
+
+                <h5>MESSAGE BOARDS</h5>
+                <div class="menu-col first-col">
+                    <a href="/forums/default.aspx">Message Boards Home</a>
+                </div>
+
+                <div class="menu-col second-col">
+                    <a href="/forums/default.aspx?categoryId=1">Shows</a>
+                </div>
+
+                <div class="menu-col third-col">
+                    <a href="/forums/default.aspx?categoryId=2">Actors</a>
+                </div>
+
+                <div class="menu-col fourth-col">
+                    <a href="/forums/default.aspx?categoryId=3">General TV</a>
+                </div>
+
+                <div class="menu-col fifth-col">
+                    <a href="/forums/default.aspx?categoryId=4">The Lounge</a>
+                </div>
+
+                <div style="clear:both;"></div>
+
+                <h4 style="margin-bottom:0 !important;">CHANNELS</h4>
+                <h5 style="margin-top:0 !important;">SABC</h5><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=1">SABC1</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=2">SABC2</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=3">SABC3</a></div><div style="clear:both;"></div><h5>E.TV</h5><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=4">e.tv</a></div><div style="clear:both;"></div><h5>OPENVIEW HD</h5><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=151">BBC World News</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=165">eBella</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=156">eExtra</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=155">True African</a></div><div style="clear:both;"></div><h5>DSTV</h5><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=163">1Magic</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=143">BBC Brit</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=144">BBC First</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=9">BBC Lifestyle</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=151">BBC World News</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=132">BET Africa</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=116">Channel O</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=40">Comedy Central Africa</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=65">Discovery Channel</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=152">Disney Channel</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=118">E! Africa</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=165">eBella</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=87">EbonyLife TV</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=156">eExtra</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=42">eNCA</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=138">Food Network</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=45">FOX Africa</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=153">FOX Life</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=109">History Africa</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=129">ITV Choice</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=27">kykNET</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=134">kykNET &amp; kie</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=154">kykNET NOU!</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=79">Lifetime Africa</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=7">M-Net</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=127">M-Net City</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=164">Moja Love</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=37">MTV Africa</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=38">MTV Base</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=22">Mzansi Magic</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=57">Mzansi Wethu</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=167">Real Time</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=166">SABC Encore</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=18">Sony Channel</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=13">Sony Max</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=158">SundanceTV</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=62">Telemundo</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=122">TLC Entertainment</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=130">Travel Channel</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=39">Universal Channel</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=17">Vuzu</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=159">Zee World</a></div><div style="clear:both;"></div><h5>INTERNATIONAL</h5><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=58">A&amp;E</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=43">ABC</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=76">ABC1</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=86">Adult Swim</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=145">Amazon Video</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=82">AMC</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=101">Audience Network</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=88">BBC America</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=112">BBC Four</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=32">BBC One</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=77">BBC Three</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=35">BBC Two</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=68">BET</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=21">Bravo</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=137">CBC</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=25">CBS</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=102">Channel 4</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=72">Cinemax</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=106">City</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=162">CMT</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=99">Comedy Central</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=142">Comedy Central UK</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=150">Crackle</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=123">CTV</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=64">Discovery</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=117">E!</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=90">E4</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=124">El Rey</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=19">Fox</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=157">FOX UK</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=147">Freeform</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=41">FX</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=73">FXX</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=98">Global</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=100">GSN</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=67">HBO</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=114">History</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=121">Hulu</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=113">IFC</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=56">ITV</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=91">ITV2</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=92">ITVBe</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=34">Lifetime</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=93">LMN</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=66">Logo TV</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=49">MTV</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=131">MTV2</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=26">NBC</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=63">Netflix</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=10">Network Ten</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=75">OWN</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=108">Oxygen</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=89">RT&#201; One</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=103">Seven Network</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=160">Showcase (Australia)</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=136">Showcase (Canada)</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=15">Showtime</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=55">Sky 1</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=115">Sky Arts</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=96">Sky Atlantic</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=148">SoHo</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=149">Space</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=140">Spike</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=111">Starz</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=33">Syfy</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=36">Syndication</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=51">TBS</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=119">TeenNick</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=94">TF1</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=24">The CW</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=47">The WB</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=85">TNT</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=81">truTV</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=74">TV Land</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=135">TV One</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=20">UPN</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=28">USA Network</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=59">VH1</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=126">WE tv</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=128">Yahoo! Screen</a></div><div style="clear:both;"></div><h5>DEFUNCT</h5><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=48">ABC Family</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=29">actionX</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=31">BBC Entertainment</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=84">BBC Knowledge</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=83">BBC Prime</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=12">BET International</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=133">BET2</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=69">CBS Action</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=61">CBS Drama</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=97">CCV-TV</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=104">Channel 37</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=5">eKasi+</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=53">FOX Crime</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=44">Fox Entertainment</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=54">FOX Retro</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=50">FX Africa</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=80">go</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=78">Hallmark Channel</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=30">M-Net Action</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=110">M-Net Edge</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=139">M-Net Family</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=11">M-Net Series</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=8">M-Net Series Reality</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=14">M-Net Series Showcase</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=16">M-Net Series Zone</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=95">Sci-Fi</a></div><div class="menu-col second-col"><a href="/channels/viewchannel.aspx?channelid=52">Style</a></div><div class="menu-col third-col"><a href="/channels/viewchannel.aspx?channelid=23">Top One</a></div><div class="menu-col fourth-col"><a href="/channels/viewchannel.aspx?channelid=60">TV1</a></div><div class="menu-col fifth-col"><a href="/channels/viewchannel.aspx?channelid=125">VIDI</a></div><div class="menu-col first-col"><a href="/channels/viewchannel.aspx?channelid=107">Vuzu Amp</a></div><div style="clear:both;"></div>
+
+                <div style="clear:both;"></div>
+
+                <div class="main-menu-close bottom-close"><a href="javascript:CloseMainMenu();">X&nbsp;&nbsp;close</a></div>
+            </div>
+
+            
+        </div>
+
+
+
+		
+		<!-- MAIN CONTENT -->
+		
+		 <div class="row">
+                <div class="twelve columns">
+                    <div id="Body_ctrlAdLeaderboard_divAdd" class="row">
+        
+            <div class="twelve columns text-center hide-for-small">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 970x90 Large Leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:90px"
+     data-ad-client="ca-pub-7562341865286967"
+     data-ad-slot="2337378880"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
+            <div class="twelve columns text-center show-for-small">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 320x100 Large Mobi Leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-7562341865286967"
+     data-ad-slot="4823153687"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
+            
+        </div>
+
+
+
+                </div>
+            </div>
+			
+		<div id="mainbody">
+
+
+                    <!-- BODY -->
+                    <div class="row" style="margin-bottom:100px">
+                        <!-- LEFT COLUMN -->
+                        
+                        <!-- CENTER COLUMN -->
+                        <div class="eight columns">
+                            
+    <h1>Temporary Hiccup</h1> 
+    You are seeing this page because something unexpected happened on our server and the page you were looking for hasn't loaded. We apologise for the inconvenience, but this stuff happens from time to time.
+    <p style="margin-top:20px;">
+        We suggest you <a href="/default.aspx">click here to visit our home page</a> and continue browsing the site, or use the Search box above to find the page you were looking for again.
+    </p>
+
+    <p style="margin-top:20px;">
+        If you need any further assistance in finding what you are looking for, use our Contact details at the bottom of the page to get in touch.
+    </p>
+
+                        </div>
+                        <!-- RIGHT COLUMN -->
+                        <div class="four columns">
+                            <div id="Body_Ad10_divAdd" class="row">
+        
+            <div class="twelve columns text-center hide-for-small">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x600 above the fold -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-7562341865286967"
+     data-ad-slot="1762269284"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
+            <div class="twelve columns text-center show-for-small">
+                
+            </div>
+            
+        </div>
+
+
+
+							
+							
+                                    <p>
+                                        <h4>LATEST SITE ACTIVITY</h4>
+                                    </p>
+                                    
+<table id="feed">
+</table>
+
+<script type="text/javascript">
+
+    function refreshFeed() {
+        var proxy = new serviceProxy("/services/WCFActivityService.svc/", "POST");
+        proxy.invoke("GetLatestActivityMiniFeed", { }, function (response) {
+            var data = response;
+            $('#feed').empty();
+            $.each(data, function (index, item) {
+                var newrow = $("<tr><td>" + item + "</td></tr>");
+                $('#feed').append(newrow);
+            });
+
+            setTimeout(function () { refreshFeed() }, 300000);
+        }, null, true);
+
+        
+    }
+
+    $(document).ready(function () {
+        refreshFeed();
+    });
+
+</script>
+                                    <br />
+                                    <p align="center">
+                                        <b><a href='/tvsacentral.aspx'>More activity at TVSA Central</a></b>
+                                    </p>
+                                
+
+                            <div id="Body_Ad5_divAdd" class="row">
+        
+            <div class="twelve columns text-center hide-for-small">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x600 below the fold -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-7562341865286967"
+     data-ad-slot="8192393680"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
+            <div class="twelve columns text-center show-for-small">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280 Mobi ROS Bottom -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-7562341865286967"
+     data-ad-slot="2024938485"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
+            
+        </div>
+
+
+<br />
+                            <div id="Body_Ad6_divAdd" class="row">
+        
+            <div class="twelve columns text-center hide-for-small">
+                 <style type="text/css">
+.soapietable{
+background-color: #ffffff;
+background-image: none;
+background-repeat: repeat;
+background-attachment: scroll;
+background-position: 0% 0%;
+background-clip: border-box;
+background-origin: padding-box;
+background-size: auto auto;
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+border-bottom-right-radius: 3px;
+border-bottom-left-radius: 3px;
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px;
+border-top-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-left-style: solid;
+border-top-color: #dddddd;
+border-right-color: #dddddd;
+border-bottom-color: #dddddd;
+border-left-color: #dddddd;
+border-image-source: none;
+border-image-slice: 100% 100% 100% 100%;
+border-image-width: 1 1 1 1;
+border-image-outset: 0 0 0 0;
+border-image-repeat: stretch stretch;
+width: 300px;
+text-align: left;
+padding: 5px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+float: none;
+}
+</style>
+
+<div class="twelve columns text-left">
+<h4>LATEST SOAPIE TEASERS</h4>
+</div><br />
+
+<div style="width:300px; text-align:center; margin-left: auto; margin-right: auto;">
+<div class="soapietable"><br />
+
+<span style="font-size: 11px">
+
+<strong>November</strong><br />
+<br />
+<span style="font-size: 11px">
+
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49950">Getroud met Rugby Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49935">Uzalo Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49953">Binnelanders Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49938">Rhythm City Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49936">Suidooster Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49934">Generations Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49928">Skeem Saam Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49923">Prisoners of Love 2 Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49922">On the Other Side of the Wall Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49918">Lord of the Skies 2 Teasers - November 2018</a><br /> 
+
+
+<br>
+
+<strong>October</strong><br />
+<br />
+<span style="font-size: 11px">
+
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49958">The Bold and the Beautiful Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49947">The Throne Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49944">This is Love Teasers - October 2018</a><br />
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49952">Isibaya Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49951">The Queen Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49949">Isithembiso Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49946">Twist of Fate 2 Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49941">Iron Lady 2 Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49916">The River Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49890">Anything but Plain Teasers - October 2018</a><br /> 
+
+<br>
+
+<strong>September</strong><br />
+<br />
+<span style="font-size: 11px">
+
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49910">Not Without My Family Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49914">Game of Love Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49913">Waiting for Love Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49835">Forever Yours Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49865">Hope Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49875">Young Love Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49875">True Love Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49866">Imperio Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49857">Football Dreams Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49856">This is Love Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49737">Getroud met Rugby Teasers - September 2018</a><br /> 
+
+<br>
+
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49677"><strong>Click HERE for all September teasers.</strong></a><br />
+
+</span>
+
+<br />
+
+<span style="font-size: 11px">
+
+<a href="/blogshome.aspx?tag=Soapie%20Teasers"><strong>Click HERE for ALL teasers!</strong></a><br />
+
+</span>
+
+<br />
+
+</div>
+</div><br />
+            </div>
+            <div class="twelve columns text-center show-for-small">
+                 <style type="text/css">
+.soapietable{
+background-color: #ffffff;
+background-image: none;
+background-repeat: repeat;
+background-attachment: scroll;
+background-position: 0% 0%;
+background-clip: border-box;
+background-origin: padding-box;
+background-size: auto auto;
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+border-bottom-right-radius: 3px;
+border-bottom-left-radius: 3px;
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px;
+border-top-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-left-style: solid;
+border-top-color: #dddddd;
+border-right-color: #dddddd;
+border-bottom-color: #dddddd;
+border-left-color: #dddddd;
+border-image-source: none;
+border-image-slice: 100% 100% 100% 100%;
+border-image-width: 1 1 1 1;
+border-image-outset: 0 0 0 0;
+border-image-repeat: stretch stretch;
+width: 300px;
+text-align: left;
+padding: 5px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+float: none;
+}
+</style>
+
+<div class="twelve columns text-left">
+<h4>LATEST SOAPIE TEASERS</h4>
+</div><br />
+
+<div style="width:300px; text-align:center; margin-left: auto; margin-right: auto;">
+<div class="soapietable"><br />
+
+<span style="font-size: 11px">
+
+<strong>November</strong><br />
+<br />
+<span style="font-size: 11px">
+
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49950">Getroud met Rugby Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49935">Uzalo Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49953">Binnelanders Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49938">Rhythm City Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49936">Suidooster Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49934">Generations Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49928">Skeem Saam Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49923">Prisoners of Love 2 Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49922">On the Other Side of the Wall Teasers - November 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49918">Lord of the Skies 2 Teasers - November 2018</a><br /> 
+
+
+<br>
+
+<strong>October</strong><br />
+<br />
+<span style="font-size: 11px">
+
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49958">The Bold and the Beautiful Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49947">The Throne Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49944">This is Love Teasers - October 2018</a><br />
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49952">Isibaya Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49951">The Queen Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49949">Isithembiso Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49946">Twist of Fate 2 Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49941">Iron Lady 2 Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49916">The River Teasers - October 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49890">Anything but Plain Teasers - October 2018</a><br /> 
+
+<br>
+
+<strong>September</strong><br />
+<br />
+<span style="font-size: 11px">
+
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49910">Not Without My Family Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49914">Game of Love Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49913">Waiting for Love Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49835">Forever Yours Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49865">Hope Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49875">Young Love Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49875">True Love Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49866">Imperio Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49857">Football Dreams Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49856">This is Love Teasers - September 2018</a><br /> 
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49737">Getroud met Rugby Teasers - September 2018</a><br /> 
+
+<br>
+
+<a href="/user/blogs/viewblogpost.aspx?blogpostid=49677"><strong>Click HERE for all September teasers.</strong></a><br />
+
+</span>
+
+<br />
+
+<span style="font-size: 11px">
+
+<a href="/blogshome.aspx?tag=Soapie%20Teasers"><strong>Click HERE for ALL teasers!</strong></a><br />
+
+</span>
+
+<br />
+
+</div>
+</div><br />
+            </div>
+            
+        </div>
+
+
+<br />
+							
+							<!--<div class="hide-for-small">
+
+                            
+
+<div class="row">
+    <div class="twelve columns">
+    <h4>TOP 5 ACTORS</h4>
+        
+                <table class="twelve">
+                    <tbody>
+                        
+                <tr class="middle-vertical">
+                    <td>
+                        1
+                    </td>
+                    <td>
+                        <a id="Body_ctrlActorPoll_lvAllRankings_lnkImage_0" class="th" href="/actors/viewactor.aspx?actorid=12704"><img src="https://www.tvsa.co.za/images/uploads/thumbs/0014172_40_40.jpeg" alt="" /></a>
+                    </td>
+                    <td>
+                        <a id="Body_ctrlActorPoll_lvAllRankings_lnkItem_0" href="/actors/viewactor.aspx?actorid=12704">Faye Peters</a>
+                    </td>
+                    <td class="text-center">
+                        <span class="rating">
+                            8.1
+                        </span>
+                        <br />
+                        <small>
+                            27 votes
+                        </small>
+                    </td>
+                </tr>
+            
+                <tr class="middle-vertical">
+                    <td>
+                        2
+                    </td>
+                    <td>
+                        <a id="Body_ctrlActorPoll_lvAllRankings_lnkImage_1" class="th" href="/actors/viewactor.aspx?actorid=1486"><img src="https://www.tvsa.co.za/images/uploads/thumbs/0003829_40_40.jpeg" alt="" /></a>
+                    </td>
+                    <td>
+                        <a id="Body_ctrlActorPoll_lvAllRankings_lnkItem_1" href="/actors/viewactor.aspx?actorid=1486">Menzi Ngubane</a>
+                    </td>
+                    <td class="text-center">
+                        <span class="rating">
+                            8.0
+                        </span>
+                        <br />
+                        <small>
+                            286 votes
+                        </small>
+                    </td>
+                </tr>
+            
+                <tr class="middle-vertical">
+                    <td>
+                        3
+                    </td>
+                    <td>
+                        <a id="Body_ctrlActorPoll_lvAllRankings_lnkImage_2" class="th" href="/actors/viewactor.aspx?actorid=4484"><img src="https://www.tvsa.co.za/images/uploads/thumbs/0006197_40_40.jpeg" alt="" /></a>
+                    </td>
+                    <td>
+                        <a id="Body_ctrlActorPoll_lvAllRankings_lnkItem_2" href="/actors/viewactor.aspx?actorid=4484">Lungile Radu</a>
+                    </td>
+                    <td class="text-center">
+                        <span class="rating">
+                            8.0
+                        </span>
+                        <br />
+                        <small>
+                            121 votes
+                        </small>
+                    </td>
+                </tr>
+            
+                <tr class="middle-vertical">
+                    <td>
+                        4
+                    </td>
+                    <td>
+                        <a id="Body_ctrlActorPoll_lvAllRankings_lnkImage_3" class="th" href="/actors/viewactor.aspx?actorid=3090"><img src="https://www.tvsa.co.za/images/uploads/thumbs/0056893_40_40.jpeg" alt="" /></a>
+                    </td>
+                    <td>
+                        <a id="Body_ctrlActorPoll_lvAllRankings_lnkItem_3" href="/actors/viewactor.aspx?actorid=3090">Kim Engelbrecht</a>
+                    </td>
+                    <td class="text-center">
+                        <span class="rating">
+                            8.0
+                        </span>
+                        <br />
+                        <small>
+                            29 votes
+                        </small>
+                    </td>
+                </tr>
+            
+                <tr class="middle-vertical">
+                    <td>
+                        5
+                    </td>
+                    <td>
+                        <a id="Body_ctrlActorPoll_lvAllRankings_lnkImage_4" class="th" href="/actors/viewactor.aspx?actorid=1481"><img src="https://www.tvsa.co.za/images/uploads/thumbs/0003824_40_40.jpeg" alt="" /></a>
+                    </td>
+                    <td>
+                        <a id="Body_ctrlActorPoll_lvAllRankings_lnkItem_4" href="/actors/viewactor.aspx?actorid=1481">Connie Ferguson</a>
+                    </td>
+                    <td class="text-center">
+                        <span class="rating">
+                            8.0
+                        </span>
+                        <br />
+                        <small>
+                            270 votes
+                        </small>
+                    </td>
+                </tr>
+            
+                    </tbody>
+                </table>
+            
+        <div align="center"><a href="https://www.tvsa.co.za/actors/listactorrankings.aspx"><strong>All Actor Rankings</strong></a></div>
+    </div>
+</div>
+<br />
+							
+							</div>-->
+
+                            <!-- RHS -->
+
+                            
+                            
+                                
+                            <div class="hide-for-small">
+                                
+                                <br />
+                                
+								
+                                <div id="Body_Ad7_divAdd" class="row">
+        
+            <div class="twelve columns text-center hide-for-small">
+                <a href="https://c.trackmytarget.com/gk330x" target="_blank" rel="nofollow"><img src="https://i.trackmytarget.com/gk330x" width="300" height="600" border="0"/></a>
+            </div>
+            <div class="twelve columns text-center show-for-small">
+                
+            </div>
+            
+        </div>
+
+
+
+                            </div>
+                                <div id="Body_Ad8_divAdd" class="row">
+        
+            <div class="twelve columns text-center hide-for-small">
+                
+            </div>
+            <div class="twelve columns text-center show-for-small">
+                <a href="https://c.trackmytarget.com/gk330x" target="_blank" rel="nofollow"><img src="https://i.trackmytarget.com/gk330x" width="300" height="600" border="0"/></a>
+            </div>
+            
+        </div>
+
+
+
+                        </div>
+                    </div>
+		</div>
+		
+        <!-- FOOTER -->
+		<div class="largeFooter">
+        <div id="footer">
+            <footer class="row">
+                <section class="twelve columns text-center" id="footercontent">
+                    <ul class="block-grid six-up">
+                        <li><a href="/About.aspx">About</a></li>
+                        <li><a href="/Advertise.aspx">Advertise</a></li>
+                        <li><a href="/Contact.aspx">Contact</a></li>
+                        <li><a href="/Copyright.aspx">Copyright</a></li>
+                        <li><a href="/Privacy.aspx">Privacy Policy</a></li>
+                        <li><a href="/Terms.aspx">Terms and Conditions</a></li>
+                    </ul>
+
+                                        <!-- SOCIAL LINKS -->
+                    <div class="headerpad text-center" style="margin-top:1px;margin-bottom:10px;">
+                        <a href="http://www.facebook.com/pages/TVSA-The-South-African-TV-Authority/137437836274115" target="_blank" title="Join us on Facebook" class="social">
+                            <img src="/images/site/facebook-48.png" /></a>
+                        <a href="http://twitter.com/officialtvsa" target="_blank" title="Follow us on Twitter" class="social">
+                            <img src="/images/site/twitter-48.png" /></a>
+                        <a href="http://www.youtube.com/user/officialtvsa" target="_blank" title="Browse our YouTube channel" class="social">
+                            <img src="/images/site/youtube-48.png" /></a>
+                    </div>
+
+
+                    
+		    <a target="_blank" href="https://1-grid.com/client/aff.php?aff=1998">Web Hosting by 1-grid</a>
+                    <br /><br />
+                    &copy; 2018 TVSA
+                </section>
+            </footer>
+        </div>
+        </div>
+		
+        <!-- FOOTER MOBILE -->
+		<div class="smallFooter">
+        <div id="footer">
+            <footer class="row">
+                <section class="twelve columns text-center" id="footercontent">
+				
+                        <a href="/About.aspx">About</a> | <a href="/Advertise.aspx">Advertise</a> | <a href="/Contact.aspx">Contact</a> | <a href="/Copyright.aspx">Copyright</a> | <a href="/Privacy.aspx">Privacy</a> | <a href="/Terms.aspx">Terms</a><br /><br />
+						
+                    <!-- SOCIAL LINKS -->
+                    <div class="headerpad text-center" style="margin-top:1px;margin-bottom:10px;">
+                        <a href="http://www.facebook.com/pages/TVSA-The-South-African-TV-Authority/137437836274115" target="_blank" title="Join us on Facebook" class="social">
+                            <img src="/images/site/facebook-48.png" /></a>
+                        <a href="http://twitter.com/officialtvsa" target="_blank" title="Follow us on Twitter" class="social">
+                            <img src="/images/site/twitter-48.png" /></a>
+                        <a href="http://www.youtube.com/user/officialtvsa" target="_blank" title="Browse our YouTube channel" class="social">
+                            <img src="/images/site/youtube-48.png" /></a>
+                    </div>
+
+
+                    <a target="_blank" href="https://1-grid.com/client/aff.php?aff=1998">Web Hosting by 1-grid</a>
+                    <br /><br />
+                    &copy; 2018 TVSA
+                </section>
+            </footer>
+        </div>
+        </div>
+        
+        
+		
+
+		</div>
+    </div>
+
+   
+
+    <script type="text/javascript" src="/includes/combinebottom_v7.js?r=04DB96EA900BE56111C3451E3A0A4F7D"></script>
+    <!-- Initialize JS Plugins -->
+   
+
+
+        
+    <script type="text/javascript" src="/Includes/jquery-tokeninput/src/jquery.tokeninput.js" ></script>
+    <script type="text/javascript" src="/scripts/jquery/ui/jquery.ui.datepicker.min.js"></script>
+    <script type="text/javascript" src="/includes/jqueryui/js/jquery-ui-timepicker-addon.js"></script>
+        <script type="text/javascript" src="/ckeditor/ckeditor.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $("input[rel^=tagbox]").each(function (index) {
+                    $(this).tokenInput("/Services/WCFTagService.svc/Tag" + $(this).attr("data-tagtype"), {
+                        method: "GET",
+                        propertyToSearch: "Name",
+                        tokenValue: "TokenValue",
+                        theme: "facebook",
+                        preventDuplicates: true
+                    });
+                    if ($(this).attr("data-tags-value") != '') {
+                        var spl = $(this).attr("data-tags-value").split(',');
+                        for (var s in spl) {
+                            var spl2 = spl[s].split('%%');
+                            $(this).tokenInput("add", { TokenValue: spl[s], Name: spl2[0] })
+                        }
+                    }
+                });                
+            });
+        </script>
+    
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#Body_divMessage").click(function (e) {
+                var cook = $(this).attr("data-message-ids");
+                if ($.cookie('tvsabcast') != null) {
+                    cook = $.cookie('tvsabcast') + ',' + cook;
+                }
+                $.cookie('tvsabcast', cook, { expires: 7, path: '/' });
+                console.log($.cookie('tvsabcast'));
+
+            });
+            $(".tvsaiframepopup").on("click", function (e) {
+
+                e.preventDefault();
+                $("#master-frame").attr("src", $(this).attr("href"));
+                $("#master-modal").reveal();
+            });
+            $("#mailfriendlink").click(function (event) {
+                event.preventDefault();
+                var dlg = $("#mailfriend").reveal();
+                dlg.appendTo($("form"));
+            });
+
+            $('<span class="label alert radius" style="display:block;text-align:left;"><b class="spoilerLabel">SPOILER!</b> <a class="showSpoiler button secondary small">Click to view spoiler</a></span>').insertBefore('.spoiler');
+
+            $('.showSpoiler').click(function (e) {
+                $(this).parent().hide();
+                $(this).parent().next('.spoiler').show();
+
+            });
+        });
+
+        function popupNow(obj) {
+            $('.clearing-close').click();
+            $("#master-frame").attr("src", $(obj).attr("href"));
+            $("#master-modal").reveal();
+            return false;
+        }
+
+        function loginModalBox(msg) {
+            $("#loginModalText").html(msg);
+            $("#login-modal").reveal();
+        }
+    </script>
+    <div id="master-modal" class="reveal-modal large">
+        <iframe id="master-frame" style="height: 600px; width: 100%; border: none;"></iframe>
+        <a class="close-reveal-modal">&#215;</a>
+    </div>
+    <div id="login-modal" class="reveal-modal small">
+        <div id="loginModalText"></div>
+        <a class="close-reveal-modal">&#215;</a>
+    </div>
+
+    
+
+
+        <!-- test -->
+    <div id="uploader" class="reveal-modal large">
+        <p>You browser doesn't have Flash, Silverlight, Gears, BrowserPlus or HTML5 support.</p>
+    </div>
+        <div id="dialogFilebrowser" style="display: none;" class="reveal-modal xlarge">
+    <iframe id="ifrmFileManager" style="border: none; height: 500px; width: 100%;" scrolling="no"></iframe>
+</div>
+        <script type="text/javascript">
+            
+        </script>
+        
+    </form>
+
+</body>
+</html>

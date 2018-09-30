@@ -1,0 +1,146 @@
+<html>
+	<head>
+		<title>verbundkolleg-berlin.de steht zum Verkauf</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="language" content="de">
+		<style>
+		*, body {padding:0;margin:0;font-family:arial;color:#3a4a5a;}
+		#topline{position:fixed;top:0;left:0;width:100%;height:80px;background:#1870a2;z-index:100;color:#ffffff;text-align:center;}
+		#bottomline{position:fixed;bottom:0;left:0;width:100%;height:80px;background:#1870a2;z-index:100;color:#ffffff;font-size:11px;}
+		#content{position:relative;min-width:1250px;width:74%;margin:0 auto;}
+		
+		#left{position:relative;min-width:293px;width:23%;float:left;min-height:700px;margin:100px 0 85px 0;text-align:center;}
+		/*#middle{position:relative;min-width:707px;width:56%;float:left;min-height:700px;margin:125px 0 0 0;text-align:center}*/
+		#middle{position:relative;min-width:664px;width:53%;float:left;min-height:700px;margin:125px 0 0 0;text-align:center;font-size:15px;}
+		/*#right{position:relative;min-width:250px;width:20%;float:right;min-height:700px;margin:125px 0 0 0;text-align:center;}*/
+		#right{position:relative;min-width:293px;width:23%;float:right;min-height:700px;margin:125px 0 0 0;text-align:center;}
+		
+		#sellHits{position:absolute;top:-45px;width:100%;font-size:0.75rem;}
+		
+		#footer{position:relative;min-width:1250px;width:74%;margin:0 auto;height:80px;}
+		#fleft{position:relative;min-width:293px;width:23%;float:left;background:#135f8a;height:80px;padding:9px 0 0 0;text-align:center;}
+		#fmiddle{position:relative;min-width:647px;width:56%;float:left;height:80px;padding:12px 0 0 0;}
+		#fright{position:relative;min-width:250px;width:20%;float:right;height:80px;padding:12px 0 0 0;text-align:center;vertical-align:middle;}
+		
+		#errors{position:relative;width:548px;margin:0 auto 10px auto;}
+		#errors div{padding:1px 5px;border-radius:2px;margin:0 0 2px 0;text-align:left;}
+		.error {background:#f2dede;border:1px solid #ebccd1;color:#a94442;}
+		.success {background:#dff0d8;border:1px solid #d6e9c6;color:#3c763d;}
+		
+		.table{display:table;margin:0 auto;}
+		.row{display:table-row;}
+		.cell{display:table-cell;vertical-align:top;}
+		.cell1{width:150px;padding:3px 20px 14px 0;text-align:right;vertical-align:top;font-weight:bold;font-size:20px;}
+		.cell2{width:380px;padding:0 0 14px 0;text-align:left;font-weight:bold;font-size:20px;}
+		.input{padding:4px 5px;border-radius:4px;background:#e7e7e7;}
+		input,textarea{width:100%;font-size:20px;background:none;border:none;}
+		#submit{background:#1870a2;color:#ffffff;padding:1px 5px;cursor:pointer;font-weight:bold;font-size:24px;}
+		
+		h1{margin:0;font-size:45px;color:#ffffff;}
+		a{text-decoration:none;}
+		#footer a{color:#ffffff;text-decoration:none;}
+		</style>
+	</head>
+	<body>
+		<div id="topline"><h1>verbundkolleg-berlin.de</h1> steht zum Verkauf</div>
+		
+		
+		<div id="content">
+			
+			<div id="left">
+				<img src="/images/sell/icons.png" width="293" height="700" alt="1. Angebot abgeben, 2. Kauf abschließen, 3. Transfer" title="1. Angebot abgeben, 2. Kauf abschließen, 3. Transfer">
+			</div>
+			
+			
+			<div id="middle">
+				
+			
+				<b>Haben Sie eine Idee zur Domain "verbundkolleg-berlin.de"?<br>Dann nutzen Sie jetzt Ihre Gelegenheit!</b><br><br>
+				Ein Kunde der DOMAIN|OFFENSIVE bietet Ihnen die Domain provisionsfrei zum Kauf an.<br>
+				Tragen Sie einfach Ihren Preisvorschlag in das folgende Formular und klicken Sie auf "absenden".<br>
+				Der Inhaber wird sich bereits in Kürze direkt mit Ihnen in Verbindung setzen.<br><br>
+				
+				
+				
+				<form method="post">
+				<div class="table">
+					<div class="row">
+						<div class="cell cell1"><label for="name">Kontaktperson</label></div>
+						<div class="cell cell2">
+							<div class="input"><input type="text" id="name" name="name" value=""></div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="cell cell1"><label for="mail">E-Mail</label></div>
+						<div class="cell cell2">
+							<div class="input"><input type="text" id="mail" name="mail" value=""></div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="cell cell1"><label for="price">Preisvorschlag</label></div>
+						<div class="cell cell2">
+							<div class="input"><input style="width:290px;" type="text" id="price" name="price" value="">&nbsp;Euro</div>
+							
+						</div>
+					</div>
+					<div class="row">
+						<div class="cell cell1"><label for="msg">Nachricht</label></div>
+						<div class="cell cell2">
+						<div class="input"><textarea style="height:90px;" id="msg" name="msg"></textarea></div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="cell cell1"><label for="privacy">Datenschutz</label></div>
+						<div class="cell cell2" style="font-size:14px;font-weight:normal;">
+							<div class="input" style="width:auto;display:inline-block;padding:10px;margin:0 10px 20px 0;float:left;"><input style="width:13px;" type="checkbox" id="privacy" name="privacy" value="1"></div>
+							<div>Ich akzeptiere die <b><a href="https://www.do.de/unternehmen/datenschutz" target="_blank">Datenschutzbestimmungen</a></b> und stimme der Weiterleitung meiner Anfrage an den Inhaber der Domain zu.</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="cell cell1"></div>
+						<div class="cell cell2">
+							<script src="https://www.google.com/recaptcha/api.js"></script>
+							<div class="g-recaptcha" data-sitekey="6Le9FgoUAAAAAAGjt-JgZODJsrrZdImBJB490HyM"></div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="cell cell1"></div>
+						<div class="cell cell2"><input id="submit" class="input" type="submit" value="absenden"></div>
+					</div>
+				</div>
+				</form>
+			</div>
+			
+			
+			<div id="right">
+				<a href="https://link.do.de/?0&DO-CDS&https://www.do.de/?aff=uQz5ve8rYR" target="_blank">
+					<img src="/images/sell/dode.png" width="160" height="600">
+				</a>
+			</div>
+		</div>
+		
+		<div id="bottomline">
+			
+			<div id="footer">
+				
+				<div id="fleft">
+					<a href="https://www.do.de" target="_blank"><img src="/images/sell/logo.png" width="139" height="61"></a>
+				</div>
+				
+				
+				<div id="fmiddle">
+					<div style="margin:0 30px;color:#ffffff;">
+						Die DOMAIN|OFFENSIVE (Greenmark IT GmbH) stellt ihren Kunden dieses Formular kostenfrei zur Verfügung und leitet eingehende<br>
+						Anfragen automatisiert an den hinterlegten Inhaber der Domain weiter. Ein mögliche künftige Nutzung der Domain wird direkt<br>
+						zwischen Käufer und Domaininhaber vereinbart und abgewickelt.
+					</div>
+				</div>
+				
+				
+				<div id="fright">
+					<a href="https://www.do.de/datenschutz" target="_blank">Datenschutz</a> | <a href="https://www.do.de/impressum" target="_blank">Impressum</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

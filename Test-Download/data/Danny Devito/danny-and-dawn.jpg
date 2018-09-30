@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<!-- b69ad921b65d87e3fcf9d08e82e39230 -->
+<!--[if lte IE 7]><html class="oldie"><![endif]-->
+<!--[if lte IE 8]><html class="ie"><![endif]-->
+<!--[if gte IE 9]><!--><html><!--<![endif]-->
+<head>
+<!-- 765e29e8b0f361e12661f4428b7d73e7149e6375 -->
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+<script src="/live/js/jquery.snow.js"></script>-->
+
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="google-site-verification" content="Iis5fgz824WykpKjb0KX7qyEMB154grrw_zWVRDknN4" />
+	
+
+
+
+
+	<!--**********START: TITLE / DESCRIPTION**********-->
+	
+			<title>Page Not Found - Supanet</title>
+	<meta name="description" content="404 - Page Not Found" />
+<meta property="og:title" content="Page Not Found" />
+<meta property="og:description" content="404 - Page Not Found" />
+	
+	<!--**********END: TITLE / DESCRIPTION**********-->
+
+<!--**********START: CSS / FAVICON**********-->
+			<link href="/upload/rs/supanet/img/site_favicon_16.ico" rel="shortcut icon" type="image/x-icon" />
+				<link href="/upload/rs/supanet/color/Black/css/Black.css?cachebuster=1628017851" class="st" rel="stylesheet" />
+			<link href="/upload/rs/supanet/common.css?cachebuster=271128685" rel="stylesheet" />
+			
+	<!--**********END: CSS / FAVICON**********-->
+
+<!--**********START: SCRIPTS**********-->
+
+	<script type="text/javascript" src="/upload/rs/js/scripts.js?cachebuster=992303088"></script>
+	<!--script type="text/javascript" src="/upload/rs/js/reg_login_comment.js"></script-->
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	
+
+	<!-- GOOGLE ANALYTICS -->
+	<script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-86774902-1', 'auto');
+		ga('send', 'pageview');
+		</script>
+
+<!--**********END: SCRIPTS**********-->
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<style>
+
+  .responsive-ad { display: block;}
+  @media(max-width: 641px) { 
+.responsive-ad { display: none !important;}
+.global-top-ad { padding: 0px !important; }
+.grid-container { padding: 0px 16px 16px 16px !important; }
+}
+
+sup {
+vertical-align: super;
+font-size: 12px;}
+
+.news-text p {
+    font-size: 16px;
+    color: #777 !important;
+}
+
+.news-text h3 {
+
+    margin-bottom: 5px;
+    font-weight: normal;
+    font-size: 20px; 
+}
+
+.with-details .news a.table {
+    padding: 30px 0 !important;
+}
+
+.fb-like {
+	height: 20px;
+}
+
+.twitter-follow-button {
+	color:#fff;
+}
+.footerspan {
+float:left;margin-left:8px;
+}
+
+#content-container { 
+min-height:1080px !important;
+}
+
+.global-top-ad {
+/*height: 250px;*/
+}
+
+</style>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7774792539599713",
+          enable_page_level_ads: true
+     });
+</script>
+
+
+    <style>
+    </style>
+</head>
+
+<body style="">
+
+
+<!--<script>
+var $jqh = jQuery.noConflict();
+$jqh(document).ready( function(){
+    $.fn.snow({ maxSize: 50, newOn: 250, flakeColor: '#eeeeee' });
+});
+</script>-->
+			<div id="cookieNotifier">
+			<div class="wrapper">
+				<p>Supanet uses cookies to ensure that we give you the 
+
+best experience on our site. If you continue without changing your browser settings, we'll assume that you are agreeing to our use of 
+
+cookies. Find out more by reading our <a class="cp" href="https://www.supanet.com/cookie-policy/">cookies policy</a>.</p>
+				<a href="javascript:void(0)" onclick="hideCookieNotifier()" class="close">x</a>
+			</div>
+		</div>
+		
+	
+			
+		
+			
+	<div id="viewport">
+		
+		<!--**********START: HEADER**********-->
+		<div class="main-header">
+		
+					<!--**********START: UPPER HEADER**********-->
+			<div class="main-header-bottom">
+				<div class="wrapper">
+					<ul class="main-header-top-colors"> 
+						<li class="select">Change theme</li>
+						<li class="colorPicker" id="Maroon">&nbsp;</li>
+						<li class="colorPicker" id="Red_Violet">&nbsp;</li>
+						<li class="colorPicker" id="Pumpkin">&nbsp;</li>
+						<li class="colorPicker" id="Lightning_Yellow">&nbsp;</li>
+						<li class="colorPicker" id="a0A7D1F">&nbsp;</li>
+						<li class="colorPicker" id="a196999">&nbsp;</li>
+						<li class="colorPicker" id="a5E0A7D">&nbsp;</li>
+						<li class="colorPicker" id="Emperor">&nbsp;</li>
+						<li class="colorPicker" id="Black">&nbsp;</li>
+					</ul>
+
+					<div class="main-header-top-links">
+							
+							<!--script>
+								function isIE() {
+									var isIE11 = navigator.userAgent.indexOf(".NET CLR") > -1;
+									var isIE11orLess = isIE11 || navigator.appVersion.indexOf("MSIE") != -1;
+									return isIE11orLess;
+								}
+								if (isIE()) {
+								   document.write('<span id="make_homepage"><a class="text" 
+
+href="javascript:document.body.style.behavior=\'url(#default#homepage)\';document.body.setHomePage(\'http://www.supanet.com\');">Make Supanet my Homepage</a><span class="sepa"></span></span>')
+								}
+							</script-->
+												<ul>
+							<li><a href="https://www.supanet.co.uk/contact">Contact us</a></li>
+							<li><a href="https://webmail.supanet.com/?source=portal" rel="nofollow">Webmail</a></li>
+						</ul>
+						
+						
+					
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--**********END: UPPER HEADER**********-->
+
+			<!--**********END: LOGO BAR**********-->
+			<div class="main-header-bottom"><br /><br />
+				<div class="wrapper">
+					<h2 class="main-header-bottom-logo"><a href="/">Supanet</a></h2>
+					<p class="main-header-bottom-p">it's an internet thing! <sup>est 1999</sup></p>
+					<div class="top-search">
+						<!-- Place this tag where you want the search box to render -->
+<style>
+#query {
+    
+    height: 28px !important;
+    width: 345px !important;
+    font-size: 16px !important;
+    padding-left: 10px !important;
+}
+
+#sa {
+    height: 34px !important;
+    width: 145px !important;
+    font-size: 16px !important; 
+}
+
+.top-search {
+    margin: 15px 0px 0 0 !important;
+}
+</style>
+    <form method="get" action="https://www.linkcentre.com/action.php" id="cse-search-box">
+        <label for="search-query"></label>
+        <input type="text" name="q" size="55" id="query" />
+        <input type="hidden" name="cx" value="partner-pub-7774792539599713:8637885043" />
+        <input type="hidden" name="cof" value="FORID:10" />
+        <input type="hidden" name="sn" value="true" />
+        <input id="sa" name="sa" class="search" type="submit" value="Search the web" />    
+    </form>
+<script type="text/javascript" src="https://www.google.co.uk/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+<div class="clearfix"></div>
+</div>
+<span class="mob-btn-menu"></span>
+<span class="mob-btn-search"></span>
+</div>
+<!--**********END: LOGO BAR**********-->
+						
+				
+		</div>
+		<!--**********END: HEADER**********-->
+
+		<!--**********START: MENU**********-->
+		<div class="main-menu wrapper">
+			<ul class="main-menu-list"><li ><a href="/">Home</a><ul><li><a href="/supanet-reviews/" >Supanet Reviews and News</a></li><li><a href="/job-search/" >Job Search</a></li><li><a href="/business-money/" >Business & Money</a></li><li><a href="/lifestyle/" >Lifestyle</a></li><li><a href="/motoring/" >Motoring</a></li><li><a href="/weird-news/" >Weird News</a></li></ul><i class="sign"></i></li>				<li ><a href="/news/">News<span class="i_sep"></span></a><ul><li><a href="/supanet-reviews/" >Supanet Reviews and News</a></li><li><a href="/job-search/" >Job Search</a></li><li><a href="/business-money/" >Business & Money</a></li><li><a href="/lifestyle/" >Lifestyle</a></li><li><a href="/motoring/" >Motoring</a></li><li><a href="/weird-news/" >Weird News</a></li></ul><i class="sign"></i></li>				<li ><a href="/entertainment/">Entertainment<span class="i_sep"></span></a><ul>									<li><a href="/entertainment/celebrity-memorial-wall/" >Celebrity Memorial Wall</a></li>									<li><a href="/entertainment/films/" >Films</a></li>									<li><a href="/entertainment/download-mobile-apps/" >Download Mobile apps</a></li>									<li><a href="/entertainment/music/" >Music</a></li>									<li><a href="/entertainment/games/" >Games</a></li>									<li><a href="/entertainment/horoscopes/" >Horoscopes</a></li>									<li><a href="/entertainment/daily-crossword/" >Crosswords</a></li>									<li><a href="/entertainment/galleries/" >Galleries</a></li>									<li><a href="/entertainment/quizzes/" >Quizzes</a></li>									<li><a href="/entertainment/viral-video-of-the-week/" >Viral Videos</a></li>									<li><a href="/entertainment/weird-news/" >Weird News</a></li></ul><i class="sign"></i></li>				<li ><a href="/internet-of-things/">Internet of Things<span class="i_sep"></span></a><ul>									<li><a href="/internet-of-things/technology/" >Technology</a></li><li><a href="/internet-of-things/what-is-the-internet-of-things-a18447.html">What is the Internet of Things?	</a></li></ul><i class="sign"></i></li>				<li ><a href="/smart-home-automation/">Smart Home Automation<span class="i_sep"></span></a><ul></ul></li>				<li ><a href="/tv-streaming/">TV Streaming<span class="i_sep"></span></a><ul></ul></li>				<li ><a href="/5g/">5G<span class="i_sep"></span></a><ul></ul></li>				<li ><a href="/wifi/">WiFi<span class="i_sep"></span></a><ul></ul></li>				<li ><a href="/sip/">SIP News<span class="i_sep"></span></a><ul></ul></li>				<li ><a href="/voip/">VoIP<span class="i_sep"></span></a><ul></ul></li>				<li ><a href="/internet-service-provider-news/">ISP News<span class="i_sep"></span></a><ul></ul></li>				</ul><div class="main-menu-sub"></div></div>
+		<!--**********END: MENU**********-->
+		
+		<!--**********START: CONTENT**********-->
+		<div id="content-container" class="wrapper">
+						<div class="global-top-ad ads">
+			<script type="text/javascript">
+Criteo.DisplayAd({
+    "zoneid": 249493,
+    "async": false});
+</script>
+
+<!--<ins class="adsbygoogle responsive-ad"
+     style="display:block"
+     data-ad-client="ca-pub-7774792539599713"
+     data-ad-slot="4141221046"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>-->
+
+
+
+						</div>
+				
+			<div class="grid-container">
+			
+	
+<div id="left_coloumn"><div class="spacer"><div class="channel">
+<div class="box_heading">Page not found</div>
+	<!--<h1>Page not found  <a href="/rss?tag=home"><img src="/upload/rs/img/rss_feed_icon.png"> </a></h1>-->
+	<h2>Sorry this page is not online, please return to our <a href="\">home page</a></h2>
+</div></div></div>
+<div id="mid_coloumn"><div class="spacer"><div class="set_border">
+  <div class="box_heading ">404</div>
+</div>
+<br />
+<center><img alt="Page not found" src="/live/img/404_image.jpg"/></center>
+<br /></div></div>
+<div id="right_coloumn"><div class="spacer"></div></div>
+<div class="clearfix"></div>
+
+			</div> <!-- end grid-container -->
+			
+		</div>
+		<!--**********END: CONTENT**********-->
+		
+		<div class="main-footer"> 
+			<div class="wrapper">
+				<span class="footerspan">
+									</span>
+				
+								<ul class="main-menu-list">
+									<li class=""><a href="/">Home<span class="i_sep"></span></a></li>
+									<li class=""><a href="/news/">News<span class="i_sep"></span></a></li>
+									<li class=""><a href="/entertainment/">Entertainment<span class="i_sep"></span></a></li>
+									<li class=""><a href="/internet-of-things/">Internet of Things<span class="i_sep"></span></a></li>
+									<li class=""><a href="/smart-home-automation/">Smart Home Automation<span class="i_sep"></span></a></li>
+									<li class=""><a href="/tv-streaming/">TV Streaming<span class="i_sep"></span></a></li>
+									<li class=""><a href="/5g/">5G<span class="i_sep"></span></a></li>
+									<li class=""><a href="/wifi/">WiFi<span class="i_sep"></span></a></li>
+									<li class=""><a href="/sip/">SIP News<span class="i_sep"></span></a></li>
+									<li class=""><a href="/voip/">VoIP<span class="i_sep"></span></a></li>
+									<li class=""><a href="/internet-service-provider-news/">ISP News<span class="i_sep"></span></a></li>
+								</ul>
+				<ul class="footer-list">
+					<li><a href="/about-us/">About us</a></li>
+					<li><a href="/postboard/">Postboard</a></li>
+					<li><a href="/info/">Terms & Conditions</a></li>
+					<li><a href="/live/pdf/supanet/privacy-policy.pdf">Privacy Policy</a></li>
+																<li><a href="/cookie-policy">Cookie Policy</a></li>
+						<li><a rel="nofollow" href="http://www.supanet.com/live/pdf/supanet/GC22.pdf">General Condition 22</a></li>
+					
+                                        						<li><a href="https://www.supanet.co.uk/contact">Contact us</a></li>
+										
+				</ul>
+				
+				<p><small>&copy; Supatel Limited 2018</small></p>
+			</div>
+		</div>
+
+	</div> <!-- end viewport -->
+	
+			
+		<!-- START: EVENTS -->
+		<script type="text/javascript">
+		$(function(){
+			// COLOR PICKER
+			var site_url = '/';
+			$(".colorPicker").click(function() {
+				var st = "upload/rs/supanet/color";
+				st += "/";
+				st += $(this).attr("id");
+				st += "/css";
+				st += "/";
+				st += $(this).attr("id");
+				st += ".css";
+console.log(site_url + "ajax-personalization/");
+				$.ajax({
+					type: "GET",
+					url: site_url + "ajax-personalization/",
+					data: {color: $(this).attr("id")}
+				}).done(function(msg) {
+console.log("MSG: ", msg);
+				});	  
+								
+				$("body").fadeOut('fast', function() {
+					$(".st").attr("href", site_url + st);
+				});
+				setTimeout(function() {
+					$("body").fadeIn('slow');
+				}, 800);
+
+			});
+			$('.kelkoo-filter-btn').click(function(){
+				var kelkoo = $('.kelkoo .with-filter');
+				if (kelkoo.hasClass('open')) {
+					$('span',this).html('&raquo;')
+				} else {
+					$('span',this).html('&laquo;')
+				}
+				kelkoo.toggleClass('open');
+			});
+		});
+		</script>
+		<!-- END: EVENTS -->
+	
+	<script type="text/javascript">
+					var _sf_async_config = {uid: 47557, domain: 'supanet.com', useCanonical: true};
+			</script>
+	
+	<!--script type="text/javascript">
+		document.getElementById('q').focus();
+	</script-->
+	
+			
+	<!-- GLOBAL SCRIPTS -->
+	<script type="text/javascript">
+	$(function(){
+		var topSeacrh	= $('.top-search'),
+			// btnSearch	= $('.mob-btn-search'),
+			topSeacrhTxt= $('.top-search input[type="text"]'),
+			clsOpen		= 'open',
+			clsActive	= 'active';
+		
+		$('.main-menu-list .sign').click(function(){
+			$(this).parent().toggleClass('active');
+		});
+		$('.mob-btn-menu').click(function(){
+			$('#viewport').toggleClass('open');
+			$(this).toggleClass('active');			
+		});
+		$('.mob-btn-search').click(function(){
+			if ($(this).hasClass('active')) {
+				topSeacrhTxt.blur();
+				// topSeacrh.hide();
+				topSeacrh.css("display", "none");
+			} else {
+				// topSeacrh.show();
+				topSeacrh.css("display", "block");
+				topSeacrhTxt.focus().select()
+			}
+			$(this).toggleClass('active');
+		});
+	});
+	function hideCookieNotifier() {
+		var site_url = '/';
+		$.ajax({
+			type: "GET",
+			url: site_url + "ajax-cookie-notifier/",
+			data: {}
+		}).done(function(msg) {
+			document.getElementById('cookieNotifier').style.display='none';
+		});
+	}
+	</script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5952ab6be5bcb1f7"></script> 
+
+
+</body>
+</html>

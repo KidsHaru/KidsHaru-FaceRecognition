@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://etvsport.ee/xmlrpc.php">
+
+<title>EtvSport.ee</title>
+<!--[if lt IE 9]>
+<script src="http://etvsport.ee/wp-content/themes/unite/inc/js/html5shiv.min.js"></script>
+<script src="http://etvsport.ee/wp-content/themes/unite/inc/js/respond.min.js"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="EtvSport.ee &raquo; RSS" href="http://etvsport.ee/feed/" />
+<link rel="alternate" type="application/rss+xml" title="EtvSport.ee &raquo; Kommentaaride RSS" href="http://etvsport.ee/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/etvsport.ee\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='unite-bootstrap-css'  href='http://etvsport.ee/wp-content/themes/unite/inc/css/bootstrap.min.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='unite-icons-css'  href='http://etvsport.ee/wp-content/themes/unite/inc/css/font-awesome.min.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='unite-style-css'  href='http://etvsport.ee/wp-content/themes/unite/style.css?ver=4.8.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://etvsport.ee/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://etvsport.ee/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://etvsport.ee/wp-content/themes/unite/inc/js/bootstrap.min.js?ver=4.8.7'></script>
+<script type='text/javascript' src='http://etvsport.ee/wp-content/themes/unite/inc/js/main.min.js?ver=4.8.7'></script>
+<link rel='https://api.w.org/' href='http://etvsport.ee/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://etvsport.ee/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://etvsport.ee/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.7" />
+<style type="text/css"></style>    <style type="text/css">
+        #social li {
+            display: inline-block;
+        }
+        #social li,
+        #social ul {
+            border: 0!important;
+            list-style: none;
+            padding-left: 0;
+            text-align: center;
+        }
+        .social-icons ul a {
+            font-size: 24px;
+            margin: 6px;
+            color: #DDD;
+        }
+        #social ul a span {
+            display: none;
+        }
+        #social li a[href*="twitter.com"] .fa:before,
+        .fa-twitter:before {
+            content: "\f099"
+        }
+        #social li a[href*="facebook.com"] .fa:before,
+        .fa-facebook-f:before,
+        .fa-facebook:before {
+            content: "\f09a"
+        }
+        #social li a[href*="github.com"] .fa:before,
+        .fa-github:before {
+            content: "\f09b"
+        }
+        #social li a[href*="/feed"] .fa:before,
+        .fa-rss:before {
+            content: "\f09e"
+        }
+        #social li a[href*="pinterest.com"] .fa:before,
+        .fa-pinterest:before {
+            content: "\f0d2"
+        }
+        #social li a[href*="plus.google.com"] .fa:before,
+        .fa-google-plus:before {
+            content: "\f0d5"
+        }
+        #social li a[href*="linkedin.com"] .fa:before,
+        .fa-linkedin:before {
+            content: "\f0e1"
+        }
+        #social li a[href*="xing.com"] .fa:before,
+        .fa-xing:before {
+            content: "\f168"
+        }
+        #social li a[href*="youtube.com"] .fa:before,
+        .fa-youtube:before {
+            content: "\f167"
+        }
+        #social li a[href*="instagram.com"] .fa:before,
+        .fa-instagram:before {
+            content: "\f16d"
+        }
+        #social li a[href*="flickr.com"] .fa:before,
+        .fa-flickr:before {
+            content: "\f16e"
+        }
+        #social li a[href*="tumblr.com"] .fa:before,
+        .fa-tumblr:before {
+            content: "\f173"
+        }
+        #social li a[href*="dribbble.com"] .fa:before,
+        .fa-dribbble:before {
+            content: "\f17d"
+        }
+        #social li a[href*="skype:"] .fa:before,
+        #social li a[href*="skype.com"] .fa:before,
+        .fa-skype:before {
+            content: "\f17e"
+        }
+        #social li a[href*="foursquare.com"] .fa:before,
+        .fa-foursquare:before {
+            content: "\f180"
+        }
+        #social li a[href*="vimeo.com"] .fa:before,
+        .fa-vimeo-square:before {
+            content: "\f194"
+        }
+        #social li a[href*="spotify.com"] .fa:before,
+        .fa-spotify:before {
+            content: "\f1bc"
+        }
+        #social li a[href*="soundcloud.com"] .fa:before,
+        .fa-soundcloud:before {
+            content: "\f1be"
+        }
+        
+        .social-icons li a[href*="facebook.com"]:hover {color: #3b5998 !important;}
+        .social-icons li a[href*="twitter.com"]:hover {color: #00aced !important;}
+        .social-icons li a[href*="plus.google.com"]:hover {color: #dd4b39 !important;}
+        .social-icons li a[href*="youtube.com"]:hover {color: #bb0000 !important;}
+        .social-icons li a[href*="github.com"]:hover {color: #4183C4 !important;}
+        .social-icons li a[href*="linkedin.com"]:hover {color: #007bb6 !important;}
+        .social-icons li a[href*="xing.com"]:hover {color: #cfdc00 !important;}
+        .social-icons li a[href*="pinterest.com"]:hover {color: #cb2027 !important;}
+        .social-icons li a[href*="rss.com"]:hover {color: #F0AD4E !important ;}
+        .social-icons li a[href*="tumblr.com"]:hover {color: #32506d !important;}
+        .social-icons li a[href*="flickr.com"]:hover {color: #ff0084 !important;}
+        .social-icons li a[href*="instagram.com"]:hover {color: #517fa4 !important;}
+        .social-icons li a[href*="dribbble.com"]:hover {color: #E56193 !important;}
+        .social-icons li a[href*="skype.com"]:hover {color: #00AFF0 !important;}
+        .social-icons li a[href*="foursquare.com"]:hover {color: #2398C9 !important;}
+        .social-icons li a[href*="soundcloud.com"]:hover {color: #F50 !important;}
+        .social-icons li a[href*="vimeo.com"]:hover {color:  #1bb6ec !important;}
+        .social-icons li a[href*="spotify.com"]:hover {color: #81b71a !important;}
+        .social-icons li a[href*="/feed"]:hover {color: #f39c12 !important;}
+    </style>
+</head>
+
+<body class="home blog">
+<div id="page" class="hfeed site">
+	<div class="container header-area">
+				<header id="masthead" class="site-header col-sm-12" role="banner">
+
+				<div class="site-branding col-md-6">
+					
+					
+						<h1 class="site-title"><a href="http://etvsport.ee/" rel="home">EtvSport.ee</a></h1>
+						<h4 class="site-description"></h4>
+
+									</div>
+
+			<div class="social-header col-md-6">
+							</div>
+
+		</header><!-- #masthead -->
+	</div>
+		<nav class="navbar navbar-default" role="navigation">
+			<div class="container">
+		        <div class="navbar-header">
+		            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+		                <span class="sr-only">Toggle navigation</span>
+		                <span class="icon-bar"></span>
+		                <span class="icon-bar"></span>
+		                <span class="icon-bar"></span>
+		            </button>
+
+		        </div>
+
+				<div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-top" class="nav navbar-nav"><li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-21 active"><a title="Avaleht" href="http://etvsport.ee/">Avaleht</a></li>
+</ul></div>		    </div>
+		</nav><!-- .site-navigation -->
+
+	<div id="content" class="site-content container">            <div class="row ">
+
+	<div id="primary" class="content-area col-sm-12 col-md-8">
+		<main id="main" class="site-main" role="main">
+
+		
+						
+				
+<article id="post-267" class="post-267 post type-post status-publish format-standard hentry category-maaratlemata tag-pank tag-samamoodi tag-talitab">
+	<header class="entry-header page-header">
+
+		<a href="http://etvsport.ee/2018/05/25/samamoodi-talitab-lhv-pank/" title="Samamoodi talitab lhv pank."></a>
+
+		<h2 class="entry-title"><a href="http://etvsport.ee/2018/05/25/samamoodi-talitab-lhv-pank/" rel="bookmark">Samamoodi talitab lhv pank.</a></h2>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://etvsport.ee/2018/05/25/samamoodi-talitab-lhv-pank/" rel="bookmark"><time class="entry-date published" datetime="2018-05-25T20:11:24+00:00">25. mai 2018</time><time class="updated" datetime="2018-05-17T05:34:18+00:00">17. mai 2018</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://etvsport.ee/author/arvid/">Arvid</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>Nüüd, siin on asi. Mis &quot;tidyquant pakett, see on kõik, mida vajan.</p>
+<p><a href="http://tarbimislaen.eu/">Laen ilma sissetulekuta</a> kui ma ei saa alustada pool äri, ma ei saa magada tundi vähem öise ja maksta ära oma võlad kuud varem.</p>
+<p>See lugu on osa rahatasku on &quot;Lahendada&quot; seeria.</p>
+<p>Aga see on alles algus.</p>
+<p>Zooloogia rahalist kõnepruuki: investorite profiilid lihtsalt ja arusaadavalt.</p>
+		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="http://etvsport.ee/tag/pank/" rel="tag">pank</a>, <a href="http://etvsport.ee/tag/samamoodi/" rel="tag">samamoodi</a>, <a href="http://etvsport.ee/tag/talitab/" rel="tag">talitab</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-265" class="post-265 post type-post status-publish format-standard hentry category-maaratlemata tag-kannatlike tag-murra tag-rootslasi">
+	<header class="entry-header page-header">
+
+		<a href="http://etvsport.ee/2018/05/15/kannatlike-rootslasi-see-aga-ei-murra/" title="Kannatlike rootslasi see aga ei murra."></a>
+
+		<h2 class="entry-title"><a href="http://etvsport.ee/2018/05/15/kannatlike-rootslasi-see-aga-ei-murra/" rel="bookmark">Kannatlike rootslasi see aga ei murra.</a></h2>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://etvsport.ee/2018/05/15/kannatlike-rootslasi-see-aga-ei-murra/" rel="bookmark"><time class="entry-date published" datetime="2018-05-15T22:18:40+00:00">15. mai 2018</time><time class="updated" datetime="2018-05-10T05:34:13+00:00">10. mai 2018</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://etvsport.ee/author/arvid/">Arvid</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>Minu filosoofia oli, et kui mul on vaja rohkem raha, ma lihtsalt teha seda. Ma teenitud lisatasu eurot siin ja seal korjates õhtul sulgemise vahetuses poes, nii palju, et olin sageli &quot;kõne&quot;, kui neil on vaja, et keegi sulgeda kohas ilma palju ette. See aitas, et ma elanud ja töötanud linna, mis oli ka midagi, mis vajab palju raha, kuid võimaldas iga teine ​​aspekt minu elustiil. Ma leidsin ka vabakutselise töökohta: aidata default õppematerjale konsultatsioonifirma umbes 000 eurot projekteerimisel paigutus kirjanduslik ajakiri 000 eurot ning mõnikord teeme tööots sõber sõbra jaoks eurot tunnis. See oli täiesti väsitav, kuid hoogu Ma ehitasin tehtud lisades oma kavva tunnevad ennast hästi. Mis on üks asi veel niigi pikk nimekiri?</p>
+<p>Ma vaatasin arutelu, üksi oma korteris <a href="http://tarbimislaen.eu/">laenud Ilma palgatõendita</a>. Kui need sõnad põgenes oma suu, ma hingeldas valjusti. Sest ma teadsin seda. Kuna ma juba olemas. Kuna see oli tema tõeline mina järelvalveta, vihkab kedagi, sest nad olid naine, kes julgesid rääkida tõtt oma jura.</p>
+<p>&quot;Ma arvan, et on normatiivrühmade pool maja, näed väga suur erinevus hoiakut, kes on kandidaadiks,&quot; Marshall ütles.</p>
+<p>Nüüd: mida see teeb mind? Liberatarian? Sotsialistliku? Nii? Kumbki.</p>
+<p>Hiljuti käigukasti meie ute hakkas imelik heli &#8211; see oli tema viis välja. Käisime mehaanik, ja ta hoiatas meid, et isegi renoveeritud käigukast, see läheb maksma umbes 000 eurot. Me rääkisime temaga edasi minna ja välja vahetada. Üle 000 eurot kokkuhoidu, makstes 000 eurot AUD (0 eurot USD), et saada toimiv sõiduk kiiresti (mis meil oli vaja) oli seda väärt.</p>
+		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="http://etvsport.ee/tag/kannatlike/" rel="tag">kannatlike</a>, <a href="http://etvsport.ee/tag/murra/" rel="tag">murra</a>, <a href="http://etvsport.ee/tag/rootslasi/" rel="tag">rootslasi</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-263" class="post-263 post type-post status-publish format-standard hentry category-maaratlemata tag-metsaoksjon tag-ning">
+	<header class="entry-header page-header">
+
+		<a href="http://etvsport.ee/2018/04/12/ee-ning-metsaoksjon/" title="Ee ning metsaoksjon."></a>
+
+		<h2 class="entry-title"><a href="http://etvsport.ee/2018/04/12/ee-ning-metsaoksjon/" rel="bookmark">Ee ning metsaoksjon.</a></h2>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://etvsport.ee/2018/04/12/ee-ning-metsaoksjon/" rel="bookmark"><time class="entry-date published" datetime="2018-04-12T20:32:30+00:00">12. apr. 2018</time><time class="updated" datetime="2018-04-05T05:33:43+00:00">5. apr. 2018</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://etvsport.ee/author/arvid/">Arvid</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>CQ: Sa olid märkimist, et paljud need õpilased pakuvad raha nende perekondade ning, et nad on selle koorma. Kuigi ma arvan, et nad ei usu, et see on koormaks nad peavad tegelema, mis on samuti reaalsus.</p>
+<p><a href="http://tarbimislaen.eu/tou/laenud-kinnisvara-tagatisel">Laenud kinnisvara tagatisel</a> kuidas üks võtab nii kaua perspektiivis nii noores eas. Ma arvan, et see oli kümme aastat on ta veetnud arendada oma oskusi, laulmine baarides kogu Alaska, valmistades selleks hetkeks.</p>
+<p>&quot;Leidsin, et iga kord kui ma kirjutasin, et vähendada oma ärevust, isegi siis, kui elasin minu auto.&quot;</p>
+<p>Õppisin nii palju kuulata tema juttu üritab ehitada oma ajakava, et muuta kolledži taskukohane ja kuidas uskumatult raske, et sai ning tema soov struktuur hiljem. Kui ta rääkis, et ma arvasin, &quot;Wow, kui palju, ning aastastest ütlevad,&quot; Kas sa mulle öelda, mida teha? &quot;&quot;</p>
+<p>Tegelikult minu album ei teinud ka esimesel aastal. Aga siis läks müüa üle, 000000 eksemplari.</p>
+<p>Ta tegi raha tagasi lõpuks, ja see on uskumatult edukas ajast.</p>
+<p>Neil Young ütles talle: ärge kunagi kirjutada raadio!</p>
+<p>CQ: Väide tihti, &quot;Õpilased peaksid lihtsalt tööd osalise tööajaga, nagu ma tegin, kui ma läksin kooli aastat tagasi,&quot; aga sa ütled uuringud näitavad, töötab rohkem kui tundi nädalas on seotud suurema väljalangevust. Miks see ootus ebareaalne madala sissetulekuga üliõpilastele?</p>
+<p>Kuidas see võimalik? Ta oli andnud kõik kontrolli oma ema ja tema ema oli hävitanud kõik.</p>
+<p>Aga see justkui mõtet, sest nad võitlevad oma vabaduse ja siis käsitsi neid oma vabaduse ja see on täis nii palju rahalist riski ja kaotus, ja see on nii palju suurem rahaline jama kui ta kunagi arvas, et ta oleks. Ja nii et loomulikult sa tahad struktuuri kui sa oled selles olukorras. Kui riskid olid väiksemad, ma olen kindel, et ta tunneks ta saaks teha oma otsused ise, kuid kuna panused olid nii suured, et ta lihtsalt tahtis olla öelnud: &quot;Kuidas sa sellega hakkama?&quot; Ja jälle, finantsalane haridus ei oleks lahendatud selle. Ta ei mismanaging tema raha.</p>
+<p>Ma olen keset ära maksta Capital One krediitkaardi, et likvideeritakse kogudest. Tasakaalu, et kaart on eurotand Ma pöörates seda maha 0 eurot osamaksetena, mis algab novembris.</p>
+		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="http://etvsport.ee/tag/metsaoksjon/" rel="tag">metsaoksjon</a>, <a href="http://etvsport.ee/tag/ning/" rel="tag">ning</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-261" class="post-261 post type-post status-publish format-standard hentry category-maaratlemata tag-enam tag-mingit tag-pistmist tag-pole">
+	<header class="entry-header page-header">
+
+		<a href="http://etvsport.ee/2018/03/13/mingit-pistmist-enam-pole/" title=") mingit pistmist enam pole."></a>
+
+		<h2 class="entry-title"><a href="http://etvsport.ee/2018/03/13/mingit-pistmist-enam-pole/" rel="bookmark">) mingit pistmist enam pole.</a></h2>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://etvsport.ee/2018/03/13/mingit-pistmist-enam-pole/" rel="bookmark"><time class="entry-date published" datetime="2018-03-13T21:06:19+00:00">13. märts 2018</time><time class="updated" datetime="2018-03-08T04:33:58+00:00">8. märts 2018</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://etvsport.ee/author/arvid/">Arvid</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>See ei ole veel selge, kas sissetulev halduse tegelikult mingit huvi jõulisema monopolivastase poliitika. Vaatamata presidendiga retoorika kampaania ajal, ta nimetas Joshua Wright, advokaat, kes väitis vastu rohkem usaldust lõhkemiseni kaasa tuua Trump Federal Trade Commission ülemineku meeskond.</p>
+<p><a href="http://tarbimislaen.eu/tou/tarbimislaenud">Tarbimislaenud</a> lihtne ütles mulle, et raha oli minu aluseks Bancorp moodustavad kogu aeg. Nad ei ole kunagi liikunud minu tegelik pangakontole, kuid see tehing oli olnud vaid viga Lihtne süsteem. Nad suutsid seda parandada uuesti käivitades ACH üleandmise süsteemi kaudu. Hea küll.</p>
+<p>Vale diagnoos, Vale retsept</p>
+<p>Robert Faturechi ja Derek Willis</p>
+		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="http://etvsport.ee/tag/enam/" rel="tag">enam</a>, <a href="http://etvsport.ee/tag/mingit/" rel="tag">mingit</a>, <a href="http://etvsport.ee/tag/pistmist/" rel="tag">pistmist</a>, <a href="http://etvsport.ee/tag/pole/" rel="tag">pole</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-259" class="post-259 post type-post status-publish format-standard hentry category-maaratlemata tag-asemel tag-kuidas tag-parem tag-selle tag-tuleb">
+	<header class="entry-header page-header">
+
+		<a href="http://etvsport.ee/2018/02/10/selle-asemel-tuleb-moelda-kuidas-ise-parem-olla/" title="Selle asemel tuleb mõelda kuidas ise parem olla."></a>
+
+		<h2 class="entry-title"><a href="http://etvsport.ee/2018/02/10/selle-asemel-tuleb-moelda-kuidas-ise-parem-olla/" rel="bookmark">Selle asemel tuleb mõelda kuidas ise parem olla.</a></h2>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://etvsport.ee/2018/02/10/selle-asemel-tuleb-moelda-kuidas-ise-parem-olla/" rel="bookmark"><time class="entry-date published" datetime="2018-02-10T22:33:07+00:00">10. veebr. 2018</time><time class="updated" datetime="2018-02-01T04:34:14+00:00">1. veebr. 2018</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://etvsport.ee/author/arvid/">Arvid</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>Me ei ole LSTM loe abstraktsed mõisted virnades mõned neist peal üksteist, mis teeb meist &quot;Deep&quot; uuesti. Nüüd iga väljundi eelmise LSTM muutub sisendid järgmise LSTM ja igaüks läheb edasi õppima kõrgemat veevõtu andmete tulevad. Toodud näiteks (ja see on ainult illustratiivsed spekulatsioon), esimene kiht LSTMs võib õppida et märki tühik on &quot;sõnad&quot;. Järgmise kihi võib õppida sõna tüüpi nagu (staatilise void action_new_function) .The järgmise kihi võib õppida mõiste funktsioon ja tema argumente ja nii edasi. On raske öelda täpselt, mida iga kiht teeb, kuigi Karpathy blogi on tõesti kena näide sellest, kuidas ta visualiseerida just nii.</p>
+<p>Kui olete valmis omaks, mis teeb teid unikaalne ja jagada seda maailma, oma missioon tekib <a href="http://etf.ee/">laen</a>. Sa võiksid olla, või. Ma olin . Mõnikord, kui sa oled tundlik, see on isegi raskem, et näidata üles oma missiooni.</p>
+<p>Raha on imelik. Kui te lähete pärast raha nagu eesmärk, see karistab sind. Kuhjad jama hiljem, siis paratamatult tunne, nagu sa ei ole kunagi piisavalt. Nagu sa ei saa kunagi küllalt.</p>
+<p>Kuidas tähelepanelik olete oma raha? Võtke meie tasuta viktoriin teada!</p>
+<p>Hiljem tegin rohkem uuringuid, avastanud, kuidas hästi käsitleda minu riigi lipulaev avalik-õiguslik ülikool on. Järgmise paari päeva jooksul, Dan teatas, et rohkem ja rohkem oma klassikaaslastega olid valides Rutgersi, sealhulgas üks, kes oli olnud lubatud Johns Hopkins ja Carnegie Melloni, kõik, sest nad ei saa endale võtta laenu &#8211; avaliku ja erasektori koolides samasugused.</p>
+<p>&quot;Me usume, et valitsuse tegevus on sobimatu ja vastuolus põhiseadusega, aga koos ITT Technical Institutes lõpetab tegevuse, siis nüüd tõenäoliselt puhata teiste osapoolte mõista neid taunitav tegevusi ja võtta meetmeid, et üritage vältida selle kordumist,&quot; firma märkis oma pressiteates.</p>
+<p>Siis kaks nädalat pärast me panema tagatisraha Wisconsin, saime rahalise abi paketti. Meid hämmastas, kui ta sai nulli &#8211; nada &#8211; abi. Kui sa loota 0 eurot föderaalne laenu me pakuti.</p>
+<p>*% Ulatuses FICO skoor põhineb, kui palju raha sa võlgu versus kui palju krediiti on teile kättesaadavaks. Keegi lähedane ammendumas tema krediitkaardid peetakse risk kõrgeim.</p>
+<p>Leidub piiratud erandid, kuid see on väga konkreetne reegel, et on raske saada umbes.</p>
+<p>Minu abielu lagunes. Ma tegelikult nägin suhe olin hoone minu lapsed, mis oli distsiplineeritud ja külm. Nad olid muutumas kurb lapsed. Olin ehitatud elu puudub ning süda. See oli ebasõbralik elu, kus ma ei näidanud empaatiat teistele, sest ma ei olnud üldse mina.</p>
+		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="http://etvsport.ee/tag/asemel/" rel="tag">asemel</a>, <a href="http://etvsport.ee/tag/kuidas/" rel="tag">kuidas</a>, <a href="http://etvsport.ee/tag/parem/" rel="tag">parem</a>, <a href="http://etvsport.ee/tag/selle/" rel="tag">selle</a>, <a href="http://etvsport.ee/tag/tuleb/" rel="tag">tuleb</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-257" class="post-257 post type-post status-publish format-standard hentry category-maaratlemata tag-aasta tag-kollektsiooni tag-shameless">
+	<header class="entry-header page-header">
+
+		<a href="http://etvsport.ee/2018/02/02/aasta-kollektsiooni-shameless-habitu-e/" title="Aasta kollektsiooni shameless (häbitu &#8211; e."></a>
+
+		<h2 class="entry-title"><a href="http://etvsport.ee/2018/02/02/aasta-kollektsiooni-shameless-habitu-e/" rel="bookmark">Aasta kollektsiooni shameless (häbitu &#8211; e.</a></h2>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://etvsport.ee/2018/02/02/aasta-kollektsiooni-shameless-habitu-e/" rel="bookmark"><time class="entry-date published" datetime="2018-02-02T18:05:42+00:00">2. veebr. 2018</time><time class="updated" datetime="2018-01-25T04:34:13+00:00">25. jaan. 2018</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://etvsport.ee/author/arvid/">Arvid</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>See on ohutu nõus, et Ameerika avalikkus -actually kõik avaliku -despise inimesed, kes teevad palju raha palka, või pigem salarymen, kes teevad palju raha. See on tõesti üldistada teistes riikides: paar aastat tagasi Šveitsi, et kõik inimesed peaaegu vastu seaduse piiramine palgad juhid. Aga samas Šveitsi hoidke rikas ettevõtjad ja inimesed, kes on saadud oma tuntuse muul viisil, mõnes mõttes. [Ii]</p>
+<p>Pole saladus, et ma olen natuke Microsoft Excel geek. See algas minu taustaga insener ja ma tuvi head-esimene kui mina töötasin minu MBA. Kuigi see on olnud abi minu päev tööd, ma ütleksin, suurim kasu on aidata mul mõista isikliku rahastada.</p>
+<p>Nüüd on meil intressid, ja refinantseerimise alla &#8211; olete lõpetanud taseme töövihik Fu. Hästi tehtud! Kas olete valmis järgmiseks väljakutseks? See üks on suur, aga kui sa oled teinud peate olema valmis, et anda oma riigivõla keretäis.</p>
+<p>Pane raku Dto näitavad me vaatame kuu üks.</p>
+<p>See on Euroopa kaardil, kus oli terve rida revolutsioone. Seda nimetati Summer pöörete või ehk terve aasta revolutsioonid. Aga põhiliselt siis, kui te vaatate seda pikema ajaloolise perioodi, kui hakkate näha, et kui on olemas lahknevus, kas seadme, midagi on vaja anda ja keegi on midagi anda kuni keegi teine.</p>
+<p>Siinkohal tekib küsimus: &quot;Kas see läheb meile seedehäired?&quot; Two kaks väikest näiteid seedehäired. Esimene on võlts uudised, mida ma ei räägi.</p>
+<p>Kas ettevõtte finantsnäitajad on auditeeritud? Ilmselt väärtust oma ettevõtte aktsiaid on ühendatud ettevõtte finantside <a href="http://tarbimislaen.eu/">tarbimislaen.eu</a>. Varajases staadiumis start-up ilma massiivse kulude või bilanssi ei pea taluma kontrollitud majandus. Aga kui ettevõtted muutunud suuremaks ja / või väärtuslik, kontrolli ja tasakaalu tagada, et vigu või ekslikke ei mõjutavad investorite väärtustada äri (mis lõppkokkuvõttes määrab, kui palju aktsiaid saate firmas). Sa oleks šokeeritud, et õppida, kuidas paljud ettevõtted tõstes raha miljardi dollari väärtuse teevad seda koos Financials, et ei ole kunagi kontrollinud / auditeeritud kolmanda osapoole. Jällegi, kui sa suure riski oma karjääri eest toetust laos kavandatava väärtus, mida väärivad teada, kuidas usaldusväärne see on.</p>
+<p>PS: Kuna algselt postitad see artikkel, ma olen saanud palju tagasisidet. Ettevõtjad ja Alginvestorite hindame päikesevalguse omakapitali comp paketid pärit hiline ettevõtted. Teiselt poolt, mõned hiline ettevõte investoreid ja peadirektoriga on mõistetavalt kaitsev oma parima, et suhelda võimalikku väärtust keeruline omakapitali toetused. Tõsi, kui firma kasvab, nii et ärge nüansid, mis mõjutavad võimalikku väärtust omakapital. Siiski on alati hulga aktsiate ja sisemine mudel, mis võib väljastada väärtuse üks ühine aktsiaosakaal paljude stsenaariume. Mõned on soovitanud võimalusi ettevõtteid nagu eShares, et juhtida ettevõtte kapitali tabelid, et täita lõhet. Teine huvitav idee, et vähendada keerukust töötajatele tulid Brian Neider kell Lead Edge Capital, kes soovitas ühe küsimusega töötajate küsida juhtimise: &quot;Kas te palun andke mulle teada, kui palju raha ma teha minu valikud, kui ettevõte oli müüa või IPO 0 eurotm, 0m, 0m, 0m jne? &quot;muidugi, vastused on paratamatult mõned loobumiste ja sõltuvused, kuid vastused paljastada võimalikku mõju poolest alates hiline financings.</p>
+<p>Kas olete kunagi mõelnud, miks on sadu raamatu soovitus nimekirjad seal uutega tulevad välja iga päev?</p>
+		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="http://etvsport.ee/tag/aasta/" rel="tag">aasta</a>, <a href="http://etvsport.ee/tag/kollektsiooni/" rel="tag">kollektsiooni</a>, <a href="http://etvsport.ee/tag/shameless/" rel="tag">shameless</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-255" class="post-255 post type-post status-publish format-standard hentry category-maaratlemata tag-anti tag-juhendada tag-mulle tag-peamiselt tag-poisse">
+	<header class="entry-header page-header">
+
+		<a href="http://etvsport.ee/2018/01/12/mulle-anti-juhendada-peamiselt-poisse/" title="Mulle anti juhendada peamiselt poisse."></a>
+
+		<h2 class="entry-title"><a href="http://etvsport.ee/2018/01/12/mulle-anti-juhendada-peamiselt-poisse/" rel="bookmark">Mulle anti juhendada peamiselt poisse.</a></h2>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://etvsport.ee/2018/01/12/mulle-anti-juhendada-peamiselt-poisse/" rel="bookmark"><time class="entry-date published" datetime="2018-01-12T19:11:52+00:00">12. jaan. 2018</time><time class="updated" datetime="2018-01-04T04:33:48+00:00">4. jaan. 2018</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://etvsport.ee/author/arvid/">Arvid</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>Keith liustikud, Kujundav sisu</p>
+<p>Minuga toetuseks see plaan, kui te arvate, kolledži haridus peaks olema õigus, mitte luksus.</p>
+<p>(Täielik avalikustamine: See on affiliate link. Kui logite selle lingi kaudu saan €, &#8211; tagasilöögi minu konto.</p>
+<p>Hea uudis on see, et inimesed näivad mõista neid ettekirjutusi. Aastal,% kodudest müüdavatest tehingu läbi kinnisvaramaakler (kuni alates% -lt 0) Kuigi klientide ees tehnoloogia on loonud rohkem informeeritud ostja, Vahendamine etendama olulist rolli vedeliku eluasemeturul. Kui sa lähed müüa oma kodu, teha ise, oma ostja, oma pankur, oma advokaadiga, pealkiri agent, oma inspektor ja teie hindaja teene &#8211; kutsuda professionaal.</p>
+<p>Near end minu abikaasa ja tegin mõned ambitsioonikad rahalist plaanid <a href="http://etf.ee/search?q=väikelaen">väikelaen</a>. Soovime viimasel ajal saanud jüngrid Hr Raha vuntsid, ja hakkas valitsema kulud ja suurendada meie säästud, et tööd poole alguses rahaline sõltumatus. Meil ei olnud võla peale hüpoteegi ja üks väga madala intressiga auto laenu, nii et me ründas meie kulutused on mõnu ja innukus äsja ümber.</p>
+<p>Sest Bitcoin saada usaldusväärne maksevahend (aka &quot;valuuta&quot;), see peab olema stabiilne ja vähese volatiilsusega. Sa ei saa olukorras, kus raha on vähem väärt (või isegi rohkem) päevas või tund. Volatiilsus ja ettearvamatust valuutades on kahjulik ettevõtetele eriti ja kui ettevõtted ei saa olla kindel, et Bitcoins nad said eelmisel päeval aitab neil täiendama oma laos, siis nad ei soovi seda vastu võtta ja riskida oma elujärge. Sama kehtib ka inimesi, kes on valmis teenida Bitcoin. Ma ei räägi kasutades Bitcoin kui makse võrgu ja ümberehitamiseks Fiat, nagu Abra või Bitpay. Ma räägin vastu ja hoides Bitcoins sest nad on usaldusväärne ja ei lange väärtus.</p>
+		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="http://etvsport.ee/tag/anti/" rel="tag">anti</a>, <a href="http://etvsport.ee/tag/juhendada/" rel="tag">juhendada</a>, <a href="http://etvsport.ee/tag/mulle/" rel="tag">mulle</a>, <a href="http://etvsport.ee/tag/peamiselt/" rel="tag">peamiselt</a>, <a href="http://etvsport.ee/tag/poisse/" rel="tag">poisse</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-253" class="post-253 post type-post status-publish format-standard hentry category-maaratlemata tag-hallis tag-saadaval tag-telefon">
+	<header class="entry-header page-header">
+
+		<a href="http://etvsport.ee/2017/12/25/telefon-on-saadaval-hallis-varvitoonis/" title="Telefon on saadaval hallis värvitoonis."></a>
+
+		<h2 class="entry-title"><a href="http://etvsport.ee/2017/12/25/telefon-on-saadaval-hallis-varvitoonis/" rel="bookmark">Telefon on saadaval hallis värvitoonis.</a></h2>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://etvsport.ee/2017/12/25/telefon-on-saadaval-hallis-varvitoonis/" rel="bookmark"><time class="entry-date published" datetime="2017-12-25T11:47:15+00:00">25. dets. 2017</time><time class="updated" datetime="2017-12-21T04:34:11+00:00">21. dets. 2017</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://etvsport.ee/author/arvid/">Arvid</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>Kuna kõik era laenukasv erasektorile OECD riikides on tingitud kahekordistamist suhe hüpoteeklaenude kokku laenu (joonis ning pidev tõus kodumajapidamiste võla suhe tuludesse (Jorda jt.). OECD riikides on rohkem kui kaheksa korda rohkem kui erasektori krediidi erainvesteeringuid (joonis. Teisisõnu, era- võimendus on tõusnud oluliselt üle, mida on vaja tootmise eesmärgil, ja majapidamised on järjest laenatud vastu oma vara rahastamiseks suureneb eluaseme kulud või kulutused . Seega osa viimastel kulutused on tulnud pikaajalise netovara.</p>
+<p>Ma arvan, et on eriti huvitav selle ei olnud nii palju, et seal on see arvutuslikke ruumi ¹⁷⁰ võimalikke käike, see on liiga raske jõuvõtete ja seega pead leidma uusi lähenemisviise.</p>
+<p>Nii et me võiks isegi leida endale saada meie esimene ühemehe ükssarvik või isegi null mees ükssarvik, koos DAO ja mõned AI slammed over the top. Midagi, mis loob miljardi dollari väärtuses väärtus ilma inimeste vahel.</p>
+<p>See on fenomenaalne väärtuse muutus, mis on ühest sektorist teise. Võite arvutada, see on nagu kaks triljonit dollarit uusi väärtus ainult aastat lihtsalt ühed top seitse ettevõtted.</p>
+<p><a href="http://tarbimislaen.eu/tou/tarbimislaenud">Tarbimislaenud</a> &quot;Kaks ATM masinad on tihedalt paigutatud. Kasutaja lisaks saate lihtsalt silma tehingu üksikasjad. Seega pangaautomaadi peab olema ekraan turvamees. &quot;</p>
+<p>Ema: Ma tean, et sa oled tööl, aga ma lihtsalt pidin mõned kiired küsimused. Kas teil on sec?</p>
+<p>Tulles tagasi NVDA, kuna see on nüüd kauplemine üle 0 eurot tahaksin, et hinda näha liikuda 0 eurot järgmise peamine resistentsuse tase. Mahu NVDA endiselt otsib tervislik üle miljoni.</p>
+<p>Väljakutse ebavõrdsus on see tõesti raske kindlaks määrata. Seal on igal mitmeid põhjuseid, miks millega ebavõrdsuse küsimustega. Aga ma lähen keskenduda kaks mitte vastuolulised.</p>
+<p>Me oleme läinud uimastamise läbimurdeid tehisintellekti samuti. Kas sa mäletad selle aasta alguses, kui Google DeepMind on AlphaGo alistas maailma Go meister? Jooksin ümber mu maja karjuma: &quot;See on nagu Apollo ja inimesed ei ütle piisavalt infot.&quot;</p>
+		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="http://etvsport.ee/tag/hallis/" rel="tag">hallis</a>, <a href="http://etvsport.ee/tag/saadaval/" rel="tag">saadaval</a>, <a href="http://etvsport.ee/tag/telefon/" rel="tag">telefon</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-251" class="post-251 post type-post status-publish format-standard hentry category-maaratlemata tag-aastal tag-laev tag-liinil tag-seega">
+	<header class="entry-header page-header">
+
+		<a href="http://etvsport.ee/2017/12/20/seega-jargmisel-aastal-on-liinil-uks-laev-vahem/" title="Seega järgmisel aastal on liinil üks laev vähem."></a>
+
+		<h2 class="entry-title"><a href="http://etvsport.ee/2017/12/20/seega-jargmisel-aastal-on-liinil-uks-laev-vahem/" rel="bookmark">Seega järgmisel aastal on liinil üks laev vähem.</a></h2>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://etvsport.ee/2017/12/20/seega-jargmisel-aastal-on-liinil-uks-laev-vahem/" rel="bookmark"><time class="entry-date published" datetime="2017-12-20T19:34:16+00:00">20. dets. 2017</time><time class="updated" datetime="2017-12-14T04:34:36+00:00">14. dets. 2017</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://etvsport.ee/author/arvid/">Arvid</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>Aga sa ei ole valmis grad kooli. Olete guugeldatud &quot;Kui palju ma peaksin kulutama alkoholi iga kuu?&quot;, Ja sain vastuse sa ei meeldi, &quot;Viiskümmend dollarit? Kuidas sa purjus viiskümmend taala? &quot;</p>
+<p>Kira Lerner ja Alice Ollstein</p>
+<p>Jose Cubias, kes kaebas ettevõte, töötas Carl Jr oksad ümber Los Angeles ligi aasta, sealhulgas viis aastat üldjuht. Ta ütleb, et tema ja kõigi teiste üldjuht riigi keelati tagasi maksma sadu ületundide nad töötasid vahel 0and 0 Ettevõte sundis neid ütlevad, et nad olid puhkusel päevadel nad tegelikult töötavad, et rahuldada ettevõtte tööjõu eelarve ja teha need tööd kuni Tund vahetuses ilma õiguslikult kohustatud sööki ja puhkepausid.</p>
+<p>Langus ametiühingute tundub ka, et on langenud kokku järsem tõus juhtivtöötajate tasustamise tipus. Taaskehtestamiseks töötajate hääl läbi valitud esindajate, töötasu komiteede võib aidata ka &quot;maa&quot; vestlus tegelikkuses. Ja muidugi aktsionärid võiksid teha rohkem nõudma vaoshoitust. Paljud on olnud liiga passiivne liiga kaua.</p>
+<p>Free. Minu poiss hankis ülikerglennuki, kompaktne matka telk pere sõber. Me olime väga rahul selle omandamine, kuni meie esimesel hommikul rajal, kui me ärkas pärast öösel tuul ja vihm leida telki aeglaselt kukkunud ja põhja pool meie magamiskotid ligunenud. Telk. Oli. Mitte. Veekindel. (Samuti oli ilmselt see struktuurilt veatud.) Kolmekümne või nii minuti veetsime meeletult üritab pakkida märja telgi, et vihm, kell seitse hommikul pärast murtud une oli kindel madalseisu reis.</p>
+<p>Kõige vähem lõbus, kõige vajalikum ja kõige kallim osa reisi. Siin on, mida me kulutatud õigete paberitükke.</p>
+<p>Suurtes linnades on alati parim inkubaatorid majanduskasvu, sest rohkem inimesi on ühes kohas, seda kergem on oma teadmisi levitada üksteisele. Aga me ei saa vähendada loomulikku puuduseks väiksemates linnades ja asulates, parandades infrastruktuuri, mis ühendab neid omavahel.</p>
+<p><a href="http://etf.ee/">Etf.ee</a> nii et sa oled vallaline hetkel. Sa arvad, et oled hea inimene, hea kvaliteediga, kuid siin sa oled, ilma et keegi hoida tihe öösel.</p>
+<p>Avalikustamine: Meil ​​saada komisjonitasu lingid blogis. Sa ei pea kasutama meie linke, kuid me oleme väga tänulikud, kui sa seda teed. Arvamusi siin on autori üksi.</p>
+<p>Minor lained on märge (i), (ii), (iii), (iv) ja (v)</p>
+		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="http://etvsport.ee/tag/aastal/" rel="tag">aastal</a>, <a href="http://etvsport.ee/tag/laev/" rel="tag">laev</a>, <a href="http://etvsport.ee/tag/liinil/" rel="tag">liinil</a>, <a href="http://etvsport.ee/tag/seega/" rel="tag">seega</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-249" class="post-249 post type-post status-publish format-standard hentry category-maaratlemata tag-asjaga tag-olnud tag-pekk tag-rahulolematu tag-sellise">
+	<header class="entry-header page-header">
+
+		<a href="http://etvsport.ee/2017/11/17/sellise-asjaga-ei-olnud-pekk-uksi-rahulolematu/" title="Sellise asjaga ei olnud pekk üksi rahulolematu."></a>
+
+		<h2 class="entry-title"><a href="http://etvsport.ee/2017/11/17/sellise-asjaga-ei-olnud-pekk-uksi-rahulolematu/" rel="bookmark">Sellise asjaga ei olnud pekk üksi rahulolematu.</a></h2>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://etvsport.ee/2017/11/17/sellise-asjaga-ei-olnud-pekk-uksi-rahulolematu/" rel="bookmark"><time class="entry-date published" datetime="2017-11-17T17:00:22+00:00">17. nov. 2017</time><time class="updated" datetime="2017-11-09T04:35:06+00:00">9. nov. 2017</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://etvsport.ee/author/arvid/">Arvid</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>Nii et me ootame uut disaini kultuur.</p>
+<p>Leonhardt on kokku töö üks oluline hiljutised uuringud, et teha majandusteadlased seostatakse võrdsete võimaluste Project. Kokkuvõttes poolest need majandusteadlased leidsid, et laps sünnib keskmine Ameerika majapidamises oli protsenti võimalus teha rohkem kui nende vanemad. See langeb protsenti lapse sünd, protsenti lapse sünd, protsendi sündinud lapse ja alles protsenti lapse sünd.</p>
+<p>Mis käivitamisel võiks teha, on hoolikalt valida platvormi ehitada oma bot ja pakkuda teenust, mis on vajalik. Ma arvan, et see võib olla hilja alustada hoone uue sõnumside platvormi, arvestades, et suured mängijad on ületanud miljardi kasutajad nüüd. Need on platvormid mis mahutab eest. Samuti võib olla liiga hilja, et ehitada iseseisvat rakendust, sest järgmise iteratsiooni OS või suurem konkurent emuleerides oma funktsionaalsuse muudaks oma rakenduse kasutu. Liiga hilja olla liigselt dramaatiline, kuid eraldiseisva app oleks aja raiskamine sel hetkel.</p>
+<p>Sa näinud Suundlaeng &#8211; vähemalt filme või mänge &#8211; kujul anti-tank lõhkepeade &#8211; kuid sa ei pruugi mõista füüsika taga, miks need relvad on nii tugev <a href="http://elaen.ee/bigbank.html">bigbank</a>. Allpool on mõned huvitavad faktid seda tõlkida turunduse ja toetab konkreetne näide.</p>
+<p>Et pane see lihtsamal mõttes, kaos on siis, kui Wall Street inimesed vajavad seisus punkrid raske lukud või nad ei kavatse saada ripitud peale ja süüakse nagu gasell loote hüään söömise hullus.</p>
+<p>Aga tervishoius ei ole pärit loodusest. Ta on pärit arstid, õed, haiglad, narkootikumid ja meditsiiniseadmeid.</p>
+<p>Kuna ei tarbijad ega tootjate normaalselt, tervishoid vajab kolmas isik ratsioonis ressursse. See on kaup, nii et ressursid on piiratud, kuid erinevalt peaaegu iga teine ​​kaup, normaalse nõudluse ja pakkumise koostoime teha halva töö laialisaatmist.</p>
+<p>Avalikustamine: Meil ​​saada komisjonitasu lingid blogis. Sa ei pea kasutama meie linke, kuid me oleme väga tänulikud, kui sa seda teed. Arvamusi siin on autori üksi.</p>
+		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="http://etvsport.ee/tag/asjaga/" rel="tag">asjaga</a>, <a href="http://etvsport.ee/tag/olnud/" rel="tag">olnud</a>, <a href="http://etvsport.ee/tag/pekk/" rel="tag">pekk</a>, <a href="http://etvsport.ee/tag/rahulolematu/" rel="tag">rahulolematu</a>, <a href="http://etvsport.ee/tag/sellise/" rel="tag">sellise</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Posts navigation</h1>
+		<div class="nav-links">
+
+						<div class="nav-previous"> <a href="http://etvsport.ee/page/2/" ><i class="fa fa-chevron-left"></i> Older posts</a></div>
+			
+			
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	<div id="secondary" class="widget-area col-sm-12 col-md-4" role="complementary">
+				<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form form-inline" action="http://etvsport.ee/">
+  <label class="sr-only">Search for:</label>
+  <div class="input-group">
+    <input type="search" value="" name="s" class="search-field form-control" placeholder="Search...">
+    <span class="input-group-btn">
+      <button type="submit" class="search-submit btn btn-primary"><span class="glyphicon glyphicon-search"></span></button>
+    </span>
+  </div>
+</form>
+</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Värsked postitused</h3>		<ul>
+					<li>
+				<a href="http://etvsport.ee/2018/05/25/samamoodi-talitab-lhv-pank/">Samamoodi talitab lhv pank.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2018/05/15/kannatlike-rootslasi-see-aga-ei-murra/">Kannatlike rootslasi see aga ei murra.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2018/04/12/ee-ning-metsaoksjon/">Ee ning metsaoksjon.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2018/03/13/mingit-pistmist-enam-pole/">) mingit pistmist enam pole.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2018/02/10/selle-asemel-tuleb-moelda-kuidas-ise-parem-olla/">Selle asemel tuleb mõelda kuidas ise parem olla.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2018/02/02/aasta-kollektsiooni-shameless-habitu-e/">Aasta kollektsiooni shameless (häbitu &#8211; e.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2018/01/12/mulle-anti-juhendada-peamiselt-poisse/">Mulle anti juhendada peamiselt poisse.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2017/12/25/telefon-on-saadaval-hallis-varvitoonis/">Telefon on saadaval hallis värvitoonis.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2017/12/20/seega-jargmisel-aastal-on-liinil-uks-laev-vahem/">Seega järgmisel aastal on liinil üks laev vähem.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2017/11/17/sellise-asjaga-ei-olnud-pekk-uksi-rahulolematu/">Sellise asjaga ei olnud pekk üksi rahulolematu.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2017/11/16/meil-laheb-vaga-hasti/">Meil läheb väga hästi.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2017/11/10/riigil-neid-objektikesi-ikka-on/">Riigil neid objektikesi ikka on.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2017/11/08/alustame-ringkaiku/">Alustame ringkäiku.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2017/11/05/kuid-ka-need-seisavad-juba-aastaid-joude/">Kuid ka need seisavad juba aastaid jõude.</a>
+						</li>
+					<li>
+				<a href="http://etvsport.ee/2017/11/01/iga-suur-ari-on-venemaal-politiseeritud/">Iga suur äri on venemaal politiseeritud.</a>
+						</li>
+				</ul>
+		</aside>		<aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Arhiiv</h3>		<ul>
+			<li><a href='http://etvsport.ee/2018/05/'>mai 2018</a></li>
+	<li><a href='http://etvsport.ee/2018/04/'>aprill 2018</a></li>
+	<li><a href='http://etvsport.ee/2018/03/'>märts 2018</a></li>
+	<li><a href='http://etvsport.ee/2018/02/'>veebruar 2018</a></li>
+	<li><a href='http://etvsport.ee/2018/01/'>jaanuar 2018</a></li>
+	<li><a href='http://etvsport.ee/2017/12/'>detsember 2017</a></li>
+	<li><a href='http://etvsport.ee/2017/11/'>november 2017</a></li>
+	<li><a href='http://etvsport.ee/2017/10/'>oktoober 2017</a></li>
+	<li><a href='http://etvsport.ee/2017/09/'>september 2017</a></li>
+	<li><a href='http://etvsport.ee/2017/08/'>august 2017</a></li>
+	<li><a href='http://etvsport.ee/2017/07/'>juuli 2017</a></li>
+	<li><a href='http://etvsport.ee/2017/06/'>juuni 2017</a></li>
+	<li><a href='http://etvsport.ee/2017/05/'>mai 2017</a></li>
+	<li><a href='http://etvsport.ee/2017/04/'>aprill 2017</a></li>
+	<li><a href='http://etvsport.ee/2017/03/'>märts 2017</a></li>
+	<li><a href='http://etvsport.ee/2017/02/'>veebruar 2017</a></li>
+	<li><a href='http://etvsport.ee/2017/01/'>jaanuar 2017</a></li>
+	<li><a href='http://etvsport.ee/2016/12/'>detsember 2016</a></li>
+		</ul>
+		</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title">Teemapilveke</h3><div class="tagcloud"><a href="http://etvsport.ee/tag/13/" class="tag-cloud-link tag-link-13 tag-link-position-1" style="font-size: 8pt;" aria-label=" (1 item)"></a>
+<a href="http://etvsport.ee/tag/aasta/" class="tag-cloud-link tag-link-126 tag-link-position-2" style="font-size: 22pt;" aria-label="aasta (6 items)">aasta</a>
+<a href="http://etvsport.ee/tag/aastaga/" class="tag-cloud-link tag-link-85 tag-link-position-3" style="font-size: 12.5818181818pt;" aria-label="aastaga (2 items)">aastaga</a>
+<a href="http://etvsport.ee/tag/aastal/" class="tag-cloud-link tag-link-154 tag-link-position-4" style="font-size: 12.5818181818pt;" aria-label="aastal (2 items)">aastal</a>
+<a href="http://etvsport.ee/tag/aastat/" class="tag-cloud-link tag-link-66 tag-link-position-5" style="font-size: 12.5818181818pt;" aria-label="aastat (2 items)">aastat</a>
+<a href="http://etvsport.ee/tag/ainult/" class="tag-cloud-link tag-link-19 tag-link-position-6" style="font-size: 8pt;" aria-label="ainult (1 item)">ainult</a>
+<a href="http://etvsport.ee/tag/almunia/" class="tag-cloud-link tag-link-15 tag-link-position-7" style="font-size: 8pt;" aria-label="almunia (1 item)">almunia</a>
+<a href="http://etvsport.ee/tag/amann/" class="tag-cloud-link tag-link-16 tag-link-position-8" style="font-size: 8pt;" aria-label="amann (1 item)">amann</a>
+<a href="http://etvsport.ee/tag/bernstein/" class="tag-cloud-link tag-link-22 tag-link-position-9" style="font-size: 8pt;" aria-label="bernstein (1 item)">bernstein</a>
+<a href="http://etvsport.ee/tag/borg/" class="tag-cloud-link tag-link-10 tag-link-position-10" style="font-size: 8pt;" aria-label="borg (1 item)">borg</a>
+<a href="http://etvsport.ee/tag/edasi/" class="tag-cloud-link tag-link-3 tag-link-position-11" style="font-size: 12.5818181818pt;" aria-label="edasi (2 items)">edasi</a>
+<a href="http://etvsport.ee/tag/ferdinando/" class="tag-cloud-link tag-link-5 tag-link-position-12" style="font-size: 8pt;" aria-label="ferdinando (1 item)">ferdinando</a>
+<a href="http://etvsport.ee/tag/feroci/" class="tag-cloud-link tag-link-7 tag-link-position-13" style="font-size: 8pt;" aria-label="feroci (1 item)">feroci</a>
+<a href="http://etvsport.ee/tag/hispaania/" class="tag-cloud-link tag-link-17 tag-link-position-14" style="font-size: 8pt;" aria-label="hispaania (1 item)">hispaania</a>
+<a href="http://etvsport.ee/tag/ikka/" class="tag-cloud-link tag-link-148 tag-link-position-15" style="font-size: 12.5818181818pt;" aria-label="ikka (2 items)">ikka</a>
+<a href="http://etvsport.ee/tag/inimesed/" class="tag-cloud-link tag-link-21 tag-link-position-16" style="font-size: 8pt;" aria-label="inimesed (1 item)">inimesed</a>
+<a href="http://etvsport.ee/tag/itaalia/" class="tag-cloud-link tag-link-8 tag-link-position-17" style="font-size: 8pt;" aria-label="itaalia (1 item)">itaalia</a>
+<a href="http://etvsport.ee/tag/juba/" class="tag-cloud-link tag-link-205 tag-link-position-18" style="font-size: 12.5818181818pt;" aria-label="juba (2 items)">juba</a>
+<a href="http://etvsport.ee/tag/juht/" class="tag-cloud-link tag-link-26 tag-link-position-19" style="font-size: 15.6363636364pt;" aria-label="juht (3 items)">juht</a>
+<a href="http://etvsport.ee/tag/kaks/" class="tag-cloud-link tag-link-65 tag-link-position-20" style="font-size: 12.5818181818pt;" aria-label="kaks (2 items)">kaks</a>
+<a href="http://etvsport.ee/tag/kuid/" class="tag-cloud-link tag-link-140 tag-link-position-21" style="font-size: 12.5818181818pt;" aria-label="kuid (2 items)">kuid</a>
+<a href="http://etvsport.ee/tag/lisas/" class="tag-cloud-link tag-link-174 tag-link-position-22" style="font-size: 12.5818181818pt;" aria-label="lisas (2 items)">lisas</a>
+<a href="http://etvsport.ee/tag/loodame/" class="tag-cloud-link tag-link-12 tag-link-position-23" style="font-size: 8pt;" aria-label="loodame (1 item)">loodame</a>
+<a href="http://etvsport.ee/tag/malta/" class="tag-cloud-link tag-link-11 tag-link-position-24" style="font-size: 8pt;" aria-label="malta (1 item)">malta</a>
+<a href="http://etvsport.ee/tag/meil/" class="tag-cloud-link tag-link-105 tag-link-position-25" style="font-size: 18.1818181818pt;" aria-label="meil (4 items)">meil</a>
+<a href="http://etvsport.ee/tag/mitte/" class="tag-cloud-link tag-link-18 tag-link-position-26" style="font-size: 12.5818181818pt;" aria-label="mitte (2 items)">mitte</a>
+<a href="http://etvsport.ee/tag/neil/" class="tag-cloud-link tag-link-23 tag-link-position-27" style="font-size: 8pt;" aria-label="neil (1 item)">neil</a>
+<a href="http://etvsport.ee/tag/nelli/" class="tag-cloud-link tag-link-6 tag-link-position-28" style="font-size: 8pt;" aria-label="nelli (1 item)">nelli</a>
+<a href="http://etvsport.ee/tag/olnud/" class="tag-cloud-link tag-link-102 tag-link-position-29" style="font-size: 18.1818181818pt;" aria-label="olnud (4 items)">olnud</a>
+<a href="http://etvsport.ee/tag/oluline/" class="tag-cloud-link tag-link-43 tag-link-position-30" style="font-size: 12.5818181818pt;" aria-label="oluline (2 items)">oluline</a>
+<a href="http://etvsport.ee/tag/ongi/" class="tag-cloud-link tag-link-158 tag-link-position-31" style="font-size: 12.5818181818pt;" aria-label="ongi (2 items)">ongi</a>
+<a href="http://etvsport.ee/tag/palju/" class="tag-cloud-link tag-link-99 tag-link-position-32" style="font-size: 12.5818181818pt;" aria-label="palju (2 items)">palju</a>
+<a href="http://etvsport.ee/tag/paremaks/" class="tag-cloud-link tag-link-14 tag-link-position-33" style="font-size: 8pt;" aria-label="paremaks (1 item)">paremaks</a>
+<a href="http://etvsport.ee/tag/pole/" class="tag-cloud-link tag-link-42 tag-link-position-34" style="font-size: 18.1818181818pt;" aria-label="pole (4 items)">pole</a>
+<a href="http://etvsport.ee/tag/portaalist/" class="tag-cloud-link tag-link-4 tag-link-position-35" style="font-size: 8pt;" aria-label="portaalist (1 item)">portaalist</a>
+<a href="http://etvsport.ee/tag/riigil/" class="tag-cloud-link tag-link-133 tag-link-position-36" style="font-size: 12.5818181818pt;" aria-label="riigil (2 items)">riigil</a>
+<a href="http://etvsport.ee/tag/selle/" class="tag-cloud-link tag-link-226 tag-link-position-37" style="font-size: 12.5818181818pt;" aria-label="selle (2 items)">selle</a>
+<a href="http://etvsport.ee/tag/sellel/" class="tag-cloud-link tag-link-146 tag-link-position-38" style="font-size: 12.5818181818pt;" aria-label="sellel (2 items)">sellel</a>
+<a href="http://etvsport.ee/tag/siin/" class="tag-cloud-link tag-link-35 tag-link-position-39" style="font-size: 12.5818181818pt;" aria-label="siin (2 items)">siin</a>
+<a href="http://etvsport.ee/tag/siis/" class="tag-cloud-link tag-link-172 tag-link-position-40" style="font-size: 12.5818181818pt;" aria-label="siis (2 items)">siis</a>
+<a href="http://etvsport.ee/tag/teeb/" class="tag-cloud-link tag-link-45 tag-link-position-41" style="font-size: 12.5818181818pt;" aria-label="teeb (2 items)">teeb</a>
+<a href="http://etvsport.ee/tag/tonio/" class="tag-cloud-link tag-link-9 tag-link-position-42" style="font-size: 8pt;" aria-label="tonio (1 item)">tonio</a>
+<a href="http://etvsport.ee/tag/tuleb/" class="tag-cloud-link tag-link-220 tag-link-position-43" style="font-size: 12.5818181818pt;" aria-label="tuleb (2 items)">tuleb</a>
+<a href="http://etvsport.ee/tag/vaesed/" class="tag-cloud-link tag-link-20 tag-link-position-44" style="font-size: 8pt;" aria-label="vaesed (1 item)">vaesed</a>
+<a href="http://etvsport.ee/tag/veel/" class="tag-cloud-link tag-link-36 tag-link-position-45" style="font-size: 15.6363636364pt;" aria-label="veel (3 items)">veel</a></div>
+</aside>	</div><!-- #secondary -->
+            </div><!-- row -->
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info container">
+			<div class="row">
+				<nav role="navigation" class="col-md-6">
+									</nav>
+
+				<div class="copyright col-md-6">
+					Copyright <a href="http://etvsport.ee">ETVsport.ee</a>
+				</div>
+			</div>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://etvsport.ee/wp-includes/js/wp-embed.min.js?ver=4.8.7'></script>
+
+</body>
+</html>

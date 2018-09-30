@@ -1,0 +1,578 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title> Lowellsun.com Blogs</title>
+<link rel="stylesheet" href="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/css/screen.css" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/css/print.css" type="text/css" media="print" />
+<!--[if IE]><link rel="stylesheet" href="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+<link rel="stylesheet" href="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/style.css" type="text/css" media="screen" />
+<!--[if IE 6]>
+	<script src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/js/pngfix.js"></script>
+<![endif]--> 
+<link rel="alternate" type="application/rss+xml" title="Lowellsun.com Blogs RSS Feed" href="http://blogs.lowellsun.com/?feed=rss2" />
+<link rel="alternate" type="application/atom+xml" title="Lowellsun.com Blogs Atom Feed" href="http://blogs.lowellsun.com/?feed=atom" />
+<link rel="pingback" href="http://blogs.lowellsun.com/xmlrpc.php" />
+<script src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/menu/mootools-1.2.1-core-yc.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/menu/MenuMatic.css" type="text/css" media="screen" charset="utf-8" />
+<!--[if lt IE 7]>
+	<link rel="stylesheet" href="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/menu/MenuMatic-ie6.css" type="text/css" media="screen" charset="utf-8" />
+<![endif]-->
+<!-- Load the MenuMatic Class -->
+<script src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/menu/MenuMatic_0.68.3.js" type="text/javascript" charset="utf-8"></script>
+
+
+<link rel='dns-prefetch' href='//local.digitalfirstmedia.com' />
+<link rel='dns-prefetch' href='//translate.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/blogs.lowellsun.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="http://blogs.lowellsun.com/wp-content/plugins/slidedeck-lite-for-wordpress/skins/default/skin.css?v=1.1" media="screen" /><link rel='stylesheet' id='google-language-translator-css'  href='http://blogs.lowellsun.com/wp-content/plugins/google-language-translator/css/style.css?ver=5.0.48' type='text/css' media='' />
+<link rel='stylesheet' id='glt-toolbar-styles-css'  href='http://blogs.lowellsun.com/wp-content/plugins/google-language-translator/css/toolbar.css?ver=5.0.48' type='text/css' media='' />
+<link rel='stylesheet' id='st-widget-css'  href='http://blogs.lowellsun.com/wp-content/plugins/share-this/css/style.css?ver=4.9.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://blogs.lowellsun.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://blogs.lowellsun.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://local.digitalfirstmedia.com/common/dfm/assets/js/dfm-core-level1.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://blogs.lowellsun.com/wp-content/plugins/slidedeck-lite-for-wordpress/lib/slidedeck.jquery.lite.pack.js?ver=1.4.8'></script>
+<link rel='https://api.w.org/' href='http://blogs.lowellsun.com/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.lowellsun.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.lowellsun.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+
+<!-- ADD TO HEADER - START -->
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<div id='div_leaderboard' style="text-align:center">
+<script type='text/javascript'>
+googletag.defineSlot('/8013/lowellsun.com', [728,90], 'div_leaderboard').setTargeting('POS', 'top_leaderboard').setTargeting('blog', 'Sunblog').addService
+
+(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+googletag.display('div_leaderboard');
+</script>
+</div>
+
+<!-- ADD TO HEADER - END -->
+
+    <script type="text/javascript" src="http://local.denverpost.com/common/dfm/dfm-core.js"></script>
+    <!-- DFM API -->
+    <script type="text/javascript">
+        dfm.api("data","siteId",            "");
+        dfm.api("data","company",           "");
+        dfm.api("data","siteName",          "Lowellsun.com Blogs");
+        dfm.api("data","siteDomain",        "lowellsun.com");
+        dfm.api("data","currentDomain",     "blogs.lowellsun.com");
+        dfm.api("data","contentId",         "");
+        dfm.api("data","sectionName",       "Home");
+        dfm.api("data","pageID",            "");
+        dfm.api("data","pageUrl",           "/");
+        dfm.api("data","pageTitle",         "");
+        dfm.api("data","sectionId",         "");
+        dfm.api("data","keywords",          "");
+        dfm.api("data","adTaxonomy",        "");
+        dfm.api("data","Taxonomy1",         "Blogs");
+        dfm.api("data","Taxonomy2",         "");
+        dfm.api("data","Taxonomy3",         "");
+        dfm.api("data","Taxonomy4",         "");
+        dfm.api("data","kv",                "home");
+        dfm.api("data","googleUA",          "UA-61435456-13");
+        dfm.api("data","contentGeography",  "");
+        dfm.api("data","contentRegion",     "");
+        dfm.api("data","contentPostalCode", "");
+        dfm.api("data","contentPrice",      "");
+        dfm.api("data","contentChannel",    "");
+        dfm.api("data","contentType",       "");
+        dfm.api("data","contentCity",       "");
+        //Extra
+        dfm.api("data","errorType",      	"");
+        dfm.api("data","pageType",         	"");
+        dfm.api("data", "quantcast",		"p-4ctCQwtnNBNs2");
+        dfm.api("data", "comscore",			"6035443");
+    </script>
+    
+
+		<!-- GTM Data Layer -->
+		<script type="text/javascript">
+		  var dfm_gtm_dataLayer = true;
+
+		var dfm_gtm_publisherproduct = dfm.api("data","currentDomain");
+		var dataLayer_gaua = dfm.api("data", "googleUA");
+		var dataLayer_digitalpublisher = dfm.api("data", "company");
+		var dataLayer_taxonomy1 = dfm.api("data","Taxonomy1");
+		var dataLayer_taxonomy2 = dfm.api("data","Taxonomy2");
+		var dataLayer_quantcast = dfm.api("data", "quantcast");
+		var dataLayer_comscore = dfm.api("data", "comscore");
+
+		  analyticsEvent = function() {};
+		  analyticsSocial = function() {};
+		  analyticsVPV = function() {};
+		  analyticsClearVPV = function() {};
+		  analyticsForm = function() {};
+		  window.dataLayer = window.dataLayer || [];
+		  (function() {
+		    window.gaJsonData = window.gaJsonData || [];
+		    var gaTempJson = {
+		      "comscore": "",
+		      "pubplatform": "WP",
+		      "releaseversion": "",
+		      "digitalpublisher": "",
+		      "publisherstate": ""
+		    };
+		    gaJsonData.push(gaTempJson);
+		    var data = gaJsonData[0];
+		    var json = {
+		      "gaua": function() {
+		        return data.gaua;
+		      },
+		      "quantcast": function () {
+		        return data.quantcast;
+		      },
+		      "comscore": function() {
+		        return data.comscore;
+		      },
+		      "pubplatform": function() {
+		        return data.pubplatform;
+		      },
+		      "releaseversion": function() {
+		        return data.releaseversion;
+		      },
+		      "digitalpublisher": function() {
+		        return data.digitalpublisher;
+		      },
+		      "publisherstate": function() {
+		        return data.publisherstate;
+		      }
+		    };
+		    /*
+		      Error type
+		    */
+		     var dataLayer_error = dfm.api("data","errorType");
+		    /*
+		      ga_ua
+		    */
+		    //var dataLayer_gaua = json["gaua"]();
+		    /*
+		      quantcast
+		    */
+		    //var dataLayer_quantcast = json["quantcast"]();
+		    /*
+		      comscore
+		    */
+		    //var dataLayer_comscore = json["comscore"]();
+		    /*
+		      Release Version
+		    */
+		    var dataLayer_releaseversion = json["releaseversion"]();
+		    /*
+		      Digital Publisher
+		    */
+		    //var dataLayer_digitalpublisher = json["digitalpublisher"]();
+		    /*
+		      Platform
+		    */
+		    var dataLayer_pubplatform = json["pubplatform"]();
+		    /*
+		      Publisher State
+		    */
+		    var dataLayer_publisherstate = json["publisherstate"]();
+		    // Push the values into the dataLayer
+		    dataLayer.push({
+		      "errorType":dataLayer_error,
+		      "ga_ua":dataLayer_gaua,
+		      "quantcast":dataLayer_quantcast,
+		      "comscore":dataLayer_comscore,
+		      "Release Version":dataLayer_releaseversion,
+		      "Digital Publisher":dataLayer_digitalpublisher,
+		      "Platform":dataLayer_pubplatform,
+		      "Publisher State":dataLayer_publisherstate
+		    });
+		  }()); 
+		</script>
+
+		<!-- GA global -->
+		<script type="text/javascript" src="http://local.medianewsgroup.com/common/dfm/ga-datalayer.js"></script>
+        <!-- Google Tag Manager dfm -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TLFP4R" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-TLFP4R');</script>
+        <!-- End Google Tag Manager --><script type="text/javascript" src="http://blogs.lowellsun.com/wp-content/plugins/embed-facebook/slidewindow/slidewindow_min.js"></script>
+<script type="text/javascript">currPath = "http://blogs.lowellsun.com/wp-content/plugins/embed-facebook/slidewindow/"; strImgOf="";</script>
+<style type="text/css">#google_language_translator { width:auto !important; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#flags { display:none; }#google_language_translator {color: transparent;}body { top:0px !important; }</style><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.1f9ef6f0-fff1-4c7e-ba62-059d0fd16a50'});var st_type='wordpress3.3.2';</script><style type="text/css">
+ul.scfw_16px li, ul.scfw_24px li, ul.scfw_32px li, ul.scfw_16px li a, ul.scfw_24px li a, ul.scfw_32px li a {
+	display:inline !important;
+	float:none !important;
+	border:0 !important;
+	background:transparent none !important;
+	margin:0 !important;
+	padding:0 !important;
+}
+ul.scfw_16px li {
+	margin:0 2px 0 0 !important;
+}
+ul.scfw_24px li {
+	margin:0 3px 0 0 !important;
+}
+ul.scfw_32px li {
+	margin:0 5px 0 0 !important;
+}
+ul.scfw_text_img li:before, ul.scfw_16px li:before, ul.scfw_24px li:before, ul.scfw_32px li:before {
+	content:none !important;
+}
+.scfw img {
+	float:none !important;
+}
+</style>	
+	
+<!-- Protected by WP-SpamFree :: JS BEGIN -->
+<script type="text/javascript" src="http://blogs.lowellsun.com/wp-content/plugins/wp-spamfree/js/wpsfv2-js.php"></script> 
+<!-- Protected by WP-SpamFree :: JS END -->
+
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Lowellsun.com Blogs" />
+<meta property="og:description" content="Lowellsun.com Blogs" />
+<meta property="og:url" content="http://blogs.lowellsun.com/" />
+<meta property="og:site_name" content="Lowellsun.com Blogs" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+
+<!-- End Jetpack Open Graph Tags -->
+</head>
+<body>
+	
+<div id="omniture">
+ <script src="http://extras.mnginteractive.com/live/omniture/custom_scripts/omnicore-blogs.js" type="text/javascript"></script>
+ <noscript>
+  <img src="http://mngi.112.2O7.net/b/ss/nasora/1/H.17--NS/0" height="1" width="1" border="0" alt="" />
+ </noscript>
+</div>
+
+<script type="text/javascript">
+	window.addEvent('domready', function() {			
+			var myMenu = new MenuMatic();
+	});	
+</script>
+	<div id="wrapper">
+		<div id="container" class="container">  
+			<div class="span-16">
+    			<div id="pagemenucontainer">
+
+    					<div class="AJXCSSMenuKCIKbND">
+    					  <ul>
+ <li class="tfirst"><a href="http://blogs.lowellsun.com">HOME</a>
+   <ul>
+     <li class="sfirst"><a href="http://blogs.lowellsun.com/policeline/">LOWELLSUN.COM</a><a href="http://www.lowellsun.com"></a> </li>
+     </ul>
+ </li>
+<li class="tfirst"><a href="http://blogs.lowellsun.com/news">NEWS</a>
+  <ul>
+   <li class="sfirst"><a href="http://blogs.lowellsun.com/policeline/">POLICE LINE</a></li>
+   </ul>
+ </li>
+ <li><a href="http://blogs.lowellsun.com/lifestyles/">LIFESTYLES</a>
+   <ul>
+   <li class="sfirst"><a href="http://blogs.lowellsun.com/winenovice/">WINE NOVICE</a></li>
+<li class="sfirst"><a href="http://blogs.lowellsun.com/autism">THE AUTISM DIARIES</a></li>
+   <li class="sfirst"><a href="http://blogs.lowellsun.com/lowellschoolsresource/">LOWELL PUBLIC SCHOOLS FAMILY RESOURCE CENTER</a></li>
+   <li class="sfirst"><a href="http://blogs.lowellsun.com/history/">DISCOVERING THE HISTORY OF THE MERRIMACK VALLEY</a></li>
+   <li class="sfirst"><a href="http://blogs.lowellsun.com/daleydecor/">DALEY DECOR</a></li>
+   <li class="sfirst"><a href="http://blogs.lowellsun.com/nancyesworld/">NANCYE'S WORLD</a></li>
+   <li class="sfirst"><a href="http://blogs.lowellsun.com/yourpersonalchef/">PERSONAL CHEF</a></li>
+<li class="sfirst"><a href="http://blogs.lowellsun.com/theatre/">BACKSTAGE BLOTTER</a></li>      
+  </ul>
+  </li>
+ <li><a href="http://blogs.lowellsun.com/politics/">POLITICS</a>
+ <ul>
+   <li class="sfirst"><a href="http://blogs.lowellsun.com/thecolumn/">THE COLUMN </a></li>
+  </ul>
+ </li>
+ <li><a href="http://blogs.lowellsun.com">COMMUNITY</a>
+   <ul>
+   <li class="sfirst"><a href="http://blogs.lowellsun.com/utec">The UTEC Blog</a></li>
+  </ul>
+ </li>
+</ul>
+ <br >
+</div>
+    			</div>
+	       	</div>
+            <div class="span-8 last">
+                <div class="topright">
+					<a href="http://blogs.lowellsun.com/?feed=rss2"><img src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/images/rss.png"  style="margin:0 2px 0 0; vertical-align:top;"  /> RSS Feed</a>		
+			              </div>
+                <div id="topsearch" > 
+            		 
+<div id="search">
+    <form method="get" id="searchform" action="http://blogs.lowellsun.com/"> 
+        <input type="text" value="Search" 
+            name="s" id="s"  onblur="if (this.value == '')  {this.value = 'Search';}"  
+            onfocus="if (this.value == 'Search') {this.value = '';}" />
+        <input type="image" src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/images/search.gif" style="border:0; vertical-align: top;" /> 
+    </form>
+</div> 
+            	</div>
+            </div>
+            
+            
+			<div id="header" class="span-24">
+				<div class="span-12">
+											<a href="http://blogs.lowellsun.com"><img src="http://blogs.lowellsun.com/files/2012/07/Blogs.lowellsunHeaderA.jpg" alt="Lowellsun.com Blogs" title="Lowellsun.com Blogs" class="logoimg" /></a>
+											
+				</div>
+				
+				<div class="span-12 last" style="padding-top: 32px; text-align:right;">
+					<a href="https://secure.www.lowellsun.com/registration?rPage=register" target="_blank"><img src="http://blogs.lowellsun.com/files/2012/07/HeaderAx3.gif" alt="" name="" width="325" height="62" border="0" /></a>				</div>
+			</div>
+			
+			<div class="span-24">
+				
+				<div id="navcontainer">
+					<ul id="nav">
+                        <li  class="current-cat" ><a href="http://blogs.lowellsun.com">Home</a></li>
+							<li class="cat-item cat-item-3"><a href="http://blogs.lowellsun.com/?cat=3" title="Contact The Sun Newspaper">Contact</a>
+</li>
+					</ul>
+				</div>
+			</div>
+		<div class="span-24" id="contentwrap">
+			<div class="span-16">
+				<div id="content">		
+                						
+												<div class="post-3478 post type-post status-publish format-standard hentry category-contact" id="post-3478">
+							<h2 class="title"><a href="http://blogs.lowellsun.com/?p=3478" rel="bookmark" title="Permanent Link to "></a></h2>
+							<div class="postdate">Posted by <strong>Sun Admin</strong> on  May 31st, 2012 </div>
+							<div class="entry">
+                                								<table border="0" width="600" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>Welcome to Blogs.Lowellsun.com, home of blogs by Lowellsun.com News Staff members as well as community blogs by Merrimack Valley residents who are not staffers. If you&#8217;re interested in starting a new blog or having your existing blog featured, please email Jim Campanini at <a href="mailto:jcampanini@lowellsun.com">jcampanini@lowellsun.com</a>.</td>
+</tr>
+</tbody>
+</table>
+<table border="0" width="620" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td colspan="4" valign="top" width="2420"><span class="Header"><br />
+FEATURED BLOGS</span></td>
+</tr>
+<tr>
+<td colspan="4" valign="top"></td>
+</tr>
+</tbody>
+</table>
+<table border="0" width="598" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td class="Header" colspan="4" valign="top">NEWS</td>
+</tr>
+<tr>
+<td valign="top"><a href="http://blogs.lowellsun.com/policeline/"><img src="http://blogs.lowellsun.com/files/2012/07/PoliceLine.jpg" alt="" width="126" height="99" align="top" border="0" /></a></td>
+<td colspan="3" valign="top"><a href="http://blogs.lowellsun.com/policeline/">POLICE LINE BLOG </a><a href="http://blogs.lowellsun.com/inthecourts/"><script src="http://feeds.feedburner.com/lowellsun/bXGX?format=sigpro" type="text/javascript"></script><br />
+</a></td>
+</tr>
+<tr>
+<td colspan="4" valign="top"></td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+<tr>
+<td class="Header" colspan="4" valign="top">LIFESTYLES</td>
+</tr>
+<tr>
+<td valign="top"><a href="http://blogs.lowellsun.com/daleydecor/"><img src="http://blogs.lowellsun.com/files/2012/08/Daleydecorthmbnail.jpg" alt="" width="126" height="99" align="top" border="0" /></a></td>
+<td colspan="3" valign="top"><a href="http://blogs.lowellsun.com/daleydecor/">DALEY DECOR with DEBBE DALEY</a><br />
+<script src="http://feeds.feedburner.com/DaleyDcorWithDebbeDaley?format=sigpro" type="text/javascript"></script></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://blogs.lowellsun.com/yourpersonalchef/"><img src="http://blogs.lowellsun.com/files/2012/08/Roy.jpg" alt="" width="126" height="99" align="top" border="0" /></a></td>
+<td colspan="3" valign="top"><a href="http://blogs.lowellsun.com/yourpersonalchef/">YOUR PERSONAL CHEF BLOG</a><br />
+<script src="http://feeds.feedburner.com/lowellsun/Zfmo?format=sigpro" type="text/javascript"></script></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://blogs.lowellsun.com/lowellschoolsresource/"><img src="http://blogs.lowellsun.com/files/2017/09/lps.jpg" alt="" width="126" height="99" align="top" border="0" /></a></td>
+<td colspan="3" valign="top"><a href="http://blogs.lowellsun.com/lowellschoolsresource/">LOWELL PUBLIC SCHOOLS FAMILY RESOURCE CENTER</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://blogs.lowellsun.com/yourpersonalchef/"><img src="http://blogs.lowellsun.com/files/2015/08/bstage.jpg" alt="" width="126" height="107" align="top" border="0" /></a></td>
+<td colspan="3" valign="top"><a href="http://blogs.lowellsun.com/theatre/">BACKSTAGE BLOTTER with SEAN DANIELS</a><br />
+<script src="http://feeds.feedburner.com/BackstageBlotter?format=sigpro" type="text/javascript"></script></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://blogs.lowellsun.com/diningdiva/"><img src="http://blogs.lowellsun.com/files/2015/11/Utec.jpg" alt="" width="132" height="99" align="top" border="0" /></a></td>
+<td colspan="3" valign="top"><a href="http://blogs.lowellsun.com/utec/"> THE UTEC BLOG<script src="http://feeds.feedburner.com/UtecBlog?format=sigpro" type="text/javascript"></script><br />
+</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://blogs.lowellsun.com/nancyesworld/"><img src="http://blogs.lowellsun.com/files/2012/09/NancyEsHeadshot.jpg" alt="" width="126" height="99" align="top" border="0" /></a></td>
+<td colspan="3" valign="top"><a href="http://blogs.lowellsun.com/nancyesworld/">NANCYE&#8217;S WORLD<br />
+<script src="http://feeds.feedburner.com/NancyesWorld?format=sigpro" type="text/javascript"></script></a></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://blogs.lowellsun.com/autism/"><img src="http://blogs.lowellsun.com/autism/files/2016/10/Paula-Peters-300x265.jpg" alt="" width="126" height="111" align="top" border="0" /></a></td>
+<td colspan="3" valign="top"><a href="http://blogs.lowellsun.com/autism/">THE AUTISM DIARIES with PAULA PETERS</a><br />
+<script src="http://feeds.feedburner.com/lowellsun/yfDS?format=sigpro" type="text/javascript"></script></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://blogs.lowellsun.com/history"><img src="http://blogs.lowellsun.com/history/files/2015/01/Duda1.jpg" alt="" width="126" height="99" align="top" border="0" /></a></td>
+<td colspan="3" valign="top"><a href="http://blogs.lowellsun.com/history">DISCOVERING THE HISTORIC MERRIMACK VALLEY</a><br />
+<script src="http://feeds.feedburner.com/DiscoveringTheHistoricMerrimackValley?format=sigpro" type="text/javascript"></script></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://blogs.lowellsun.com/winenovice/"><img src="http://blogs.lowellsun.com/files/2012/07/WineNovice.jpg" alt="" width="126" height="99" align="top" border="0" /></a></td>
+<td colspan="3" valign="top"><a href="http://blogs.lowellsun.com/winenovice/">THE WINE NOVICE BLOG</a><script src="http://feeds.feedburner.com/lowellsun/SgNW?format=sigpro" type="text/javascript"></script></td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+<tr>
+<td class="Header" colspan="4" valign="top">POLITICS</td>
+</tr>
+<tr>
+<td valign="top"><a href="http://blogs.lowellsun.com//thecolumn/"><img src="http://blogs.lowellsun.com/files/2012/06/ThSolumn.jpg" alt="" width="126" height="99" border="0" /></a></td>
+<td colspan="3" valign="top"><a href="http://blogs.lowellsun.com/thecolumn/">THE COLUMN BLOG</a><script src="http://feeds.feedburner.com/TheColumnBlog?format=sigpro" type="text/javascript"></script><noscript></noscript></td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+</tbody>
+</table>
+								<div class="readmorecontent">
+									<a class="readmore" href="http://blogs.lowellsun.com/?p=3478" rel="bookmark" title="Permanent Link to ">Read More &raquo;</a>
+								</div>
+							</div>
+							
+						</div><!--/post-3478-->
+				
+								<div class="navigation">
+										<div class="alignleft"></div>
+					<div class="alignright"></div>
+									</div>
+								</div>
+			</div>
+		
+		
+<div class="span-8 last">
+
+	
+	<div class="sidebar">
+        
+        
+            			<div class="addthis_toolbox">   
+    			    <div class="custom_images">
+    			            <a class="addthis_button_twitter"><img src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/images/socialicons/twitter.png" width="32" height="32" alt="Twitter" /></a>
+    			            <a class="addthis_button_delicious"><img src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/images/socialicons/delicious.png" width="32" height="32" alt="Delicious" /></a>
+    			            <a class="addthis_button_facebook"><img src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/images/socialicons/facebook.png" width="32" height="32" alt="Facebook" /></a>
+    			            <a class="addthis_button_digg"><img src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/images/socialicons/digg.png" width="32" height="32" alt="Digg" /></a>
+    			            <a class="addthis_button_stumbleupon"><img src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/images/socialicons/stumbleupon.png" width="32" height="32" alt="Stumbleupon" /></a>
+    			            <a class="addthis_button_favorites"><img src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/images/socialicons/favorites.png" width="32" height="32" alt="Favorites" /></a>
+    			            <a class="addthis_button_more"><img src="http://blogs.lowellsun.com/wp-content/themes/lowellsun-Diadema/images/socialicons/more.png" width="32" height="32" alt="More" /></a>
+    			    </div>
+    			    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a65e1d93cd75e94"></script>
+    			</div>
+    			
+				
+        
+          
+<ul><li><h2>Recent Posts</h2></li></ul>
+<div class="recentposts">
+    <ul>
+    	                <li class="clearfix">
+                                    <a class="recentpoststitle" href="http://blogs.lowellsun.com/?p=3478" rel="bookmark" title="Permanent Link to "></a> <br />
+                    Welcome to Blogs.Lowellsun.com, home of blogs by Lowellsun.com News Staff members as well as community blogs <a class="recentpostsmore" href="http://blogs.lowellsun.com/?p=3478" rel="bookmark" title="Permanent Link to ">Read more &raquo;</a>
+                </li>
+                
+    </ul>
+</div>
+
+
+		<ul>
+			<li id="text-9" class="widget widget_text"><h2 class="widgettitle">ADVERTISEMENT</h2>			<div class="textwidget"><script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<div id='div_cuberight'>
+<script type='text/javascript'>
+googletag.defineSlot('/8013/lowellsun.com', [300,250], 'div_cuberight').setTargeting('POS', 'Cube1_RRail_ATF').setTargeting('blog', 'Sunblog').addService
+
+(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+googletag.display('div_cuberight');
+</script>
+</div></div>
+		</li><li id="text-7" class="widget widget_text"><h2 class="widgettitle">BOOKMARK SITE</h2>			<div class="textwidget"><a href="javascript:bookmark('http://Blogs.Lowellsun.com',
+'Lowellsun.com Blogs');">Bookmark This Site</a>
+</div>
+		</li><li id="text-5" class="widget widget_text"><h2 class="widgettitle">FACEBOOK</h2>			<div class="textwidget"><div style="background-color:#FFF; width: 292px; height:592px;"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FLowellSun&amp;width=292&amp;height=590&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;appId=198023353555444" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:590px;"></iframe></div></div>
+		</li>		</ul>
+			</div>
+</div>
+
+
+<div class="partner_lnk">I can't believe I'm writing this but <a href="http://www.bestwebhostingfans.com/">Best Web Hosting Fans</a> saved my blog.</div>	</div>
+        <div class="span-24">
+            <div id="footer"><div>Copyright &copy; <a href="http://blogs.lowellsun.com"><strong>Lowellsun.com Blogs</strong></a>  - Lowellsun.com Blogs</div>
+           
+                        <div id="footer2"></div>
+            </div>
+        </div>
+        
+     </div>	
+</div>
+<div id="glt-translate-trigger"><span class="notranslate">Translate &raquo;</span></div><div id="glt-toolbar"></div><div id="flags" style="display:none" class="size18"><ul id="sortable" class="ui-sortable"><li id="English"><a title="English" class="nturl notranslate en flag English"></a></ul></div><div id='glt-footer'><div id="google_language_translator" class="default-language-en"></div></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages:'en', autoDisplay: false}, 'google_language_translator');}</script><script type='text/javascript' src='http://blogs.lowellsun.com/wp-content/plugins/google-language-translator/js/scripts.js?ver=5.0.48'></script>
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit'></script>
+<script type='text/javascript' src='http://blogs.lowellsun.com/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 18/82 objects using apc
+Page Caching using apc 
+Database Caching 3/36 queries in 0.017 seconds using apc
+
+Served from: blogs.lowellsun.com @ 2018-09-27 05:10:38 by W3 Total Cache
+-->

@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+
+<html lang="es-ES">
+
+	<head>
+		
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1" >
+		<title>Misionlandia.com.ar &#8211; Periódico Global de Noticias</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Misionlandia.com.ar &raquo; Feed" href="https://misionlandia.com.ar/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/misionlandia.com.ar\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='hemingway_googleFonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic%7CRaleway%3A700%2C400&#038;ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='hemingway_style-css'  href='http://misionlandia.com.ar/wp-content/themes/hemingway/style.css?ver=4.9.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://misionlandia.com.ar/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://misionlandia.com.ar/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://misionlandia.com.ar/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://misionlandia.com.ar/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://misionlandia.com.ar/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+      
+	      <!--Customizer CSS--> 
+	      
+	      <style type="text/css">
+	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           	           
+	           	           	      </style> 
+	      
+	      <!--/Customizer CSS-->
+	      
+      	
+	</head>
+	
+	<body class="home blog has-featured-image">
+	
+		<div class="big-wrapper">
+	
+			<div class="header-cover section bg-dark-light no-padding">
+		
+				<div class="header section" style="background-image: url(http://misionlandia.com.ar/wp-content/themes/hemingway/images/header.jpg);">
+							
+					<div class="header-inner section-inner">
+					
+											
+							<div class="blog-info">
+							
+								<h2 class="blog-title">
+									<a href="https://misionlandia.com.ar" title="Misionlandia.com.ar &mdash; Periódico Global de Noticias" rel="home">Misionlandia.com.ar</a>
+								</h2>
+								
+																
+									<h3 class="blog-description">Periódico Global de Noticias</h3>
+									
+															
+							</div><!-- .blog-info -->
+							
+															
+					</div><!-- .header-inner -->
+								
+				</div><!-- .header -->
+			
+			</div><!-- .bg-dark -->
+			
+			<div class="navigation section no-padding bg-dark">
+			
+				<div class="navigation-inner section-inner">
+				
+					<div class="toggle-container hidden">
+			
+						<div class="nav-toggle toggle">
+								
+							<div class="bar"></div>
+							<div class="bar"></div>
+							<div class="bar"></div>
+							
+							<div class="clear"></div>
+						
+						</div>
+						
+						<div class="search-toggle toggle">
+								
+							<div class="metal"></div>
+							<div class="glass"></div>
+							<div class="handle"></div>
+						
+						</div>
+						
+						<div class="clear"></div>
+					
+					</div><!-- .toggle-container -->
+					
+					<div class="blog-search hidden">
+					
+						<form method="get" class="searchform" action="https://misionlandia.com.ar/">
+	<input type="search" value="" placeholder="Formulario de búsqueda" name="s" id="s" /> 
+	<input type="submit" id="searchsubmit" value="Buscar">
+</form>					
+					</div>
+				
+					<ul class="blog-menu">
+					
+						
+					 </ul>
+
+					 <div class="clear"></div>
+					 
+					 <ul class="mobile-menu">
+					
+												
+					 </ul>
+				 
+				</div><!-- .navigation-inner -->
+				
+			</div><!-- .navigation -->
+<div class="wrapper section-inner">
+
+	<div class="content left">
+																		                    
+				
+			<div class="posts">
+		
+									
+		    			    	
+					<div id="post-41" class="post-41 post type-post status-publish format-standard has-post-thumbnail hentry category-ocio">
+		    	
+			    		<div class="post-header">
+
+	
+		<div class="featured-media">
+		
+					
+			<a href="https://misionlandia.com.ar/como-conquistar-a-mujeres-solteras-en-2018/" rel="bookmark" title="¿Cómo conquistar a mujeres solteras en 2018?">
+			
+				<img width="676" height="391" src="https://misionlandia.com.ar/wp-content/uploads/2018/08/ligar-con-mujeres-solteras-676x391.jpg" class="attachment-post-image size-post-image wp-post-image" alt="" srcset="https://misionlandia.com.ar/wp-content/uploads/2018/08/ligar-con-mujeres-solteras-676x391.jpg 676w, https://misionlandia.com.ar/wp-content/uploads/2018/08/ligar-con-mujeres-solteras-300x173.jpg 300w, https://misionlandia.com.ar/wp-content/uploads/2018/08/ligar-con-mujeres-solteras-768x444.jpg 768w, https://misionlandia.com.ar/wp-content/uploads/2018/08/ligar-con-mujeres-solteras.jpg 792w" sizes="(max-width: 676px) 100vw, 676px" />				
+								
+			</a>
+					
+		</div><!-- .featured-media -->
+			
+		
+    <h2 class="post-title"><a href="https://misionlandia.com.ar/como-conquistar-a-mujeres-solteras-en-2018/" rel="bookmark" title="¿Cómo conquistar a mujeres solteras en 2018?">¿Cómo conquistar a mujeres solteras en 2018?</a></h2>
+    
+    <div class="post-meta">
+	
+		<span class="post-date"><a href="https://misionlandia.com.ar/como-conquistar-a-mujeres-solteras-en-2018/" title="¿Cómo conquistar a mujeres solteras en 2018?">agosto 30, 2018</a></span>
+		
+		<span class="date-sep"> / </span>
+			
+		<span class="post-author"><a href="https://misionlandia.com.ar/author/facturacion_n068fzwc/" title="Entradas de admin" rel="author">admin</a></span>
+		
+		<span class="date-sep"> / </span>
+		
+		<span>Comentarios desactivados<span class="screen-reader-text"> en ¿Cómo conquistar a mujeres solteras en 2018?</span></span>		
+				
+										
+	</div>
+    
+</div><!-- .post-header -->
+									                                    	    
+<div class="post-content">
+	
+		<p style="text-align: justify;">Una de las cuestiones que se debe tener en cuenta es que<strong> en el 2018 el mundo ha cambiado la perspectiva de género</strong>. Precisamente, es una de las cuestiones más relevantes que se debe tener en cuenta a la hora de relacionarse con el otro.</p>
+<p style="text-align: justify;">En la actualidad, <strong>el mundo pretende estar mucho más equitativo que la década pasada</strong>, por lo tanto, a la hora de establecer cualquier clase de vínculo con <a href="http://agregame.com/chicas/estados-unidos" target="_blank" rel="noopener">mujeres solteras</a> se deberá tener presente al respeto, la cordialidad y amabilidad.</p>
+<p> <a href="https://misionlandia.com.ar/como-conquistar-a-mujeres-solteras-en-2018/#more-41" class="more-link">Seguir leyendo</a></p>
+					
+		
+</div><!-- .post-content -->
+            
+<div class="clear"></div>			    				    		
+		    		</div><!-- .post -->
+		    			        		            
+		        		    	
+					<div id="post-38" class="post-38 post type-post status-publish format-standard has-post-thumbnail hentry category-salud">
+		    	
+			    		<div class="post-header">
+
+	
+		<div class="featured-media">
+		
+					
+			<a href="https://misionlandia.com.ar/como-elegir-la-residencia-de-ancianos-perfecta-para-tus-padres/" rel="bookmark" title="Cómo elegir la residencia de ancianos perfecta para tus padres">
+			
+				<img width="619" height="349" src="https://misionlandia.com.ar/wp-content/uploads/2018/08/cuidado-personas-mayores.jpg" class="attachment-post-image size-post-image wp-post-image" alt="" srcset="https://misionlandia.com.ar/wp-content/uploads/2018/08/cuidado-personas-mayores.jpg 619w, https://misionlandia.com.ar/wp-content/uploads/2018/08/cuidado-personas-mayores-300x169.jpg 300w" sizes="(max-width: 619px) 100vw, 619px" />				
+								
+			</a>
+					
+		</div><!-- .featured-media -->
+			
+		
+    <h2 class="post-title"><a href="https://misionlandia.com.ar/como-elegir-la-residencia-de-ancianos-perfecta-para-tus-padres/" rel="bookmark" title="Cómo elegir la residencia de ancianos perfecta para tus padres">Cómo elegir la residencia de ancianos perfecta para tus padres</a></h2>
+    
+    <div class="post-meta">
+	
+		<span class="post-date"><a href="https://misionlandia.com.ar/como-elegir-la-residencia-de-ancianos-perfecta-para-tus-padres/" title="Cómo elegir la residencia de ancianos perfecta para tus padres">agosto 25, 2018</a></span>
+		
+		<span class="date-sep"> / </span>
+			
+		<span class="post-author"><a href="https://misionlandia.com.ar/author/facturacion_n068fzwc/" title="Entradas de admin" rel="author">admin</a></span>
+		
+		<span class="date-sep"> / </span>
+		
+		<span>Comentarios desactivados<span class="screen-reader-text"> en Cómo elegir la residencia de ancianos perfecta para tus padres</span></span>		
+				
+										
+	</div>
+    
+</div><!-- .post-header -->
+									                                    	    
+<div class="post-content">
+	
+		<p style="text-align: justify;">Elegir una residencia para ancianos no resulta ser una tarea sencilla. Sin embargo, si se tienen en cuenta<strong> diversos factores fundamentales</strong> se puede conseguir un buen lugar para que pasen sus últimos años de vida.</p>
+<p style="text-align: justify;">En España existen diferentes centros públicos y privados para el <a href="https://cuideo.com" target="_blank" rel="noopener">cuidado de personas mayores</a> con diferentes tipos de prestaciones, por lo tanto, lo ideal es averiguar cuál es el que mejor se adapta a las necesidades que se tengan. Precisamente, <strong>en España existen más de 4.000 centros residenciales para mayores</strong> los cuales ofrecen diferentes tipos de servicios.</p>
+<p> <a href="https://misionlandia.com.ar/como-elegir-la-residencia-de-ancianos-perfecta-para-tus-padres/#more-38" class="more-link">Seguir leyendo</a></p>
+					
+		
+</div><!-- .post-content -->
+            
+<div class="clear"></div>			    				    		
+		    		</div><!-- .post -->
+		    			        		            
+		        		    	
+					<div id="post-35" class="post-35 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias">
+		    	
+			    		<div class="post-header">
+
+	
+		<div class="featured-media">
+		
+					
+			<a href="https://misionlandia.com.ar/ryanair-cobrara-por-el-equipaje-de-mano/" rel="bookmark" title="Ryanair cobrará por el equipaje de mano">
+			
+				<img width="600" height="338" src="https://misionlandia.com.ar/wp-content/uploads/2018/08/ryanair.jpg" class="attachment-post-image size-post-image wp-post-image" alt="" srcset="https://misionlandia.com.ar/wp-content/uploads/2018/08/ryanair.jpg 600w, https://misionlandia.com.ar/wp-content/uploads/2018/08/ryanair-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />				
+								
+			</a>
+					
+		</div><!-- .featured-media -->
+			
+		
+    <h2 class="post-title"><a href="https://misionlandia.com.ar/ryanair-cobrara-por-el-equipaje-de-mano/" rel="bookmark" title="Ryanair cobrará por el equipaje de mano">Ryanair cobrará por el equipaje de mano</a></h2>
+    
+    <div class="post-meta">
+	
+		<span class="post-date"><a href="https://misionlandia.com.ar/ryanair-cobrara-por-el-equipaje-de-mano/" title="Ryanair cobrará por el equipaje de mano">agosto 25, 2018</a></span>
+		
+		<span class="date-sep"> / </span>
+			
+		<span class="post-author"><a href="https://misionlandia.com.ar/author/facturacion_n068fzwc/" title="Entradas de admin" rel="author">admin</a></span>
+		
+		<span class="date-sep"> / </span>
+		
+		<span>Comentarios desactivados<span class="screen-reader-text"> en Ryanair cobrará por el equipaje de mano</span></span>		
+				
+										
+	</div>
+    
+</div><!-- .post-header -->
+									                                    	    
+<div class="post-content">
+	
+		<p style="text-align: justify;"><strong>Ryanair cobrará a partir del 1 de noviembre entre 6 y 10 euros para viajar con un equipaje de mano de menos de 10 kilos</strong>, que hasta ahora era gratuito. La nueva política de equipaje de la compañía irlandesa permite que los pasajeros traigan un ‘pequeño equipaje de mano’ que quepa bajo el asiento del avión. Sólo los clientes que tengan un billete ‘prioritario’ podrán traer una maleta de hasta 10 kilos sin ningún coste añadido.</p>
+<p style="text-align: justify;">La asociación de consumidores <strong>Facua ha acusado Ryanair de querer ‘sufragar’ a través de esta nueva política de equipaje los ‘costes ocasionados por las compensaciones derivadas de la huelga’</strong> de pilotos y tripulantes de este verano. Además, ha instado el ministerio español de Fomento a ‘tomar medidas para parar’ este nuevo pago al cual tendrán que hacer frente los consumidores.</p>
+<p> <a href="https://misionlandia.com.ar/ryanair-cobrara-por-el-equipaje-de-mano/#more-35" class="more-link">Seguir leyendo</a></p>
+					
+		
+</div><!-- .post-content -->
+            
+<div class="clear"></div>			    				    		
+		    		</div><!-- .post -->
+		    			        		            
+		        		    	
+					<div id="post-31" class="post-31 post type-post status-publish format-standard has-post-thumbnail hentry category-internacional">
+		    	
+			    		<div class="post-header">
+
+	
+		<div class="featured-media">
+		
+					
+			<a href="https://misionlandia.com.ar/el-valor-de-un-buen-traductor/" rel="bookmark" title="El valor de un buen traductor">
+			
+				<img width="676" height="369" src="https://misionlandia.com.ar/wp-content/uploads/2018/08/traduccion-analitica-676x369.jpg" class="attachment-post-image size-post-image wp-post-image" alt="" srcset="https://misionlandia.com.ar/wp-content/uploads/2018/08/traduccion-analitica-676x369.jpg 676w, https://misionlandia.com.ar/wp-content/uploads/2018/08/traduccion-analitica-300x164.jpg 300w, https://misionlandia.com.ar/wp-content/uploads/2018/08/traduccion-analitica-768x419.jpg 768w, https://misionlandia.com.ar/wp-content/uploads/2018/08/traduccion-analitica.jpg 880w" sizes="(max-width: 676px) 100vw, 676px" />				
+								
+			</a>
+					
+		</div><!-- .featured-media -->
+			
+		
+    <h2 class="post-title"><a href="https://misionlandia.com.ar/el-valor-de-un-buen-traductor/" rel="bookmark" title="El valor de un buen traductor">El valor de un buen traductor</a></h2>
+    
+    <div class="post-meta">
+	
+		<span class="post-date"><a href="https://misionlandia.com.ar/el-valor-de-un-buen-traductor/" title="El valor de un buen traductor">agosto 9, 2018</a></span>
+		
+		<span class="date-sep"> / </span>
+			
+		<span class="post-author"><a href="https://misionlandia.com.ar/author/facturacion_n068fzwc/" title="Entradas de admin" rel="author">admin</a></span>
+		
+		<span class="date-sep"> / </span>
+		
+		<span>Comentarios desactivados<span class="screen-reader-text"> en El valor de un buen traductor</span></span>		
+				
+										
+	</div>
+    
+</div><!-- .post-header -->
+									                                    	    
+<div class="post-content">
+	
+		<p style="text-align: justify;">No es ningún secreto que las organizaciones han recurrido cada vez más a la analítica avanzada y a la inteligencia artificial (IA) para<strong> mejorar la toma de decisiones en todos los procesos de negocio</strong>, desde la investigación y el diseño hasta la cadena de suministro y la gestión de riesgos o para calcular con precisión <a href="https://mctraducciones.es/cuanto-cuesta-la-traduccion-jurada-documento/" target="_blank" rel="noopener">cuanto cobra un traductor</a> o cuánto debería cobrar, al menos.</p>
+<p style="text-align: justify;">A lo largo del camino, ha habido mucha literatura y mano dura ejecutiva sobre la contratación y el despliegue de científicos de datos cada vez más escasos para que esto suceda. Ciertamente, se requiere que los científicos de datos construyan los modelos analíticos -en gran parte aprendizaje mecanizado y, cada vez más, aprendizaje profundo- capaces de convertir grandes cantidades de datos en percepciones. Más recientemente, sin embargo, las compañías han ampliado su apertura, reconociendo qu<strong>e el éxito con la IA y el análisis requiere no sólo de los científicos de datos, sino también de todos los equipos multifuncionales y ágiles</strong> que incluyen ingenieros de datos, arquitectos de datos, expertos en visualización de datos y, tal vez, los traductores más importantes.</p>
+<p> <a href="https://misionlandia.com.ar/el-valor-de-un-buen-traductor/#more-31" class="more-link">Seguir leyendo</a></p>
+					
+		
+</div><!-- .post-content -->
+            
+<div class="clear"></div>			    				    		
+		    		</div><!-- .post -->
+		    			        		            
+		        		    	
+					<div id="post-28" class="post-28 post type-post status-publish format-standard has-post-thumbnail hentry category-internacional">
+		    	
+			    		<div class="post-header">
+
+	
+		<div class="featured-media">
+		
+					
+			<a href="https://misionlandia.com.ar/se-ha-convertido-la-inmigracion-en-un-problema-para-europa/" rel="bookmark" title="¿Se ha convertido la inmigración en un problema para Europa?">
+			
+				<img width="644" height="362" src="https://misionlandia.com.ar/wp-content/uploads/2018/08/rutas-inmigrantes-europa.jpg" class="attachment-post-image size-post-image wp-post-image" alt="" srcset="https://misionlandia.com.ar/wp-content/uploads/2018/08/rutas-inmigrantes-europa.jpg 644w, https://misionlandia.com.ar/wp-content/uploads/2018/08/rutas-inmigrantes-europa-300x169.jpg 300w" sizes="(max-width: 644px) 100vw, 644px" />				
+								
+			</a>
+					
+		</div><!-- .featured-media -->
+			
+		
+    <h2 class="post-title"><a href="https://misionlandia.com.ar/se-ha-convertido-la-inmigracion-en-un-problema-para-europa/" rel="bookmark" title="¿Se ha convertido la inmigración en un problema para Europa?">¿Se ha convertido la inmigración en un problema para Europa?</a></h2>
+    
+    <div class="post-meta">
+	
+		<span class="post-date"><a href="https://misionlandia.com.ar/se-ha-convertido-la-inmigracion-en-un-problema-para-europa/" title="¿Se ha convertido la inmigración en un problema para Europa?">agosto 9, 2018</a></span>
+		
+		<span class="date-sep"> / </span>
+			
+		<span class="post-author"><a href="https://misionlandia.com.ar/author/facturacion_n068fzwc/" title="Entradas de admin" rel="author">admin</a></span>
+		
+		<span class="date-sep"> / </span>
+		
+		<span>Comentarios desactivados<span class="screen-reader-text"> en ¿Se ha convertido la inmigración en un problema para Europa?</span></span>		
+				
+										
+	</div>
+    
+</div><!-- .post-header -->
+									                                    	    
+<div class="post-content">
+	
+		<p style="text-align: justify;">Aunque se sigue centrando la atención en la migración ilegal, el objetivo original de impedir que los ciudadanos africanos emigren a Europa parece haberse perdido por completo. Por el contrario, la declaración declara que la migración legal africana es algo positivo, e incluso<strong> hace hincapié en la idea beneficiosa de la migración de ciertos grupos, como los investigadores y los empresarios</strong>. Nadie parece preguntarse cómo el agotamiento de la mano de obra calificada en África, como los empresarios e investigadores, va a ayudar al continente a desarrollarse y así frenar la tendencia de la migración. Algo parecido a lo que ha sucedido en Brasil durante otros periodos de tiempo (<a href="https://jdimmigration.com.br/" target="_blank" rel="noopener"><em>imigração no brasil</em></a>).</p>
+<p style="text-align: justify;">El gobierno húngaro parece ser el único que considera si los ciudadanos a los que fue elegido para servir apoyarían la declaración.<strong> Otros gobiernos europeos parecen pensar que preguntar a sus electorados qué piensan de la migración africana hacia Europa es irrelevante</strong>. &#8220;La migración es una prioridad para todos los que estamos aquí&#8221;, declaró Dimitris Avramopoulos, Comisario de Migración, Asuntos de Interior y Ciudadanía de la UE, en la reciente Quinta Conferencia Ministerial Euroafricana sobre Migración y Desarrollo, celebrada en Marrakech a principios de mayo. La conferencia forma parte del Diálogo Ministerial Euroafricano sobre Migración y Desarrollo (también conocido como el Proceso de Rabat).</p>
+<p> <a href="https://misionlandia.com.ar/se-ha-convertido-la-inmigracion-en-un-problema-para-europa/#more-28" class="more-link">Seguir leyendo</a></p>
+					
+		
+</div><!-- .post-content -->
+            
+<div class="clear"></div>			    				    		
+		    		</div><!-- .post -->
+		    			        		            
+		        		    	
+					<div id="post-25" class="post-25 post type-post status-publish format-standard has-post-thumbnail hentry category-lugares">
+		    	
+			    		<div class="post-header">
+
+	
+		<div class="featured-media">
+		
+					
+			<a href="https://misionlandia.com.ar/marrakech-todo-un-referente-actual/" rel="bookmark" title="Marrakech, todo un referente actual">
+			
+				<img width="676" height="270" src="https://misionlandia.com.ar/wp-content/uploads/2018/08/marrakech-676x270.jpg" class="attachment-post-image size-post-image wp-post-image" alt="" srcset="https://misionlandia.com.ar/wp-content/uploads/2018/08/marrakech-676x270.jpg 676w, https://misionlandia.com.ar/wp-content/uploads/2018/08/marrakech-300x120.jpg 300w, https://misionlandia.com.ar/wp-content/uploads/2018/08/marrakech-768x307.jpg 768w, https://misionlandia.com.ar/wp-content/uploads/2018/08/marrakech-1024x410.jpg 1024w" sizes="(max-width: 676px) 100vw, 676px" />				
+								
+			</a>
+					
+		</div><!-- .featured-media -->
+			
+		
+    <h2 class="post-title"><a href="https://misionlandia.com.ar/marrakech-todo-un-referente-actual/" rel="bookmark" title="Marrakech, todo un referente actual">Marrakech, todo un referente actual</a></h2>
+    
+    <div class="post-meta">
+	
+		<span class="post-date"><a href="https://misionlandia.com.ar/marrakech-todo-un-referente-actual/" title="Marrakech, todo un referente actual">agosto 9, 2018</a></span>
+		
+		<span class="date-sep"> / </span>
+			
+		<span class="post-author"><a href="https://misionlandia.com.ar/author/facturacion_n068fzwc/" title="Entradas de admin" rel="author">admin</a></span>
+		
+		<span class="date-sep"> / </span>
+		
+		<span>Comentarios desactivados<span class="screen-reader-text"> en Marrakech, todo un referente actual</span></span>		
+				
+										
+	</div>
+    
+</div><!-- .post-header -->
+									                                    	    
+<div class="post-content">
+	
+		<p style="text-align: justify;"><strong>Marrakech, la genuina capital del sur marroquí, está situada dentro de una cazuela</strong>. Las paredes de esta cazuela son las montañas monumentales del Alto Atlas, esta cordillera mítica que unifica dos mares, el Atlántico y la Mediterránea, y que agermana el pequeño Magreb: Marruecos, Argelia y Túnez.</p>
+<p style="text-align: justify;"><strong>Es fácil de entender, pues, que Marrakech viva intensamente un clima especial y ligero.</strong> En verano, y durante muchos meses, el calor está potente, un calor africano que se hace ser. Y en invierno, bastante más corto, el frío se instala cómodamente para hacer la pascua a los de Marrakech. Llueve más de lo que nos pensamos, y es<strong> el agua de lluvia que riega el oasis vecino de la ciudad y lo transforma en un palmeral que es un gusto pasearse por él</strong>, sobre todo a las horas del atardecer flairant las plantas olorosas que broten, espontáneas, de una tierra milagrosamente fértil. A pesar de todo, las exigencias de los turistas, que no nos conformamos nunca con una ducha diaria, hace que el agua acontezca, cuanto más va más, un bien escaso y que el oasis se empobrezca de una manera alarmante.</p>
+<p> <a href="https://misionlandia.com.ar/marrakech-todo-un-referente-actual/#more-25" class="more-link">Seguir leyendo</a></p>
+					
+		
+</div><!-- .post-content -->
+            
+<div class="clear"></div>			    				    		
+		    		</div><!-- .post -->
+		    			        		            
+		        		    	
+					<div id="post-21" class="post-21 post type-post status-publish format-standard has-post-thumbnail hentry category-tecnologia">
+		    	
+			    		<div class="post-header">
+
+	
+		<div class="featured-media">
+		
+					
+			<a href="https://misionlandia.com.ar/cuando-se-necesita-un-software-crm/" rel="bookmark" title="¿Cuándo se necesita un software CRM?">
+			
+				<img width="676" height="433" src="https://misionlandia.com.ar/wp-content/uploads/2018/08/crm-espanol-676x433.jpg" class="attachment-post-image size-post-image wp-post-image" alt="" srcset="https://misionlandia.com.ar/wp-content/uploads/2018/08/crm-espanol-676x433.jpg 676w, https://misionlandia.com.ar/wp-content/uploads/2018/08/crm-espanol-300x192.jpg 300w, https://misionlandia.com.ar/wp-content/uploads/2018/08/crm-espanol-768x491.jpg 768w, https://misionlandia.com.ar/wp-content/uploads/2018/08/crm-espanol.jpg 872w" sizes="(max-width: 676px) 100vw, 676px" />				
+								
+			</a>
+					
+		</div><!-- .featured-media -->
+			
+		
+    <h2 class="post-title"><a href="https://misionlandia.com.ar/cuando-se-necesita-un-software-crm/" rel="bookmark" title="¿Cuándo se necesita un software CRM?">¿Cuándo se necesita un software CRM?</a></h2>
+    
+    <div class="post-meta">
+	
+		<span class="post-date"><a href="https://misionlandia.com.ar/cuando-se-necesita-un-software-crm/" title="¿Cuándo se necesita un software CRM?">agosto 1, 2018</a></span>
+		
+		<span class="date-sep"> / </span>
+			
+		<span class="post-author"><a href="https://misionlandia.com.ar/author/facturacion_n068fzwc/" title="Entradas de admin" rel="author">admin</a></span>
+		
+		<span class="date-sep"> / </span>
+		
+		<span>Comentarios desactivados<span class="screen-reader-text"> en ¿Cuándo se necesita un software CRM?</span></span>		
+				
+										
+	</div>
+    
+</div><!-- .post-header -->
+									                                    	    
+<div class="post-content">
+	
+		<p style="text-align: justify;">Para que las empresas puedan conocer y definir mejor su mercado objetivo es imprescindible que cuenten con asesoría profesional sobre marketing relacional. De este modo, para llevar a cabo procedimientos relativos a este tema<strong> es necesario contar con instrumentos tecnológicos que faciliten el proceso</strong>, como lo es un <a href="https://www.usellcrm.net/es/" target="_blank" rel="noopener">software CRM español</a>. Los sistemas de administración relacional de clientes se han convertido en especiales herramientas informáticas como apoyo para la gestión y organización de tus clientes. <strong>Consta de un sistema muy sencillo para cubrir la base de datos de los clientes</strong>, para contribuir con la aplicación de metodologías, análisis y ejecución de técnicas de marketing, como la fidelización y el registro estadístico.</p>
+<p style="text-align: justify;">Por esta razón, <strong>la mayoría de las compañías actuales se destacan por contar con esta tecnología</strong>. Eso sí, todo depende de la cantidad global de los clientes, pues se necesita contar con un rubro mínimo de clientes y fidelizaciones para proceder a estructurar una base de datos y gestionar la información relevante de cada contacto.</p>
+<p> <a href="https://misionlandia.com.ar/cuando-se-necesita-un-software-crm/#more-21" class="more-link">Seguir leyendo</a></p>
+					
+		
+</div><!-- .post-content -->
+            
+<div class="clear"></div>			    				    		
+		    		</div><!-- .post -->
+		    			        		            
+		        		    	
+					<div id="post-17" class="post-17 post type-post status-publish format-standard has-post-thumbnail hentry category-puericultura">
+		    	
+			    		<div class="post-header">
+
+	
+		<div class="featured-media">
+		
+					
+			<a href="https://misionlandia.com.ar/las-mejores-hamacas-de-bebes/" rel="bookmark" title="Las mejores hamacas de bebés">
+			
+				<img width="676" height="383" src="https://misionlandia.com.ar/wp-content/uploads/2018/07/hamacas-bebes-676x383.jpg" class="attachment-post-image size-post-image wp-post-image" alt="" srcset="https://misionlandia.com.ar/wp-content/uploads/2018/07/hamacas-bebes-676x383.jpg 676w, https://misionlandia.com.ar/wp-content/uploads/2018/07/hamacas-bebes-300x170.jpg 300w, https://misionlandia.com.ar/wp-content/uploads/2018/07/hamacas-bebes-768x435.jpg 768w, https://misionlandia.com.ar/wp-content/uploads/2018/07/hamacas-bebes.jpg 1000w" sizes="(max-width: 676px) 100vw, 676px" />				
+								
+			</a>
+					
+		</div><!-- .featured-media -->
+			
+		
+    <h2 class="post-title"><a href="https://misionlandia.com.ar/las-mejores-hamacas-de-bebes/" rel="bookmark" title="Las mejores hamacas de bebés">Las mejores hamacas de bebés</a></h2>
+    
+    <div class="post-meta">
+	
+		<span class="post-date"><a href="https://misionlandia.com.ar/las-mejores-hamacas-de-bebes/" title="Las mejores hamacas de bebés">julio 9, 2018</a></span>
+		
+		<span class="date-sep"> / </span>
+			
+		<span class="post-author"><a href="https://misionlandia.com.ar/author/facturacion_n068fzwc/" title="Entradas de admin" rel="author">admin</a></span>
+		
+		<span class="date-sep"> / </span>
+		
+		<span>Comentarios desactivados<span class="screen-reader-text"> en Las mejores hamacas de bebés</span></span>		
+				
+										
+	</div>
+    
+</div><!-- .post-header -->
+									                                    	    
+<div class="post-content">
+	
+		<p style="text-align: justify;">Uno de los mejores productos para los padres son las <a href="https://www.bebinos.com/hamacas-de-bebe" target="_blank" rel="noopener">hamacas de bebés</a>. En ella <strong>podremos dejar al bebé desde bien pequeñito para poder realizar tareas, como recoger la casa, ducharnos o simplemente descansar un poco los brazos y la espalda</strong>, que tan afectados se ven por coger peso constantemente.</p>
+<p style="text-align: justify;">En la hamaca, el bebé se entretiene más que en la cuna, ve el mundo que le rodea, descubre su casa y además, la mayoría de hamacas suelen venir con juguetitos que poco a poco irán llamando su atención y le harán entretenerse, asimismo <strong>es el lugar perfecto para echarse una siesta cortita</strong>.</p>
+<p> <a href="https://misionlandia.com.ar/las-mejores-hamacas-de-bebes/#more-17" class="more-link">Seguir leyendo</a></p>
+					
+		
+</div><!-- .post-content -->
+            
+<div class="clear"></div>			    				    		
+		    		</div><!-- .post -->
+		    			        		            
+		        		    	
+					<div id="post-9" class="post-9 post type-post status-publish format-standard has-post-thumbnail hentry category-deportes">
+		    	
+			    		<div class="post-header">
+
+	
+		<div class="featured-media">
+		
+					
+			<a href="https://misionlandia.com.ar/trezeguet-estara-fuera-del-plantel-de-river-esta-temporada/" rel="bookmark" title="Trezeguet estará fuera del plantel de River esta temporada">
+			
+				<img width="676" height="826" src="https://misionlandia.com.ar/wp-content/uploads/2018/06/tre0002-676x826.jpg" class="attachment-post-image size-post-image wp-post-image" alt="" srcset="https://misionlandia.com.ar/wp-content/uploads/2018/06/tre0002-676x826.jpg 676w, https://misionlandia.com.ar/wp-content/uploads/2018/06/tre0002-246x300.jpg 246w, https://misionlandia.com.ar/wp-content/uploads/2018/06/tre0002-768x938.jpg 768w, https://misionlandia.com.ar/wp-content/uploads/2018/06/tre0002-839x1024.jpg 839w" sizes="(max-width: 676px) 100vw, 676px" />				
+								
+			</a>
+					
+		</div><!-- .featured-media -->
+			
+		
+    <h2 class="post-title"><a href="https://misionlandia.com.ar/trezeguet-estara-fuera-del-plantel-de-river-esta-temporada/" rel="bookmark" title="Trezeguet estará fuera del plantel de River esta temporada">Trezeguet estará fuera del plantel de River esta temporada</a></h2>
+    
+    <div class="post-meta">
+	
+		<span class="post-date"><a href="https://misionlandia.com.ar/trezeguet-estara-fuera-del-plantel-de-river-esta-temporada/" title="Trezeguet estará fuera del plantel de River esta temporada">junio 6, 2018</a></span>
+		
+		<span class="date-sep"> / </span>
+			
+		<span class="post-author"><a href="https://misionlandia.com.ar/author/facturacion_n068fzwc/" title="Entradas de admin" rel="author">admin</a></span>
+		
+		<span class="date-sep"> / </span>
+		
+		<span>Comentarios desactivados<span class="screen-reader-text"> en Trezeguet estará fuera del plantel de River esta temporada</span></span>		
+				
+										
+	</div>
+    
+</div><!-- .post-header -->
+									                                    	    
+<div class="post-content">
+	
+		<div class="itemIntroText">
+<p>El DT millonario no lo convocó para esta nueva temporada. Los otros futbolistas que tendrán que buscar nuevos horizontes son Leandro González Pirez, Walter Acevedo, Luciano Abecasis y Diego Martínez.</p>
+</div>
+<div class="itemFullText">
+<p>Esta mañana, Ramón Díaz le informó a un grupo de jugadores que ya no los tendrá en cuenta.</p>
+<p>De esa pequeña lista, el nombre que más se destaca es el de David Trezeguet, quien ayer acompañó a sus compañeros en la victoria ante San Martín de San Juan y, ya recuperado, esperaba con muchas ilusiones la pretemporada para ponerse a punto y poder volver a jugar en el Inicial 2013.</p>
+<p><img class="size-medium wp-image-12 aligncenter" src="https://misionlandia.com.ar/wp-content/uploads/2018/06/reze24812-300x225.jpg" alt="" width="300" height="225" srcset="https://misionlandia.com.ar/wp-content/uploads/2018/06/reze24812-300x225.jpg 300w, https://misionlandia.com.ar/wp-content/uploads/2018/06/reze24812.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Sin embargo, el Pelado tiene otros planes y se lo hizo saber este mismo mediodía, en una charla cara a cara.</p>
+<p>Los otros futbolistas que tendrán que buscar nuevos horizontes son Leandro González Pirez, Walter Acevedo, Luciano Abecasis y Diego Martínez.</p>
+<p>En tanto, desde el cuerpo técnico de River se informó que Ramón Díaz llevará a la pretemporada a los siguientes jugadores: Marcelo Barovero, Jonatan Maidana, Adalberto Román, Ramiro Funes Mori, Jonathan Bottinelli, Carlos Sanchez, Rogelio Funes Mori, Manuel Lanzini, Ezequiel Cirigliano, Rojas, Marinelli, Gomez, Chichizola, Pezzella, Vangioni, Aguirre, Ponzio, Mercado, Ledesma, Solari, Kranevitter, Luna, TMartinez, Balanta y Andrada.</p>
+</div>
+					
+		
+</div><!-- .post-content -->
+            
+<div class="clear"></div>			    				    		
+		    		</div><!-- .post -->
+		    			        		            
+		        	        	                    
+						
+		</div><!-- .posts -->
+		
+					
+	</div><!-- .content.left -->
+		
+	
+	<div class="sidebar right" role="complementary">
+	
+		<div class="widget widget_search"><div class="widget-content"><form method="get" class="searchform" action="https://misionlandia.com.ar/">
+	<input type="search" value="" placeholder="Formulario de búsqueda" name="s" id="s" /> 
+	<input type="submit" id="searchsubmit" value="Buscar">
+</form></div><div class="clear"></div></div>		<div class="widget widget_recent_entries"><div class="widget-content">		<h3 class="widget-title">Entradas recientes</h3>		<ul>
+											<li>
+					<a href="https://misionlandia.com.ar/como-conquistar-a-mujeres-solteras-en-2018/">¿Cómo conquistar a mujeres solteras en 2018?</a>
+									</li>
+											<li>
+					<a href="https://misionlandia.com.ar/como-elegir-la-residencia-de-ancianos-perfecta-para-tus-padres/">Cómo elegir la residencia de ancianos perfecta para tus padres</a>
+									</li>
+											<li>
+					<a href="https://misionlandia.com.ar/ryanair-cobrara-por-el-equipaje-de-mano/">Ryanair cobrará por el equipaje de mano</a>
+									</li>
+											<li>
+					<a href="https://misionlandia.com.ar/el-valor-de-un-buen-traductor/">El valor de un buen traductor</a>
+									</li>
+											<li>
+					<a href="https://misionlandia.com.ar/se-ha-convertido-la-inmigracion-en-un-problema-para-europa/">¿Se ha convertido la inmigración en un problema para Europa?</a>
+									</li>
+					</ul>
+		</div><div class="clear"></div></div><div class="widget widget_archive"><div class="widget-content"><h3 class="widget-title">Archivos</h3>		<ul>
+			<li><a href='https://misionlandia.com.ar/2018/08/'>agosto 2018</a></li>
+	<li><a href='https://misionlandia.com.ar/2018/07/'>julio 2018</a></li>
+	<li><a href='https://misionlandia.com.ar/2018/06/'>junio 2018</a></li>
+		</ul>
+		</div><div class="clear"></div></div><div class="widget widget_categories"><div class="widget-content"><h3 class="widget-title">Categorías</h3>		<ul>
+	<li class="cat-item cat-item-2"><a href="https://misionlandia.com.ar/category/deportes/" >deportes</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://misionlandia.com.ar/category/internacional/" >Internacional</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://misionlandia.com.ar/category/lugares/" >Lugares</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://misionlandia.com.ar/category/noticias/" >Noticias</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://misionlandia.com.ar/category/ocio/" >Ocio</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://misionlandia.com.ar/category/puericultura/" >Puericultura</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://misionlandia.com.ar/category/salud/" >Salud</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://misionlandia.com.ar/category/tecnologia/" >Tecnología</a>
+</li>
+		</ul>
+</div><div class="clear"></div></div>		
+	</div><!-- /sidebar -->
+
+	
+	<div class="clear"></div>
+
+</div><!-- .wrapper -->
+	              	        
+	<div class="footer section large-padding bg-dark">
+		
+		<div class="footer-inner section-inner">
+		
+			<!-- .footer-a -->
+				
+			<!-- .footer-b -->
+								
+			<!-- .footer-c -->
+			
+			<div class="clear"></div>
+		
+		</div><!-- .footer-inner -->
+	
+	</div><!-- .footer -->
+	
+	<div class="credits section bg-dark no-padding">
+	
+		<div class="credits-inner section-inner">
+	
+			<p class="credits-left">
+			
+				&copy; 2018 <a href="https://misionlandia.com.ar" title="Misionlandia.com.ar">Misionlandia.com.ar</a>
+			
+			</p>
+			
+			
+			
+			<div class="clear"></div>
+		
+		</div><!-- .credits-inner -->
+		
+	</div><!-- .credits -->
+
+</div><!-- .big-wrapper -->
+
+<script type='text/javascript' src='http://misionlandia.com.ar/wp-content/themes/hemingway/js/global.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://misionlandia.com.ar/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+
+</body>
+</html>

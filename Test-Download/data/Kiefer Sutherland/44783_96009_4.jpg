@@ -1,0 +1,2114 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="icon" href="/favicon.ico" type="image/x-icon"> 
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+
+
+<meta name="ROBOTS" content="INDEX, FOLLOW" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+
+		<title>
+Scoop - Where the Magic of Collecting Comes Alive!		</title>
+
+		<link href="/Content/ContentSiteGlobal.css" rel="stylesheet"/>
+<link href="/Content/csls.css" rel="stylesheet"/>
+<link href="/Scripts/FancyBox/jquery.fancybox-1.3.4.css" rel="stylesheet"/>
+
+		<link href="/Content/Scoop.css" rel="stylesheet" type="text/css" />
+		<script src="/Scripts/jquery-1.7.1.js"></script>
+<script src="/Scripts/jquery-watermark.js"></script>
+<script src="/Scripts/FancyBox/jquery.mousewheel-3.0.4.js"></script>
+<script src="/Scripts/FancyBox/jquery.easing-1.3.js"></script>
+<script src="/Scripts/FancyBox/jquery.fancybox-1.3.4.js"></script>
+<script src="/Scripts/jquery.scrollTo.js"></script>
+<script src="/Scripts/js_functions.js"></script>
+<script src="/Scripts/InlineSlideShow/jquery.diamondcomics.inlineslideshow-1.0.js"></script>
+<script src="/Scripts/ChangeStatus.js"></script>
+<script src="/Scripts/jquery.popupWindow.js"></script>
+<script src="/Scripts/Geocode/Geocode.js"></script>
+<script src="/Scripts/WebLogExpert/wle_tracker.js"></script>
+
+		<script src="/Scripts/Galleria/galleria-1.2.6.js"></script>
+<script src="/Scripts/Galleria/galleria-LoadTheme.js"></script>
+
+		
+
+		<script type="text/javascript">
+			$(document).ready(function () {
+				$(".FancyPopup").fancybox({
+					'transitionIn': 'elastic',
+					'transitionOut': 'elastic',
+					'centerOnScroll': 'true',
+					'type': 'iframe',
+					'titlePosition': 'over',
+					'onComplete': function() {
+						$("#fancybox-title").css({'top':'0px', 'bottom':'auto'}); 
+						},
+					'width': '75%',
+					'height': '600'
+				});
+			});
+			$(document).ready(function () {
+				$(".FancyPopupImage").fancybox({
+					'transitionIn': 'elastic',
+					'transitionOut': 'elastic',
+					'centerOnScroll': 'true',
+					'type': 'image',
+					'titlePosition': 'over',
+					'onComplete': function () {
+						$("#fancybox-title").css({ 'top': '0px', 'bottom': 'auto' });
+					}
+				});
+			});
+			$(document).ready(function () {
+				$('.HtmlContent a[href^="#"]').click(function () {
+					var item = $(this).attr("href");
+					item = item.substring(1);
+					var aitem = $("[name='" + item + "']")
+					$.scrollTo(aitem);
+					return false;
+				});
+			});
+
+			function CloseFancybox() { $.fancybox.close(); }
+		</script>
+		<script type="text/javascript">Galleria.loadTheme('/Scripts/Galleria/Themes/Classic/galleria.classic.min.js');</script>
+		<script type="text/javascript" src="https://widgets.twimg.com/j/2/widget.js"></script>
+		<script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js"></script>
+		<script type="text/javascript">
+			GS_googleAddAdSenseService("ca-pub-9314159886118091");
+			GS_googleEnableAllServices();
+		</script>
+		<script type="text/javascript">
+//			GS_googleAddAdSenseService("ca-pub-9314159886118091");
+//			GS_googleEnableAllServices();
+			GA_googleAddSlot("ca-pub-9314159886118091", "RV-Homes-Full-Banner-Lead");
+			GA_googleAddSlot("ca-pub-9314159886118091", "RV-Homes-Button-1");
+			GA_googleAddSlot("ca-pub-9314159886118091", "RV-Homes-Button-1-Number-2");
+			GA_googleAddSlot("ca-pub-9314159886118091", "RV-Homes-Button-2");
+			GA_googleAddSlot("ca-pub-9314159886118091", "RV-Homes-Skyscraper");
+			GA_googleAddSlot("ca-pub-9314159886118091", "RV-Homes-Vertical-Banner");
+			GA_googleAddSlot("ca-pub-9314159886118091", "PW-Home-Full-Banner-Lead");
+			GA_googleAddSlot("ca-pub-9314159886118091", "PW-Home-Button-1");
+			GA_googleAddSlot("ca-pub-9314159886118091", "PW-Home-Button-1-Number2");
+			GA_googleAddSlot("ca-pub-9314159886118091", "PW-Home-Button-2");
+			GA_googleAddSlot("ca-pub-9314159886118091", "PW-Home-Vertical-Banner");
+			GA_googleAddSlot("ca-pub-9314159886118091", "PW-Home-Skyscraper");
+			GA_googleAddSlot("ca-pub-9314159886118091", "PW-Home-Skyscraper-2");
+			GA_googleAddSlot("ca-pub-9314159886118091", "PW-Home-Skyscraper-3");
+			GA_googleAddSlot("ca-pub-9314159886118091", "Bookshelf-Full-Banner-Lead");
+			GA_googleAddSlot("ca-pub-9314159886118091", "Bookshelf-Button-2");
+			GA_googleAddSlot("ca-pub-9314159886118091", "Bookshelf-Skyscraper");
+			GA_googleAddSlot("ca-pub-9314159886118091", "Bookshelf-Skyscraper-2");
+			GA_googleAddSlot("ca-pub-9314159886118091", "Bookshelf-Vertical-Banner");
+			GA_googleAddSlot("ca-pub-9314159886118091", "DBD-Full-Leaderboard");
+			GA_googleAddSlot("ca-pub-9314159886118091", "FCBD-Full-Leaderboard");
+			GA_googleAddSlot("ca-pub-9314159886118091", "FCBD_RIGHT_COL1");
+			GA_googleAddSlot("ca-pub-9314159886118091", "FCBD_RIGHT_COL2");
+			GA_googleAddSlot("ca-pub-9314159886118091", "FCBD_MedRectangleLeft");
+			GA_googleAddSlot("ca-pub-9314159886118091", "TCN-Full-Leaderboard");
+			GA_googleAddSlot("ca-pub-9314159886118091", "TCN-Vertical-Banner");
+			GA_googleAddSlot("ca-pub-9314159886118091", "TCN-Skyscraper");
+			GA_googleAddSlot("ca-pub-9314159886118091", "TCN-Lower-Skyscraper");
+			GA_googleFetchAds();
+		</script>
+		
+		<script type="text/javascript" src="/Scripts/Quantcast/QuantcastAsyncGeneric.js"></script>
+		<script type="text/javascript">_qevents.push({ qacct: "p-f7cyZRvgsC9K2" });</script>
+		<noscript><div style="display: none;"><img src="https://pixel.quantserve.com/pixel/p-f7cyZRvgsC9K2.gif" height="1" width="1" alt="Quantcast"/></div></noscript>
+		
+
+		<script>
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+		m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+	ga('create', 'UA-29725665-12', 'auto');
+	ga('send', 'pageview');
+
+</script>
+
+	</head>
+
+	<body>
+		<div id="LayoutContainer">
+			<div id="Header">
+
+<div class="BannerAd">
+
+
+
+<div class="Advertisement"><a href="/Home/Redirect/5786" target="_blank" language="javascript" onMouseOver="changeStatus('');return true"><img src="/Ads/5786.gif" border="0" width="728" height="90" alt="DIG Auctions Leaderboard 4-24-18"></a></div>
+</div>
+
+<div class="Logo">
+
+
+</div>
+
+<div class="HeaderLogo">
+
+
+
+<div class="Advertisement"><a href="/Home/Redirect/439" target="_self" language="javascript" onMouseOver="changeStatus('');return true"><img src="/Ads/439.png" border="0" width="200" height="144" alt="Scoop Logo"></a></div>
+</div>
+
+<div class="InhouseAdvertisement">
+
+
+
+<div class="Advertisement"><a href="/Home/Redirect/5902" target="_blank" language="javascript" onMouseOver="changeStatus('');return true"><img src="/Ads/5902.jpg" border="0" width="468" height="60" alt="Overstreet Tabletop"></a></div>
+
+
+</div>
+				<div class="DateTimeBar">
+					<div class="DateTimeDisplay">
+						Thursday, September 27, 2018
+					</div>
+					<div class="Slogan">
+						<strong>Scoop</strong> is a totally free e-newsletter, produced for the benefit of the friends who share our hobby!
+					</div>
+				</div>
+				<div id="SiteLinksMiniBar">
+
+<a href="/"><strong>Home</strong></a>
+				</div>
+			</div>
+	
+			<div id="ContentAreaHeader">
+				<div class="Navigation"></div>
+				<div class="SideBar"></div>
+				<div class="MainContent"></div>
+			</div>
+	
+			<div id="ContentArea">
+				<div class="Navigation">
+					<div class="NavigationContent">
+
+
+
+
+
+
+
+
+
+
+
+<div class="SocialNetworkingIcons">
+		<a href="http://www.facebook.com/GemstonePublishing" target="_blank"><img src="/GenericImages/facebook-icon.png" alt="Facebook Icon" /></a>
+
+		<a href="http://twitter.com/Scoop_Gemstone" target="_blank"><img src="/GenericImages/twitter-icon.png" alt="Twitter Icon" /></a>
+
+
+
+
+
+	
+
+		<a href="http://www.youtube.com/fandomnetwork" target="_blank"><img src="/GenericImages/youtube-icon-transparent.png" alt="YouTube Icon" /></a>
+</div>
+
+
+
+
+	<div class="SectionGroup">
+		<div class="SectionGroupName">Group1</div>
+		<hr class="SectionGroupRule" />
+
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1012">Industry News</a>
+				</div>
+			</div>
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1013">Superstars</a>
+				</div>
+			</div>
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1014">Auctions - Prices</a>
+				</div>
+			</div>
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1017">The Main Event</a>
+				</div>
+			</div>
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1018">In the Limelight</a>
+				</div>
+			</div>
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1016">Did You Know?</a>
+				</div>
+			</div>
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1015?articleID=0">Catch the Wave</a>
+				</div>
+			</div>
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1019">Mondo Media</a>
+				</div>
+			</div>
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1020">Off the Presses</a>
+				</div>
+			</div>
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1021">Savvy Sites</a>
+				</div>
+			</div>
+	</div>
+
+
+
+	<div class="SectionGroup">
+		<div class="SectionGroupName">Group2</div>
+		<hr class="SectionGroupRule" />
+
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1024?articleID=69061">Advertise</a>
+				</div>
+			</div>
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Search/Article">Search</a>
+				</div>
+			</div>
+	</div>
+
+
+
+	<div class="SectionGroup">
+		<div class="SectionGroupName">Group3</div>
+		<hr class="SectionGroupRule" />
+
+			<div class="NavigationItem">
+				<div class="NavigationImg">
+				</div>
+		
+				<div class="NavigationLink">
+								<a href="/Home/4/1/73/1029?articleID=61325">Contact</a>
+				</div>
+			</div>
+	</div>
+
+
+
+
+
+
+<div class="Advertisement"><a href="/Home/Redirect/342" target="_self" language="javascript" onMouseOver="changeStatus('');return true"><img src="/Ads/342.gif" border="0" width="120" alt="Scoop Signup"></a></div><div class="Advertisement"><a href="/Home/Redirect/5887" target="_blank" language="javascript" onMouseOver="changeStatus('');return true"><img src="/Ads/5887.jpg" border="0" width="120" alt="Hake's Consign 9-4-18"></a></div>
+
+
+					</div>
+					<div class="SocialNetworkingLiveFeeds">
+
+					</div>
+					<div class="NavigationPolls">
+
+
+					</div>
+				</div>
+	
+				<div class="SideBar">
+					<div class="SideBarContent">
+
+
+
+
+<div class="InhouseAdvertisement">
+
+
+</div>
+
+<div class="GoogleAdvertisement" style="padding-top: 0px; padding-bottom: 0px;">
+	<div class="CslsAd"><script type="text/javascript">GA_googleFillSlot("RV-Homes-Button-1");</script></div>
+</div>
+
+
+
+
+<div class="Advertisement"><a href="/Home/Redirect/5879" target="_blank" language="javascript" onMouseOver="changeStatus('');return true"><img src="/Ads/5879.jpg" border="0" width="120" alt="eMoviePoster 8-27-18"></a></div><div class="Advertisement"><a href="/Home/Redirect/5884" target="_blank" language="javascript" onMouseOver="changeStatus('');return true"><img src="/Ads/5884.jpg" border="0" width="120" alt="Spiderweb Art Gallery 8-29-18"></a></div><div class="Advertisement"><a href="/Home/Redirect/4570" target="_blank" language="javascript" onMouseOver="changeStatus('');return true"><img src="/Ads/4570.jpg" border="0" width="120" alt="Hero Initiative"></a></div>
+
+
+
+					</div>
+				</div>
+	
+				<div class="MainContent">
+					
+
+<div class="Advertisement"><a href="/Home/Redirect/5905" target="_blank" language="javascript" onMouseOver="changeStatus('');return true"><img src="/Ads/5905.gif" border="0" width="468" height="60" alt="ComicLink 9-25-18"></a></div>
+
+
+
+
+
+
+
+
+
+		<div class="ChildSection">
+			<div class="SectionBanner">
+						<div class="SectionBannerMiniImage">
+							<a href="/Home/4/1/73/1012">
+								<img src="/news_images/4/menu_images/1050_HomeSectionBannerImage.jpg" alt="Industry News - Home" title="Industry News - Home" class="banner_image" />
+							</a>
+						</div>
+			</div>
+			
+			<div class="Articles">
+
+
+
+
+		<div class="SectionArticles">
+
+				<div class="AbstractOnly">
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218891">
+			Big, Big Overstreet #48 Sold Out at Diamond
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The Big, Big Overstreet Comic Book Price Guide #48 is sold out from Diamond Comic Distributors...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218891">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218831">
+			ComicLink at Baltimore Comic-Con, NYCC
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	ComicLink will attend Baltimore Comic-Con this weekend on September 28-30, 2018, and New York Comic Con on October 4-7. ComicLink VP...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218831">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218876">
+			Buffy the Vampire Slayer’s New Home: BOOM! 
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	In mid-August, it was announced that Dark Horse would no longer publish Buffy the Vampire Slayer comics, after a 20-year relationship between...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218876">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218825">
+			Metropolis Gallery to Open Simone Bianchi Exhibit
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	On October 5, 2018, Metropolis Gallery will be exhibiting and offering original comic art by master Italian painter Simone Bianchi...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218825">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218847">
+			MyComicShop to Spend Up to $500K to DFF
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Comics retailer Buddy Saunders of MyComicShop.com, is heading to Dallas Fantasy Fair comic convention in November...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218847">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218892">
+			Stan & Ollie Trailer Released Online
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	A trailer has been released for Stan & Ollie, the biopic that follows the iconic comedy duo of Stan Laurel and Oliver Hardy on their memorable...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218892">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=219116">
+			Birds of Prey Film Casts Huntress, Black Canary
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Mary Elizabeth Winstead and Jurnee Smolett-Bell have been cast as Huntress and Black Canary, respectively, in the planned...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=219116">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218977">
+			BOOM! Announces The Magicians Graphic Novel
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	BOOM! Studios has announced the acquisition of the comic book and graphic novel publishing license to The Magicians, the New York...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218977">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=219123">
+			Darth Vader Heads to Virtual Reality
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The Lord of the Sith himself, Darth Vader, will be brought to virtual reality via the Oculus Quest VR headset in a new episodic...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=219123">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=219081">
+			Eaglemoss Hero Collector Prepares for NYCC
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Eaglemoss Hero Collector will be setting up at New York Comic Con at booth #1520 with new ships from both the 1978 and 2004...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=219081">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=219098">
+			Fiffe Joins IDW for G.I. Joe: Sierra Muerte Miniseries
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	IDW Publishing is welcoming Michel Fiffe, creator of the acclaimed indie comic Copra, to bring his style to the all-new G.I. Joe...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=219098">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218991">
+			First Look at Chucky in Child’s Play Remake
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	With the success of recent horror films like It and the positive buzz for the Halloween reboot, more horror franchises are looking to capitalize...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218991">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218965">
+			HBO Announces Game of Thrones Legacy Experience
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Game of Thrones will be reaching its conclusion in 2019, but fans of the HBO series will soon be able to visit the lands of...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218965">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218986">
+			In Memoriam: Al Matthews
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Actor Al Matthews, known best for his appearance as Gunnery Sergeant Apone in Aliens, passed away on September 22, 2018...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218986">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=219120">
+			Invicta Watch VIP Reception at Metropolis Gallery
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Due to the popularity of their limited-edition character collections, Invicta Watch Group will be appearing for the first time at...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=219120">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218993">
+			It’s Time for Netflix and Chills
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	It’s officially fall, which means it’s time for Halloween and the parade of scary movies to set the festive mood. In celebration of the season...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218993">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218926">
+			Joaquin Phoenix’s Joker in Full Makeup
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	After the recent picture of Joaquin Phoenix as The Joker left fans wondering where his iconic clown makeup was, director Todd Phillips shared...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218926">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1012?articleID=218938">
+			Telltale Games Hit With Massive Layoffs, Studio Closure
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Telltale Games, developer of popular video games such as The Walking Dead, The Wolf Among Us, Tales from the Borderlands...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1012?articleID=218938">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+	 			</div>
+				<div style="clear: both"></div>
+		</div>
+
+			</div>
+			<div class="StockItems">
+
+	<div class="SectionStockCodes">
+	</div>
+
+			</div>
+			<div class="Scrollers">
+
+
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="ChildSection">
+			<div class="SectionBanner">
+						<div class="SectionBannerMiniImage">
+							<a href="/Home/4/1/73/1013">
+								<img src="/news_images/4/menu_images/1049_HomeSectionBannerImage.jpg" alt="SuperStars - Home" title="SuperStars - Home" class="banner_image" />
+							</a>
+						</div>
+			</div>
+			
+			<div class="Articles">
+
+
+
+
+		<div class="SectionArticles">
+
+				<div class="AbstractOnly">
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1013?articleID=218582">
+			TURNING POINTS by Maggie Thompson
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Here’s the latest installment of Maggie Thompson’s ongoing look at important beginnings, middles and ends, this time for September 21-27, 2018...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1013?articleID=218582">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1013?articleID=218580">
+			BRONZE AGE MINUTE: Fantastic Four #233
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The Human Torch goes on a mission to clear the name of a deceased lowlife – and runs into Hammerhead instead...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1013?articleID=218580">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1013?articleID=218575">
+			Celebrity Birthdays
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Actor-rapper Will Smith celebrates 50. Check out these other celebrity birthdays...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1013?articleID=218575">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1013?articleID=218985">
+			Gemstone Editor Prepares for Extra Life Marathon
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Gemstone Assistant Editor Carrie Wood will be taking on the challenge of Extra Life again in 2018, hoping to raise money for the Johns...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1013?articleID=218985">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1013?articleID=218895">
+			Shaping the Comic Universe with Fabian Nicieza
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Over the years, comic book writer and editor Fabian Nicieza has lended his talents to countless Marvel titles. The New Jersey-native helped...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1013?articleID=218895">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+	 			</div>
+				<div style="clear: both"></div>
+		</div>
+
+			</div>
+			<div class="StockItems">
+
+	<div class="SectionStockCodes">
+	</div>
+
+			</div>
+			<div class="Scrollers">
+
+
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="ChildSection">
+			<div class="SectionBanner">
+						<div class="SectionBannerMiniImage">
+							<a href="/Home/4/1/73/1014">
+								<img src="/news_images/4/menu_images/1051_HomeSectionBannerImage.jpg" alt="Auction Prices - Home" title="Auction Prices - Home" class="banner_image" />
+							</a>
+						</div>
+			</div>
+			
+			<div class="Articles">
+
+
+
+
+		<div class="SectionArticles">
+
+				<div class="AbstractOnly">
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218845">
+			Just Kids Nostalgia Lists Vintage Halloween Decorations
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	With the weather cooling down and fall starting up, Just Kids Nostalgia is getting ready for the spooky time of the year by selling vintage...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218845">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218484">
+			Metropolis to Offer Free Appraisals at NYCC
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Metropolis Collectibles will set up at New York Comic Con and is offering free appraisals on comic book and original comic art collections...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218484">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218830">
+			ComicLink Accepts Auction Consignments
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	ComicLink is now gathering consignments for their upcoming Fall Featured Auction which will begin on November 14 as well as the October Focused...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218830">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218992">
+			1792 Silver Half Disme Reaches Record $1.9M
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The finest known example of the first official United States coin, a 1792 silver Half Disme, has been sold for a record $1,985,000...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218992">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218997">
+			54 Select Paintings in Woodshed Art Auction
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	An elite group of 54 selected paintings: impressionist & modern will come up for bid at Woodshed Art Auctions on Thursday, October 4...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218997">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=219082">
+			Bid in Saturday Comic Auction #28 on DIGAuction.com
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Saturday Comic Auction #29 is available for preview now and will be open for bidding from September 29 through October...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=219082">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218996">
+			Blackwell Fine Art Auction on October 13
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Blackwell Auctions presents Oct. 13 Fine Art sale featuring works by Koons, Mapplethorpe, Rauschenberg and more...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218996">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=219052">
+			Captain America, Star Wars & More in Heritage Sunday Auction
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Heritage Auctions’ Sunday Internet Comics, Animation & Art Auction features a number of important and historical pieces, and will...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=219052">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218935">
+			Cut Glass Collection Leads Woody October Auction
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The lifetime American Brilliant Cut Glass (ABCG) and Brilliant Period Cut Glass (BPCG) collection of Jean Rex of California will be sold without...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218935">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=219130">
+			eMoviePoster to Sell 999 International Posters
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	eMoviePoster’s current auction is filled with 999 non-U.S. posters from 30 different countries. Bidding on these posters closes on Tuesday...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=219130">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218998">
+			High Grade Silver Age Marvel, DC Issues in Pedigree Auction
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The CGC grades are back on a group of Silver Age Marvel and DC comics that Pedigree Comics President and CEO Doug Schmell picked up at the recent...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218998">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218995">
+			John Coker Auction Revs Up with Classic Cars, Petroliana
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Three-generation Tennessee family collection of classic cars and petroliana to cross the finish line at John Coker October 6 no-reserve auction...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218995">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218955">
+			Miller & Miller Mantiques Auction Sets Canadian Records
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The sale was held online and at Miller & Miller’s gallery in New Hamburg, Ontario, Canada. The top selling lot was a 1950 Plymouth Special...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218955">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218954">
+			Ohtani Superfractor Reaches $184K at Auction
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Beckett Goodwin Auctions has auctioned the most significant trading card produced in 2018 – the 2018 Topps Bowman Chrome Shohei Ohtani...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218954">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=219083">
+			Pop Culture and Vintage Collectibles on eBay from DIG 
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	This week DIG brings the expected variety of pop culture and vintage collectibles in their weekly eBay auction ending ...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=219083">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=218994">
+			Rivertown Asian Fine, Decorative Art Auction on Oct. 13
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Rivertown presents important estate-sourced Asian art in October 13 no reserve auction, with timeline from Shang Dynasty through 20th century...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=218994">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1014?articleID=219117">
+			Superworld Comics to Attend Baltimore, New York Cons
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Superworld Comics will be hitting two shows in two weekends. First up, on September 28-30, 2018, they’ll be at Baltimore Comic-Con in booth 1204...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1014?articleID=219117">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+	 			</div>
+				<div style="clear: both"></div>
+		</div>
+
+			</div>
+			<div class="StockItems">
+
+	<div class="SectionStockCodes">
+	</div>
+
+			</div>
+			<div class="Scrollers">
+
+
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="ChildSection">
+			<div class="SectionBanner">
+						<div class="SectionBannerMiniImage">
+							<a href="/Home/4/1/73/1017">
+								<img src="/news_images/4/menu_images/1053_HomeSectionBannerImage.jpg" alt="The Main Event - Home" title="The Main Event - Home" class="banner_image" />
+							</a>
+						</div>
+			</div>
+			
+			<div class="Articles">
+
+
+
+
+		<div class="SectionArticles">
+
+				<div class="AbstractOnly">
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1017?articleID=216339">
+			Pegleg Pete: A Master Class in Bully Behavior
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The iconic Disney cartoon short Steamboat Willie celebrates its 90th anniversary later this year, and along with it...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1017?articleID=216339">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+	 			</div>
+				<div style="clear: both"></div>
+		</div>
+
+			</div>
+			<div class="StockItems">
+
+	<div class="SectionStockCodes">
+	</div>
+
+			</div>
+			<div class="Scrollers">
+
+
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="ChildSection">
+			<div class="SectionBanner">
+						<div class="SectionBannerMiniImage">
+							<a href="/Home/4/1/73/1018">
+								<img src="/news_images/4/menu_images/1111_HomeSectionBannerImage.jpg" alt="In the Limelight - Home" title="In the Limelight - Home" class="banner_image" />
+							</a>
+						</div>
+			</div>
+			
+			<div class="Articles">
+
+
+
+
+		<div class="SectionArticles">
+
+				<div class="AbstractOnly">
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1018?articleID=218317">
+			Colossalcon East in Photos, Part II
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Guests this year included voice actors Todd Haberkorn (Soul Eater), Morgan Berry (My Hero Academia), James Carter Cathcart (Pokémon)...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1018?articleID=218317">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1018?articleID=218812">
+			Justice Reigns at Geppi’s Entertainment Museum
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	In both the original Captain America comics and the feature film Captain America: The Winter Soldier, the unlikely return of Bucky Barnes...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1018?articleID=218812">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1018?articleID=218923">
+			FYI: Murphy Brown is Back
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	In 1988, CBS introduced viewers to a sharp tongued and hard as nails investigative journalist and news anchor named Murphy Brown. While the fictional...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1018?articleID=218923">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+	 			</div>
+				<div style="clear: both"></div>
+		</div>
+
+			</div>
+			<div class="StockItems">
+
+	<div class="SectionStockCodes">
+	</div>
+
+			</div>
+			<div class="Scrollers">
+
+
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="ChildSection">
+			<div class="SectionBanner">
+						<div class="SectionBannerMiniImage">
+							<a href="/Home/4/1/73/1016">
+								<img src="/news_images/4/menu_images/1052_HomeSectionBannerImage.jpg" alt="Did You Know - Home" title="Did You Know - Home" class="banner_image" />
+							</a>
+						</div>
+			</div>
+			
+			<div class="Articles">
+
+
+
+
+		<div class="SectionArticles">
+
+				<div class="AbstractOnly">
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1016?articleID=218890">
+			Star Wars Trading Cards, The Pocket-Sized Collectibles
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Over the past century, trading cards have been easily accessible, steadily popular collectibles. Depicting athletes, cowboys, teen heartthrobs...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1016?articleID=218890">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1016?articleID=218884">
+			Stealth Action in Metal Gear Solid
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	One of the most influential games of the 1990s, and perhaps one of the greatest entries in the entire stealth genre, celebrates...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1016?articleID=218884">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1016?articleID=218897">
+			Betty Ross Hulks Out
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Although originally introduced as a love interest for Bruce Banner, the character of Betty Ross has since undergone numerous alterations, including...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1016?articleID=218897">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1016?articleID=218896">
+			Glowing Justice with Starman
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Reusing names, alter-egos, and picking up mantles is a recurring theme within the comic industry. Over the years, the title of Starman has...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1016?articleID=218896">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1016?articleID=218970">
+			Two Decades of Pokémon's International Success
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Two decades ago, Professor Oak first welcomed trainers to the world of Pokémon with the arrival of Pokémon Red and Pokémon Blue...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1016?articleID=218970">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+	 			</div>
+				<div style="clear: both"></div>
+		</div>
+
+			</div>
+			<div class="StockItems">
+
+	<div class="SectionStockCodes">
+	</div>
+
+			</div>
+			<div class="Scrollers">
+
+
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="ChildSection">
+			<div class="SectionBanner">
+						<div class="SectionBannerMiniImage">
+							<a href="/Home/4/1/73/1015">
+								<img src="/news_images/4/menu_images/1110_HomeSectionBannerImage.jpg" alt="Catch the Wave - Home" title="Catch the Wave - Home" class="banner_image" />
+							</a>
+						</div>
+			</div>
+			
+			<div class="Articles">
+
+
+
+
+		<div class="SectionArticles">
+
+				<div class="AbstractOnly">
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=217303">
+			September 28-30: Baltimore Comic-Con
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The Baltimore Comic-Con is returning to the Inner Harbor for its 19th year on September 28-30, 2018. The convention is taking place at the...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=217303">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218098">
+			September 28-30: Monster-Mania Con
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Boogeymen, horror heroines, wrestlers, and others are heading to Maryland soon for the next installment of Monster-Mania Con...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218098">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218231">
+			October 4-7: New York Comic Con
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Empire State, are you ready for one of the largest pop culture events on the East Coast? New York Comic Con (NYCC) is taking...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218231">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218229">
+			October 5-7: Wizard World Sacramento
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The Wizard World team is heading for California’s state capital to host Wizard World Sacramento on October 5-7, 2018. The three-day show...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218229">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218230">
+			October 6-7: OAFCon
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The Oklahoma Alliance of Fans (OAF) is presenting their annual comic book show-sale-exhibit on October 6-7, 2018 at the Embassy Suites...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218230">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218529">
+			October 13-14: Retro Con
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Prepare for a nostalgic explosion during the annual Retro Con in Pennsylvania! On October 13-14, 2018 enjoy two full days of retro fun at...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218529">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218530">
+			October 19-21: Dallas Fan Days
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The pop culture extravaganza, Dallas Fan Days is gearing up for the annual return to the Irving Convention Center on October 19-21, 2018...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218530">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218727">
+			October 26-28: Crypticon
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The nightmare before Halloween is returning to Minnesota for its 13th year! Crypticon is taking place on October 26-28, 2018...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218727">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218750">
+			October 26-28: Spooky Empire
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Halloween is just around the corner, which means it’s time to get spooky in Florida! Spooky Empire is taking place on October 26-28, 2018...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218750">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218729">
+			October 26-28: Walker Stalker Atlanta
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The dead are coming to Atlanta! On October 26-28, 2018 the annual Walker Stalker convention returns to the Georgia World Congress center...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218729">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218732">
+			October 27-28: Richmond Comicon
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	On October 27-28, 2018, Richmond Comicon is taking over the Richmond Raceway on 600 East Laburnum Avenue. Enjoy three full days...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218732">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218749">
+			October 28: Chicago Toy Show
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	For the 44th year, the Chicago Toy Show is bringing an antique and collectible doll show to the Windy City. On October 28, 2018 the special...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218749">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1015?articleID=218990">
+			October 20-21: Philly Non-Sports Card Show
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The Philly Non-Sports Card Show is returning to the Merchants Square Mall, located at 1901 S. 12th Street, Allentown, PA on October 20-21, 2018...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1015?articleID=218990">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+	 			</div>
+				<div style="clear: both"></div>
+		</div>
+
+			</div>
+			<div class="StockItems">
+
+	<div class="SectionStockCodes">
+	</div>
+
+			</div>
+			<div class="Scrollers">
+
+
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="ChildSection">
+			<div class="SectionBanner">
+						<div class="SectionBannerMiniImage">
+							<a href="/Home/4/1/73/1019">
+								<img src="/news_images/4/menu_images/1054_HomeSectionBannerImage.jpg" alt="Mondo Media - Home" title="Mondo Media - Home" class="banner_image" />
+							</a>
+						</div>
+			</div>
+			
+			<div class="Articles">
+
+
+
+
+		<div class="SectionArticles">
+
+				<div class="AbstractOnly">
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1019?articleID=218859">
+			Teaser for Twilight Zone Revival Debuts
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	CBS has debuted a teaser trailer for their upcoming revival of The Twilight Zone, which highlights the fact that Academy Award...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1019?articleID=218859">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1019?articleID=218848">
+			New Trailer Debuts for Ralph Breaks the Internet
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	A fresh trailer for Ralph Breaks the Internet has debuted online, highlighting Vannelope’s sweet racing skills in the online game...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1019?articleID=218848">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1019?articleID=219085">
+			Final Trailer for Fantastic Beasts Debuts
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The two-minute spot provides the best look so far at what, exactly, the crimes of Grindelwald actually entail...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1019?articleID=219085">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1019?articleID=219041">
+			MST3K Returns on Thanksgiving 2018
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Netflix has announced that their snarky streaming series, Mystery Science Theater 3000, will be returning for its 12th season...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1019?articleID=219041">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1019?articleID=218963">
+			New Bumblebee Trailer Debuts Online
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The latest trailer for the upcoming Bumblebee film, starring the popular ‘bot from the Transformers franchise, has released...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1019?articleID=218963">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1019?articleID=219077">
+			Superman Soars Home in 4K UHD
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Superman: The Movie is heading to home theaters in 4K Ultra HD for the first time, just in time for the 40th anniversary of its...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1019?articleID=219077">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+	 			</div>
+				<div style="clear: both"></div>
+		</div>
+
+			</div>
+			<div class="StockItems">
+
+	<div class="SectionStockCodes">
+	</div>
+
+			</div>
+			<div class="Scrollers">
+
+
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="ChildSection">
+			<div class="SectionBanner">
+						<div class="SectionBannerMiniImage">
+							<a href="/Home/4/1/73/1020">
+								<img src="/news_images/4/menu_images/1055_HomeSectionBannerImage.jpg" alt="Off The Presses - Home" title="Off The Presses - Home" class="banner_image" />
+							</a>
+						</div>
+			</div>
+			
+			<div class="Articles">
+
+
+
+
+		<div class="SectionArticles">
+
+				<div class="AbstractOnly">
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1020?articleID=218899">
+			Doctor Who: The Thirteenth Doctor #0
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Titan Comics has been counting down to the premiere of Doctor Who season 11 with Road to the Thirteenth Doctor. Along with standalone stories...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1020?articleID=218899">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1020?articleID=218921">
+			Faith Dreamside #1
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Faith Herbert, a/k/a Zephyr was living in Los Angeles when a group of her enemies framed her for murder. Now, she’s hiding behind her alter ego...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1020?articleID=218921">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1020?articleID=219109">
+			Man-Eaters #1
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	The term “cat lady” takes on a whole new meaning in this new story from Image Comics, where humans have become infected...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1020?articleID=219109">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1020?articleID=219106">
+			Peter Parker: The Spectacular Spider-Man #310
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Spider-Man has been a big part of some really big stories over the years. He’s faced off against big villains and has clearly had...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1020?articleID=219106">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1020?articleID=218900">
+			Regular Show: 25 Years Later #4
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	They may be 25 years older, but Mordecai and Rigby are none the wiser. After reminiscing over the days of their youth the troublemakers...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1020?articleID=218900">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+	 			</div>
+				<div style="clear: both"></div>
+		</div>
+
+			</div>
+			<div class="StockItems">
+
+	<div class="SectionStockCodes">
+	</div>
+
+			</div>
+			<div class="Scrollers">
+
+
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="ChildSection">
+			<div class="SectionBanner">
+						<div class="SectionBannerMiniImage">
+							<a href="/Home/4/1/73/1021">
+								<img src="/news_images/4/menu_images/1056_HomeSectionBannerImage.jpg" alt="Savvy Sites - Home" title="Savvy Sites - Home" class="banner_image" />
+							</a>
+						</div>
+			</div>
+			
+			<div class="Articles">
+
+
+
+
+		<div class="SectionArticles">
+
+				<div class="AbstractOnly">
+							<div class="Item">
+
+
+<div class="Headline">
+            <a href="/Home/4/1/73/1021?articleID=218581">
+			Play Better Podcast
+		    </a>
+		    <br />
+</div>
+	
+<div class="AbstractContent">
+	Fans of tabletop gaming can tune in to the Play Better Podcast, which can be streamed online via their website or via...
+	<div class="AbstractArticleLinkTrailer">
+		    <a href="/Home/4/1/73/1021?articleID=218581">>></a>
+	</div>
+</div>
+
+ <div class="clear"></div> 							</div>
+	 			</div>
+				<div style="clear: both"></div>
+		</div>
+
+			</div>
+			<div class="StockItems">
+
+	<div class="SectionStockCodes">
+	</div>
+
+			</div>
+			<div class="Scrollers">
+
+
+
+			</div>
+			<div class="clear"></div>
+		</div>
+
+
+<div class="Advertisement"><a href="/Home/Redirect/5592" target="_blank" language="javascript" onMouseOver="changeStatus('');return true"><img src="/Ads/5592.gif" border="0" width="468" height="60" alt="GT Grading Comics - Full Banner Bottom of Page"></a></div>
+				</div>
+			</div>
+	
+			<div id="ContentAreaFooter">
+				<div class="Navigation"></div>
+				<div class="SideBar"></div>
+				<div class="MainContent"></div>
+			</div>
+	
+			<div id="Footer">
+
+<div class="FooterLogo">
+	<a href="http://www.gemstonepub.com" target="_blank"><img src="/GenericImages/Gemstone-logo-color.gif" alt="Gemstone Publishing" /></a>
+	<a href="http://www.geppismuseum.com" target="_blank"><img src="/GenericImages/Gem.jpg" alt="Geppi's Entertainment Museum" /></a>
+	<a href="http://www.diamondgalleries.com" target="_blank"><img src="/GenericImages/diamond-gall-blue-shadow.gif" alt="Diamond International Galleries, Inc." /></a>
+	<a href="http://www.fandomnetwork.com" target="_blank"><img src="/GenericImages/FandomNetwork.jpg" alt="Fandom Network" /></a>
+</div>
+
+<div class="FooterLegal">
+	Original content &#169;2018 Gemstone Publishing, Inc., Geppi's Entertainment Museum, Diamond International Galleries, and/or the Fandom Advisory Network.
+	<br />
+	All other material &#169;2018 respective copyright holders. All rights reserved.
+</div>
+			</div>
+		</div>
+	</body>
+</html>

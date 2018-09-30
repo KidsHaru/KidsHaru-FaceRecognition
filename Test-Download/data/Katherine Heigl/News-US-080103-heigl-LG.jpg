@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>PGI</title>
+<style>
+body {
+	margin:0;
+	padding:0;
+	color:#000000;
+	font:75%/1.5em Arial, Verdana, Helvetica, sans-serif;
+	height:100%;
+}
+h1,h2,h3,h4,p,img {
+	padding:0;
+	margin:0;
+}
+
+.erbox{
+	width:606px;
+	padding:0px;	
+	margin:20px auto;
+}
+.mainbox{
+	float:left;
+	padding:0 0 0 5px;
+	width:601px;
+	background:url(https://c554952.ssl.cf2.rackcdn.com/tile.gif) repeat-y;
+}
+.logodiv{
+	width:80px;
+	height:92px;
+	float:left;
+	padding:66px 46px 0 46px;
+}
+.contentPart{
+	float:left;
+	width:420px;
+	background:url(https://c554952.ssl.cf2.rackcdn.com/division.gif) no-repeat left top;
+	height:249px;
+}
+.contentPart p{
+	font-size:1.2em;
+	padding:106px 0 0 35px;	
+}
+.contentPart p a{
+ text-decoration:underline;
+ color:#0cbff2;
+}
+.contentPart p a:hover{
+ text-decoration:none;
+ color:#0cbff2;
+}
+.closeImage{
+	width:606px;
+}
+</style>
+
+</head>
+
+<body>
+<div class="erbox">
+<img src="https://c554952.ssl.cf2.rackcdn.com/top_cover.gif" alt="pgi" />
+
+<div class="mainbox">
+<div class="logodiv"><img src="https://c554952.ssl.cf2.rackcdn.com/precious-platinum.jpg" alt="PGI" /></div>
+<div class="contentPart">
+  <p>An error has occured! Please <a href="http://preciousplatinum.com" title="click here">click here</a> to go to the homepage.</p>
+</div>
+</div>
+<img src="https://c554952.ssl.cf2.rackcdn.com/bottom_cover.gif" alt="PGI" /></div>
+</body>
+</html>

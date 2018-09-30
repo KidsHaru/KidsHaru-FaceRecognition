@@ -1,0 +1,2976 @@
+<!DOCTYPE html>
+<html lang="hu" prefix="og: http://ogp.me/ns#" style="background:#515151">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.sfportal.hu/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.sfportal.hu/wp-content/themes/powermag/js/html5.js" type="text/javascript"></script>
+<script src="http://www.sfportal.hu/wp-content/themes/powermag/js/respond.min.js" type="text/javascript"></script>
+<script src="http://www.sfportal.hu/wp-content/themes/powermag/js/modernizr-2.5.3.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="ie8.css" />
+<![endif]-->
+
+
+
+
+<!-- This site is optimized with the Yoast SEO plugin v7.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>SFportal Sci Fi Magazin</title>
+<meta property="og:locale" content="hu_HU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="SFportal Sci Fi Magazin" />
+<meta property="og:site_name" content="SFportal Sci Fi Magazin" />
+<meta property="og:image" content="http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-660x440.jpg" />
+<meta property="og:image:width" content="660" />
+<meta property="og:image:height" content="440" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SFportal Sci Fi Magazin &raquo; hírcsatorna" href="http://www.sfportal.hu/feed" />
+<link rel="alternate" type="application/rss+xml" title="SFportal Sci Fi Magazin &raquo; hozzászólás hírcsatorna" href="http://www.sfportal.hu/comments/feed" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.2.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.2.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-644174-3';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-644174-3', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.sfportal.hu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pm_Play-css'  href='http://fonts.googleapis.com/css?family=Play' type='text/css' media='all' />
+<link rel='stylesheet' id='pm_Oxygen-css'  href='http://fonts.googleapis.com/css?family=Oxygen' type='text/css' media='all' />
+<link rel='stylesheet' type='text/css' media='all' href='http://www.sfportal.hu/wp-content/themes/powermag/inc/bwp-minify/min/?f=wp-content/themes/powermag/shortcodes/css/style.css,wp-content/themes/powermag/style.css,wp-content/themes/powermag/css/bootstrap.css,wp-content/themes/powermag/css/less.css,wp-content/themes/powermag/css/font-awesome.css,wp-content/themes/powermag/css/pm_js_composer_front.css,wp-content/themes/powermag/inc/jackbox/css/jackbox.css,wp-content/themes/powermag/css/responsive.css' />
+<script type='text/javascript' src='http://www.sfportal.hu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.sfportal.hu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/www.sfportal.hu","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sfportal.hu/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.2.0'></script>
+<script type='text/javascript' src='http://www.sfportal.hu/wp-content/themes/powermag/inc/bwp-minify/min/?f=wp-content/themes/powermag/shortcodes/js/init.js'></script>
+<link rel='https://api.w.org/' href='http://www.sfportal.hu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sfportal.hu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.sfportal.hu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<style>
+			.widget-title span.inner,
+			.widget-title span.inner a,
+			.simil-widget-comment span.inner,
+			.simil-widget-comment span.inner a,
+			#collapse-trigger a:hover,
+			#newsletter h2,
+			.main-navigation ul ul a,
+			.main-small-navigation ul.sub-menu li a,
+			.entry-img-info .flex-cat a,
+			footer.entry-meta span,
+			footer.entry-meta .edit-link a,
+			.reply a,
+			div.activity-meta a,
+			#author-wrap .author-name,
+			#author-wrap .author-name a,
+			#ticker-wrap span.ticker-title,
+			.label a,
+			.label,
+			.rw-overall,
+			#wp-calendar thead th, #wp-calendar tbody td#today,
+			#wp-calendar tfoot #next a, #wp-calendar tfoot #prev a, #wp-calendar tfoot #next, #wp-calendar tfoot #prev, #wp-calendar tfoot .pad,
+			.utilities.footer ul li a,
+			#carousel div span.selected,
+			div.item-list-tabs ul li a span,
+			.pm-bp-badge
+			{color:#ffffff}
+			
+			#full-top,
+			#full-footer,
+			.main-navigation li,
+			.menu-toggle,
+			#carousel div span,
+			.es-nav span.es-nav-next,
+			.es-nav span.es-nav-prev,
+			.widget-title-bg,
+			.widget-post.pm-first,
+			#ticker-wrap,
+			.ticker,
+			.ticker-swipe,
+			.ticker-swipe span,
+			.rw-criteria,
+			.rw-end,
+			.rw-user-rating-wrapper,
+			.post-widget li:hover .info-stripe i,
+			.wpcf7 label,
+			.wp-caption-text,
+			.gallery-caption,
+			.gallery-caption:before,
+			.social-count-plus a:hover .social-count-go,
+			.cat-tabs ul,
+			.cat-tabs ul li a,
+			.reply a:hover,
+			div.activity-meta a:hover,
+			.tooltip-inner,
+			.activity-content a.loading,
+			.activity-content.no-inner-content .activity-meta a:hover
+			{background-color:#008cbf}
+			
+			.label:hover
+			{background: #008cbf!important}
+			
+			.post-widget li:hover .info-stripe i
+			{border-left: 1px solid #008cbf}
+			
+			.social-count-plus a:hover .social-count-go
+			{border: 1px solid #008cbf}
+			
+			.tooltip.right .tooltip-arrow
+			{border-right-color: #008cbf }
+			
+				.main-navigation a,
+				.widget-post.pm-first a,
+				.ticker-content a,
+				.utilities ul li a,
+				.cat-tabs ul li a,
+				.reply a:hover,
+				.activity-content.no-inner-content .activity-meta a:hover
+				{color:#e0e0e0}
+				
+				.main-navigation a:hover,
+				.widget-post.pm-first a:hover,
+				.ticker-content a:hover,
+				.utilities ul li a:hover,
+				.cat-tabs ul li a:hover
+				{color:#ffffff; 
+				text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.3);}
+				
+				#widgetized-footer .widget-title span.inner,
+				#widgetized-footer .widget-title span.inner a,
+				.widget-post.pm-first,
+				.menu-toggle,
+				article .entry-rating-wrap,
+				.post-widget li:hover .info-stripe i,
+				.social-count-plus a:hover .social-count-go,
+				.es-nav span.es-nav-next i,
+				.es-nav span.es-nav-prev i,
+				#rating-box,
+				.rw-user-rating-desc,
+				.wpcf7 label,
+				#carousel div span
+				{color:#424242}
+				
+			#full-bar,
+			.boxed,
+			#respond,
+			.boxed-title,
+			.main-small-navigation ul li a,
+			.related-posts .pm-first,
+			footer.entry-meta li a,
+			footer.entry-meta .tag-list a,
+			.carousel-text,
+			.widget-post,
+			.widget ul li,
+			a.follow-us,
+			a.twtr-join-conv,
+			.twtr-widget .twtr-tweet-wrap,
+			.twtr-widget .twtr-hd,
+			.ads-widget,
+			.comment.boxed,
+			.nocomments,
+			.lwa.default, 
+			.lwa-register.default,
+			.date,
+			.cat-panes-content li.panes,
+			.breadcrumb,
+			#wp-calendar caption,
+			#wp-calendar tbody .pad:hover,
+			#wp-calendar tbody td,
+			.widget-text-only,
+			div.item-list-tabs,
+			div.activity-comments form.ac-form,
+			div.activity-comments > ul li,
+			ul#members-list li,
+			ul#group-members-list li,
+			ul#groups-list li,
+			ul#friend-list li,
+			.activity-list li .activity-content,
+			.padder div.pagination,
+			div.messages-options-nav,
+			table#message-threads tr td,
+			div.activity-meta
+			{background-color:#eaf7ff}
+			
+				a,
+				.date a,
+				.related-posts .pm-first a
+				{color:#262626}
+				
+				a:hover,
+				.date a:hover,
+				.related-posts .pm-first a:hover,
+				.widget .widget-post.pm-rest a:hover
+				{color:#000000}
+				
+				body,
+				.affiliate-wrap p
+				{color:#000000}
+				
+				.full-main {
+				 	padding: 0 20px;
+					
+					-moz-box-shadow: 0 20px 150px -40px #000;
+					-ms-box-shadow: 0 20px 150px -40px #000;
+					-o-box-shadow: 0 20px 150px -40px #000;
+					-webkit-box-shadow: 0 20px 150px -40px #000;
+					box-shadow: 0 20px 150px -40px #000;
+				
+					background-color:#cdeaf2;
+				}	
+				
+				#full-top, #full-bar, #full-footer, #full-site-info, #full-collapsible {
+				 	margin-left: -20px;
+					margin-right: -20px;
+				}
+				
+				.logged-in #collapse-trigger {
+					right: -20px!important;
+				}
+				
+				.util-menu ul {
+				 	text-align: left!important;
+				}
+				
+				@media (max-width: 767px) {
+					.full-main {
+						padding: 0;
+						box-shadow: none;
+						background: none;
+					}
+					#full-top, #full-bar, #full-footer, #full-site-info, #full-collapsible {
+				 		
+					}
+					.utilities ul {
+					 	text-align: center;
+					}
+				}
+			@media (min-width: 1199px) {
+			
+				#logo {
+					margin-top: 10px;
+				}
+				#top-ad {
+					margin-left: 60px;
+				}
+				ul.socials {
+					max-width: 160px;
+					margin-top: 23px
+				}
+				.util-menu li {
+					display: block!important;
+					text-align: right;
+				}
+				.utilities {
+					width: 130px;
+				}
+				.util-menu li {
+					padding-right: 0!important;
+					padding-bottom: 3px
+				}
+				.boxed-layout .util-menu ul li {
+					text-align: center!important;
+				}
+			}
+			
+			@media (max-width: 1199px) {
+			
+				#top-ad {
+				  margin-left: 0;
+				}
+			}
+			
+			@media (max-width: 979px) and (min-width: 768px) {
+			
+				#logo{
+					float: none;
+					text-align: center;
+					margin-bottom: 20px;
+				}
+			
+				.branding {
+					float: none;
+				}
+			}</style><style>
+				h1,h2,h3,h4,h5,h6,
+				.utilities ul,
+				.main-navigation,
+				.main-small-navigation ul,
+				footer.entry-meta span,
+				footer.entry-meta a,
+				.page-nav,
+				.flex-cat,
+				#carousel div span,
+				.carousel-text a,
+				.widget-title-bg .widget-title span.inner,
+				.widget-title-bg .simil-widget-comment span.inner,
+				.widget a.twtr-join-conv,
+				#comments .simil-widget-comment,
+				#comments .bypostauthor .widget-title-bg:before,
+				.reply ,
+				.nocomments,
+				.lwa .lwa-title,
+				.lwa-register .lwa-title,
+				.lwa .dropdown-menu li > a,
+				.date a,
+				.entry-rating,
+				.rw-criteria,
+				.rw-end .rw-overall,
+				.rw-end .rw-overall-titles,
+				.info-stripe .cat-stripe,
+				.info-stripe .percent-stripe,
+				.wpcf7 label,
+				.social-count-plus span.count,
+				.cat-tabs ul li a,
+				.accordion-heading,
+				.vc_text_separator div,
+				#content .wpb_accordion .ui-accordion .ui-accordion-header a,
+				.wpb_accordion .ui-accordion .ui-accordion-header a,
+				#content .wpb_content_element .ui-tabs .ui-tabs-nav,
+				.jackbox-modal h2,
+				.jackbox-modal h3,
+				.jackbox-title-text
+			{font-family:Play;}
+body{font-family:Oxygen;}
+body {font-size:14px }</style>		<style>.rw-end .rw-overall-number.percent {
+    font-size: 4em;
+}
+
+div.rw-criteria span.criteria-percentage {
+    background-color: #cdeaf2;
+    opacity: 1;
+}
+
+span.percentage-digits {
+   color: #014660;
+}
+
+div.entry-content a {
+text-decoration:underline !important
+}
+
+.rw-end .rw-summary .description {
+color: white;
+}
+
+.rw-end .rw-summary  { color: white; }
+
+.entry-img-info  {display:none}</style>
+	<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.sfportal.hu/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><style>
+		
+	 </style>
+
+</head>
+
+<body class="blog group-blog wpb-js-composer js-comp-ver-4.4.2 vc_responsive">
+
+
+
+<div class="container full-main boxed-layout">
+
+<div id="page" class="hfeed site">
+
+		
+	<div id="header-wrap">
+	
+		<div id="full-top">
+			
+			<!-- Masthead
+			================================================== -->
+			<header id="masthead" class="site-header" role="banner">
+				<div class="container">
+					<div class="row">
+						<div class="span12 header-wrap">
+							<div class="branding">
+								
+																
+								<div id="logo">
+									<a href="http://www.sfportal.hu/" title="SFportal Sci Fi Magazin" rel="home"><img src="http://www.sfportal.hu/wp-content/uploads/2013/08/logo-powermagv4.png" width="" height="" alt="SFportal Sci Fi Magazin"/></a>
+								</div>
+															
+							</div>
+							
+														<div id="top-ad">
+								<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- SFportal Top - responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3118672306384660"
+     data-ad-slot="2808069133"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>							</div>
+														
+							<div class="utilities">
+																
+
+
+<ul class="socials">
+		<li><a href="https://plus.google.com/103601230915389571235" class="sprite-socials sprite-gplus" title="Follow us on Google +" target="_self"></a></li>
+		<li><a href="http://facebook.com/sfportal" class="sprite-socials sprite-facebook" title="Follow us on Facebook" target="_self"></a></li>
+		<li><a href="http://twitter.com/sfportal" class="sprite-socials sprite-twitter" title="Follow us on Twitter" target="_self"></a></li>
+		<li><a href="http://www.youtube.com/user/sfportaltv" class="sprite-socials sprite-youtube" title="Follow us on YouTube" target="_self"></a></li>
+	</ul>							</div>
+							
+						</div><!--span12-->
+					</div><!--row-->
+				</div><!--.container-->
+			</header><!-- #masthead .site-header -->
+		</div><!-- #full-top -->
+		
+		<!-- Login Bar and Search
+		================================================== -->
+		<div id="full-bar">
+			<div class="container">
+				<div class="row full-bar-relative">
+					<div class="span4">	<form method="get" id="searchform" action="http://www.sfportal.hu/" role="search">
+		<label for="s" class="assistive-text">Search</label>
+		<div class="input-append">
+			<input type="text" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+			<button class="btn" type="submit"><i class="icon-search"></i></button>
+		</div>
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form></div>
+					
+					<div class="signin">
+											</div>
+				</div><!-- full-bar-relative .row -->
+			</div><!-- .container -->
+		</div><!-- #full-bar -->
+		
+		<div id="collapse-trigger">
+	<a class="collapse" data-toggle="collapse" data-target="#newsletter">
+		<i class="icon-envelope-alt"></i>	</a>
+</div><!--#collapse-trigger-->
+
+<div id="full-collapsible">
+	<div class="container hidden-box">
+		<div id="newsletter" class="accordion-body collapse">
+			<div class="hidden-box-inner">
+		
+				<h2>// Ne maradj le a legfrissebb sci-fi hírekről, iratkozz fel az SFportal Hírlevélre!</h2>
+				<div class="input-append newsletter-form">
+				
+				
+				<!-- Begin MailChimp Signup Form -->
+
+				<div id="mc_embed_signup">
+					<form action="http://sfportal.us7.list-manage1.com/subscribe?u=b928367c207ea7f2b6257d77b&id=8dcc1c72f5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+						<input type="email" value="" name="EMAIL" class="email form-control col-md-4" id="mce-EMAIL" placeholder="Enter your email address" required>
+						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+						<div style="position: absolute; left: -5000px;"><input type="text" name="" tabindex="-1" value=""></div>
+						<input type="submit" value="Go!" name="subscribe" id="mc-embedded-subscribe" class="btn btn-inverse">
+					</form>
+					
+				</div><!--End mc_embed_signup-->
+				
+
+
+			</div> <!-- hidden-box-inner-->
+		</div><!-- #newsletter -->
+	</div><!-- .hidden-box -->
+</div><!-- #full-collapsible -->	
+	</div><!--header-wrap-->
+	
+		
+	<div id="nav-wrap">
+		<div class="row">
+			<div class="navi-class span12 clearfix">
+				<nav role="navigation" class="site-navigation main-navigation">
+							<h1 class="assistive-text">Menu<i class="icon-reorder"></i></h1>
+							<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+							
+														
+								
+				</nav><!-- .site-navigation .main-navigation -->
+			</div><!-- #nav-wrap -->
+		</div><!-- nav .row -->
+	</div>
+
+					
+<div class="row">
+
+	<div id="ticker-wrap" class="span12">	
+		
+		<span class="widget-title-bg">
+				<span class="widget-title">
+					<span class="inner">Friss hírek</span>
+					<span class="cat-diagonal"></span>
+				</span>
+		</span><!-- .widget-title-bg-->
+
+			<ul id="js-news" class="js-hidden">
+						
+								<li class="news-item">
+					<a href='http://www.sfportal.hu/nyeremenyjatek-a-mirai-lany-a-jovorol-animere-19740.scifi' title='Nyereményjáték a Mirai &#8211; Lány a jövőből animére'>Nyereményjáték a Mirai &#8211; Lány a jövőből animére</a>
+				</li>
+								<li class="news-item">
+					<a href='http://www.sfportal.hu/eurocon-verne-wells-az-sf-szakosztaly-estje-19736.scifi' title='EuroCon, Verne, Wells &#8211; az SF Szakosztály estje'>EuroCon, Verne, Wells &#8211; az SF Szakosztály estje</a>
+				</li>
+								<li class="news-item">
+					<a href='http://www.sfportal.hu/nyeremenyjatek-a-macskafogo-mozis-bemutatojara-19731.scifi' title='Nyereményjáték a Macskafogó mozis bemutatójára'>Nyereményjáték a Macskafogó mozis bemutatójára</a>
+				</li>
+								<li class="news-item">
+					<a href='http://www.sfportal.hu/star-wars-es-fagyi-19723.scifi' title='Star Wars és fagyi'>Star Wars és fagyi</a>
+				</li>
+								<li class="news-item">
+					<a href='http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi' title='2050 &#8211; ifjúsági jövőképek egy kötetben'>2050 &#8211; ifjúsági jövőképek egy kötetben</a>
+				</li>
+								<li class="news-item">
+					<a href='http://www.sfportal.hu/a-galaktika-1970-es-indulasarol-a-szefantoron-19714.scifi' title='A Galaktika 1970-es indulásáról a Szefantoron'>A Galaktika 1970-es indulásáról a Szefantoron</a>
+				</li>
+								<li class="news-item">
+					<a href='http://www.sfportal.hu/az-esfs-2018-evi-dijazottai-19707.scifi' title='Az ESFS 2018. évi díjazottai'>Az ESFS 2018. évi díjazottai</a>
+				</li>
+								<li class="news-item">
+					<a href='http://www.sfportal.hu/eurocon-2018-beszamolo-franciaorszagbol-19700.scifi' title='EuroCon 2018 &#8211; beszámoló Franciaországból'>EuroCon 2018 &#8211; beszámoló Franciaországból</a>
+				</li>
+								<li class="news-item">
+					<a href='http://www.sfportal.hu/visszater-a-the-clone-wars-sorozat-19695.scifi' title='Visszatér a The Clone Wars sorozat'>Visszatér a The Clone Wars sorozat</a>
+				</li>
+								<li class="news-item">
+					<a href='http://www.sfportal.hu/emberi-lepteku-marvel-film-ant-man-the-wasp-a-hangya-es-a-darazs-kritika-19692.scifi' title='Emberi léptékű Marvel-film: Ant-Man &#038; The Wasp – A Hangya és a Darázs kritika'>Emberi léptékű Marvel-film: Ant-Man &#038; The Wasp – A Hangya és a Darázs kritika</a>
+				</li>
+								
+							</ul>
+	</div><!-- #ticker -->
+</div><!-- .row -->				
+		<div id="main" class="site-main">
+		
+		<div id="primary" class="content-area">
+			<div id="content" class="site-content" role="main">
+			
+			<div id="loop-wrap">
+			
+			<!-- Primary Slider
+================================================== -->
+
+<div class="row sliders">
+
+
+	<div class="flex-container slider1">	
+				<div class="flexslider span10">
+				
+			<ul class="slides">
+			
+						
+				<li>
+					<a href="http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi" title="2050 - ifjúsági jövőképek egy kötetben"><img width="970" height="342" src="http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-970x342.jpg" class="attachment-slider-carousel size-slider-carousel wp-post-image" alt="" /></a>					
+											<span class="flex-cat">
+						<a href="http://www.sfportal.hu/irodalom/konyvkritika-irodalom">Könyvkritika</a>						</span>
+										
+					<div class="flex-caption">
+						<h1><a href="http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi" title="Permalink to 2050 &#8211; ifjúsági jövőképek egy kötetben" rel="bookmark">2050 &#8211; ifjúsági jövőképek egy kötetben</a></h1>
+						<p>A Móra belevágott a sci-fibe: 2050 – Ifjúsági novellák a jövőről című antológiájuk tizenhárom magyar szerző SF-írását tartalmazza....</p>
+					</div>
+				</li>
+							
+				<li>
+					<a href="http://www.sfportal.hu/emberi-lepteku-marvel-film-ant-man-the-wasp-a-hangya-es-a-darazs-kritika-19692.scifi" title="Emberi léptékű Marvel-film: Ant-Man &amp; The Wasp – A Hangya és a Darázs kritika"><img width="970" height="342" src="http://www.sfportal.hu/wp-content/uploads/2018/07/ant-man-and-the-wasp-evangeline-lilly-paul-rudd-970x342.jpg" class="attachment-slider-carousel size-slider-carousel wp-post-image" alt="" /></a>					
+											<span class="flex-cat">
+						<a href="http://www.sfportal.hu/mozi">Mozi</a>						</span>
+										
+					<div class="flex-caption">
+						<h1><a href="http://www.sfportal.hu/emberi-lepteku-marvel-film-ant-man-the-wasp-a-hangya-es-a-darazs-kritika-19692.scifi" title="Permalink to Emberi léptékű Marvel-film: Ant-Man &#038; The Wasp – A Hangya és a Darázs kritika" rel="bookmark">Emberi léptékű Marvel-film: Ant-Man &#038; The Wasp – A Hangya és a Darázs kritika</a></h1>
+						<p>A Végtelen Háború jó alaposan letaglózta a Marvel-filmek rajongóit, úgyhogy pont ezért kellett egy kis gőzkieresztős, lazulós, sok-sok...</p>
+					</div>
+				</li>
+							
+				<li>
+					<a href="http://www.sfportal.hu/15-eves-a-star-wars-knights-of-the-old-republic-19681.scifi" title="15 éves a Star Wars - Knights of the Old Republic"><img width="970" height="342" src="http://www.sfportal.hu/wp-content/uploads/2018/07/knights-of-the-old-republic-970x342.jpg" class="attachment-slider-carousel size-slider-carousel wp-post-image" alt="" /></a>					
+											<span class="flex-cat">
+						<a href="http://www.sfportal.hu/star-wars">Star Wars</a>						</span>
+										
+					<div class="flex-caption">
+						<h1><a href="http://www.sfportal.hu/15-eves-a-star-wars-knights-of-the-old-republic-19681.scifi" title="Permalink to 15 éves a Star Wars &#8211; Knights of the Old Republic" rel="bookmark">15 éves a Star Wars &#8211; Knights of the Old Republic</a></h1>
+						<p>Ami szerintem azóta is a világ legjobb Star Wars játéka, és ami mérföldkő volt a számítógépes/konzolos szerepjátékok történelmében....</p>
+					</div>
+				</li>
+							
+				<li>
+					<a href="http://www.sfportal.hu/magikus-realizmus-es-science-fiction-ken-liu-a-papirsereglet-es-mas-tortenetek-19676.scifi" title="Mágikus realizmus és science fiction - Ken Liu: A papírsereglet és más történetek"><img width="797" height="342" src="http://www.sfportal.hu/wp-content/uploads/2018/07/papirsereglet_kiemelt-797x342.jpeg" class="attachment-slider-carousel size-slider-carousel wp-post-image" alt="" /></a>					
+											<span class="flex-cat">
+						<a href="http://www.sfportal.hu/irodalom/konyvkritika-irodalom">Könyvkritika</a>						</span>
+										
+					<div class="flex-caption">
+						<h1><a href="http://www.sfportal.hu/magikus-realizmus-es-science-fiction-ken-liu-a-papirsereglet-es-mas-tortenetek-19676.scifi" title="Permalink to Mágikus realizmus és science fiction &#8211; Ken Liu: A papírsereglet és más történetek" rel="bookmark">Mágikus realizmus és science fiction &#8211; Ken Liu: A papírsereglet és más történetek</a></h1>
+						<p>Kínában a science fiction hihetetlenül népszerű: júniusban rendezték az első Asia Pacific SF Cont Pekingben, de a regények...</p>
+					</div>
+				</li>
+							
+				<li>
+					<a href="http://www.sfportal.hu/19669-19669.scifi" title="Egy gyilkos motivációi - Filmajánló: Nem vagyok sorozatgyilkos"><img width="760" height="342" src="http://www.sfportal.hu/wp-content/uploads/2018/06/nem_vagyok_sorozatgyilkos_kiemelt-760x342.jpg" class="attachment-slider-carousel size-slider-carousel wp-post-image" alt="" /></a>					
+											<span class="flex-cat">
+						<a href="http://www.sfportal.hu/mozi-dvd-tv">Mozi - TV</a>						</span>
+										
+					<div class="flex-caption">
+						<h1><a href="http://www.sfportal.hu/19669-19669.scifi" title="Permalink to Egy gyilkos motivációi &#8211; Filmajánló: Nem vagyok sorozatgyilkos" rel="bookmark">Egy gyilkos motivációi &#8211; Filmajánló: Nem vagyok sorozatgyilkos</a></h1>
+						<p>2018. június 28-ától vetítik a mozik a Dan Wells azonos című regényéből készült 2016-os filmet, a Nem vagyok...</p>
+					</div>
+				</li>
+							</ul>
+		</div><!-- .flexslider -->
+	
+	</div><!-- .flex-container -->
+
+
+
+<!-- Secondary Slider
+================================================== -->
+
+	
+	<div id="carousel" class="span2">
+	
+						
+			<div>
+				<span>Nyereményjáték a Mirai &#8211; Lány a jövőből animére</span>
+				<a href="http://www.sfportal.hu/nyeremenyjatek-a-mirai-lany-a-jovorol-animere-19740.scifi" title="Nyereményjáték a Mirai - Lány a jövőből animére"><img width="180" height="200" src="http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-180x200.jpg" class="attachment-carousel-thumbs size-carousel-thumbs wp-post-image" alt="" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-180x200.jpg 180w, http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-220x246.jpg 220w" sizes="(max-width: 180px) 100vw, 180px" /></a>			</div>
+	
+				
+			<div>
+				<span>EuroCon, Verne, Wells &#8211; az SF Szakosztály estje</span>
+				<a href="http://www.sfportal.hu/eurocon-verne-wells-az-sf-szakosztaly-estje-19736.scifi" title="EuroCon, Verne, Wells - az SF Szakosztály estje"><img width="180" height="200" src="http://www.sfportal.hu/wp-content/uploads/2018/09/The_black_smoke_by_thebigemp3-d7qeacn-180x200.jpg" class="attachment-carousel-thumbs size-carousel-thumbs wp-post-image" alt="" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/The_black_smoke_by_thebigemp3-d7qeacn-180x200.jpg 180w, http://www.sfportal.hu/wp-content/uploads/2018/09/The_black_smoke_by_thebigemp3-d7qeacn-220x246.jpg 220w" sizes="(max-width: 180px) 100vw, 180px" /></a>			</div>
+	
+				
+			<div>
+				<span>Nyereményjáték a Macskafogó mozis bemutatójára</span>
+				<a href="http://www.sfportal.hu/nyeremenyjatek-a-macskafogo-mozis-bemutatojara-19731.scifi" title="Nyereményjáték a Macskafogó mozis bemutatójára"><img width="180" height="200" src="http://www.sfportal.hu/wp-content/uploads/2018/09/macskafogo_teufel_es_safranek-180x200.jpg" class="attachment-carousel-thumbs size-carousel-thumbs wp-post-image" alt="" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/macskafogo_teufel_es_safranek-180x200.jpg 180w, http://www.sfportal.hu/wp-content/uploads/2018/09/macskafogo_teufel_es_safranek-220x246.jpg 220w" sizes="(max-width: 180px) 100vw, 180px" /></a>			</div>
+	
+				
+			<div>
+				<span>Star Wars és fagyi</span>
+				<a href="http://www.sfportal.hu/star-wars-es-fagyi-19723.scifi" title="Star Wars és fagyi"><img width="180" height="200" src="http://www.sfportal.hu/wp-content/uploads/2018/09/movie-still-180x200.jpg" class="attachment-carousel-thumbs size-carousel-thumbs wp-post-image" alt="" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/movie-still-180x200.jpg 180w, http://www.sfportal.hu/wp-content/uploads/2018/09/movie-still-220x246.jpg 220w" sizes="(max-width: 180px) 100vw, 180px" /></a>			</div>
+	
+				
+			<div>
+				<span>2050 &#8211; ifjúsági jövőképek egy kötetben</span>
+				<a href="http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi" title="2050 - ifjúsági jövőképek egy kötetben"><img width="180" height="200" src="http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-180x200.jpg" class="attachment-carousel-thumbs size-carousel-thumbs wp-post-image" alt="" srcset="http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-180x200.jpg 180w, http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-220x246.jpg 220w" sizes="(max-width: 180px) 100vw, 180px" /></a>			</div>
+	
+		
+	</div>
+
+</div><!--.row .sliders-->			
+				<div class="row" id="widgetized-home">
+				
+					
+					<div class="span5 widgetized-big">
+					
+						<div class="cat-tabs">
+	<ul class="clearfix">
+		
+				<li><a href="#">Friss</a></li>
+						<li><a href="#">Irodalom</a></li>
+						<li><a href="#">Mozi</a></li>
+						<li><a href="#">TV</a></li>
+						<li><a href="#">Játék</a></li>
+						<li><a href="#">Események</a></li>
+							</ul>
+</div>
+
+	
+		<div class="cat-panes-content">
+	
+<ul>
+		
+							
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color:  ">
+				<a href="http://www.sfportal.hu/nyeremenyjatek-a-mirai-lany-a-jovorol-animere-19740.scifi" title="Nyereményjáték a Mirai - Lány a jövőből animére"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="Nyereményjáték a Mirai &#8211; Lány a jövőből animére" title="Nyereményjáték a Mirai &#8211; Lány a jövőből animére" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/nyeremenyjatek-a-mirai-lany-a-jovorol-animere-19740.scifi">Nyereményjáték a Mirai &#8211; Lány a jövőből animére</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/09/24				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19740 http://www.sfportal.hu/?p=19740">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,   51%,   83%,   100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, ), color-stop(83%, ), color-stop(100%, )); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%, ) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: #305cc0">
+				<a href="http://www.sfportal.hu/eurocon-verne-wells-az-sf-szakosztaly-estje-19736.scifi" title="EuroCon, Verne, Wells - az SF Szakosztály estje"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/09/The_black_smoke_by_thebigemp3-d7qeacn-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="EuroCon, Verne, Wells &#8211; az SF Szakosztály estje" title="EuroCon, Verne, Wells &#8211; az SF Szakosztály estje" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/The_black_smoke_by_thebigemp3-d7qeacn-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/09/The_black_smoke_by_thebigemp3-d7qeacn-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/eurocon-verne-wells-az-sf-szakosztaly-estje-19736.scifi">EuroCon, Verne, Wells &#8211; az SF Szakosztály estje</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/09/19				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19736 http://www.sfportal.hu/?p=19736">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, #305cc0 51%, #305cc0 83%, #305cc0 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,#305cc0), color-stop(83%,#305cc0), color-stop(100%,#305cc0)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color:  #FF0022">
+				<a href="http://www.sfportal.hu/nyeremenyjatek-a-macskafogo-mozis-bemutatojara-19731.scifi" title="Nyereményjáték a Macskafogó mozis bemutatójára"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/09/macskafogo_teufel_es_safranek-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="Nyereményjáték a Macskafogó mozis bemutatójára" title="Nyereményjáték a Macskafogó mozis bemutatójára" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/macskafogo_teufel_es_safranek-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/09/macskafogo_teufel_es_safranek-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/nyeremenyjatek-a-macskafogo-mozis-bemutatojara-19731.scifi">Nyereményjáték a Macskafogó mozis bemutatójára</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/09/06				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19731 http://www.sfportal.hu/?p=19731">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  #FF0022 51%,  #FF0022 83%,  #FF0022 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, #FF0022), color-stop(83%, #FF0022), color-stop(100%, #FF0022)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+	
+		</ul>
+
+	</div>
+		
+		<div class="cat-panes-content">
+	
+<ul>
+		
+							
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: #048b10">
+				<a href="http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi" title="2050 - ifjúsági jövőképek egy kötetben"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="2050 &#8211; ifjúsági jövőképek egy kötetben" title="2050 &#8211; ifjúsági jövőképek egy kötetben" srcset="http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi">2050 &#8211; ifjúsági jövőképek egy kötetben</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/08/23				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19719 http://www.sfportal.hu/?p=19719">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, #048b10 51%, #048b10 83%, #048b10 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,#048b10), color-stop(83%,#048b10), color-stop(100%,#048b10)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: #305cc0">
+				<a href="http://www.sfportal.hu/a-galaktika-1970-es-indulasarol-a-szefantoron-19714.scifi" title="A Galaktika 1970-es indulásáról a Szefantoron"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/08/nemeth_eloadas_kiemelt-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="A Galaktika 1970-es indulásáról a Szefantoron" title="A Galaktika 1970-es indulásáról a Szefantoron" srcset="http://www.sfportal.hu/wp-content/uploads/2018/08/nemeth_eloadas_kiemelt-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/08/nemeth_eloadas_kiemelt-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/a-galaktika-1970-es-indulasarol-a-szefantoron-19714.scifi">A Galaktika 1970-es indulásáról a Szefantoron</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/08/06				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19714 http://www.sfportal.hu/?p=19714">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, #305cc0 51%, #305cc0 83%, #305cc0 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,#305cc0), color-stop(83%,#305cc0), color-stop(100%,#305cc0)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: ">
+				<a href="http://www.sfportal.hu/magikus-realizmus-es-science-fiction-ken-liu-a-papirsereglet-es-mas-tortenetek-19676.scifi" title="Mágikus realizmus és science fiction - Ken Liu: A papírsereglet és más történetek"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/07/papirsereglet_kiemelt-70x70.jpeg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="Mágikus realizmus és science fiction &#8211; Ken Liu: A papírsereglet és más történetek" title="Mágikus realizmus és science fiction &#8211; Ken Liu: A papírsereglet és más történetek" srcset="http://www.sfportal.hu/wp-content/uploads/2018/07/papirsereglet_kiemelt-70x70.jpeg 70w, http://www.sfportal.hu/wp-content/uploads/2018/07/papirsereglet_kiemelt-235x235.jpeg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/magikus-realizmus-es-science-fiction-ken-liu-a-papirsereglet-es-mas-tortenetek-19676.scifi">Mágikus realizmus és science fiction &#8211; Ken Liu: A papírsereglet és más történetek</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/07/13				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19676 http://www.sfportal.hu/?p=19676">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+	
+		</ul>
+
+	</div>
+		
+		<div class="cat-panes-content">
+	
+<ul>
+		
+							
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color:  ">
+				<a href="http://www.sfportal.hu/nyeremenyjatek-a-mirai-lany-a-jovorol-animere-19740.scifi" title="Nyereményjáték a Mirai - Lány a jövőből animére"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="Nyereményjáték a Mirai &#8211; Lány a jövőből animére" title="Nyereményjáték a Mirai &#8211; Lány a jövőből animére" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/nyeremenyjatek-a-mirai-lany-a-jovorol-animere-19740.scifi">Nyereményjáték a Mirai &#8211; Lány a jövőből animére</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/09/24				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19740 http://www.sfportal.hu/?p=19740">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,   51%,   83%,   100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, ), color-stop(83%, ), color-stop(100%, )); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%, ) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color:  #FF0022">
+				<a href="http://www.sfportal.hu/nyeremenyjatek-a-macskafogo-mozis-bemutatojara-19731.scifi" title="Nyereményjáték a Macskafogó mozis bemutatójára"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/09/macskafogo_teufel_es_safranek-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="Nyereményjáték a Macskafogó mozis bemutatójára" title="Nyereményjáték a Macskafogó mozis bemutatójára" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/macskafogo_teufel_es_safranek-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/09/macskafogo_teufel_es_safranek-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/nyeremenyjatek-a-macskafogo-mozis-bemutatojara-19731.scifi">Nyereményjáték a Macskafogó mozis bemutatójára</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/09/06				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19731 http://www.sfportal.hu/?p=19731">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  #FF0022 51%,  #FF0022 83%,  #FF0022 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, #FF0022), color-stop(83%, #FF0022), color-stop(100%, #FF0022)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color:  ">
+				<a href="http://www.sfportal.hu/star-wars-es-fagyi-19723.scifi" title="Star Wars és fagyi"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/09/movie-still-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="Star Wars és fagyi" title="Star Wars és fagyi" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/movie-still-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/09/movie-still-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/star-wars-es-fagyi-19723.scifi">Star Wars és fagyi</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/09/04				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19723 http://www.sfportal.hu/?p=19723">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,   51%,   83%,   100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, ), color-stop(83%, ), color-stop(100%, )); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%, ) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+	
+		</ul>
+
+	</div>
+		
+		<div class="cat-panes-content">
+	
+<ul>
+		
+							
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: #000000">
+				<a href="http://www.sfportal.hu/uj-doctor-who-teaser-19688.scifi" title="Új Doctor Who teaser"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/07/jodie-whittakers-13th-doctor-will-have-more-than-one-look-70x70.jpeg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="Új Doctor Who teaser" title="Új Doctor Who teaser" srcset="http://www.sfportal.hu/wp-content/uploads/2018/07/jodie-whittakers-13th-doctor-will-have-more-than-one-look-70x70.jpeg 70w, http://www.sfportal.hu/wp-content/uploads/2018/07/jodie-whittakers-13th-doctor-will-have-more-than-one-look-235x235.jpeg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/uj-doctor-who-teaser-19688.scifi">Új Doctor Who teaser</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/07/16				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19688 http://www.sfportal.hu/?p=19688">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, #000000 51%, #000000 83%, #000000 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,#000000), color-stop(83%,#000000), color-stop(100%,#000000)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#000000 51%,#000000 83%,#000000 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#000000 51%,#000000 83%,#000000) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#000000 51%,#000000 83%,#000000 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: ">
+				<a href="http://www.sfportal.hu/sorozatajanlo-stan-lees-lucky-man-19227.scifi" title="Sorozatajánló – Stan Lee&#039;s Lucky Man"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2017/11/Stan-Lees-Lucky-Man-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="Sorozatajánló – Stan Lee&#8217;s Lucky Man" title="Sorozatajánló – Stan Lee&#8217;s Lucky Man" srcset="http://www.sfportal.hu/wp-content/uploads/2017/11/Stan-Lees-Lucky-Man-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2017/11/Stan-Lees-Lucky-Man-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/sorozatajanlo-stan-lees-lucky-man-19227.scifi">Sorozatajánló – Stan Lee&#8217;s Lucky Man</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2017/11/24				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19227 http://www.sfportal.hu/?p=19227">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: ">
+				<a href="http://www.sfportal.hu/jon-az-eloszereplos-star-wars-sorozat-19211.scifi" title="Jön az élőszereplős Star Wars sorozat is"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2017/11/Star-Wars-1313-tv-series-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="Jön az élőszereplős Star Wars sorozat is" title="Jön az élőszereplős Star Wars sorozat is" srcset="http://www.sfportal.hu/wp-content/uploads/2017/11/Star-Wars-1313-tv-series-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2017/11/Star-Wars-1313-tv-series-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/jon-az-eloszereplos-star-wars-sorozat-19211.scifi">Jön az élőszereplős Star Wars sorozat is</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2017/11/10				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19211 http://www.sfportal.hu/?p=19211">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+	
+		</ul>
+
+	</div>
+		
+		<div class="cat-panes-content">
+	
+<ul>
+		
+							
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: ">
+				<a href="http://www.sfportal.hu/15-eves-a-star-wars-knights-of-the-old-republic-19681.scifi" title="15 éves a Star Wars - Knights of the Old Republic"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/07/knights-of-the-old-republic-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="15 éves a Star Wars &#8211; Knights of the Old Republic" title="15 éves a Star Wars &#8211; Knights of the Old Republic" srcset="http://www.sfportal.hu/wp-content/uploads/2018/07/knights-of-the-old-republic-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/07/knights-of-the-old-republic-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/15-eves-a-star-wars-knights-of-the-old-republic-19681.scifi">15 éves a Star Wars &#8211; Knights of the Old Republic</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/07/15				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19681 http://www.sfportal.hu/?p=19681">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: ">
+				<a href="http://www.sfportal.hu/tarsasjatek-escape-a-templom-atka-19546.scifi" title="Társasjáték: Escape - A templom átka"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/03/Cover-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="Társasjáték: Escape &#8211; A templom átka" title="Társasjáték: Escape &#8211; A templom átka" srcset="http://www.sfportal.hu/wp-content/uploads/2018/03/Cover-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/03/Cover-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/tarsasjatek-escape-a-templom-atka-19546.scifi">Társasjáték: Escape &#8211; A templom átka</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/03/13				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19546 http://www.sfportal.hu/?p=19546">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: #048b10">
+				<a href="http://www.sfportal.hu/meditalok-titka-konyves-nyeremenyjatek-19288.scifi" title="A meditálók titka – könyves nyereményjáték"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2017/12/csoka_meditalok_kiemelt-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="A meditálók titka – könyves nyereményjáték" title="A meditálók titka – könyves nyereményjáték" srcset="http://www.sfportal.hu/wp-content/uploads/2017/12/csoka_meditalok_kiemelt-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2017/12/csoka_meditalok_kiemelt-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/meditalok-titka-konyves-nyeremenyjatek-19288.scifi">A meditálók titka – könyves nyereményjáték</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2017/12/18				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19288 http://www.sfportal.hu/?p=19288">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, #048b10 51%, #048b10 83%, #048b10 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,#048b10), color-stop(83%,#048b10), color-stop(100%,#048b10)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+	
+		</ul>
+
+	</div>
+		
+		<div class="cat-panes-content">
+	
+<ul>
+		
+							
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: #305cc0">
+				<a href="http://www.sfportal.hu/eurocon-verne-wells-az-sf-szakosztaly-estje-19736.scifi" title="EuroCon, Verne, Wells - az SF Szakosztály estje"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/09/The_black_smoke_by_thebigemp3-d7qeacn-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="EuroCon, Verne, Wells &#8211; az SF Szakosztály estje" title="EuroCon, Verne, Wells &#8211; az SF Szakosztály estje" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/The_black_smoke_by_thebigemp3-d7qeacn-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/09/The_black_smoke_by_thebigemp3-d7qeacn-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/eurocon-verne-wells-az-sf-szakosztaly-estje-19736.scifi">EuroCon, Verne, Wells &#8211; az SF Szakosztály estje</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/09/19				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19736 http://www.sfportal.hu/?p=19736">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, #305cc0 51%, #305cc0 83%, #305cc0 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,#305cc0), color-stop(83%,#305cc0), color-stop(100%,#305cc0)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: #305cc0">
+				<a href="http://www.sfportal.hu/a-galaktika-1970-es-indulasarol-a-szefantoron-19714.scifi" title="A Galaktika 1970-es indulásáról a Szefantoron"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/08/nemeth_eloadas_kiemelt-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="A Galaktika 1970-es indulásáról a Szefantoron" title="A Galaktika 1970-es indulásáról a Szefantoron" srcset="http://www.sfportal.hu/wp-content/uploads/2018/08/nemeth_eloadas_kiemelt-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/08/nemeth_eloadas_kiemelt-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/a-galaktika-1970-es-indulasarol-a-szefantoron-19714.scifi">A Galaktika 1970-es indulásáról a Szefantoron</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/08/06				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19714 http://www.sfportal.hu/?p=19714">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, #305cc0 51%, #305cc0 83%, #305cc0 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,#305cc0), color-stop(83%,#305cc0), color-stop(100%,#305cc0)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#305cc0 51%,#305cc0 83%,#305cc0 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+		
+		
+	<li class="panes clearfix">
+	
+		<div class="left-wrap panes-left">
+			<div class="img-frame " style="background-color: ">
+				<a href="http://www.sfportal.hu/az-esfs-2018-evi-dijazottai-19707.scifi" title="Az ESFS 2018. évi díjazottai"><img width="70" height="70" src="http://www.sfportal.hu/wp-content/uploads/2018/07/eurocon_kiemelt-70x70.jpg" class="attachment-tabs-thumbs size-tabs-thumbs wp-post-image" alt="Az ESFS 2018. évi díjazottai" title="Az ESFS 2018. évi díjazottai" srcset="http://www.sfportal.hu/wp-content/uploads/2018/07/eurocon_kiemelt-70x70.jpg 70w, http://www.sfportal.hu/wp-content/uploads/2018/07/eurocon_kiemelt-235x235.jpg 235w" sizes="(max-width: 70px) 100vw, 70px" /></a>			</div>
+		</div>
+
+		<div class="panes-right entry-info">
+			<h3 class="entry-title"><a href="http://www.sfportal.hu/az-esfs-2018-evi-dijazottai-19707.scifi">Az ESFS 2018. évi díjazottai</a></h3>
+		
+			<div class="entry-meta">
+				<span class="entry-date">
+				2018/07/26				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19707 http://www.sfportal.hu/?p=19707">0</span>				</span>
+			</div><!--entry-meta-->
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+				
+		</div><!-- entry-info-->	
+		
+	</li>
+	
+		</ul>
+
+	</div>
+		
+		
+						
+						<aside id="text-29" class="widget widget_text"><div class="widget-title-bg clearfix"><h4 class="widget-title"><span class="inner">Kövess minket!</span><span class="cat-diagonal"></span></h4></div>			<div class="textwidget"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=370730255253&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-page" data-href="https://www.facebook.com/sfportal" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div></div>
+		</aside><aside id="pm_main_cat_regular-widget-2" class="widget widget-main-content">
+
+	
+			
+		<div class="widget-title-bg clearfix">
+
+				<h2 class="widget-title">
+					<span class="inner" style="background-color:  #C200F0"><a href="http://www.sfportal.hu/tv">TV</a></span>
+					<span class="cat-diagonal" style="
+			
+				background: -moz-linear-gradient(-45deg,   #C200F0 0%,  #C200F0 50%, rgba(0,0,0,0) 51%, rgba(0,0,0,0) 100%);
+				background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #C200F0), color-stop(50%, #C200F0), color-stop(51%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0)));
+				background: -webkit-linear-gradient(-45deg,   #C200F0 0%, #C200F0 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);
+				background: -o-linear-gradient(-45deg,   #C200F0 0%, #C200F0 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: -ms-linear-gradient(-45deg,   #C200F0 0%, #C200F0 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: linear-gradient(135deg,   #C200F0 0%, #C200F0 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);			
+			"></span>				</h2>
+			
+		</div><!-- .widget-title-bg-->
+
+	
+	<a href="http://www.sfportal.hu/tv"></a>
+	
+					
+		
+		
+		
+		
+	<div class="widget-post pm-first clearfix">
+		<div class="left-wrap pull-left">
+			<div class="img-frame " style="background-color:  #C200F0">
+				<a href="http://www.sfportal.hu/uj-doctor-who-teaser-19688.scifi" title="Új Doctor Who teaser"><img width="220" height="246" src="http://www.sfportal.hu/wp-content/uploads/2018/07/jodie-whittakers-13th-doctor-will-have-more-than-one-look-220x246.jpeg" class="attachment-block-thumbs size-block-thumbs wp-post-image" alt="Új Doctor Who teaser" title="Új Doctor Who teaser" srcset="http://www.sfportal.hu/wp-content/uploads/2018/07/jodie-whittakers-13th-doctor-will-have-more-than-one-look-220x246.jpeg 220w, http://www.sfportal.hu/wp-content/uploads/2018/07/jodie-whittakers-13th-doctor-will-have-more-than-one-look-180x200.jpeg 180w" sizes="(max-width: 220px) 100vw, 220px" /></a>				
+								
+			</div>
+		</div>
+			
+		<div class="entry-info pull-right">
+	
+			<h3 class="entry-title">
+				<a href="http://www.sfportal.hu/uj-doctor-who-teaser-19688.scifi" title="Új Doctor Who teaser">Új Doctor Who teaser</a>
+			</h3>
+			
+						<p>
+			Még jó pár hónapot várnunk kell arra, hogy elinduljon a Doctor Who 11. évada, és megismerjük a legújabb Doktort &#8211; de lassanként azért csak elindul a<a href='http://www.sfportal.hu/uj-doctor-who-teaser-19688.scifi' title='Új Doctor Who teaser' class="readmore"> [...]</a>
+			</p>
+						
+			<div class="entry-meta">
+				<span class="entry-date">
+					2 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19688 http://www.sfportal.hu/?p=19688">0</span>				</span>
+			</div><!--entry-meta-->
+			
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  #C200F0 51%,  #C200F0 83%,  #C200F0 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, #C200F0), color-stop(83%, #C200F0), color-stop(100%, #C200F0)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+
+	
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/sorozatajanlo-stan-lees-lucky-man-19227.scifi" title="Sorozatajánló – Stan Lee&#8217;s Lucky Man">Sorozatajánló – Stan Lee&#8217;s Lucky Man</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				10 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19227 http://www.sfportal.hu/?p=19227">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  #C200F0 51%,  #C200F0 83%,  #C200F0 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, #C200F0), color-stop(83%, #C200F0), color-stop(100%, #C200F0)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/jon-az-eloszereplos-star-wars-sorozat-19211.scifi" title="Jön az élőszereplős Star Wars sorozat is">Jön az élőszereplős Star Wars sorozat is</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				11 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19211 http://www.sfportal.hu/?p=19211">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  #C200F0 51%,  #C200F0 83%,  #C200F0 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, #C200F0), color-stop(83%, #C200F0), color-stop(100%, #C200F0)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/no-lesz-13-doktor-jodie-whittaker-alakitja-19161.scifi" title="Nő lesz a 13. Doktor, Jodie Whittaker alakítja">Nő lesz a 13. Doktor, Jodie Whittaker alakítja</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				1 évvel ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19161 http://www.sfportal.hu/?p=19161">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  #C200F0 51%,  #C200F0 83%,  #C200F0 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, #C200F0), color-stop(83%, #C200F0), color-stop(100%, #C200F0)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #C200F0 51%, #C200F0 83%, #C200F0 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+	
+
+		
+	</aside><aside id="pm_main_cat_regular-widget-6" class="widget widget-main-content">
+
+	
+			
+		<div class="widget-title-bg clearfix">
+
+				<h2 class="widget-title">
+					<span class="inner" style="background-color:  "><a href="http://www.sfportal.hu/rovidfilm">Rövidfilmek</a></span>
+					<span class="cat-diagonal" style="
+			
+				background: -moz-linear-gradient(-45deg,    0%,   50%, rgba(0,0,0,0) 51%, rgba(0,0,0,0) 100%);
+				background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, ), color-stop(50%, ), color-stop(51%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0)));
+				background: -webkit-linear-gradient(-45deg,    0%,  50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);
+				background: -o-linear-gradient(-45deg,    0%,  50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: -ms-linear-gradient(-45deg,    0%,  50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: linear-gradient(135deg,    0%,  50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);			
+			"></span>				</h2>
+			
+		</div><!-- .widget-title-bg-->
+
+	
+	<a href="http://www.sfportal.hu/rovidfilm"></a>
+	
+					
+		
+		
+		
+		
+	<div class="widget-post pm-first clearfix">
+		<div class="left-wrap pull-left">
+			<div class="img-frame " style="background-color:  ">
+				<a href="http://www.sfportal.hu/deadpool-es-a-disney-hercegnok-19683.scifi" title="Deadpool és a Disney-hercegnők"><img width="220" height="246" src="http://www.sfportal.hu/wp-content/uploads/2018/07/deadpooldisney-220x246.png" class="attachment-block-thumbs size-block-thumbs wp-post-image" alt="Deadpool és a Disney-hercegnők" title="Deadpool és a Disney-hercegnők" srcset="http://www.sfportal.hu/wp-content/uploads/2018/07/deadpooldisney-220x246.png 220w, http://www.sfportal.hu/wp-content/uploads/2018/07/deadpooldisney-180x200.png 180w" sizes="(max-width: 220px) 100vw, 220px" /></a>				
+								
+			</div>
+		</div>
+			
+		<div class="entry-info pull-right">
+	
+			<h3 class="entry-title">
+				<a href="http://www.sfportal.hu/deadpool-es-a-disney-hercegnok-19683.scifi" title="Deadpool és a Disney-hercegnők">Deadpool és a Disney-hercegnők</a>
+			</h3>
+			
+						<p>
+			Nem találjuk a szavakat erre a kisfilmre, teljesen kiégett tőle az agyunk. Egy Julian Higgins nevű őrült zseni rendező elkészített egy Deadpool musicalt. Igen, Deadpool dalra<a href='http://www.sfportal.hu/deadpool-es-a-disney-hercegnok-19683.scifi' title='Deadpool és a Disney-hercegnők' class="readmore"> [...]</a>
+			</p>
+						
+			<div class="entry-meta">
+				<span class="entry-date">
+					2 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19683 http://www.sfportal.hu/?p=19683">0</span>				</span>
+			</div><!--entry-meta-->
+			
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,   51%,   83%,   100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, ), color-stop(83%, ), color-stop(100%, )); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%, ) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+
+	
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/sci-fi-rovidfilm-im-you-dickhead-18440.scifi" title="Sci-fi rövidfilm: I&#8217;m You Dickhead">Sci-fi rövidfilm: I&#8217;m You Dickhead</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				3 évvel ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="18440 http://www.sfportal.hu/?p=18440">1</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,   51%,   83%,   100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, ), color-stop(83%, ), color-stop(100%, )); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%, ) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/18-power-rangers-fanfilm-katee-sackhoffal-18206.scifi" title="18+ Power Rangers fanfilm Katee Sackhoffal">18+ Power Rangers fanfilm Katee Sackhoffal</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				4 évvel ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="18206 http://www.sfportal.hu/?p=18206">1</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,   51%,   83%,   100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, ), color-stop(83%, ), color-stop(100%, )); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%, ) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/sci-fi-rovidfilm-time-trap-18047.scifi" title="Sci-Fi Rövidfilm: Time Trap">Sci-Fi Rövidfilm: Time Trap</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				4 évvel ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="18047 http://www.sfportal.hu/?p=18047">2</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,   51%,   83%,   100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, ), color-stop(83%, ), color-stop(100%, )); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%, ) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+	
+
+		
+	</aside><aside id="pm_main_cat_regular-widget-5" class="widget widget-main-content">
+
+	
+			
+		<div class="widget-title-bg clearfix">
+
+				<h2 class="widget-title">
+					<span class="inner" style="background-color: "><a href="http://www.sfportal.hu/jatek">Játék</a></span>
+					<span class="cat-diagonal" style="
+			
+				background: -moz-linear-gradient(-45deg,   0%,  50%, rgba(0,0,0,0) 51%, rgba(0,0,0,0) 100%);
+				background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,), color-stop(50%,), color-stop(51%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0)));
+				background: -webkit-linear-gradient(-45deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);
+				background: -o-linear-gradient(-45deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: -ms-linear-gradient(-45deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: linear-gradient(135deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);			
+			"></span>				</h2>
+			
+		</div><!-- .widget-title-bg-->
+
+	
+	<a href="http://www.sfportal.hu/jatek"></a>
+	
+					
+		
+		
+		
+		
+	<div class="widget-post pm-first clearfix">
+		<div class="left-wrap pull-left">
+			<div class="img-frame " style="background-color: ">
+				<a href="http://www.sfportal.hu/15-eves-a-star-wars-knights-of-the-old-republic-19681.scifi" title="15 éves a Star Wars - Knights of the Old Republic"><img width="220" height="246" src="http://www.sfportal.hu/wp-content/uploads/2018/07/knights-of-the-old-republic-220x246.jpg" class="attachment-block-thumbs size-block-thumbs wp-post-image" alt="15 éves a Star Wars &#8211; Knights of the Old Republic" title="15 éves a Star Wars &#8211; Knights of the Old Republic" srcset="http://www.sfportal.hu/wp-content/uploads/2018/07/knights-of-the-old-republic-220x246.jpg 220w, http://www.sfportal.hu/wp-content/uploads/2018/07/knights-of-the-old-republic-180x200.jpg 180w" sizes="(max-width: 220px) 100vw, 220px" /></a>				
+								
+			</div>
+		</div>
+			
+		<div class="entry-info pull-right">
+	
+			<h3 class="entry-title">
+				<a href="http://www.sfportal.hu/15-eves-a-star-wars-knights-of-the-old-republic-19681.scifi" title="15 éves a Star Wars &#8211; Knights of the Old Republic">15 éves a Star Wars &#8211; Knights of the Old Republic</a>
+			</h3>
+			
+						<p>
+			Ami szerintem azóta is a világ legjobb Star Wars játéka, és ami mérföldkő volt a számítógépes/konzolos szerepjátékok történelmében. No meg persze a Bioware fejlődésének is<a href='http://www.sfportal.hu/15-eves-a-star-wars-knights-of-the-old-republic-19681.scifi' title='15 éves a Star Wars &#8211; Knights of the Old Republic' class="readmore"> [...]</a>
+			</p>
+						
+			<div class="entry-meta">
+				<span class="entry-date">
+					2 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19681 http://www.sfportal.hu/?p=19681">0</span>				</span>
+			</div><!--entry-meta-->
+			
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+
+	
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/tarsasjatek-escape-a-templom-atka-19546.scifi" title="Társasjáték: Escape &#8211; A templom átka">Társasjáték: Escape &#8211; A templom átka</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				7 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19546 http://www.sfportal.hu/?p=19546">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/meditalok-titka-konyves-nyeremenyjatek-19288.scifi" title="A meditálók titka – könyves nyereményjáték">A meditálók titka – könyves nyereményjáték</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				9 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19288 http://www.sfportal.hu/?p=19288">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/nyerj-100-000-ft-os-jatekvasarlasi-utalvanyt-jatekoslet-kutatasaval-19092.scifi" title="Nyerj 100.000 Ft-os játékvásárlási utalványt a JátékosLét kutatásával!">Nyerj 100.000 Ft-os játékvásárlási utalványt a JátékosLét kutatásával!</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				2 évvel ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19092 http://www.sfportal.hu/?p=19092">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+	
+
+		
+	</aside>
+											</div>
+					
+					<div class="span4 widgetized-medium">
+					
+												
+						<aside id="pm_main_cat_regular-widget-4" class="widget widget-main-content">
+
+	
+			
+		<div class="widget-title-bg clearfix">
+
+				<h2 class="widget-title">
+					<span class="inner" style="background-color:  #FF0022"><a href="http://www.sfportal.hu/mozi">Mozi</a></span>
+					<span class="cat-diagonal" style="
+			
+				background: -moz-linear-gradient(-45deg,   #FF0022 0%,  #FF0022 50%, rgba(0,0,0,0) 51%, rgba(0,0,0,0) 100%);
+				background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FF0022), color-stop(50%, #FF0022), color-stop(51%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0)));
+				background: -webkit-linear-gradient(-45deg,   #FF0022 0%, #FF0022 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);
+				background: -o-linear-gradient(-45deg,   #FF0022 0%, #FF0022 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: -ms-linear-gradient(-45deg,   #FF0022 0%, #FF0022 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: linear-gradient(135deg,   #FF0022 0%, #FF0022 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);			
+			"></span>				</h2>
+			
+		</div><!-- .widget-title-bg-->
+
+	
+	<a href="http://www.sfportal.hu/mozi"></a>
+	
+					
+		
+		
+		
+		
+	<div class="widget-post pm-first clearfix">
+		<div class="left-wrap pull-left">
+			<div class="img-frame " style="background-color:  #FF0022">
+				<a href="http://www.sfportal.hu/nyeremenyjatek-a-mirai-lany-a-jovorol-animere-19740.scifi" title="Nyereményjáték a Mirai - Lány a jövőből animére"><img width="220" height="246" src="http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-220x246.jpg" class="attachment-block-thumbs size-block-thumbs wp-post-image" alt="Nyereményjáték a Mirai &#8211; Lány a jövőből animére" title="Nyereményjáték a Mirai &#8211; Lány a jövőből animére" srcset="http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-220x246.jpg 220w, http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03-180x200.jpg 180w" sizes="(max-width: 220px) 100vw, 220px" /></a>				
+								
+			</div>
+		</div>
+			
+		<div class="entry-info pull-right">
+	
+			<h3 class="entry-title">
+				<a href="http://www.sfportal.hu/nyeremenyjatek-a-mirai-lany-a-jovorol-animere-19740.scifi" title="Nyereményjáték a Mirai &#8211; Lány a jövőből animére">Nyereményjáték a Mirai &#8211; Lány a jövőből animére</a>
+			</h3>
+			
+						<p>
+			Újabb nyereményjátékra invitálunk benneteket itt az SFportal.hu-n a Pólus Mozi nagytermébe 2018. szeptember 28-ára, péntekre, 19 órai kezdettel. A Studio Chizu és Mamoru Hosoda, az<a href='http://www.sfportal.hu/nyeremenyjatek-a-mirai-lany-a-jovorol-animere-19740.scifi' title='Nyereményjáték a Mirai &#8211; Lány a jövőből animére' class="readmore"> [...]</a>
+			</p>
+						
+			<div class="entry-meta">
+				<span class="entry-date">
+					3 nappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19740 http://www.sfportal.hu/?p=19740">0</span>				</span>
+			</div><!--entry-meta-->
+			
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  #FF0022 51%,  #FF0022 83%,  #FF0022 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, #FF0022), color-stop(83%, #FF0022), color-stop(100%, #FF0022)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+
+	
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/nyeremenyjatek-a-macskafogo-mozis-bemutatojara-19731.scifi" title="Nyereményjáték a Macskafogó mozis bemutatójára">Nyereményjáték a Macskafogó mozis bemutatójára</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				3 hét ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19731 http://www.sfportal.hu/?p=19731">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  #FF0022 51%,  #FF0022 83%,  #FF0022 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, #FF0022), color-stop(83%, #FF0022), color-stop(100%, #FF0022)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/star-wars-es-fagyi-19723.scifi" title="Star Wars és fagyi">Star Wars és fagyi</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				3 hét ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19723 http://www.sfportal.hu/?p=19723">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  #FF0022 51%,  #FF0022 83%,  #FF0022 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, #FF0022), color-stop(83%, #FF0022), color-stop(100%, #FF0022)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/emberi-lepteku-marvel-film-ant-man-the-wasp-a-hangya-es-a-darazs-kritika-19692.scifi" title="Emberi léptékű Marvel-film: Ant-Man &#038; The Wasp – A Hangya és a Darázs kritika">Emberi léptékű Marvel-film: Ant-Man &#038; The Wasp – A Hangya és a Darázs kritika</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				2 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19692 http://www.sfportal.hu/?p=19692">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  #FF0022 51%,  #FF0022 83%,  #FF0022 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%, #FF0022), color-stop(83%, #FF0022), color-stop(100%, #FF0022)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, #FF0022 51%, #FF0022 83%, #FF0022 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+	
+
+		
+	</aside><aside id="pm_main_cat_regular-widget-3" class="widget widget-main-content">
+
+	
+			
+		<div class="widget-title-bg clearfix">
+
+				<h2 class="widget-title">
+					<span class="inner" style="background-color: #048b10"><a href="http://www.sfportal.hu/irodalom">Irodalom</a></span>
+					<span class="cat-diagonal" style="
+			
+				background: -moz-linear-gradient(-45deg,  #048b10 0%, #048b10 50%, rgba(0,0,0,0) 51%, rgba(0,0,0,0) 100%);
+				background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#048b10), color-stop(50%,#048b10), color-stop(51%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0)));
+				background: -webkit-linear-gradient(-45deg,  #048b10 0%,#048b10 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);
+				background: -o-linear-gradient(-45deg,  #048b10 0%,#048b10 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: -ms-linear-gradient(-45deg,  #048b10 0%,#048b10 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: linear-gradient(135deg,  #048b10 0%,#048b10 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);			
+			"></span>				</h2>
+			
+		</div><!-- .widget-title-bg-->
+
+	
+	<a href="http://www.sfportal.hu/irodalom"></a>
+	
+					
+		
+		
+		
+		
+	<div class="widget-post pm-first clearfix">
+		<div class="left-wrap pull-left">
+			<div class="img-frame " style="background-color: #048b10">
+				<a href="http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi" title="2050 - ifjúsági jövőképek egy kötetben"><img width="220" height="246" src="http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-220x246.jpg" class="attachment-block-thumbs size-block-thumbs wp-post-image" alt="2050 &#8211; ifjúsági jövőképek egy kötetben" title="2050 &#8211; ifjúsági jövőképek egy kötetben" srcset="http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-220x246.jpg 220w, http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-180x200.jpg 180w" sizes="(max-width: 220px) 100vw, 220px" /></a>				
+								
+			</div>
+		</div>
+			
+		<div class="entry-info pull-right">
+	
+			<h3 class="entry-title">
+				<a href="http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi" title="2050 &#8211; ifjúsági jövőképek egy kötetben">2050 &#8211; ifjúsági jövőképek egy kötetben</a>
+			</h3>
+			
+						<p>
+			A Móra belevágott a sci-fibe: 2050 – Ifjúsági novellák a jövőről című antológiájuk tizenhárom magyar szerző SF-írását tartalmazza. A Sirokai Mátyás szerkesztő által sorba szedett<a href='http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi' title='2050 &#8211; ifjúsági jövőképek egy kötetben' class="readmore"> [...]</a>
+			</p>
+						
+			<div class="entry-meta">
+				<span class="entry-date">
+					1 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19719 http://www.sfportal.hu/?p=19719">0</span>				</span>
+			</div><!--entry-meta-->
+			
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, #048b10 51%, #048b10 83%, #048b10 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,#048b10), color-stop(83%,#048b10), color-stop(100%,#048b10)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+
+	
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/a-galaktika-1970-es-indulasarol-a-szefantoron-19714.scifi" title="A Galaktika 1970-es indulásáról a Szefantoron">A Galaktika 1970-es indulásáról a Szefantoron</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				2 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19714 http://www.sfportal.hu/?p=19714">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, #048b10 51%, #048b10 83%, #048b10 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,#048b10), color-stop(83%,#048b10), color-stop(100%,#048b10)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/magikus-realizmus-es-science-fiction-ken-liu-a-papirsereglet-es-mas-tortenetek-19676.scifi" title="Mágikus realizmus és science fiction &#8211; Ken Liu: A papírsereglet és más történetek">Mágikus realizmus és science fiction &#8211; Ken Liu: A papírsereglet és más történetek</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				3 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19676 http://www.sfportal.hu/?p=19676">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, #048b10 51%, #048b10 83%, #048b10 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,#048b10), color-stop(83%,#048b10), color-stop(100%,#048b10)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,#048b10 51%,#048b10 83%,#048b10 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+	
+
+		
+	</aside><aside id="pm_main_cat_regular-widget-11" class="widget widget-main-content">
+
+	
+			
+		<div class="widget-title-bg clearfix">
+
+				<h2 class="widget-title">
+					<span class="inner" style="background-color: "><a href="http://www.sfportal.hu/irodalom/reszlet-irodalom">Regényrészlet</a></span>
+					<span class="cat-diagonal" style="
+			
+				background: -moz-linear-gradient(-45deg,   0%,  50%, rgba(0,0,0,0) 51%, rgba(0,0,0,0) 100%);
+				background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,), color-stop(50%,), color-stop(51%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0)));
+				background: -webkit-linear-gradient(-45deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);
+				background: -o-linear-gradient(-45deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: -ms-linear-gradient(-45deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: linear-gradient(135deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);			
+			"></span>				</h2>
+			
+		</div><!-- .widget-title-bg-->
+
+	
+	<a href="http://www.sfportal.hu/irodalom/reszlet-irodalom"></a>
+	
+					
+		
+		
+		
+		
+	<div class="widget-post pm-first clearfix">
+		<div class="left-wrap pull-left">
+			<div class="img-frame " style="background-color: ">
+				<a href="http://www.sfportal.hu/bakti-viktor-integralva-regenyreszlet-19300.scifi" title="Bakti Viktor: Integrálva (regényrészlet)"><img width="220" height="246" src="http://www.sfportal.hu/wp-content/uploads/2017/12/bakti-viktor_integralva_kiemelt-220x246.jpg" class="attachment-block-thumbs size-block-thumbs wp-post-image" alt="Bakti Viktor: Integrálva (regényrészlet)" title="Bakti Viktor: Integrálva (regényrészlet)" srcset="http://www.sfportal.hu/wp-content/uploads/2017/12/bakti-viktor_integralva_kiemelt-220x246.jpg 220w, http://www.sfportal.hu/wp-content/uploads/2017/12/bakti-viktor_integralva_kiemelt-180x200.jpg 180w" sizes="(max-width: 220px) 100vw, 220px" /></a>				
+								
+			</div>
+		</div>
+			
+		<div class="entry-info pull-right">
+	
+			<h3 class="entry-title">
+				<a href="http://www.sfportal.hu/bakti-viktor-integralva-regenyreszlet-19300.scifi" title="Bakti Viktor: Integrálva (regényrészlet)">Bakti Viktor: Integrálva (regényrészlet)</a>
+			</h3>
+			
+						<p>
+			Ajánló: 2066 – Philadelphia: Themisz, a titokzatos szuperszámítógép mindent lát, még a jövőt is. Kiszámítja, hogyan boldogulhat legjobban az emberiség. Digitális jósok súgják meg, mi várható, ám<a href='http://www.sfportal.hu/bakti-viktor-integralva-regenyreszlet-19300.scifi' title='Bakti Viktor: Integrálva (regényrészlet)' class="readmore"> [...]</a>
+			</p>
+						
+			<div class="entry-meta">
+				<span class="entry-date">
+					9 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19300 http://www.sfportal.hu/?p=19300">0</span>				</span>
+			</div><!--entry-meta-->
+			
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+
+	
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/dolores-redondo-lathatatlan-orzo-reszlet-17971.scifi" title="Dolores Redondo: A láthatatlan őrző – részlet">Dolores Redondo: A láthatatlan őrző – részlet</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				4 évvel ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="17971 http://www.sfportal.hu/?p=17971">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/f-toth-benedek-almodsz-e-meg-es-ha-igen-mirol-reszlet-17969.scifi" title="F. Tóth Benedek: Álmodsz-e még, és ha igen, miről? – részlet">F. Tóth Benedek: Álmodsz-e még, és ha igen, miről? – részlet</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				4 évvel ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="17969 http://www.sfportal.hu/?p=17969">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+	
+
+		
+	</aside><aside id="pm_main_cat_regular-widget-12" class="widget widget-main-content">
+
+	
+			
+		<div class="widget-title-bg clearfix">
+
+				<h2 class="widget-title">
+					<span class="inner" style="background-color: "><a href="http://www.sfportal.hu/irodalom/konyvkritika-irodalom">Könyvkritika</a></span>
+					<span class="cat-diagonal" style="
+			
+				background: -moz-linear-gradient(-45deg,   0%,  50%, rgba(0,0,0,0) 51%, rgba(0,0,0,0) 100%);
+				background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,), color-stop(50%,), color-stop(51%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0)));
+				background: -webkit-linear-gradient(-45deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);
+				background: -o-linear-gradient(-45deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: -ms-linear-gradient(-45deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%); 
+				background: linear-gradient(135deg,   0%, 50%,rgba(0,0,0,0) 51%,rgba(0,0,0,0) 100%);			
+			"></span>				</h2>
+			
+		</div><!-- .widget-title-bg-->
+
+	
+	<a href="http://www.sfportal.hu/irodalom/konyvkritika-irodalom"></a>
+	
+					
+		
+		
+		
+		
+	<div class="widget-post pm-first clearfix">
+		<div class="left-wrap pull-left">
+			<div class="img-frame " style="background-color: ">
+				<a href="http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi" title="2050 - ifjúsági jövőképek egy kötetben"><img width="220" height="246" src="http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-220x246.jpg" class="attachment-block-thumbs size-block-thumbs wp-post-image" alt="2050 &#8211; ifjúsági jövőképek egy kötetben" title="2050 &#8211; ifjúsági jövőképek egy kötetben" srcset="http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-220x246.jpg 220w, http://www.sfportal.hu/wp-content/uploads/2018/08/2050_novella_mora-180x200.jpg 180w" sizes="(max-width: 220px) 100vw, 220px" /></a>				
+								
+			</div>
+		</div>
+			
+		<div class="entry-info pull-right">
+	
+			<h3 class="entry-title">
+				<a href="http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi" title="2050 &#8211; ifjúsági jövőképek egy kötetben">2050 &#8211; ifjúsági jövőképek egy kötetben</a>
+			</h3>
+			
+						<p>
+			A Móra belevágott a sci-fibe: 2050 – Ifjúsági novellák a jövőről című antológiájuk tizenhárom magyar szerző SF-írását tartalmazza. A Sirokai Mátyás szerkesztő által sorba szedett<a href='http://www.sfportal.hu/2050-ifjusagi-jovokepek-egy-kotetben-19719.scifi' title='2050 &#8211; ifjúsági jövőképek egy kötetben' class="readmore"> [...]</a>
+			</p>
+						
+			<div class="entry-meta">
+				<span class="entry-date">
+					1 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19719 http://www.sfportal.hu/?p=19719">0</span>				</span>
+			</div><!--entry-meta-->
+			
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+
+	
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/magikus-realizmus-es-science-fiction-ken-liu-a-papirsereglet-es-mas-tortenetek-19676.scifi" title="Mágikus realizmus és science fiction &#8211; Ken Liu: A papírsereglet és más történetek">Mágikus realizmus és science fiction &#8211; Ken Liu: A papírsereglet és más történetek</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				3 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19676 http://www.sfportal.hu/?p=19676">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+			
+	
+	
+		
+	<div class="widget-post pm-rest clearfix">
+		<div class="entry-info pull-right">
+	
+			<h4 class="entry-title">
+				<a href="http://www.sfportal.hu/konyvkritika-gyors-konyv-lassu-lovedekek-19621.scifi" title="Könyvkritika &#8211; Gyors könyv, Lassú lövedékek">Könyvkritika &#8211; Gyors könyv, Lassú lövedékek</a>
+			</h4>
+			
+						
+			
+			<div class="entry-meta">
+				<span class="entry-date">
+				4 hónappal ago				</span>
+				
+				<span class="entry-comments">
+				<span class="dsq-postid" data-dsqidentifier="19621 http://www.sfportal.hu/?p=19621">0</span>				</span>
+			</div>
+						
+			<span class="cat-angle" style="
+			background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%,  51%,  83%,  100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(50%,rgba(0,0,0,0)), color-stop(51%,), color-stop(83%,), color-stop(100%,)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%,) 100%); /* Opera 11.10+ */
+			background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%, 51%, 83%, 100%); /* W3C */
+			">
+			</span>
+	
+		</div><!--entry-info-->
+	</div><!-- .widget-post -->
+    
+    
+	
+
+		
+	</aside>						
+											</div>	
+					
+					<div class="span3 widgetized-small">
+	<aside id="socialcountplus-3" class="widget widget_socialcountplus"><div class="social-count-plus"><ul class="flat vertical"><li class="count-facebook"><a class="icon" href="https://www.facebook.com/sfportal" rel="nofollow noopener noreferrer" target="_blank"></a><span class="items"><span class="count" style="color: #333333 !important;">8831</span><span class="label" style="color: #333333 !important;">likes</span></span></li><li class="count-twitter"><a class="icon" href="https://twitter.com/sfportal" rel="nofollow noopener noreferrer" target="_blank"></a><span class="items"><span class="count" style="color: #333333 !important;">416</span><span class="label" style="color: #333333 !important;">followers</span></span></li></ul></div></aside><aside id="best_reviews_widget-2" class="widget widget_best_reviews_widget">  	<div class="widget-title-bg clearfix"><h4 class="widget-title"><span class="inner">Könyvkritikák</span><span class="cat-diagonal"></span></h4></div>	
+	<ul class="custom-widget post-widget">
+				<li class="clearfix">
+			<div class="img-frame ">
+							
+					<a href="http://www.sfportal.hu/anthony-ryan-ver-eneke-kritika-17461.scifi" title="Anthony Ryan: A vér éneke - kritika"><img width="95" height="53" src="http://www.sfportal.hu/wp-content/uploads/2014/04/a-ver-eneke-kiemelt1-95x53.jpg" class="wpp-thumbnail wp-post-image wp-post-image" alt="" srcset="http://www.sfportal.hu/wp-content/uploads/2014/04/a-ver-eneke-kiemelt1-95x53.jpg 95w, http://www.sfportal.hu/wp-content/uploads/2014/04/a-ver-eneke-kiemelt1-770x434.jpg 770w" sizes="(max-width: 95px) 100vw, 95px" /></a>					
+				
+			</div>		
+			
+			<a href="http://www.sfportal.hu/anthony-ryan-ver-eneke-kritika-17461.scifi" title="Anthony Ryan: A vér éneke &#8211; kritika">			
+				<span>Anthony Ryan: A vér éneke &#8211; kritika</span>				
+			</a>
+			
+			<div class="clear"></div>
+			
+			<div class="info-stripe clearfix">
+				<span class="cat-stripe pull-left">
+					<a href="http://www.sfportal.hu/irodalom" title="Irodalom">
+					Irodalom					</a>
+				</span>
+				
+				<span class="post-attribute pull-left">április 24, 2014</span>
+				
+				<a href="http://www.sfportal.hu/anthony-ryan-ver-eneke-kritika-17461.scifi" title="Anthony Ryan: A vér éneke &#8211; kritika"><i class="icon-chevron-right pull-right"></i></a>
+				
+									
+					<span class="percent-stripe">98</span>
+
+								</div><!-- info-stripe -->				
+		</li>
+				<li class="clearfix">
+			<div class="img-frame ">
+							
+					<a href="http://www.sfportal.hu/demonidezes-matematikai-kepletekkel-charles-stross-mosoda-aktak-18314.scifi" title="Démonidézés matematikai képletekkel – Charles Stross: Mosoda-akták"><img width="95" height="53" src="http://www.sfportal.hu/wp-content/uploads/2015/05/stross_mosoly-95x53.jpg" class="wpp-thumbnail wp-post-image wp-post-image" alt="" /></a>					
+				
+			</div>		
+			
+			<a href="http://www.sfportal.hu/demonidezes-matematikai-kepletekkel-charles-stross-mosoda-aktak-18314.scifi" title="Démonidézés matematikai képletekkel – Charles Stross: Mosoda-akták">			
+				<span>Démonidézés matematikai képletekkel – Charles Stross: Mosoda-akták</span>				
+			</a>
+			
+			<div class="clear"></div>
+			
+			<div class="info-stripe clearfix">
+				<span class="cat-stripe pull-left">
+					<a href="http://www.sfportal.hu/irodalom" title="Irodalom">
+					Irodalom					</a>
+				</span>
+				
+				<span class="post-attribute pull-left">szeptember 8, 2015</span>
+				
+				<a href="http://www.sfportal.hu/demonidezes-matematikai-kepletekkel-charles-stross-mosoda-aktak-18314.scifi" title="Démonidézés matematikai képletekkel – Charles Stross: Mosoda-akták"><i class="icon-chevron-right pull-right"></i></a>
+				
+							</div><!-- info-stripe -->				
+		</li>
+				<li class="clearfix">
+			<div class="img-frame ">
+							
+					<a href="http://www.sfportal.hu/kritika-robert-holdstock-mitago-erdo-17016.scifi" title="Kritika - Robert Holdstock: Mitágó-erdő"><img width="95" height="53" src="http://www.sfportal.hu/wp-content/uploads/2013/11/mitago-erdo-95x53.jpg" class="wpp-thumbnail wp-post-image wp-post-image" alt="" srcset="http://www.sfportal.hu/wp-content/uploads/2013/11/mitago-erdo-95x53.jpg 95w, http://www.sfportal.hu/wp-content/uploads/2013/11/mitago-erdo-616x342.jpg 616w" sizes="(max-width: 95px) 100vw, 95px" /></a>					
+				
+			</div>		
+			
+			<a href="http://www.sfportal.hu/kritika-robert-holdstock-mitago-erdo-17016.scifi" title="Kritika &#8211; Robert Holdstock: Mitágó-erdő">			
+				<span>Kritika &#8211; Robert Holdstock: Mitágó-erdő</span>				
+			</a>
+			
+			<div class="clear"></div>
+			
+			<div class="info-stripe clearfix">
+				<span class="cat-stripe pull-left">
+					<a href="http://www.sfportal.hu/irodalom" title="Irodalom">
+					Irodalom					</a>
+				</span>
+				
+				<span class="post-attribute pull-left">december 12, 2013</span>
+				
+				<a href="http://www.sfportal.hu/kritika-robert-holdstock-mitago-erdo-17016.scifi" title="Kritika &#8211; Robert Holdstock: Mitágó-erdő"><i class="icon-chevron-right pull-right"></i></a>
+				
+									
+					<span class="percent-stripe">97</span>
+
+								</div><!-- info-stripe -->				
+		</li>
+				<li class="clearfix">
+			<div class="img-frame ">
+							
+					<a href="http://www.sfportal.hu/balint-endre-programozo-konyve-17409.scifi" title="Bálint Endre: A Programozó Könyve"><img width="95" height="53" src="http://www.sfportal.hu/wp-content/uploads/2014/03/balintendre_aprogramozokonyve-95x53.jpg" class="wpp-thumbnail wp-post-image wp-post-image" alt="" srcset="http://www.sfportal.hu/wp-content/uploads/2014/03/balintendre_aprogramozokonyve-95x53.jpg 95w, http://www.sfportal.hu/wp-content/uploads/2014/03/balintendre_aprogramozokonyve-600x342.jpg 600w" sizes="(max-width: 95px) 100vw, 95px" /></a>					
+				
+			</div>		
+			
+			<a href="http://www.sfportal.hu/balint-endre-programozo-konyve-17409.scifi" title="Bálint Endre: A Programozó Könyve">			
+				<span>Bálint Endre: A Programozó Könyve</span>				
+			</a>
+			
+			<div class="clear"></div>
+			
+			<div class="info-stripe clearfix">
+				<span class="cat-stripe pull-left">
+					<a href="http://www.sfportal.hu/irodalom" title="Irodalom">
+					Irodalom					</a>
+				</span>
+				
+				<span class="post-attribute pull-left">március 28, 2014</span>
+				
+				<a href="http://www.sfportal.hu/balint-endre-programozo-konyve-17409.scifi" title="Bálint Endre: A Programozó Könyve"><i class="icon-chevron-right pull-right"></i></a>
+				
+									
+					<span class="percent-stripe">95</span>
+
+								</div><!-- info-stripe -->				
+		</li>
+				<li class="clearfix">
+			<div class="img-frame ">
+							
+					<a href="http://www.sfportal.hu/doctor-regeny-gareth-roberts-shada-kritika-17108.scifi" title="Doctor Who regény - Gareth Roberts: Shada - kritika"><img width="95" height="53" src="http://www.sfportal.hu/wp-content/uploads/2013/10/shada-kiemelt-95x53.jpg" class="wpp-thumbnail wp-post-image wp-post-image" alt="" srcset="http://www.sfportal.hu/wp-content/uploads/2013/10/shada-kiemelt-95x53.jpg 95w, http://www.sfportal.hu/wp-content/uploads/2013/10/shada-kiemelt-770x434.jpg 770w" sizes="(max-width: 95px) 100vw, 95px" /></a>					
+				
+			</div>		
+			
+			<a href="http://www.sfportal.hu/doctor-regeny-gareth-roberts-shada-kritika-17108.scifi" title="Doctor Who regény &#8211; Gareth Roberts: Shada &#8211; kritika">			
+				<span>Doctor Who regény &#8211; Gareth Roberts: Shada &#8211; kritika</span>				
+			</a>
+			
+			<div class="clear"></div>
+			
+			<div class="info-stripe clearfix">
+				<span class="cat-stripe pull-left">
+					<a href="http://www.sfportal.hu/irodalom" title="Irodalom">
+					Irodalom					</a>
+				</span>
+				
+				<span class="post-attribute pull-left">január 13, 2014</span>
+				
+				<a href="http://www.sfportal.hu/doctor-regeny-gareth-roberts-shada-kritika-17108.scifi" title="Doctor Who regény &#8211; Gareth Roberts: Shada &#8211; kritika"><i class="icon-chevron-right pull-right"></i></a>
+				
+									
+					<span class="percent-stripe">95</span>
+
+								</div><!-- info-stripe -->				
+		</li>
+				<li class="clearfix">
+			<div class="img-frame ">
+							
+					<a href="http://www.sfportal.hu/a-vegjatek-arnyekaban-ender-arnyeka-kritika-12926.scifi" title="A Végjáték árnyékában - Ender árnyéka [kritika]"><img width="35" height="53" src="http://www.sfportal.hu/wp-content/uploads/2012/05/ender-arnyeka_a-jovo-immaron-a-jelen.jpg" class="wpp-thumbnail wp-post-image wp-post-image" alt="" srcset="http://www.sfportal.hu/wp-content/uploads/2012/05/ender-arnyeka_a-jovo-immaron-a-jelen.jpg 507w, http://www.sfportal.hu/wp-content/uploads/2012/05/ender-arnyeka_a-jovo-immaron-a-jelen-266x405.jpg 266w" sizes="(max-width: 35px) 100vw, 35px" /></a>					
+				
+			</div>		
+			
+			<a href="http://www.sfportal.hu/a-vegjatek-arnyekaban-ender-arnyeka-kritika-12926.scifi" title="A Végjáték árnyékában &#8211; Ender árnyéka [kritika]">			
+				<span>A Végjáték árnyékában &#8211; Ender árnyéka [kritika]</span>				
+			</a>
+			
+			<div class="clear"></div>
+			
+			<div class="info-stripe clearfix">
+				<span class="cat-stripe pull-left">
+					<a href="http://www.sfportal.hu/irodalom" title="Irodalom">
+					Irodalom					</a>
+				</span>
+				
+				<span class="post-attribute pull-left">május 23, 2012</span>
+				
+				<a href="http://www.sfportal.hu/a-vegjatek-arnyekaban-ender-arnyeka-kritika-12926.scifi" title="A Végjáték árnyékában &#8211; Ender árnyéka [kritika]"><i class="icon-chevron-right pull-right"></i></a>
+				
+									
+					<span class="percent-stripe">93</span>
+
+								</div><!-- info-stripe -->				
+		</li>
+				<li class="clearfix">
+			<div class="img-frame ">
+							
+					<a href="http://www.sfportal.hu/somogyi-dobo-tebeli-kitty-rengetegben-19053.scifi" title="Somogyi - Dobó - Tebeli: Kitty a rengetegben"><img width="95" height="53" src="http://www.sfportal.hu/wp-content/uploads/2017/01/kittenberger_belső-95x53.jpg" class="wpp-thumbnail wp-post-image wp-post-image" alt="" /></a>					
+				
+			</div>		
+			
+			<a href="http://www.sfportal.hu/somogyi-dobo-tebeli-kitty-rengetegben-19053.scifi" title="Somogyi &#8211; Dobó &#8211; Tebeli: Kitty a rengetegben">			
+				<span>Somogyi &#8211; Dobó &#8211; Tebeli: Kitty a rengetegben</span>				
+			</a>
+			
+			<div class="clear"></div>
+			
+			<div class="info-stripe clearfix">
+				<span class="cat-stripe pull-left">
+					<a href="http://www.sfportal.hu/irodalom" title="Irodalom">
+					Irodalom					</a>
+				</span>
+				
+				<span class="post-attribute pull-left">január 4, 2017</span>
+				
+				<a href="http://www.sfportal.hu/somogyi-dobo-tebeli-kitty-rengetegben-19053.scifi" title="Somogyi &#8211; Dobó &#8211; Tebeli: Kitty a rengetegben"><i class="icon-chevron-right pull-right"></i></a>
+				
+									
+					<span class="percent-stripe">92</span>
+
+								</div><!-- info-stripe -->				
+		</li>
+				<li class="clearfix">
+			<div class="img-frame ">
+							
+					<a href="http://www.sfportal.hu/jeff-vandermeer-expedicio-kritika-17320.scifi" title="Jeff Vandermeer : Expedíció - kritika"><img width="95" height="53" src="http://www.sfportal.hu/wp-content/uploads/2014/02/jeff-vandermeer-expedicio-95x53.jpg" class="wpp-thumbnail wp-post-image wp-post-image" alt="" /></a>					
+				
+			</div>		
+			
+			<a href="http://www.sfportal.hu/jeff-vandermeer-expedicio-kritika-17320.scifi" title="Jeff Vandermeer : Expedíció &#8211; kritika">			
+				<span>Jeff Vandermeer : Expedíció &#8211; kritika</span>				
+			</a>
+			
+			<div class="clear"></div>
+			
+			<div class="info-stripe clearfix">
+				<span class="cat-stripe pull-left">
+					<a href="http://www.sfportal.hu/irodalom" title="Irodalom">
+					Irodalom					</a>
+				</span>
+				
+				<span class="post-attribute pull-left">március 19, 2014</span>
+				
+				<a href="http://www.sfportal.hu/jeff-vandermeer-expedicio-kritika-17320.scifi" title="Jeff Vandermeer : Expedíció &#8211; kritika"><i class="icon-chevron-right pull-right"></i></a>
+				
+									
+					<span class="percent-stripe">91</span>
+
+								</div><!-- info-stripe -->				
+		</li>
+				<li class="clearfix">
+			<div class="img-frame ">
+							
+					<a href="http://www.sfportal.hu/john-scalzi-zoe-tortenete-kritika-17777.scifi" title="John Scalzi: Zoë története – kritika"><img width="95" height="53" src="http://www.sfportal.hu/wp-content/uploads/2014/06/john-scalzi-zoe-tortenete-e1402651934203-95x53.jpg" class="wpp-thumbnail wp-post-image wp-post-image" alt="" /></a>					
+				
+			</div>		
+			
+			<a href="http://www.sfportal.hu/john-scalzi-zoe-tortenete-kritika-17777.scifi" title="John Scalzi: Zoë története – kritika">			
+				<span>John Scalzi: Zoë története – kritika</span>				
+			</a>
+			
+			<div class="clear"></div>
+			
+			<div class="info-stripe clearfix">
+				<span class="cat-stripe pull-left">
+					<a href="http://www.sfportal.hu/irodalom" title="Irodalom">
+					Irodalom					</a>
+				</span>
+				
+				<span class="post-attribute pull-left">június 13, 2014</span>
+				
+				<a href="http://www.sfportal.hu/john-scalzi-zoe-tortenete-kritika-17777.scifi" title="John Scalzi: Zoë története – kritika"><i class="icon-chevron-right pull-right"></i></a>
+				
+									
+					<span class="percent-stripe">91</span>
+
+								</div><!-- info-stripe -->				
+		</li>
+				<li class="clearfix">
+			<div class="img-frame ">
+							
+					<a href="http://www.sfportal.hu/kritika-vernor-vinge-tuz-lobban-melyben-16643.scifi" title="Kritika - Vernor Vinge: Tűz lobban a mélyben"><img width="95" height="53" src="http://www.sfportal.hu/wp-content/uploads/2013/10/vernor-vinge-tuz-lobban-a-melyben-kiemelt-95x53.jpg" class="wpp-thumbnail wp-post-image wp-post-image" alt="" /></a>					
+				
+			</div>		
+			
+			<a href="http://www.sfportal.hu/kritika-vernor-vinge-tuz-lobban-melyben-16643.scifi" title="Kritika &#8211; Vernor Vinge: Tűz lobban a mélyben">			
+				<span>Kritika &#8211; Vernor Vinge: Tűz lobban a mélyben</span>				
+			</a>
+			
+			<div class="clear"></div>
+			
+			<div class="info-stripe clearfix">
+				<span class="cat-stripe pull-left">
+					<a href="http://www.sfportal.hu/irodalom" title="Irodalom">
+					Irodalom					</a>
+				</span>
+				
+				<span class="post-attribute pull-left">október 14, 2013</span>
+				
+				<a href="http://www.sfportal.hu/kritika-vernor-vinge-tuz-lobban-melyben-16643.scifi" title="Kritika &#8211; Vernor Vinge: Tűz lobban a mélyben"><i class="icon-chevron-right pull-right"></i></a>
+				
+									
+					<span class="percent-stripe">90</span>
+
+								</div><!-- info-stripe -->				
+		</li>
+					
+	</ul>
+	
+	</aside></div>
+					
+				</div><!-- .row #widgetized-home -->
+				
+				</div>
+
+			</div><!-- #content .site-content -->
+		</div><!-- #primary .content-area -->
+
+			</div><!-- #main .site-main -->
+				
+		<div id="footer-wrap">
+			<div id="full-footer">
+				<footer class="container" id="widgetized-footer">
+					
+					<div class="row">
+						
+						<div class="span4 footer-item">
+													</div>
+						
+						<div class="span4 footer-item">
+													</div>	
+						
+						<div class="span4 footer-item">
+													</div>
+					
+					</div><!--row-->		
+				</footer><!--.container-->
+			</div><!-- #full-footer -->
+				
+			<div id="full-site-info">	
+				<div id="colophon" class="site-footer container" role="contentinfo">
+					<div class="site-info row">
+						
+						<div class="span12">
+						
+														
+							<div class="utilities footer">
+															</div>
+						
+							<p>Copyright © 2005 - 2017 — SFportal Sci-Fi Magazin. Minden jog fenntartva! | <a href="http://www.sfportal.hu/impresszum">Impresszum</a> </p>
+						</div>
+						
+					</div><!-- .site-info -->
+				</div><!-- #colophon .site-footer -->
+			</div>
+		</div><!--#footer-wrap-->
+				
+	<!--</div> #page .hfeed .site -->
+	
+<i class="icon-chevron-up icon-large scrollup"></i>		</div><!-- .container.supermain -->
+		
+			<script type="text/javascript">
+				jQuery(document).ready(function($) {
+					$(".entry-img .entry-img-src a").attr("href", "http://www.sfportal.hu/wp-content/uploads/2018/09/Mirai03.jpg");
+					$(".entry-img .entry-img-src a").attr("data-group", "powermag-featured");
+				});
+			</script>
+					<style>#main {visibility: visible;}</style>
+					<script type="text/javascript">
+			var templateDir = "http://www.sfportal.hu/wp-content/themes/powermag";
+			</script>
+					<script type="text/javascript">
+		
+			jQuery(document).ready(function($) {
+				$('#js-news').ticker({
+					titleText: '',
+					controls:  true,
+					displayType: 'reveal',
+					speed: '0.1',
+					pauseOnItems: 2000,
+					fadeInSpeed: 600,      // Speed of fade in animation 600
+					fadeOutSpeed: 300     // Speed of fade out animation DEF 300
+				});
+			});
+		
+			</script>
+					<script type="text/javascript">
+		
+			jQuery(document).ready(function($) {
+				jQuery('.slider1 .flexslider').flexslider({
+					animation: "slide",
+					direction: "vertical",
+					startAt: 0,         
+					slideshowSpeed: 7000,         
+					animationSpeed: 600, 
+					useCSS: false,
+				});
+			});
+		
+			</script>
+					<script type="text/javascript">
+				jQuery(function($) {
+					$('#carousel').carouFredSel({
+						direction: 'down',
+						height: 342,
+						align: false,
+						padding: [0, 0, 350, 0],
+						items: {
+							
+							visible: 5,
+							minimum: 1
+						},
+						scroll: {
+							items: 1,
+							duration: 1000,
+							onBefore: function( data ) {
+								$('span', this).removeClass('selected');
+								data.items.visible.last().find('span').addClass('selected');
+							}
+						}
+					});
+					$('#carousel').children().click(function() {
+						$('#carousel').trigger( 'slideTo', [this, -4, 'prev'] );
+					});
+				});
+			</script>
+					<script type="text/javascript">
+			jQuery(document).ready(function ($) {
+				$('a[href]').filter(function() {
+				  return /(jpg|gif|png)$/.test($(this).attr('href'))
+				}).bind().addClass('jackbox'); //If a link targets an image, add .jackbox class
+				
+				$('.gallery-item .gallery-icon a').addClass('img-frame') //Add also img-frame class to galleries for hover effect @since PM 1.4.0 
+				$('.jackbox').not(".entry-img .entry-img-src a").attr('data-group','powermag-gallery'); //Add data-group attribute
+				$(".jackbox").not(".entry-img .entry-img-src a").attr("data-title", function() { //Get title and put it inside data-title
+					
+					return this.title;
+				});
+			
+					$(".jackbox").each(function(){
+					 
+						var uniqueID = 'pm_cap_' + Math.floor( Math.random()*99999 ); //Generate Unique id name
+						 
+						var CaptionDivGallery = $(this).parent().next('.gallery-caption');
+						var CaptionDivImage = $(this).siblings('.wp-caption-text'); //Set the correct relative caption divs or jackbox
+						
+						$(CaptionDivGallery).attr('id', uniqueID ); //Add the uniqueID to .gallery-caption (Galleries)
+						$(CaptionDivImage).attr('id', uniqueID ); //Add the uniqueID to .wp-caption-text (Single Images)
+				
+						$(this).attr('data-description', '#' + uniqueID ); //Add the div name to data-description
+				
+					});
+				
+				$(".jackbox[data-group]").jackBox("init"); //initialize jackbox, thank you.
+			});
+			</script>
+					<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				   $(".cat-tabs").tabs(".cat-panes-content", {
+					effect: 'fade',
+					tabs: 'li',
+					rotate: true,
+	
+			   }).slideshow( {
+					autoplay: false,
+					interval: 4000,
+					clickable: false,
+				});
+			});
+			</script>
+	
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-644174-3', 'sfportal.hu');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"sfportal"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sfportal.hu/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16'></script>
+<script type='text/javascript' src='http://www.sfportal.hu/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.sfportal.hu/wp-content/themes/powermag/inc/bwp-minify/min/?f=wp-content/themes/powermag/inc/login-with-ajax/widget/login-with-ajax.js,wp-content/themes/powermag/js/bootstrap.min.js,wp-content/plugins/js_composer/assets/lib/flexslider/jquery.flexslider-min.js,wp-content/themes/powermag/js/jquery.fitvids.min.js,wp-content/themes/powermag/js/djwd.js,wp-content/themes/powermag/js/jquery.tools.min.js,wp-content/themes/powermag/inc/jackbox/js/jackbox-for-powermag.min.js,wp-content/themes/powermag/js/small-menu.js,wp-content/themes/powermag/js/retina.min.js,wp-content/themes/powermag/js/jquery.ticker.min.js,wp-content/themes/powermag/js/jquery.homecarousel.js'></script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+Database Caching 62/606 queries in 1.115 seconds using disk
+
+Served from: www.sfportal.hu @ 2018-09-27 04:32:01 by W3 Total Cache
+-->

@@ -1,0 +1,1583 @@
+<!doctype html>
+<html class="no-js" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="pt-PT">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta property="og:title" content="AEIOU.pt"/>
+        <meta property="og:type" content="article"/>
+        <meta property='og:url' content='http://www.aeiou.pt'>
+              <meta property="og:locale" content="pt_PT" />
+        <meta property="og:image" content="http://dir.aeiou.pt/temas/icons/transparent/0397b8/logo.png"/>
+        <meta property="og:description" content="As notícias do dia, vídeos, tempo, humor, futebol, culinária, acesso fácil a email, chat e muito mais!"/>
+        <!--<meta property="og:image:width" content="230" />
+        <meta property="og:image:height" content="153" />-->
+        <title>AEIOU.pt</title>
+        <meta name="url" content="http://www.aeiou.pt" />
+        <link rel="canonical" href="http://www.aeiou.pt" />
+        <meta name="language" content="pt" />
+        <meta name="country" content="Portugal" />
+        <meta name="description" content="As notícias do dia, vídeos, tempo, humor, futebol, culinária, acesso fácil a email, chat e muito mais!" />
+        <meta name="keywords" content="aeiou, bla, kitchenet, tube, xekmail, quiosque, online, video, tempo, humor, futebol, culinaria, noticia, anedota, vida, actualidade, blogroll, catalogo" />
+        <meta name="author" content="AEIOU" />
+        <meta name="organization-Email" content="contacto@aeiou.pt" />
+        <meta name="copyright" content="AEIOU 2012" />
+        <meta name="copyright" content="AEIOU 2012" />
+        <meta name="Distribution" content="global">
+        <meta name="rating" content="General" />
+        <meta name="identifier" content="www.aeiou.pt" />
+        <meta name="robots" content="index,follow" />
+        <meta name="msvalidate.01" content="917D72AC6A44D62966A08CC68F4AEFF3" />
+        <link rel="alternate" type="application/rss+xml" title="Feed AEIOU" href="http://zap.aeiou.pt/feed" />
+        <link rel="search" type="application/opensearchdescription+xml" title="Pesquisa AEIOU" href="search.xml" />
+        <!--meta http-equiv="Pragma" content="no-cache">
+        <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+        <META HTTP-EQUIV="EXPIRES" CONTENT="0"-->
+        <link rel="dns-prefetch" href="http://www.aeiou.pt">
+        <link rel="dns-prefetch" href="//ajax.googleapis.com">
+        <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+        <link rel="canonical" href="http://www.aeiou.pt">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="icon" href="http://www.aeiou.pt/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css?v=2" />
+        <link rel="stylesheet" type="text/css" href="/css/fontface.css?v=2" />
+        <link rel="stylesheet" type="text/css" href="/css/global.css?v=6.1" />
+        <link rel="stylesheet" type="text/css" href="http://www.aeiou.pt/css/cache/b57802c91fa1aee8ddee05782d59ddb1.css?t=1404817950">
+        <!-- <link rel="stylesheet" type="text/css" href="/css/skins/prenatal.css?v=5"> -->
+        <!-- <link rel="stylesheet" type="text/css" href="/css/skins/natal.css?v=6"> -->
+	<!-- <link rel="stylesheet" type="text/css" href="/css/skins/twenty_years.css?v=1.3" /> -->
+        <link rel="stylesheet" type="text/css" href="/css/jquery-ui/jquery-ui-1.8.18.custom.css?v=2" />
+        <link rel="stylesheet" type="text/css" href="/js/slick/slick.css"/>
+        <link rel="stylesheet" type="text/css" href="/js/slick/slick-theme.css"/>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+        <script type="text/javascript">document.domain = "aeiou.pt";</script>
+        <script type="text/javascript" src="/js/analytics.js?v=1"></script>
+        <script type="text/javascript" src='/js/slick/slick.min.js'></script>
+        <script>
+            var PREBID_TIMEOUT = 6000;
+            var adUnits = [
+                /*mrec lateral topo*/
+                {code: 'div-gpt-ad-1332866392185-0', sizes: [[300, 250],[300,600]], bids: [
+                    /*mrec*/
+                    //{ bidder: 'tmp', params: {placementId: '12558045'}},
+                    //{ bidder: "xhb", params: {placementId: '11119857'}},
+                    { bidder: "criteo", params: {zoneId: 1155153}},
+                    /* SLMAds 300x250 atf */ 
+                    {bidder: 'indexExchange',params: {id: 'div-gpt-ad-1332866392185-0' ,siteID: '293414',size: [300, 250]}},
+                    {bidder: 'rubicon',params: {accountId: 9528,siteId: '207696',zoneId: '1023456',sizes: '15'}},
+                    {bidder: 'smartadserver',params: {domain: '//www3.smartadserver.com',siteID: 250279,pageId: 966934,formatId: 37582}},
+                    {bidder: 'improvedigital',params: {placementId: 1187844}},
+                    
+                    /*half page*/
+                    //{ bidder: 'tmp', params: {placementId: '12558059'}},
+                    //{ bidder: "xhb", params: {placementId: '11119876'}},
+                    { bidder: "criteo", params: {zoneId: 1155154}},
+                    /* SLMAds 300x600 atf */
+                    {bidder: 'indexExchange',params: {id: 'div-gpt-ad-1332866392185-0',siteID: '293416',size: [300, 600]}},
+                    {bidder: 'rubicon',params: {accountId: 9528,siteId: '207696',zoneId: '1023456',sizes: '10'}},
+                    {bidder: 'smartadserver',params: {domain: '//www3.smartadserver.com',siteId: 250279,pageId: 966934,formatId: 57646}},
+                    {bidder: 'improvedigital',params: {placementId: 1187846}},
+                ]},
+                /* billboard*/
+                {code: 'billboard', sizes: [970,250], bids: [
+                    { bidder: 'tmp', params: {placementId: '12558070'}},
+                    { bidder: "xhb", params: {placementId: '11119884'}},
+                ]},
+                /* mrec centro direita */
+                {code:'mrec-centro-direita', sizes: [300,250], bids: [
+                    /* SLMAds 300x250 btf */ 
+		            {bidder: 'indexExchange',params: {id: 'mrec-centro-direita' ,siteID: '293415',size: [300, 250]}},
+		            {bidder: 'rubicon',params: {accountId: 9528,siteId: '207696',zoneId: '1023458',sizes: '15'}},
+		            {bidder: 'smartadserver',params: {domain: '//www3.smartadserver.com',siteID: 250279,pageId: 966934,formatId: 37583}},
+		            {bidder: 'improvedigital',params: {placementId: 1187845}},
+                    /* criteo */
+                    { bidder: "criteo", params: {zoneId: 1283163}},
+                    
+                ]}
+                
+            ];
+        </script>
+        <script>
+            var pbjs = pbjs || {};
+            pbjs.que = pbjs.que || [];
+        </script>
+        <script type="text/javascript" src="/js/prebid.js" async></script>
+        <script>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            googletag.cmd.push(function() {
+                googletag.pubads().disableInitialLoad();
+            });
+        </script>
+        <script>
+            pbjs.que.push(function() {
+                pbjs.addAdUnits(adUnits);
+                pbjs.aliasBidder('xhb', 'tmp'); 
+                pbjs.enableSendAllBids();
+                pbjs.requestBids({ bidsBackHandler: sendAdserverRequest });
+                
+                pbjs.bidderSettings = {
+                    tmp: {
+                        sendStandardTargeting: false, alwaysUseBid: true,
+                        adserverTargeting: [
+                            { key: "hb_tmp_deal", val: function(bidResponse) { return bidResponse.dealId; }},
+                            { key: "hb_tmp_adid", val: function(bidResponse) { return bidResponse.adId; }},
+                            { key: "hb_tmp_size", val: function(bidResponse) { return bidResponse.size; }}
+                        ]
+                    },
+                    xhb: {
+                        sendStandardTargeting: false, alwaysUseBid: true,
+                        adserverTargeting: [
+                            { key: "hb_xhb_deal", val: function(bidResponse) { return bidResponse.dealId; }},
+                            { key: "hb_xhb_adid", val: function(bidResponse) { return bidResponse.adId; }},
+                            { key: "hb_xhb_size", val: function(bidResponse) { return bidResponse.size; }}
+                        ]
+                    }
+                };
+                
+            });
+            function sendAdserverRequest() {
+                if (pbjs.adserverRequestSent) return;
+                pbjs.adserverRequestSent = true;
+                googletag.cmd.push(function() {
+                    pbjs.que.push(function() {
+                        pbjs.setTargetingForGPTAsync();
+                        googletag.pubads().refresh();
+                    });
+                });
+            }
+            setTimeout(function() {
+                sendAdserverRequest();
+            }, PREBID_TIMEOUT);
+        </script>
+        <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+        <script>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/1111242/aeiou_hp_970x250', [970,250], 'billboard').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/aeiou_hp_centro_970x250', [970,250], 'hp-mid-billboard').addService(googletag.pubads());
+            top_ad=googletag.defineSlot('/1111242/aeiou_hp_topo_300x250', [[300, 600], [300, 250]], 'div-gpt-ad-1332866392185-0').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/aeiou_hp_centro_direita_300x250', [300,250],'mrec-centro-direita').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/aeiou_hp_fundo_direita_300x250', [300, 250], 'div-gpt-ad-1332866154439-1').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/aeiou_hp_topo_Futebol_640x50', [640, 50], 'div-gpt-ad-1332927294220-0').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/aeiou_hp_topo_direita_300x90', [300, 90], 'div-gpt-ad-1332866154440-4').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/aeiou_hp_esquerda_tec_300x90', [300, 90], 'div-gpt-ad-1332866154439-3').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/aeiou_centro_direita_300x60', [300, 90], 'div-gpt-ad-1332866154440-1').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/aeiou_expandable_1x1', [1, 1], 'expandable').setTargeting('justPremiumEnabled', 'true').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/aeiou_takeover', [1, 1], 'takeover').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/adsyoulike_aeiou_hp_1x1_native', [1, 1], 'ayl-native').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/aeiou_hp_direita_300x100', [300, 100], 'box-chipotle').addService(googletag.pubads());
+            googletag.defineSlot('/1111242/aeiou_hp_destaques_230x170', [230, 230], 'native-destaques').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs(true,true);
+            googletag.enableServices();
+        });
+        </script>
+        
+        <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+        <script type="text/javascript" src="/js/jquery.jscrollpane.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.mousewheel.js"></script>
+        <script type="text/javascript" src="/js/jquery.cookie.js"></script>
+        <script type="text/javascript" src="/js/youtube.js?v=10"></script>
+        <script type="text/javascript" src="/js/script.js?v=19"></script>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+        <!--script type="text/javascript" src="http://api.aeiou.pt/scripts/geo/js"></script-->
+    </head>
+<body class="homepage">
+    <!-- BEGIN TOOLBAR -->
+<script type='text/javascript' src='//toolbar.aeiou.pt/UI/js/jqueryload.js'></script>
+<style type="text/css">
+#aeiou-toolbar * {margin:0; padding:0; border:0; font-family: Tahoma, Arial; font-size:12px; box-sizing: content-box;}
+#aeiou-toolbar-container {width:980px; height:30px; overflow:hidden; margin:0px auto;}
+#aeiou-toolbar {background-color:#444444; font-family: Tahoma, Arial; height:30px; overflow:hidden; clear:both;}
+#aeiou-toolbar .txcolor {color:#333333}
+#aeiou-toolbar .txsel{background:#222 !important;}
+#aeiou-toolbar .aeiou-logo {margin-left:20px; float:left;}
+#aeiou-toolbar .aeiou-logo a {margin:0; height:30px; overflow:hidden;}
+#aeiou-toolbar .aeiou-logo img {height:30px; display:block;}
+#aeiou-toolbar .aeiou-search {background:url("//toolbar.aeiou.pt/UI/img/search.png"); width:169px; height:18px; color:#333; margin:4px 0px 4px 6px; padding:2px 2px 2px 6px; float:left; overflow:hidden;}
+#aeiou-toolbar .aeiou-search div {height:18px; overflow:hidden;}
+#aeiou-toolbar .aeiou-search-textbox input {outline-style:none;line-height:12px;display:block;font-size:11px !important;padding:0px!important;width:138px;height:13px;background:none;margin:3px 0px 0px 2px !important;	box-shadow:none !important;	border-radius:0px;}
+#aeiou-toolbar .aeiou-search-textbox {float:left;}
+#aeiou-toolbar .aeiou-search-submitbox {float:right;}
+#aeiou-toolbar .aeiou-search-submitbox div {background:url("//toolbar.aeiou.pt/UI/img/search-but.png"); cursor:pointer; width:23px; height:18px; border:0;}
+#aeiou-toolbar .aeiou-search-submitbox div:hover{background:url("//toolbar.aeiou.pt/UI/img/search-but-over.png");}
+#aeiou-toolbar .aeiou-links-left {position:relative; top:0px; padding-left:14px; width:783px; float:left;}
+#aeiou-toolbar.aeiou-toolbar-aeiou .aeiou-links-left{width:742px;}
+#aeiou-toolbar .aeiou-links-left div  {float:left;}
+#aeiou-toolbar .aeiou-links-left div.aeiou-links-sep {background:#FFF; height:18px; width:1px; margin:6px 6px;}
+#aeiou-toolbar .aeiou-menu-pesquisa > div, #aeiou-toolbar .aeiou-links-left a, #aeiou-toolbar .aeiou-promo a {outline-style:none; text-shadow:0px 0px 3px #111; float:left; display:block; height:14px; margin:0px; padding:8px 6px; line-height:14px; color:#fff; text-decoration:none;}
+#aeiou-toolbar .aeiou-menu-pesquisa > div:hover, #aeiou-toolbar .aeiou-links-left a:hover, #aeiou-toolbar .aeiou-promo a:hover {background-color:#666; color:#fff !important;}
+#aeiou-toolbar .aeiou-promo {width:188px; white-space:nowrap; overflow:hidden; float:left;}
+#aeiou-toolbar #aeiou-menu-pesquisa {display:none !important;}
+#aeiou-toolbar .aeiou-icons {height:22px; padding:4px 0px; float:left; margin-left:14px;}
+#aeiou-toolbar .aeiou-icons .aeiou-grad{height:22px; margin:4px 2px; border-radius:3px;}
+#aeiou-toolbar .aeiou-icons a {box-shadow:0px 0px 2px #ccc; float:left; display:block; height:22px; overflow:hidden;}
+#aeiou-toolbar .aeiou-icons a:hover{box-shadow:0px 0px 2px #fff;}
+#aeiou-toolbar #aeiou-close-menu{display:none; background:url("//toolbar.aeiou.pt/UI/img/close-but.png"); cursor:pointer; position:absolute; width:30px; height:30px; top:30px; right:0px;}
+#aeiou-toolbar #aeiou-close-menu:hover{background:url("//toolbar.aeiou.pt/UI/img/close-but-over.png"); }
+#aeiou-toolbar .aeiou-links-left a.txactive{position:relative; z-index:2; color:#333; border-bottom:6px solid #e0e0e0; background:#e0e0e0 !important; text-shadow:0px 0px 3px #fff;}
+#aeiou-toolbar .aeiou-menu {display:none; position:absolute; top:30px; z-index:1;}
+#aeiou-toolbar .aeiou-menu a{white-space:nowrap; font-size:12px;}
+#aeiou-toolbar .aeiou-menu-pesquisa > div  {cursor:pointer; background:url("//toolbar.aeiou.pt/UI/img/radio.png") no-repeat 6px 6px;}
+#aeiou-toolbar .aeiou-menu-pesquisa div div {width:18px; margin-right:3px; height:14px;}
+#aeiou-toolbar .aeiou-menu-pesquisa div .checked {background:url("//toolbar.aeiou.pt/UI/img/radio-checked.png") 0px -2px;}
+</style>
+<div id="aeiou-toolbar" class="aeiou-toolbar-aeiou bgcolor"><div id="aeiou-toolbar-container"><div class="aeiou-promo"><a href="http://www.aeiou.pt" title="Portal AEIOU.pt" onclick="sethomepage(this); return false;">Fa&ccedil;a do AEIOU a sua homepage</a></div><div class="aeiou-icons"><a href="http://www.facebook.com/pt.aeiou" target="_new" title="Siga-nos tamb&eacute;m no Facebook" class="aeiou-facebook"><img alt="http://www.aeiou.pt" src="http://toolbar.aeiou.pt/UI/img/facebook.png"></a></div><div class="aeiou-links-left"><a href='#' id='aeiou-menu-pesquisa' target='_top'></a><div class="aeiou-menu aeiou-menu-pesquisa"><div id="aeiou-pesq-sites" rel="1"><div></div>Sites</div><div id="aeiou-pesq-web" rel="6"><div></div>Web</div><div id="aeiou-pesq-news" rel="8"><div></div>Not&iacute;cias</div><div id="aeiou-pesq-videos" rel="2"><div></div>V&iacute;deos</div><div id="aeiou-pesq-emprego" rel="4"><div></div>Emprego</div><div id="aeiou-pesq-kn" rel="5"><div></div>Receitas</div></div><a href='#' id='aeiou-menu-1' target='_top'>Notícias</a><div class='aeiou-menu aeiou-menu-1'><a href='http://zap.aeiou.pt/' target='_top' title='ZAP Notícias'>ZAP Notícias</a><a href='http://www.aeiou.pt/quiosque/' target='_top' title='Quiosque AEIOU'>Quiosque</a></div><a href='http://webmail.aeiou.pt/' target='_top' title='E-mail'>E-mail</a><a href='http://bla.aeiou.pt/' target='_top' title='Blá Blá web chat'>Chat</a><a href='http://tube.aeiou.pt/' target='_top' title='Tube AEIOU'>Vídeos</a><div class='aeiou-links-sep'></div><a href='#' id='aeiou-menu-2' target='_top'>Serviços</a><div class='aeiou-menu aeiou-menu-2'><a href='http://www.co.pt/' target='_top' title='Domínios co.pt'>Domínios</a><a href='https://www.sitefacil.com/' target='_top' title=''>Sites Grátis</a></div><a href='http://descontos.aeiou.pt' target='_top' title='Descontos AEIOU'>Descontos</a><a href='http://emprego.aeiou.pt/' target='_top' title='Emprego'>Emprego</a><div class='aeiou-links-sep'></div><a href='#' id='aeiou-menu-3' target='_top'>Futebol</a><div class='aeiou-menu aeiou-menu-3'><a href='http://www.futebol365.pt/' target='_top' title='Futebol 365'>Futebol 365</a><a href='http://relvado.aeiou.pt' target='_top' title='Relvado'>Relvado</a></div><a href='https://www.maistecnologia.com/' target='_top' title='Mais Tecnologia'>Tecnologia</a><a href='http://proximonivel.pt/' target='_top' title='Próximo Nível'>Jogos</a><a href='#' id='aeiou-menu-4' target='_top'>Vida & Lazer</a><div class='aeiou-menu aeiou-menu-4'><a href='http://flagra.pt/' target='_top' title='Flagra &#8211; Magazine social'>Flagra</a><a href='http://guia-viagens.aeiou.pt/' target='_top' title='Guia + Viagens'>Guia+Viagens</a><a href='https://jumpingclay.pt/' target='_top' title=''>Jumping Clay</a><a href='http://poweruser.aeiou.pt' target='_top' title=''>Poweruser</a></div><div class='aeiou-links-sep'></div><a href='https://zap.aeiou.pt/pz/passatempo' target='_top' title='Passatempo ZAP'>Passatempo</a><div id="aeiou-close-menu"></div></div></div></div>
+<script type="text/javascript">
+var TB = {}; TB.id = null; TB.status = "down"; TB.anim = false; TB.globalAnim = 200; TB.mouseoutmenu = null;
+if (jQuery.browser.msie && parseInt(jQuery.browser.version, 10) <= 7) TB.globalAnim = 0;
+jQuery("#aeiou-toolbar a[id^=aeiou-menu]").click(function(){
+	if(TB.anim) return false;
+	TB.anim = true;
+	//check for other open menu
+	tempid = jQuery(this).attr('id').split('-')
+	tempid = tempid[2];
+	
+	if ((TB.id != null) && (TB.id != tempid)){
+		//close the previous menu
+		fade = true;
+		if (jQuery.browser.msie && parseInt(jQuery.browser.version, 10) <= 8) fade = false;
+		jQuery("#aeiou-toolbar #aeiou-menu-"+TB.id).removeClass('txactive');
+		jQuery("#aeiou-toolbar .aeiou-menu-"+TB.id).hide();
+	}else{
+		fade = false;
+	}
+	TB.id = tempid;
+	if (jQuery(this).hasClass('txactive')){
+		TB.status = "down";
+		
+		jQuery("#aeiou-toolbar .aeiou-links-left").animate({"top":"0px"},TB.globalAnim,function(){
+			jQuery("#aeiou-toolbar #aeiou-close-menu").hide();
+			jQuery("#aeiou-toolbar #aeiou-menu-"+TB.id).removeClass('txactive');
+			jQuery("#aeiou-toolbar .aeiou-menu-"+TB.id).hide();
+			TB.anim = false;
+			TB.id = null;
+		});
+	}else{
+		TB.status = "up";
+		
+		jQuery("#aeiou-toolbar #aeiou-menu-"+TB.id).addClass('txactive');
+		if (!fade)
+			jQuery("#aeiou-toolbar .aeiou-menu-"+TB.id).show();
+		else
+			jQuery("#aeiou-toolbar .aeiou-menu-"+TB.id).fadeIn(TB.globalAnim);
+		
+		//position box
+		w = jQuery(this).outerWidth()/2;
+		p = jQuery(this).position().left + w;
+		we = jQuery("#aeiou-toolbar .aeiou-menu-"+TB.id).outerWidth();
+		pe = p-(we/2);
+		
+		//check min value
+		if(pe <= 14) pe = 14; //14 from left padding.
+		//check max value
+		jQuery("#aeiou-toolbar #aeiou-close-menu").show();
+		pm = jQuery("#aeiou-toolbar #aeiou-close-menu").position().left;
+		if((pe + we) > pm) pe = pm - we;
+		
+		jQuery("#aeiou-toolbar .aeiou-menu-"+TB.id).css("left",pe);
+		jQuery("#aeiou-toolbar .aeiou-links-left").animate({"top":"-30px"},TB.globalAnim,function(){
+			TB.anim = false;
+		});
+	}
+	return false;
+});
+jQuery("#aeiou-toolbar").bind('mouseenter',function(){
+	if (TB.status == "up"){
+		clearTimeout(TB.mouseoutmenu);
+	}
+}).bind('mouseleave',function(){
+	if (TB.status == "up"){
+		clearTimeout(TB.mouseoutmenu);
+		TB.mouseoutmenu = setTimeout("timeoutMenu()",1500);
+	}
+});
+jQuery("#aeiou-toolbar #aeiou-close-menu").click(function(){
+	if (TB.status == "up") timeoutMenu();
+});
+function timeoutMenu(){
+	jQuery("#aeiou-toolbar #aeiou-menu-"+TB.id).trigger('click');
+}
+//update links for analytics
+TB.domain = document.domain;
+TB.track = function(url){
+	jQuery("body").append("<iframe src='"+url+"' style='width:0px; height:0px; display:none;'></iframe>");
+}
+jQuery("#aeiou-toolbar .aeiou-links-left a").each(function(){
+	href = jQuery(this).attr('href');
+	if(href.indexOf('utm') >= 0){
+		href += "&utm_source="+TB.domain;
+		jQuery(this).attr('href',href);
+	}
+	
+	if(jQuery(this).attr('rel')){
+		jQuery(this).click(function(){
+			rel = jQuery(this).attr('rel');
+			TB.track(rel)
+		});
+	}
+});
+var sethomepage = function(obj){
+var url = obj.href;
+if( jQuery.browser.msie ) {
+obj.style.behavior='url(#default#homepage)';
+obj.setHomePage(url);
+}else{
+alert('Arraste o link Faça do AEIOU a sua Homepage para o ícone de Home do seu Browser para fazer do AEIOU a sua Homepage');
+}
+return false;
+}
+</script><!-- END TOOLBAR -->
+        <div id="fb-root"></div>
+    <script type="text/javascript">
+        if (!(jQuery.browser.msie && parseInt(jQuery.browser.version) < 8)) {
+            window.fbAsyncInit = function () {
+                FB.init({xfbml: true});
+            };
+                (function () {
+                var e = document.createElement('script');
+                        e.type = 'text/javascript';
+                        e.async = true;
+                        e.src = 'https://connect.facebook.net/pt_PT/all.js';
+                        document.getElementById('fb-root').appendChild(e);
+                }());
+                window.___gcfg = {
+                lang: 'pt-PT',
+                        parsetags: 'explicit'
+                };
+                (function () {
+                var po = document.createElement('script');
+                        po.type = 'text/javascript';
+                        po.async = true;
+                        po.src = 'https://apis.google.com/js/plusone.js';
+                        var s = document.getElementsByTagName('script')[0];
+                        s.parentNode.insertBefore(po, s);
+                })();
+        }
+    </script>
+
+    <div id="container" class="body">
+        <img class="sp1" title="" alt="" src="http://www.aeiou.pt/img/shadow-body-left.png">
+        <img class="sp2" title="" alt="" src="http://www.aeiou.pt/img/shadow-body-right.png">
+        <div class="skin1"></div>
+        <div class="skin2"></div>
+        <div id="billboard" style="width:970px; margin:0 auto;">
+            <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('billboard'); });
+            </script>
+        </div>
+            <div id='header'>
+        <a href="/" title="AEIOU.pt"><img src="http://www.aeiou.pt/img/p.gif" alt="" class="logo sprite" /><div class="slogan">v9.6</div></a>
+            <div id="search">        <ul class="f11">
+                    <li id="searchBoxTab-2" class="tab sel" onclick="changeSearch(2);"><span>Web</span></li>
+        <li id="searchBoxTab-4" class="tab" onclick="changeSearch(4);"><span>Notícias</span></li>
+        <li id="searchBoxTab-5" class="tab" onclick="changeSearch(5);"><span>Vídeos</span></li>
+        <li id="searchBoxTab-8" class="tab" onclick="changeSearch(8);"><span>Emprego</span></li>
+
+	  <li class="tab"><span><a href="https://br.superaposta.com/" target="_blank" style="color: #087886;">Apostas Online</a></span></li>
+        </ul>        <div id="box_pesq">
+                <div id='searchBox-2'>
+         <form id="cse-search-box" class="" name="cse-search-box" action="http://dir.aeiou.pt/pesquisa/web.php">                       <div class='input-text'><input class="input100" type="text" name="q" value="" rel="" /></div>
+                       <input class="" type="hidden" name="cx" value="partner-pub-5807877452536383:7wh5p7-vvnh" rel="partner-pub-5807877452536383:7wh5p7-vvnh" />
+                       <input class="" type="hidden" name="cof" value="FORID:10" rel="FORID:10" />
+                       <input class="" type="hidden" name="ie" value="ISO-8859-1" rel="ISO-8859-1" />
+                       <input class="" type="hidden" name="siteurl" value="www.aeiou.pt/" rel="www.aeiou.pt/" />
+               <script type="text/javascript" src="http://www.google.pt/cse/brand?form=cse-search-box&lang=pt"></script>
+                       <input type="submit" value="PESQUISAR" class="btn_search">
+                   </form>
+               </div>    <div id='searchBox-4'>
+         <form id="searchForm-4" class="boxoff" name="searchForm-4" action="http://www.aeiou.pt/quiosque/search">                       <div class='input-text'><input class="input100" type="text" name="s" value="" rel="" /></div>
+                       <input type="submit" value="PESQUISAR" class="btn_search">
+                   </form>
+               </div>    <div id='searchBox-5'>
+         <form id="searchForm-5" class="boxoff" name="searchForm-5" action="http://tube.aeiou.pt/">                       <div class='input-text'><input class="input100" type="text" name="s" value="" rel="" /></div>
+                       <input type="submit" value="PESQUISAR" class="btn_search">
+                   </form>
+               </div>    <div id='searchBox-8'>
+         <form id="searchForm-8" class="boxoff" name="searchForm-8" action="http://emprego.aeiou.pt/">                       <input class="" type="hidden" name="page_id" value="4" rel="4" />
+                       <input class="" type="hidden" name="job_board" value="find" rel="find" />
+                       <div class='input-text'><input class="input100" type="text" name="query" value="" rel="" /></div>
+                       <input type="submit" value="PESQUISAR" class="btn_search">
+                   </form>
+               </div>
+        </div>
+        <script type="text/javascript">
+                    if (jQuery("body.quiosque").size() > 0) {
+            changeSearch('4');
+            } else {
+            searchtab = jQuery.cookie('searchtab');
+                    if (searchtab)
+                    changeSearch(searchtab);
+            }
+        </script>
+        
+<iframe class="dfp-sync" src="http://www.aeiou.pt/dfp-sync.php?ad=div-gpt-ad-1332866832778-0&width=300&height=20" width="432" height="20" frameborder="0"></iframe>
+    </div>               <ul id="icons">
+                                  <li><a href="http://webmail.aeiou.pt"><img alt="E-MAIL" class="mail sprite" src="http://www.aeiou.pt/img/p.gif">E-MAIL</a></li>
+               <li><a href="http://bla.aeiou.pt"><img alt="CHAT" class="chat sprite" src="http://www.aeiou.pt/img/p.gif">BL&Aacute</a></li>
+               <li><a href="http://tube.aeiou.pt"><img alt="TUBE" class="tube sprite" src="http://www.aeiou.pt/img/p.gif">V&Iacute;DEOS</a></li>
+
+               </ul>
+    </div>
+
+        <div id="main">
+	<div id="col-wrapper">
+            <div id="colleft" role="main">
+    <div class="f11 cboth rel" id="player">
+    <div class="close"><img onclick="closePlayer();" src="http://www.aeiou.pt/img/p.gif" class=" sprite"></div>
+    <ul class="tabs">
+        <li rel='12' class="tab ">
+    <a href="/video" onclick="changePlayer(12, 642, 'video'); return false;"><span>Vídeo</span></a>
+</li>
+<li rel='5' class="tab ">
+    <a href="/futebol" onclick="changePlayer(5, 642, 'futebol'); return false;"><span>Futebol</span></a>
+</li>
+<li rel='4' class="tab ">
+    <a href="/humor" onclick="changePlayer(4, 642, 'humor'); return false;"><span>Humor</span></a>
+</li>
+
+    </ul>
+    
+    <div id="screen" style="width:642px">
+        <div id="playerScreen-video" class="boxoff"></div>
+<div id="playerScreen-futebol" class="boxoff"></div>
+<div id="playerScreen-humor" class="boxoff"></div>
+
+    </div>
+</div>
+<script type="text/javascript">
+    window.noevent = 1;
+            cookie = jQuery.cookie('player');
+            if (cookie){
+    cookie = cookie.split("-");
+            if (cookie[0] == "open"){
+    //open last tab
+    jQuery("#player .tabs:eq(0) .tab[rel=" + cookie[1] + "] a").trigger("click");
+            //change close button icon
+            jQuery("#player .close img").addClass("close-player");
+    }
+    } else{
+    //open first tab
+    jQuery("#player .tabs:eq(0) .tab[rel=12] a").trigger("click"); //trigger the click on the first element (video on dev: 16, live: 12)
+            //change close button icon
+            jQuery("#player .close img").addClass("close-player");
+    }
+</script>
+
+
+    <div id="commentbox" class="cboth"></div>
+    		<div id="destaques">
+			<div class="data"><img class="up sprite" src="http://www.aeiou.pt/img/p.gif"></div>
+			<div class="list">
+				<ul rel="1537992600">
+								<li rel="27 de Setembro de 2018"><a href="https://zap.aeiou.pt/?p=219957" class="block" title="É o fim de um mistério que intrigava o mundo das artes há mais de 150 anos. Por trás da..."><img class="block" src="http://www.aeiou.pt/img/cache/230x153/zap_1538010000.jpg" alt="" /><span>150 anos depois, foi descoberta a identidade da mulher de &quot;A Origem do Mundo&quot;</span></a></li>
+			<li rel="27 de Setembro de 2018"><a href="https://zap.aeiou.pt/?p=220015" class="block" title="A Polícia Judiciária deteve esta quarta-feira dois suspeitos de envolvimento na morte do triatleta Luís Grilo, um dos quais a..."><img class="block" src="http://www.aeiou.pt/img/cache/230x153/zap_1538006400.jpg" alt="" /><span>Detida a viúva de triatleta morto. Mistério resolvido?</span></a></li>
+			<li rel="27 de Setembro de 2018"><a href="https://zap.aeiou.pt/?p=219795" class="block" title="A ação inconsciente de pestanejar faz com que os nossos olhos fechem sem, no entanto, vermos qualquer cenário obscuro. Se..."><img class="block" src="http://www.aeiou.pt/img/cache/230x153/zap_1538003100.jpg" alt="" /><span>Cientistas descobrem por que não fica tudo escuro quando pestanejamos</span></a></li>
+<div id='native-destaques' style='width:230px;margin-top:25px;'><script> googletag.cmd.push(function() { googletag.display('native-destaques'); });</script></div>			<li rel="26 de Setembro de 2018"><a href="https://zap.aeiou.pt/?p=219912" class="block" title="Entre 2002 e 2014, o consumo de álcool entre os jovens com 15 anos desceu para metade na maioria dos..."><img class="block" src="http://www.aeiou.pt/img/cache/230x153/zap_1538002200.jpg" alt="" /><span>Em 12 anos, o consumo de álcool entre os jovens de 15 anos desceu para metade</span></a></li>
+			<li rel="26 de Setembro de 2018"><a href="https://zap.aeiou.pt/?p=219868" class="block" title="O presidente do Conselho de Administração da TAP admitiu nesta terça-feira ser &quot;muito difícil&quot; que a empresa opere dos Açores..."><img class="block" src="http://www.aeiou.pt/img/cache/230x153/zap_1538001600.jpg" alt="" /><span>TAP admite voar dos Açores para os Estados Unidos</span></a></li>
+			<li rel="26 de Setembro de 2018"><a href="https://zap.aeiou.pt/?p=219914" class="block" title="Pela primeira vez em França, desde que a chamada &quot;lei do piropo&quot; foi aprovada em agosto, um homem foi multado..."><img class="block" src="http://www.aeiou.pt/img/cache/230x153/zap_1537998600.jpg" alt="" /><span>Pela primeira vez em França, homem foi multado por assediar mulher na rua</span></a></li>
+			<li rel="26 de Setembro de 2018"><a href="https://zap.aeiou.pt/?p=219853" class="block" title="Suspeito chegou aos Estados Unidos em 2013 com um visto de estudante e foi detido esta terça-feira por suspeitas de..."><img class="block" src="http://www.aeiou.pt/img/cache/230x153/zap_1537995600.jpg" alt="" /><span>Imigrante chinês acusado de espionagem nos EUA</span></a></li>
+			<li rel="26 de Setembro de 2018"><a href="https://zap.aeiou.pt/?p=219943" class="block" title="O vídeo de um touro a ser morto à facada na arena do Castelo de Monsaraz, durante as Festas de..."><img class="block" src="http://www.aeiou.pt/img/cache/230x153/zap_1537992600.jpg" alt="" /><span>Monsaraz. Touro morto à facada em festas autorizadas pela IGAC</span></a></li>
+
+				</ul>
+			</div>
+						<div class="nav rel sprite">
+				<img class="down sprite" src="http://www.aeiou.pt/img/p.gif">
+				<img class="up sprite off" src="http://www.aeiou.pt/img/p.gif">
+				<a title="Últimas notícias em destaque" href="/quiosque">Mais Destaques</a>
+			</div>
+			<script type="text/javascript">__destaques.setUp();</script>
+			
+			
+			<!--<div id='banner-destaques' style="margin-top:25px;">
+				<script type='text/javascript'>
+					googletag.cmd.push(function() {
+						googletag.display('banner-destaques');
+					});
+				</script>
+			</div> -->
+		</div>
+<div id="box-section-1" class="box feed">
+    <H3><a href='http://www.aeiou.pt/quiosque/actualidade'>Actualidade</a></H3>
+    		<ul>
+						<li>
+				<a href="http://www.aeiou.pt/quiosque/marcelo-portugal-precisa-de-mais-filantropia" title="/>>O Presidente da República, Marcelo Rebelo de Sousa, defende que a filantropia em Portugal não é uma promessa distante ou remota, mas uma realidade viva, presente e atuante, embora ainda longe dos níveis registados noutros países. “Não... (Bom Dia)">Marcelo: Portugal precisa de mais filantropia</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/protesto-juntou-centenas-de-policias" title="/>> Centenas de polícias concentraram-se em frente do Ministério das Finanças para exigir “uma resposta rápida” do Governo quanto à reposição dos vários subsídios em período de férias e a publicação da lista de passagem à... (Bom Dia)">Protesto juntou centenas de polícias</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/portuguesa-ganha-premio-mundial-para-jovens-investigadores" title="/>> Raquel Gaião Silva, natural de Viana do Castelo, é a primeira portuguesa a ganhar o prémio mundial atribuído pela Global Biodiversity Information Facility Young Researchers Award (GBIF), tal como consta da página oficial daquela... (Bom Dia)">Portuguesa ganha prémio mundial para jovens investigadores</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/queres-fazer-um-estagio-no-ministerio-dos-negocios-estrangeiros" title="/>>Estão abertas até ao dia 8 de outubro as candidaturas para o programa de estágios curriculares do Ministério dos Negócios Estrangeiros. Não remunerados e com a duração máxima de 6 meses, estes estágios destinam-se a todos os estudantes... (Bom Dia)">Queres fazer um estágio no Ministério dos Negócios Estrangeiros?</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/ladrao-de-tancos-detido-teve-ajuda-da-pj-militar-para-devolver-as-armas" title="O autor do roubo de armas de guerra em Tancos já foi detido. Trata-se de um ex-militar de 45 anos,... (ZAP)">Ladrão de Tancos detido. Teve ajuda da PJ Militar para devolver as armas</a>
+			</li>
+
+		</ul>
+</div>
+<div id="box-section-2" class="box feed">
+    <H3><a href='http://www.aeiou.pt/quiosque/economia'>Economia</a></H3>
+    		<ul>
+						<li>
+				<a href="http://www.aeiou.pt/quiosque/concluida-a-2-fase-de-candidatura-ao-ensino-superior-ainda-sobram-mais-de-cinco-mil-vagas" title="O ensino superior público ficou com 5.254 vagas por preencher no final da 2.ª fase de candidatura, que este ano, à semelhança do que aconteceu na 1.ª fase, registou uma redução de candidatos. (Jornal de Negócios)">Concluída a 2.ª fase de candidatura ao ensino superior. Ainda sobram mais de cinco mil vagas</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/marcelo-nao-mudamos-com-modas-e-protagonistas-de-curto-prazo" title="O Presidente da República afirmou na quarta-feira que Portugal não muda “com modas e protagonistas de curto prazo” e rejeita a “falta de visão política” do unilateralismo que, alertou, pode “repetir os erros de há cem anos”. (Jornal de Negócios)">Marcelo: "Não mudamos com modas e protagonistas de curto prazo"</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/herdeiros-surpreendidos-com-adicional-ao-imi-tem-120-dias-para-anular-imposto" title="Quem falhou a entrega da declaração nas datas previstas (março e abril) pode entrega-la entre outubro e janeiro. Mas primeiro terá de pagar o imposto./> (Dinheiro Vivo)">Herdeiros surpreendidos com Adicional ao IMI têm 120 dias para anular imposto</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/financiamento-federal-dos-eua-esta-garantido-trump-tambem-vai-promulgar" title="Depois de o Senado norte-americano ter dado luz verde em inícios deste mês ao projecto de lei de financiamento do governo federal, esta quarta-feira foi a vez de a Câmara dos Representantes fazer o mesmo. Com caminho livre no Congresso, só falta... (Jornal de Negócios)">Financiamento federal dos EUA está garantido. Trump também vai promulgar</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/montijo-vai-estar-preparado-para-receber-longo-curso-da-tap" title="O CEO da ANA assegurou no Parlamento que o futuro aeroporto complementar, além das operações europeias das maiores companhias aéreas, também “vai ser dimensionado para poder receber aviões como os de longo curso da TAP”. (Jornal de Negócios)">Montijo vai estar preparado para receber longo curso da TAP</a>
+			</li>
+
+		</ul>
+</div>
+<div id="box-section-3" class="box feed">
+    <H3><a href='http://www.aeiou.pt/quiosque/desporto'>Desporto</a></H3>
+    		<ul>
+						<li>
+				<a href="http://www.aeiou.pt/quiosque/simoes-preferia-adeus-de-luisao-em-jogo" title="Jornal Record">Simões preferia adeus de Luisão em jogo</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/coates-presente-no-treino-reduz-preocupacao" title="Jornal Record">Coates presente no treino reduz preocupação</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/ruben-ribeiro-a-gota-de-agua-foi-ver-os-meus-filhos-a-chorar" title="Jornal Record">Rúben Ribeiro: «A gota de água foi ver os meus filhos a chorar»</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/everton-esta-em-cima-de-eder-militao" title="Jornal Record">Everton está em cima de Éder Militão</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/jovane-anseia-pelo-passaporte-portugues" title="Jornal Record">Jovane anseia pelo passaporte português</a>
+			</li>
+
+		</ul>
+</div>
+<div id="box-section-29" class="box feed">
+    <H3><a href='http://www.aeiou.pt/quiosque/mundo'>Mundo</a></H3>
+    		<ul>
+						<li>
+				<a href="http://www.aeiou.pt/quiosque/150-anos-depois-foi-descoberta-a-identidade-da-mulher-de-a-origem-do-mundo" title="É o fim de um mistério que intrigava o mundo das artes há mais de 150 anos. Por trás da... (ZAP)">150 anos depois, foi descoberta a identidade da mulher de “A Origem do Mundo”</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/imigrante-chines-acusado-de-espionagem-nos-eua" title="Suspeito chegou aos Estados Unidos em 2013 com um visto de estudante e foi detido esta terça-feira por suspeitas de... (ZAP)">Imigrante chinês acusado de espionagem nos EUA</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/lourenco-quer-nova-composicao-do-conselho-de-seguranca" title=">João Lourenço discursou esta quarta-feira, em Nova Iorque, na 73ª Assembleia-Geral das Nações Unidas. Uma alocução virada para a política internacional.
+
+>João Lourenço discursou esta quarta-feira, em Nova Iorque, na 73ª Assembleia-Geral... (RFI)">Lourenço quer nova composição do Conselho de Segurança</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/bandeira-portuguesa-para-o-aquarius" title=">O Governo português prometeu responder no prazo máximo de um mês ao desafio lançado pelo Bloco de esquerda na passada segunda-feira sobre a eventual atribuição da bandeira lusa ao navio humanitário Aquarius, desprovido do pavilhão do Panamá.... (RFI)">Bandeira portuguesa para o Aquarius ?</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/pela-primeira-vez-em-franca-homem-foi-multado-por-assediar-mulher-na-rua" title="Pela primeira vez em França, desde que a chamada &#8220;lei do piropo&#8221; foi aprovada em agosto, um homem foi multado... (ZAP)">Pela primeira vez em França, homem foi multado por assediar mulher na rua</a>
+			</li>
+
+		</ul>
+</div>
+
+<div class="centered-block hidden adsence-halfbanner">
+	<div class="outer-block">
+		<div class="inner-block">
+			<div id='div-gpt-ad-1332866154439-3'>
+				<script type='text/javascript'>
+					
+					
+					googletag.cmd.push(function() {
+						googletag.display('div-gpt-ad-1332866154439-3');
+					});
+				</script>
+			</div>
+			<div class="cboth"></div>
+		</div>
+	</div>
+</div>
+<div id="box-section-4" class="box feed">
+    <H3><a href='http://www.aeiou.pt/quiosque/tecnologia'>Tecnologia</a></H3>
+    		<ul>
+						<li>
+				<a href="http://www.aeiou.pt/quiosque/fortnite-sera-possivel-usar-a-mesma-conta-em-diversas-plataformas" title="/>Numa publicação no subreddit do Fortnite e do Twitter hoje, a Epic anunciou que está a trabalhar para deixar os jogadores utilizar a mesma conta nas diversas plataformas em que o Fortnite está presente. No futuro, será possível fundir as contas... (Mais Tecnologia)">Fortnite: Será possível usar a mesma conta em diversas plataformas</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/microsoft-anuncia-o-lancamento-do-office-2019" title="/>Anteontem, a Microsoft lançou o Office 2019 para sistemas Windows e Macintosh, durante a Microsoft Ignite. Office 2019 sucede ao Office 2016 lançado em 2015. Voltando um pouco atrás no tempo, a Microsoft anunciou a existência da versão 2019 do... (Mais Tecnologia)">Microsoft anuncia o lançamento do Office 2019</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/facebook-stories-celebram-300-milhoes-de-pessoas" title=">No início deste ano, o Facebook começou a testar anúncios nas Stories para proporcionar às empresas outra forma de tirarem partido do poder desta ferramenta&#8230;
+>O conteúdo >Facebook Stories celebram 300 milhões de pessoas aparece primeiro em... (Echo Boomer)">Facebook Stories celebram 300 milhões de pessoas</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/a-nasa-encontrou-finalmente-o-rover-perdido-em-marte-mas-ainda-so-se-ouve-silencio" title="Apesar de ainda não ter conseguido entrar em contacto com o Opportunity, a NASA já o conseguiu identificar depois de... (ZAP)">A NASA encontrou finalmente o rover perdido em Marte (mas ainda só se ouve silêncio)</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/motorola-one-power-deve-receber-o-android-pie-ate-o-final-deste-ano" title="/>Durante a IFA 2018 em Berlim, a Motorola anunciou o Motorola One Power, seu primeiro smartphone com Android One. No início desta semana, a empresa oficializou este modelo na Índia, que chega ao mercado rodando a versão Oreo do sistema operacional... (Mais Tecnologia)">Motorola One Power deve receber o Android Pie até o final deste ano</a>
+			</li>
+
+		</ul>
+</div>
+<div id="box-section-19" class="box feed">
+    <H3><a href='http://www.aeiou.pt/quiosque/ciência e saúde'>Ciência e Saúde</a></H3>
+    		<ul>
+						<li>
+				<a href="http://www.aeiou.pt/quiosque/cientistas-descobrem-por-que-nao-fica-tudo-escuro-quando-pestanejamos" title="A ação inconsciente de pestanejar faz com que os nossos olhos fechem sem, no entanto, vermos qualquer cenário obscuro. Se... (ZAP)">Cientistas descobrem por que não fica tudo escuro quando pestanejamos</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/as-tatuagens-de-otzi-podem-ter-sido-finalmente-desvendadas" title="As misteriosas tatuagens encontradas em Ötzi &#8211; a múmia mais antiga da Europa &#8211; podem ter sido finalmente desvendavas. Os... (ZAP)">As tatuagens de Ötzi podem ter sido finalmente desvendadas</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/nasa-revela-o-que-esta-a-movimentar-silenciosamente-o-eixo-da-terra" title="Especialistas da NASA apontaram recentemente três razões que explicam o motivo pelo qual o eixo de rotação da Terra oscila... (ZAP)">NASA revela o que está a movimentar silenciosamente o eixo da Terra</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/as-raparigas-leem-e-escrevem-melhor-do-que-os-rapazes" title="? De acordo com um estudo recente, as raparigas norte-americanas leem e escrevem melhor do que os rapazes. As diferenças... (ZAP)">As raparigas leem e escrevem melhor do que os rapazes</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/tempestade-cosmica-refuta-teoria-sobre-declinio-de-antigo-reino-asiatico" title="Uma equipa de investigadores detalhou com mais precisão os chamados &#8220;acontecimentos Miyake&#8221; &#8211; nome atribuído aos grandes desastres espaciais, associados... (ZAP)">Tempestade cósmica refuta teoria sobre declínio de antigo reino asiático</a>
+			</li>
+
+		</ul>
+</div>
+<div id="box-newsletter" class="box feed">
+    <H3>Newsletter</H3>
+    <div class="content">
+    <div style="padding-top:10px;">
+	Para receber as notícias mais importantes do dia por email indique abaixo o seu endereço:
+	<form style="clear:none;" class="mtop12 mbot6 cboth hidden" name="frm_newsletter_hp" method="get" action="">
+		<div class="input-text"><input id="newsletter_email" class="input100" type="text" name="p" value="e-mail" maxlength="255" /></div>
+		<input id="newsletter_submit" style="width:40px;" type="submit" name="button" value="" class="btn_newsletter" />
+	</form>
+	<div id="newsletter_status" class="mtop6 f11"></div>
+	<div id="socialletter" style="overflow: hidden;">
+		<div style="margin-right:10px; width:30%; float:left;" class="fb-like" data-href="http://facebook.com/pt.aeiou" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="arial" data-action="like"></div>
+		
+                <div style="float:right">
+                    <a href="https://twitter.com/AEIOU_pt" class="twitter-follow-button" data-show-count="true">Seguir</a>
+                </div>
+		<!--<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>-->
+                <script async defer src="https://platform.twitter.com/widgets.js"></script>
+	</div>
+</div>
+
+</div>
+</div>
+<div id="box-section-27" class="box feed">
+    <H3>Mais Lidas</H3>
+    		<ul>
+						<li>
+				<a href="https://zap.aeiou.pt/ladrao-tancos-ajuda-pj-militar-219908" title="...">Ladrão de Tancos detido. Teve ajuda da PJ Militar para devolver as armas</a>
+			</li>
+			<li>
+				<a href="https://zap.aeiou.pt/san-juan-procurado-zona-desfiladeiros-219644" title="...">Submarino ARA San Juan está a ser procurado em zona de profundos desfiladeiros</a>
+			</li>
+			<li>
+				<a href="https://zap.aeiou.pt/explosao-solar-caos-terra-219669" title="...">Explosão solar vai lançar o caos na Terra (só não se sabe quando)</a>
+			</li>
+			<li>
+				<a href="https://zap.aeiou.pt/trump-discursou-na-onu-lideres-mundiais-riram-se-219871" title="...">Trump discursou na ONU. Líderes mundiais riram-se</a>
+			</li>
+			<li>
+				<a href="https://zap.aeiou.pt/fonte-termal-de-yellowstone-entra-em-erupcao-passados-14-anos-219627" title="...">Fonte termal de Yellowstone entra em erupção passados 14 anos</a>
+			</li>
+			<li>
+				<a href="https://zap.aeiou.pt/o-que-movimenta-eixo-da-terra-219764" title="...">NASA revela o que está a movimentar silenciosamente o eixo da Terra</a>
+			</li>
+			<li>
+				<a href="https://zap.aeiou.pt/touro-morto-facada-monsaraz-219943" title="...">Monsaraz. Touro morto à facada em festas autorizadas pela IGAC</a>
+			</li>
+			<li>
+				<a href="https://zap.aeiou.pt/matematico-hipotese-riemann-219794" title="...">Matemático diz ter resolvido problema com 160 anos (e pode ganhar um milhão de dólares)</a>
+			</li>
+			<li>
+				<a href="https://zap.aeiou.pt/vale-azevedo-fugiu-jacto-privado-219749" title="...">Vale e Azevedo fugiu para Londres em jacto privado para escapar à prisão</a>
+			</li>
+			<li>
+				<a href="https://zap.aeiou.pt/reino-unido-hard-brexit-219615" title="...">“Hard Brexit” pode ser o fim do Reino Unido</a>
+			</li>
+
+		</ul>
+</div>
+
+</div>
+<div id="colright">
+    
+<div id='div-gpt-ad-1332866392185-0' class='ad_mrec'>
+	<script type='text/javascript'>
+		
+		
+		googletag.cmd.push(function() {
+			googletag.display('div-gpt-ad-1332866392185-0');
+		});
+	</script>
+</div>
+
+<div id='div-gpt-ad-1332866154440-4' class=''>
+	<script type='text/javascript'>
+		
+		
+		googletag.cmd.push(function() {
+			googletag.display('div-gpt-ad-1332866154440-4');
+		});
+	</script>
+</div>
+<div id="box-section-5" class="box feed">
+    <H3><a href='http://www.aeiou.pt/quiosque/sociedade'>Sociedade</a></H3>
+    		<ul>
+						<li>
+				<a href="http://www.aeiou.pt/quiosque/detida-a-viuva-de-triatleta-morto-misterio-resolvido" title="A Polícia Judiciária deteve esta quarta-feira dois suspeitos de envolvimento na morte do triatleta Luís Grilo, um dos quais a... (ZAP)">Detida a viúva de triatleta morto. Mistério resolvido?</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/taxistas-desmobilizam-jornalistas-atingidos-por-ovos-durante-discurso" title="Os jornalistas que faziam a cobertura do discurso que ditou o final do protesto de oito dias dos taxistas, contra... (ZAP)">Taxistas desmobilizam. Jornalistas atingidos por ovos durante discurso</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/acores-presentes-no-aniversario-da-emigracao-para-o-havai" title="/>>O diretor regional das Comunidades dos Açores, Paulo Teves, vai participa nas comemorações do 140.º aniversário da chegada dos primeiros imigrantes portugueses ao Havai, onde ainda existe uma forte comunidade açoriana. &#8220;Foi um importante... (Bom Dia)">Açores presentes no aniversário da emigração para o Havai</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/este-domingo-ha-gelados-gratis-na-santini" title=">Faz este domingo, dia 30 de setembro, 69 anos desde que a Santini abriu a primeira loja por Attilio Santini, no Tamariz. E quem festeja são&#8230;
+>O conteúdo >Este domingo há gelados grátis na Santini aparece primeiro em >Echo Boomer. (Echoboomer)">Este domingo há gelados grátis na Santini</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/venezuela-portugueses-e-lusodescendentes-libertados" title="/>>Os 34 gerentes das duas redes de supermercados portuguesas ficarão a aguardar o desenrolar do caso em liberdade, sujeitos a apresentações periódicas, disseram à Lusa fontes das empresas. Os 34 detidos libertados, uma dezena dos quais... (Bom Dia)">Venezuela: portugueses e lusodescendentes libertados</a>
+			</li>
+
+		</ul>
+</div>
+
+<div class="centered-block hidden box">
+	<div class="outer-block">
+		<div class="inner-block">
+			<div id='div-gpt-ad-1332866154440-1'>
+				<script type='text/javascript'>
+					
+					
+					googletag.cmd.push(function() {
+						googletag.display('div-gpt-ad-1332866154440-1');
+					});
+				</script>
+			</div>
+			<div class="cboth"></div>
+		</div>
+	</div>
+</div>
+<div id="box-section-26" class="box feed">
+    <H3><a href='http://www.aeiou.pt/quiosque/pessoas'>pessoas</a></H3>
+    		<ul>
+						<li>
+				<a href="http://www.aeiou.pt/quiosque/dolores-aveiro-e-georgina-rodriguez-juntas-a-ver-ronaldo" title=">Parece que hoje Dolores Aveiro pôs fim aos rumores que dão conta de desentendimentos com a namorada do filho. Depois de um dia bem passado ao lado dos netos mais novos, a matriarca da família foi ver o filho jogar à bola. Ao lado de Georgina... (MoveNotícias)">Dolores Aveiro e Georgina Rodríguez juntas a ver Ronaldo</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/nasceu-o-sexto-filho-de-deco-bota-mais-agua-no-feijao" title=">O luso-brasileiro que brilhou no FC Porto e na seleção nacional, está a viver uma semana de emoções. Depois de ontem, dia 25, ter celebrado o 9º aniversário da filha Sophia, voltou a sentir as alegrias da paternidade esta quarta-feira. O sexto... (MoveNotícias)">Nasceu o sexto filho de Deco: “Bota mais água no feijão”</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/calem-se-as-mas-linguas-dolores-aveiro-esta-em-italia" title=">Depois de ter marcado presença na apresentação do filho como jogador da Juventus, a mãe de Cristiano Ronaldo regressa, dois meses depois, a Turim. Uma visita há muito esperada pelos que especulam diariamente sobre a vida do craque e da sua... (MoveNotícias)">Calem-se as más línguas: Dolores Aveiro está em Itália</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/luisao-pendura-chuteiras-obrigado-benfica" title=">O defesa-central do brasileiro despediu-se esta terça-feira da sua carreira como futebolista, depois de 15 anos ao serviço do Benfica. Numa cerimónia no Estádio da Luz com a família, o plantel e restantes elementos do staff, o capitão fez uma... (MoveNotícias)">Luisão pendura chuteiras: “Obrigado Benfica”</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/flavio-furtado-anuncia-saida-de-voce-na-tv" title="Mais uma baixa no programa matinal da estação de Queluz Depois da saída de Cristina Ferreira e que muito tem dado que falar na imprensa, Flávio Furtado é a baixa que se segue no programa da manhã. O comentador apanhou muitos de supresa ao... (Flagra)">Flávio Furtado anuncia saída de ‘Você na TV’</a>
+			</li>
+
+		</ul>
+</div>
+
+<div id='mrec-centro-direita' class='box'>
+	<script type='text/javascript'>
+		
+		
+		googletag.cmd.push(function() {
+			googletag.display('mrec-centro-direita');
+		});
+	</script>
+</div>
+<div id="box-section-6" class="box feed">
+    <H3><a href='http://www.aeiou.pt/quiosque/lazer'>Lazer</a></H3>
+    		<ul>
+						<li>
+				<a href="http://www.aeiou.pt/quiosque/fantastic-beasts-the-crimes-of-grindelwald-recebe-trailer-final" title="A Warner Bros. lançou o trailer final de Fantastic Beasts: The Crimes of Grindelwald. A sequela foi realizada por David Yates, o mesmo realizador do filme anterior, e também conta com um guião escrito por J.K. Rowling. Newt Scamander volta a ser... (PróximoNível)">Fantastic Beasts: The Crimes of Grindelwald recebe trailer final</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/morreu-a-artista-plastica-helena-almeida-1537975272" title="A artista plástica de 84 anos morreu, esta quarta-feira, em Lisboa, disse à agência Lusa fonte da galeria que a... (ZAP)">Morreu a artista plástica Helena Almeida</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/will-smith-celebra-50-aniversario-com-bungee-jump-sobre-o-grand-canyon" title=">/>Não serão muitas as pessoas a celebrar o seu 50º aniversário a fazer bungee jumping, e muito menos aquelas que o farão a partir de um helicóptero sobre o Grand Canyon - mas Will Smith não é uma pessoa qualquer, o que ajuda a explicar o... (Um Dia fui ao Cinema)">Will Smith celebra 50º aniversário com bungee jump sobre o Grand Canyon</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/tudo-o-que-precisas-de-saber-para-a-15-temporada-de-grey-s-anatomy" title=">Dia 27 de setembro marca o regresso dos médicos do Grey Sloan Memorial com um episódio de duas horas. Depois de todos as alegrias e tragédias, todos os romances e desgostos, Grey&#8217;s Anatomy bateu um novo recorde. Com 15 temporadas, é a... (EspalhaFactos)">Tudo o que precisas de saber para a 15.ª temporada de ‘Grey’s Anatomy’</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/sic-promove-julia-o-novo-programa-das-tardes" title=">Júlia Pinheiro está oficialmente de regresso ao comando das tardes de um canal generalista. O novo programa das tardes da SIC, em nome próprio, estreia brevemente como uma das principais apostas da nova grelha do terceiro canal. Depois do... (EspalhaFactos)">SIC promove ‘Júlia’, o novo programa das tardes</a>
+			</li>
+
+		</ul>
+</div>
+<div id="box-section-28" class="box feed">
+    <H3><a href='http://www.aeiou.pt/quiosque/jogos'>Jogos</a></H3>
+    		<ul>
+						<li>
+				<a href="http://www.aeiou.pt/quiosque/sony-cede-e-permite-cross-play-no-fortnite" title=">/>Chega finalmente ao fim a ridícula batalha entre a Sony e jogadores, devido ao facto da Sony mostrar uma arrogância incrível ao bloquear jogos cross-play do Fortnite na PS4 com a Nintendo Switch e Xbox One - impedindo que jogadores com as várias... (This is Your Amiga Speaking)">Sony cede e permite cross-play no Fortnite</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/fortnite-abre-as-portas-a-todas-as-plataformas" title=">A partir de hoje vai ser possível jogar Fortnite com jogadores de outras plataformas. Com o início de uma nova beta aberta de Fortnite Battle&#8230;
+>O conteúdo >Fortnite abre as portas a todas as plataformas aparece primeiro em >Echo Boomer. (EchoBoomer)">Fortnite abre as portas a todas as plataformas</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/jogos-ps-plus-de-outubro-revelados" title="O mês que se avizinha traz consigo um novo catálogo de jogos gratuitos para os subscritores do PS Plus. Em Outubro os jogos gratuitos são: Friday the 13th: The Game (PS4) Laser League (PS4) Saber é Poder (PS Plus bonus – PlayLink) Master Reboot... (PróximoNível)">Jogos PS Plus de Outubro revelados</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/steins-gate-elite-chega-a-ps4-e-switch-a-19-de-fevereiro-de-2019" title="A Spike Chunsoft anunciou a data de lançamento de Steins;Gate Elite na Europa. O jogo vai ser lançado para a PS4 e Switch a 19 de Fevereiro de 2019. A versão PC ainda não tem data confirmada. Também vai estar disponível uma edição limitada... (PróximoNível)">Steins;Gate Elite chega à PS4 e Switch a 19 de Fevereiro de 2019</a>
+			</li>
+			<li>
+				<a href="http://www.aeiou.pt/quiosque/drawn-to-death-vai-fechar-os-servidores" title="Drawn to Death um dos jogos de acção competitivos com design mais interessante dos últimos tempos vai fechar os seus servidores. Revelado na Playstation Experience como um título de David Jaffe (God of War) e do seu novo estúdio, Drawn to Death... (PróximoNível)">Drawn to Death vai fechar os servidores</a>
+			</li>
+
+		</ul>
+</div>
+<div id='box-chipotle' style='width:300px;' class="box">
+	<h3 style="margin-bottom: 5px;">BOLO CHIPOTLE DO DIOGO</h3>
+	<script>
+		googletag.cmd.push(function() { googletag.display('box-chipotle'); });
+	</script>
+</div>
+</div>
+
+    </div>
+	<div class="cboth"></div>
+    <style type="text/css">
+    #weatherBlockWrapper{
+        clear:both;
+        overflow: hidden;
+    }
+    #weatherBlockWrapper .weatherBox{
+        overflow: hidden;
+        height: 240px;
+    }
+    #weatherBlockWrapper .rightSidabar{
+        width:300px;
+        float:right;
+    }
+    #weatherBlockWrapper .rightSidebar h3 {
+        display: block;
+        height: 22px;
+        font-size: 22px;
+        line-height: 27px !important;
+    }
+    
+    #weatherBlockWrapper .rightSidabar #box-chat .content{
+        padding: 6px 0px 0px;
+        font-size: 11px;
+        overflow: hidden;
+        clear: both;
+    }
+    #weatherBlockWrapper .rightSidabar #box-chat  .blalogo {
+        background-position: -16px -18px;
+        width: 44px;
+        height: 42px;
+    }
+    #weatherBlockWrapper .leftContent{
+        float:left;
+        margin-top:25px;
+    }
+    #weatherBlockWrapper .leftContent h3{
+        height: 30px;
+        overflow: hidden;
+        font-family: BebasNeueRegular;
+        color: #000;
+        line-height: 23px !important;
+        font-size: 28px;
+        font-weight: normal;
+        border-bottom: 2px solid #000;
+        text-transform: uppercase;
+    }
+    /*Bla box*/
+    #weatherBlockWrapper .rightSidabar #box-chat h3 {
+    font-size: 22px;
+    line-height: 27px!important;
+    height:inherit;
+    margin-bottom:0;
+    padding-bottom:0;
+    }
+    #weatherBlockWrapper .rightSidabar #box-chat form {
+        padding:6px;
+        height:inherit;
+    }
+    #weatherBlockWrapper .rightSidabar #box-chat #bla_guru_cap img {
+        background-color: #087886;
+        background-position:-93px -32px;
+    }
+</style>
+<div id="weatherBlockWrapper">
+    <div class="leftContent">
+    <h3>Tempo</h3>
+    <div class="weatherBox">
+        <div id="player-tempo">
+    <div class="forecast f12">
+        <div id="weather_city"></div>
+    </div>
+    <div class="cities">
+        <ul>
+            <li onclick="__tempo.changeWeather(0, 12);" class="tab sel">
+    <div class="mbot3 mtop3">Lisboa 21ºC</div>
+    M 30ºC, m 21ºC
+    <a href="javascript:__tempo.changeWeather(0,12); return false;" class="b mtop3 block f11 taright">previsão para 5 dias &rsaquo;</a>
+</li>
+<li onclick="__tempo.changeWeather(1, 13);" class="tab ">
+    <div class="mbot3 mtop3">Porto 18ºC</div>
+    M 28ºC, m 18ºC
+    <a href="javascript:__tempo.changeWeather(1,13); return false;" class="b mtop3 block f11 taright">previsão para 5 dias &rsaquo;</a>
+</li>
+<li onclick="__tempo.changeWeather(2, 7);" class="tab ">
+    <div class="mbot3 mtop3">Faro 23ºC</div>
+    M 28ºC, m 23ºC
+    <a href="javascript:__tempo.changeWeather(2,7); return false;" class="b mtop3 block f11 taright">previsão para 5 dias &rsaquo;</a>
+</li>
+<li class="tab other">
+    <div class="mbot3 mtop3"></div>
+    <a href="javascript:__tempo.changeCity();"><u>Escolher outra cidade</u></a>
+    <a href="javascript:__tempo.changeWeather(3,0); return false;" class="b mtop3 block f11 taright" style="display: none; ">previsão para 5 dias ›</a>
+</li>
+
+        </ul>
+        <div id="othercities">
+            <div class="mbot3 mtop3">Escolher outra cidade</div>
+            <a rel="0">Aveiro</a>
+<a rel="1">Beja</a>
+<a rel="2">Braga</a>
+<a rel="3">Braganca</a>
+<a rel="4">Castelo Branco</a>
+<a rel="5">Coimbra</a>
+<a rel="6">Evora</a>
+<a rel="7">Faro</a>
+<a rel="8">Flores</a>
+<a rel="9">Funchal</a>
+<a rel="10">Guarda</a>
+<a rel="11">Leiria</a>
+<a rel="12">Lisboa</a>
+<a rel="13">Porto</a>
+<a rel="14">Portalegre</a>
+<a rel="15">Santarém</a>
+<a rel="16">Setubal</a>
+<a rel="17">Ponta Delgada</a>
+<a rel="18">Viana do Castelo</a>
+<a rel="19">Vila Real</a>
+<a rel="20">Viseu</a>
+
+        </div>
+    </div>
+</div>
+<script type="text/javascript">__tempo.detectWeatherCity();</script>
+
+    </div>
+</div>
+
+    <div class="rightSidabar">
+    <div id="box-colara" class="box ">
+    <H3>Vouchers<a href="#" rel="nofollow"  title="Vouchers">
+    <img height="18" align="right" border="0" src="http://www.aeiou.pt/img/logo_colara.png" alt="Vouchers" />
+</a>
+</H3>
+    <div class="content">
+    <iframe height="140" width="300" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://www.aeiou.pt/colara/300x250_aeiou2.html" class="block"></iframe>
+
+</div>
+</div>
+<div id="box-chat" class="box ">
+    <H3>Blá Blá Chat</H3>
+    <div class="content">
+    <img src="http://www.aeiou.pt/img/p.gif" class="sprite blalogo fright" alt="Blá Blá Chat">
+Uma maçã por dia dá saúde e alegria,<br>
+Uma maçã por hora e a nossa carteira melhora!
+<b class="block ptop6">Colher maçã do blá:</b>
+<form class="mtop6 mbot6" action="http://www.aeiou.pt/extras/bla_guru_vitaminas.php" method="post" name="frm_bla_guru">
+	<div id="dv_blaguru_t" class="cboth hidden">
+		<div class="fleft mright3 hidden" style="width:51px;">
+			<div class="mtop3 mbot6 taright" style="height:13px;">És guru?</div>
+			<div class="taright" style="height:13px;">Nick:</div>
+		</div>
+		<div class="fleft mright3">
+			<div class="input-text mbot3 b taright" style="margin-right:0px; float:none; height:14px; width:130px;"><input type="text" maxlength="128" style="width: 130px;" class="f11" value="introduz o código &rarr;" name="captchastring" id="blacaptcha"></div>
+			<div class="input-text b taright" style="margin:0px; float:none; height:14px; width:130px;"><input type="text" style="width: 130px;" class="f11" value="" id="blanick"></div>
+		</div>
+		<div class="fleft" style="width:89px;">
+			<div class="mbot3 b tacenter" id="bg_captcha" style="height:16px;"><img id="bla_guru_cap_code" class="mright3" height="16" border="0" width="70" title="CAPTCHA" alt="CAPTCHA" src="http://www.aeiou.pt/lib/captcha/captcha.php?.png"><a id="bla_guru_cap" onclick="javascript:bg_refresh(); return false;" href="#"><img class="sprite reload" height="16" width="16" title="" alt="" src="http://www.aeiou.pt/img/p.gif"></a></div>
+			<div><input type="button" class="forminput" value="COLHER" id="bla_guru_btn" style="width:100%"></div>
+		</div>
+	</div>
+	<div id="chatmaca_status" style="margin-left: 54px; display: none; "></div>
+</form>
+<div class="mtop6 cboth hidden">
+	<!--span>Utilizadores online: <b>448</b> | Salas activas: <b>40</b></span-->
+	<a href="http://bla.aeiou.pt"  class="hl b fright">Entrar ›</a>
+</div>
+
+</div>
+</div>
+
+</div>
+
+</div>
+<div id="box-passatempo">
+<div id="hp-mid-billboard" style="width:970px; margin-left:-5px">
+<script> googletag.cmd.push(function() { googletag.display("hp-mid-billboard"); }); </script>
+</div>
+</div>    <style>
+    </style>
+<div id ="box-leisure" class="box cboth">
+    <h3>Viagens</h3>
+    <div id="leisure-top-section">
+        <h4>Destinos</h4>
+        <div id ="top-content">
+            <ul>
+                <li class="leisure-item">
+    <a href="http://guia-viagens.aeiou.pt/ljubljana-cidade-antiquissima-mas-com-uma-populacao-jovem-na-eslovenia-8060/">
+        <div class="leisure-image-box">
+            <img src="/img/cache/135x90/leisure_1536912047.jpg" class="leisure-image"/>
+        </div>
+        <p class="leisure-title top-padding">Ljubljana, Eslovénia – a cidade antiquíssima com população jovem</p>
+        <p class="leisure-description top-padding">Ljubljana, a capital da Eslovénia, situa-se no centro da Europa. É uma encantadora e antiquíssima ...</p>
+    </a>
+</li>
+<li class="leisure-item">
+    <a href="http://guia-viagens.aeiou.pt/porto-de-galinhas-brasil-2296/">
+        <div class="leisure-image-box">
+            <img src="/img/cache/135x90/leisure_1534911568.jpg" class="leisure-image"/>
+        </div>
+        <p class="leisure-title top-padding">Porto de Galinhas, Brasil – destino de praias, sol, gastronomia e diversão</p>
+        <p class="leisure-description top-padding">É considerado um dos destinos turísticos mais apetecíveis de todo o Brasil e também um ...</p>
+    </a>
+</li>
+<li class="leisure-item">
+    <a href="http://guia-viagens.aeiou.pt/lago-de-annecy-um-dos-mais-belos-lagos-de-franca-2464/">
+        <div class="leisure-image-box">
+            <img src="/img/cache/135x90/leisure_1533054623.jpg" class="leisure-image"/>
+        </div>
+        <p class="leisure-title top-padding">Lago de Annecy, um dos mais belos lagos de França</p>
+        <p class="leisure-description top-padding">O Lago de Annecy (lac d'Annecy em francês) é famoso por ser um dos lagos ...</p>
+    </a>
+</li>
+<li class="leisure-item">
+    <a href="http://guia-viagens.aeiou.pt/punta-del-este-perola-uruguai-9026/">
+        <div class="leisure-image-box">
+            <img src="/img/cache/135x90/leisure_1530283837.jpg" class="leisure-image"/>
+        </div>
+        <p class="leisure-title top-padding">Punta del Este: a Pérola do Uruguai</p>
+        <p class="leisure-description top-padding">Punta del Este, é uma cidade do Uruguai, que se situa no estado de Maldonado, ...</p>
+    </a>
+</li>
+
+            </ul>
+        </div>
+        <br class="cboth">
+    </div>
+    <div id="trip-montra" class="montrav9 fright">
+	<h4>Promoções</h4>
+	<div class="box-content">
+		<div class="nav"></div>
+		<div class="list">
+		<ul>
+			<li title="Inclui: Alojamento e Pequeno-almoc&#807;o, Bebida de Boas-Vindas, Servic&#807;o de Cha&#769; e Bolachas no quarto, Pequeno-Almoc&#807;o Buffet, Servic&#807;o Gourmet: Vinho Tinto ou Branco, frutas, queijo, doce e tostas no quarto, Passeio de Barco Moliceiro, Visita a&#768; Oficina do Doce, Passeio de Bicicleta, Internet Wireless, Valor: 245 Euros">
+	<a href="http://sugestoes.aeiou.pt/click.php?url=http%3a%2f%2fwww.hotelmoliceiro.pt%2fhotel-special-offers.html&espaco=aeiou%201&site=promocoes&s=Hotel%20Moliceiro"  rel="nofollow" target="_blank">
+		<img class="image" src="http://sugestoes.aeiou.pt/aleph/dados/gourmet-2018-140x130.png" />
+		<div class="title">Programa Gourmet</div>
+		<div class="text">Hospitalidade presente nos pequenos detalhes!</div>
+		<span>Saber Mais<img class="sprite" src="/img/p.gif" /></span>
+	</a>
+</li>
+<li title="Oferta válida na reserva de estadia igual ou superior a 5 noites no Hotel Salgados Palace. O passeio tem uma duração de cerca de três horas, inicia-se na Marina de Albufeira e vai até à famosa gruta de Benagil. Pelo caminho visitará as formações rochosas e grutas da área, tendo ainda a possibilidade de parar para um refrescante mergulho.">
+	<a href="http://sugestoes.aeiou.pt/click.php?url=https%3a%2f%2fwww.salgadospalace.com%2foferta-exclusiva-algarexperience.html%3futm_source%3daeiou%26utm_medium%3dbanner%26utm_campaign%3dalgarexperience_spl&espaco=aeiou%202&site=promocoes&s=Nau"  rel="nofollow" target="_blank">
+		<img class="image" src="http://sugestoes.aeiou.pt/aleph/dados/aeiou1536772748.jpg" />
+		<div class="title">Salgados Palace</div>
+		<div class="text">Oferta de passeio de 3h num catamarã</div>
+		<span>Saber Mais<img class="sprite" src="/img/p.gif" /></span>
+	</a>
+</li>
+
+		</ul>
+		</div>
+		<div class="nav"></div>
+	</div>
+	<script type="text/javascript">
+		jQuery("#trip-montra ul").shuffle();
+		var navElements = document.querySelectorAll("#trip-montra .nav");
+		var navList  =document.querySelectorAll("#trip-montra ul li");
+		if(navList.length <= 2){
+			navElements.forEach(function(element){
+				element.style.display="none";
+			});
+		}
+	</script>
+</div>
+
+    <div id="leisure-bottom-section">
+        <div id ="leisure-content-left" class="fleft">
+            <h4>Dicas de Viagem</h4>
+            <ul>
+                <li class="leisure-item">
+    <a href="http://guia-viagens.aeiou.pt/viagens-de-aviao-low-cost-842/">
+        <div class="leisure-image-box">
+            <img src="/img/cache/135x90/leisure_1533303255.jpg" class="leisure-image"/>
+        </div>
+        <p class="leisure-title top-padding">Viagens de avião low-cost: 11 dicas para obter os melhores preços</p>
+        <p class="leisure-description top-padding">À procura de viagens de avião low-cost? Quer saber como conseguir uma viagem de avião ...</p>
+    </a>
+</li>
+<li class="leisure-item">
+    <a href="http://guia-viagens.aeiou.pt/5-apps-nenhum-viajante-pode-deixar-levar-no-telemovel-161156/">
+        <div class="leisure-image-box">
+            <img src="/img/cache/135x90/leisure_1532705578.jpg" class="leisure-image"/>
+        </div>
+        <p class="leisure-title top-padding">5 apps que nenhum viajante pode deixar de levar no telemóvel</p>
+        <p class="leisure-description top-padding">Mais que uma paixão, viajar sempre foi uma necessidade humana. Sair do conforto de casa ...</p>
+    </a>
+</li>
+<li class="leisure-item">
+    <a href="http://guia-viagens.aeiou.pt/turismo-paises-as-apostas-sao-legais-um-guia-pratico-161138/">
+        <div class="leisure-image-box">
+            <img src="/img/cache/135x90/leisure_1530901837.jpg" class="leisure-image"/>
+        </div>
+        <p class="leisure-title top-padding">Turismo em países onde as apostas são legais: um Guia Prático</p>
+        <p class="leisure-description top-padding">Se faz parte do número cada vez maior de pessoas que gosta de combinar o ...</p>
+    </a>
+</li>
+<li class="leisure-item">
+    <a href="http://guia-viagens.aeiou.pt/conforto-viagens-longo-curso-2098/">
+        <div class="leisure-image-box">
+            <img src="/img/cache/135x90/leisure_1530723631.jpg" class="leisure-image"/>
+        </div>
+        <p class="leisure-title top-padding">Como passar o tempo (com conforto) em viagens de longo curso</p>
+        <p class="leisure-description top-padding">Vai fazer uma viagem de avião de longo curso e não tem a possibilidade de ...</p>
+    </a>
+</li>
+
+            </ul>
+        </div>
+        <div id="leisure-content-right" class="fright" style="margin-top:27px;margin-right:8px">
+            
+<div id='div-gpt-ad-1332866154439-1' class=''>
+	<script type='text/javascript'>
+		
+		
+		googletag.cmd.push(function() {
+			googletag.display('div-gpt-ad-1332866154439-1');
+		});
+	</script>
+</div>
+
+        </div>
+        <br class="cboth">
+    </div>
+</div>
+<div id ="box-blogroll" class="box cboth">
+    <h3>Blogroll</h3>
+    <div id="box-blogroll-content">
+        <ul><li><a href="http://www.aeiou.pt/quiosque/mae-detida-por-tirar-smartphone-a-filha-como-castigo" >Mãe detida por tirar smartphone à filha como castigo</a><br> <span class="source">Os Velhotes dos Marretas</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/ja-teve-tempo-na-agenda-para-comentar" >Já teve tempo na agenda para comentar?</a><br> <span class="source">Blasfémias</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/contagem-decrescente-1537987849" >Contagem decrescente</a><br> <span class="source">Blasfémias</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/isso-nao-e-para-mim" >Isso não é para mim</a><br> <span class="source">Blasfémias</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/porto-vs-lisboa-stand-up-vs-anedotas-feat-hugo-sousa" >Porto vs Lisboa, Stand up vs Anedotas feat. Hugo Sousa</a><br> <span class="source">Por Falar Noutra Coisa</span></li>
+</ul><ul><li><a href="http://www.aeiou.pt/quiosque/volvo-apresentou-nova-v60-cross-country" >Volvo apresentou nova V60 Cross Country</a><br> <span class="source">Pela Estrada Fora</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/aspirador-ilife-v7s-plus-a-158" >Aspirador iLife V7s Plus a €158</a><br> <span class="source">A Minha Alegre Casinha</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/problemas-de-ultima-hora-atrasam-o-lancamento-do-android-9-pie-para-o-nokia-7-plus" >Problemas de ultima hora atrasam o lançamento do Android 9 Pie para o Nokia 7 Plus</a><br> <span class="source">Apps do Android</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/nome-do-sistema-de-carregamento-da-oneplus-da-origem-a-novo-processo-judicial" >Nome do sistema de carregamento da OnePlus, dá origem a novo processo judicial</a><br> <span class="source">Apps do Android</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/circle-pool" >Circle Pool</a><br> <span class="source">Apps do iPhone</span></li>
+</ul><ul><li><a href="http://www.aeiou.pt/quiosque/o-primeiro-paint-de-paint" >O primeiro PAINT de PAINT</a><br> <span class="source">Bodyspace</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/vai-tudo-azul-no-salao-brazil" >Vai tudo azul no Salão Brazil</a><br> <span class="source">Bodyspace</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/o-outono-chegara-eventualmente-mas-a-folha-ja-cai-na-zdb" >O Outono chegará (eventualmente), mas a folha já cai na ZDB</a><br> <span class="source">Bodyspace</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/novo-trailer-de-fantastic-beasts-the-crimes-of-grindelwald" >Novo trailer de “Fantastic Beasts: The Crimes of Grindelwald”</a><br> <span class="source">Clube de Cinema</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/por-este-tejo-acima" >Por este Tejo acima</a><br> <span class="source">Bodyspace</span></li>
+</ul><ul><li><a href="http://www.aeiou.pt/quiosque/happy-birthday-amoreiras-shopping-center" >HAPPY BIRTHDAY // AMOREIRAS SHOPPING CENTER</a><br> <span class="source">gravata sem regras</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/5-pecas-estrela-que-vao-voltar-este-outono" >5 peças-estrela que vão voltar este outono</a><br> <span class="source">Sketchbook Six</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/leopard-is-the-new-black" >LEOPARD IS THE NEW BLACK</a><br> <span class="source">My kind of Joy</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/receitas-com-aproveitamentos" >Receitas com Aproveitamentos</a><br> <span class="source">A economia cá de casa</span></li>
+<li><a href="http://www.aeiou.pt/quiosque/autumn-winter" >Autumn/ Winter</a><br> <span class="source">Dconcept</span></li>
+</ul>
+        <div class="cboth"></div>
+    </div>
+</div>
+<div id ="box-emprego" class="box cboth">
+    <h3>Emprego</h3>
+    <div id="emprego-top-section">
+        <div id="job-search">
+            <form action="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/find/" method="get">
+                <input type="hidden" name="page_id" value="4">
+                <input type="hidden" name="job_board" value="find">
+                <div id="job-search-fields" class="input-text">
+                    <input type="text" name="query" placeholder="Pesquisar por palavra / função, local, empresa" class="input100">
+                </div>
+                <input type="submit" value="" class="btn_search_dir" >
+            </form>
+            <div id="job-search-buttons">
+                <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/add/" class="btn">Criar An&uacute;ncio › </a>
+                <a href="http://emprego.aeiou.pt" class="btn">Mais Ofertas › </a>
+            </div>
+        </div>
+    </div>
+    <div id="box-emprego-content">
+        <ul class='jobs-item fleft'><li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/tecnico-de-manutencao-hoteleira-mf-carcavelos/">Técnico de Manutenção Hoteleira (M/F) – Carcavelos</a>
+    Carcavelos <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/empregadas-de-andares-mf-costa-da-caparica/">Empregadas de andares (M/F) – Costa da Caparica</a>
+    Costa da Caparica <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/oficial-electricista/">Oficial Electricista</a>
+    Almeirim <span>•</span> Teletejo-Telecomunicações do Ribatejo, SA
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/recepcionista-45/">Recepcionista</a>
+    Lisboa <span>•</span> Archer Hotel
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/eletricistas-e-ajudantes-mf-oeiras/">Eletricistas e Ajudantes (M/F) – Oeiras</a>
+    OEIRAS <span>•</span> TIMING
+</li>
+</ul><ul class='jobs-item fleft'><li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/empregados-de-mesa-vilamoura/">Empregados de Mesa - Vilamoura</a>
+    Vilamoura <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/tecnico-de-eletricidade-mf-sines/">Técnico de Eletricidade (M/F) – Sines</a>
+    SINES <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/canalizadores-faro/">Canalizadores - Faro</a>
+    Faro <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/tecnicos-polivalentes-de-manutencao-loule/">Técnicos Polivalentes de Manutenção - Loulé</a>
+    Faro <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/empregadas-de-andares-mf-cascais/">Empregadas de andares (M/F) - Cascais</a>
+    CASCAIS <span>•</span> TIMING
+</li>
+</ul><ul class='jobs-item fleft'><li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/engenheiro-civil-mf-lisboa-2/">Engenheiro Civil (M/F) – Lisboa</a>
+    LISBOA <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/cozinheiro-de-2a-mf-lisboa/">Cozinheiro de 2ª (M/F) – Lisboa</a>
+    LISBOA <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/pedreiros-mf-chamusca-santarem/">Pedreiros (M/F) – Chamusca - Santarém</a>
+    SANTARÉM <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/empregados-de-balcao-mf-faro-2/">Empregados de Balcão (M/F) - Faro</a>
+    Faro <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/operador-de-producao-mf-maia/">Operador de Produção (m/f) - Maia</a>
+    Maia <span>•</span> Kelly Services
+</li>
+</ul><ul class='jobs-item fleft jobs-last-item'><li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/empregado-armazem-mf-vila-do-conde-2/">Empregado Armazém (m/f) - Vila do Conde</a>
+    Porto <span>•</span> Kelly Services
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/operador-de-producao-mf-santa-maria-da-feira/">Operador de Produção (M/F) - Santa Maria da Feira</a>
+    Santa Maria da Feira <span>•</span> Kelly Services
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/empregadas-de-andares-mf-quinta-da-marinha/">Empregadas de andares (M/F) – Quinta da Marinha</a>
+    LISBOA <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/rececionista-mf-lisboa-2/">Rececionista (M/F) – Lisboa</a>
+    Faro <span>•</span> TIMING
+</li>
+<li valign="top">
+    <a href="http://emprego.aeiou.pt/?page_id=4&amp;job_board=/view/pedreiros-serventes-mf-manjoeira/">Pedreiros / Serventes (M/F) – Manjoeira</a>
+    Lisboa <span>•</span> TIMING
+</li>
+</ul>
+        <br class="cboth">
+    </div>
+</div> 
+    <div id="box-links" class="box">
+	<h3>Links Essenciais</h3>
+	<table>
+		<tr>
+			<td>
+				<div>internet</div>
+<a href='http://google.com' title='Google' rel='nofollow' >Google</a>
+<a href='http://bing.com' title='Bing' rel='nofollow' >Bing</a>
+<a href='http://yahoo.com' title='Yahoo' rel='nofollow' >Yahoo</a>
+<a href='http://stumbleupon.com/' title='Stumble Upon' rel='nofollow' >Stumble Upon</a>
+<a href='http://delicious.com/' title='Delicious' rel='nofollow' >Delicious</a>
+<a href='http://gmail.com' title='Gmail' rel='nofollow' >Gmail</a>
+<a href='http://hotmail.com' title='Hotmail' rel='nofollow' >Hotmail</a>
+<a href='http://skype.com' title='Skype' rel='nofollow' >Skype</a>
+<a href='http://google.com/talk/' title='Google Talk' rel='nofollow' >Google Talk</a>
+<a href='http://ebuddy.com/' title='eBuddy' rel='nofollow' >eBuddy</a>
+<a href='http://download.cnet.com/' title='Download.com' rel='nofollow' >Download.com</a>
+			</td>
+			<td class="sep"><img src="http://www.aeiou.pt/img/p.gif" class="sprite" /></td>
+			<td>
+				<div>informação</div>
+<a href='http://wikipedia.org' title='Wikipedia' rel='nofollow' >Wikipedia</a>
+<a href='http://conheceracrise.com' title='Conhecer a Crise' rel='nofollow' >Conhecer a Crise</a>
+<a href='http://internetsegura.pt' title='Internet Segura' rel='nofollow' >Internet Segura</a>
+<a href='http://estradas.pt' title='Estradas de Portugal' rel='nofollow' >Estradas</a>
+<a href='http://maisgasolina.com' title='Mais Gasolina' rel='nofollow' >Mais Gasolina</a>
+<a href='http://radaresdeportugal.com' title='Radares Portugal' rel='nofollow' >Radares</a>
+<a href='http://www.racius.com' title='Racius' rel='nofollow' >Racius</a>
+<a href='http://www.xe.com/' title='Câmbios' rel='nofollow' >Câmbios</a>
+<a href='http://digitaldutch.com/unitconverter/' title='Conversor' rel='nofollow' >Conversor</a>
+<a href='http://www.farmaciasdeservico.net/' title='Farmácias' rel='nofollow' >Farmácias</a>
+<a href='http://www.infarmed.pt/prontuario/index.php' title='Prontuário Terapêutico' rel='nofollow' >Prontuário</a>
+			</td>
+			<td class="sep"><img src="http://www.aeiou.pt/img/p.gif" class="sprite" /></td>
+			<td>
+				<div>notícias</div>
+<a href='http://publico.pt/' title='Público' rel='nofollow' >Público</a>
+<a href='http://jn.pt' title='Jornal de Notícias' rel='nofollow' >J.Notícias</a>
+<a href='http://expresso.pt' title='Expresso' rel='nofollow' >Expresso</a>
+<a href='http://ionline.pt' title='iOnline' rel='nofollow' >iOnline</a>
+<a href='http://www.economist.com/' title='The Economist' rel='nofollow' >The Economist</a>
+<a href='http://www.dinheirovivo.pt/' title='Dinheiro Vivo' rel='nofollow' >Dinheiro Vivo</a>
+<a href='http://meiosepublicidade.pt/' title='Meios e Publicidade' rel='nofollow' >M&Publicidade</a>
+<a href='http://mashable.com/' title='Mashable' rel='nofollow' >Mashable</a>
+<a href='http://www.engadget.com/' title='Engadget' rel='nofollow' >Engadget</a>
+<a href='http://blitz.pt' title='BLITZ' rel='nofollow' >BLITZ</a>
+<a href='http://relvado.com' title='Relvado' rel='nofollow' >Relvado</a>
+			</td>
+			<td class="sep"><img src="http://www.aeiou.pt/img/p.gif" class="sprite" /></td>
+			<td>
+				<div>utilidades</div>
+<a href='http://docs.google.com' title='Google Docs' rel='nofollow' >G. Docs</a>
+<a href='http://www.priberam.pt/dlpo/' title='Dicionário Priberan' rel='nofollow' >Priberan</a>
+<a href='http://wordreference.com/' title='Dicionários Online' rel='nofollow' >Dicionários</a>
+<a href='http://translate.google.pt' title='Google Tradutor' rel='nofollow' >G.Tradutor</a>
+<a href='http://codigopostal.ciberforma.pt/' title='Código Postal' rel='nofollow' >Código Postal</a>
+<a href='http://www.pai.pt/' title='Páginas Amarelas' rel='nofollow' >Pág.Amarelas</a>
+<a href='http://maps.google.com/' title='Google Maps' rel='nofollow' >Google Maps</a>
+<a href='http://pixlr.com/' title='Pixlr' rel='nofollow' >Pixlr</a>
+<a href='http://www.wetransfer.com' title='We Transfer' rel='nofollow' >We Transfer</a>
+<a href='http://dropbox.com' title='Dropbox' rel='nofollow' >Dropbox</a>
+<a href='http://www.mbdox.pt' title='MBDox' rel='nofollow' >MBDox</a>
+			</td>
+			<td class="sep"><img src="http://www.aeiou.pt/img/p.gif" class="sprite" /></td>
+			<td>
+				<div>serviços</div>
+<a href='http://www2.seg-social.pt/' title='Segurança Social' rel='nofollow' >Seg. Social</a>
+<a href='http://www.portaldasfinancas.gov.pt' title='Portal das Finanças' rel='nofollow' >P. Finanças</a>
+<a href='http://www.portaldocidadao.pt/' title='Portal do Cidadão' rel='nofollow' >P. Cidadão</a>
+<a href='http://www.portaldaempresa.pt/' title='Portal da Empresa' rel='nofollow' >P. Empresa</a>
+<a href='http://www.empresanahora.pt' title='Empresa na Hora' rel='nofollow' >Empresa H.</a>
+<a href='http://www.iefp.pt' title='Instituto do Emprego' rel='nofollow' >I. Emprego</a>
+<a href='http://ec.europa.eu/eures/home.jsp?lang=pt' title='Eures' rel='nofollow' >Eures</a>
+<a href='http://juventude.gov.pt/' title='Portal da Juventude' rel='nofollow' >P. Juventude</a>
+<a href='http://www.portaldahabitacao.pt/pt/porta65j/' title='Porta 65' rel='nofollow' >Porta 65</a>
+<a href='http://www.saude24.pt' title='Saúde 24' rel='nofollow' >Saúde 24</a>
+<a href='http://www.portaldasescolas.pt' title='Portal das Escolas' rel='nofollow' >P. Escolas</a>
+			</td>
+			<td class="sep"><img src="http://www.aeiou.pt/img/p.gif" class="sprite" /></td>
+			<td>
+				<div>sociedade</div>
+<a href='http://comprasolidaria.pt/' title='Compra Solidária' rel='nofollow' >Compra Solidária</a>
+<a href='http://www.voluntariado.pt/' title='Voluntariado' rel='nofollow' >Voluntariado</a>
+<a href='http://bancoalimentar.pt' title='Banco Alimentar' rel='nofollow' >Banco Alimentar</a>
+<a href='http://www.cartaosolidario.pt/' title='Cartão Solidário' rel='nofollow' >Cartão Solidário</a>
+<a href='http://www.presentessolidarios.pt/' title='Presentes Solidários' rel='nofollow' >Presentes</a>
+<a href='http://fundacaodogil.pt/' title='Fundação do Gil' rel='nofollow' >Fundação do Gil</a>
+<a href='http://projectotio.net/' title='Projecto TIO' rel='nofollow' >Projecto TIO</a>
+<a href='http://www.boleia.net/' title='Boleia.net' rel='nofollow' >Boleia.net</a>
+<a href='http://deco.proteste.pt' title='Deco Proteste' rel='nofollow' >Deco Proteste</a>
+<a href='http://www.consumidor.pt/' title='Portal do Consumidor' rel='nofollow' >P. Consumidor</a>
+<a href='http://www.encontra-me.org/' title='Encontra-me' rel='nofollow' >Encontra-me</a>
+			</td>
+			<td class="sep"><img src="http://www.aeiou.pt/img/p.gif" class="sprite" /></td>
+			<td>
+				<div>comunidade</div>
+<a href='http://facebook.com' title='Facebook' rel='nofollow' >Facebook</a>
+<a href='http://twitter.com' title='Twitter' rel='nofollow' >Twitter</a>
+<a href='http://linkedin.com' title='Linkedin' rel='nofollow' >Linkedin</a>
+<a href='http://www.universia.pt' title='Universia' rel='nofollow' >Universia</a>
+<a href='http://www.behance.net/' title='Behance' rel='nofollow' >Behance</a>
+<a href='https://www.tumblr.com/' title='Tumblr' rel='nofollow' >Tumblr</a>
+<a href='http://pinterest.com/' title='Pinterest' rel='nofollow' >Pinterest</a>
+<a href='http://picasa.google.com/' title='Picasa' rel='nofollow' >Picasa</a>
+<a href='http://flickr.com' title='Flickr' rel='nofollow' >Flickr</a>
+<a href='http://olhares.com' title='Olhares' rel='nofollow' >Olhares</a>
+<a href='http://clubdecoleccionistas.com/' title='Clube de Coleccionistas' rel='nofollow' >Coleccionistas</a>
+			</td>
+			<td class="sep"><img src="http://www.aeiou.pt/img/p.gif" class="sprite" /></td>
+			<td>
+				<div>lazer</div>
+<a href='http://youtube.com' title='YouTube' rel='nofollow' >YouTube</a>
+<a href='https://www.spotify.com/pt/' title='Spotify' rel='nofollow' >Spotify</a>
+<a href='http://timeout.sapo.pt/' title='Timeout' rel='nofollow' >Timeout</a>
+<a href='http://cinecartaz.publico.pt/' title='Cartaz Cinema' rel='nofollow' >Cartaz Cinema</a>
+<a href='http://www.ticketline.pt/' title='TicketLine' rel='nofollow' >TicketLine</a>
+<a href='http://vodafone.fm/' title='Vodafone.fm' rel='nofollow' >Vodafone.fm</a>
+<a href='http://cotonete.clix.pt' title='Cotonete' rel='nofollow' >Cotonete</a>
+<a href='http://www.wildwebwoods.org/popup.php?lang=pt' title='Wild Web Woods' rel='nofollow' >Wild Web Woods</a>
+<a href='http://9gag.com/' title='Just For Fun' rel='nofollow' >9GAG</a>
+<a href='http://fun.drno.de/flash/bubblewrap.swf' title='Anti-stress' rel='nofollow' >Anti-stress</a>
+<a href='http://www.portaldojardim.com/pdj/' title='Portal do Jardim' rel='nofollow' >Portal do Jardim</a>
+			</td>
+			<td class="sep"><img src="http://www.aeiou.pt/img/p.gif" class="sprite" /></td>
+			<td>
+				<div>compras</div>
+<a href='https://www.radiopopular.pt/' title='Rádio Popular' rel='nofollow'>Rádio Popular</a>
+<a href='http://www.amazon.com' title='Amazon' rel='nofollow' >Amazon</a>
+<a href='http://bookdepository.co.uk' title='The Book Depository' rel='nofollow' >Book D.</a>
+<a href='http://fnac.pt' title='FNAC' rel='nofollow' >FNAC</a>
+<a href='http://www.wook.pt/' title='Wook' rel='nofollow' >wook</a>
+<a href='https://www.worten.pt' title='Worten' rel='nofollow' >Worten</a>
+<a href='http://ebay.pt' title='eBay' rel='nofollow' >eBay</a>
+<a href='http://www.olx.pt/' title='OLX' rel='nofollow' >OLX</a>
+<a href='http://laredoute.pt' title='La Redoute' rel='nofollow' >La Redoute</a>
+<a href='http://miyuki.pt' title='Miyuki' rel='nofollow' >Miyuki</a>
+<a href='http://girissima.com/' title='Girissima' rel='nofollow' >Girissima</a>
+			</td>
+			<td class="sep"><img src="http://www.aeiou.pt/img/p.gif" class="sprite" /></td>
+			<td>
+				<div>viagens</div>
+<a href='http://tripadvisor.com' title='Trip Advisor' rel='nofollow' >Trip Advisor</a>
+<a href='http://www.virtualtourist.com/' title='Virtual Tourist' rel='nofollow' >Virtual Tourist</a>
+<a href='http://www.kayak.com/explore/' title='Kayak Explore' rel='nofollow' >Kayak Explore</a>
+<a href='http://www.edreams.pt/' title='eDreams' rel='nofollow' >eDreams</a>
+<a href='http://logitravel.pt' title='Logitravel' rel='nofollow' >Logitravel</a>
+<a href='http://www.trivago.pt/' title='Trivago' rel='nofollow' >Trivago</a>
+<a href='http://www.hotelopia.pt/' title='Hotelopia' rel='nofollow' >Hotelopia</a>
+<a href='http://homelidays.pt/' title='Homelidays' rel='nofollow' >Homelidays</a>
+<a href='http://www.couchsurfing.org/' title='CouchSurfing' rel='nofollow' >CouchSurfing</a>
+<a href='http://www.trocacasa.com/' title='Troca Casa' rel='nofollow' >Troca Casa</a>
+<a href='http://cp.pt/' title='Horários CP' rel='nofollow' >Horários CP</a>
+			</td>
+		</tr>
+	</table>
+</div>
+
+</div>
+
+    </div>
+    <div id='takeover'>
+    <script type="text/javascript">
+		googletag.cmd.push(function(){
+            googletag.display('takeover');
+        });
+    </script>
+</div>
+<div id='expandable'>
+    <script type="text/javascript">
+		googletag.cmd.push(function(){
+            googletag.display('expandable');
+        });
+    </script>
+</div>
+
+    	<div id="footer">
+		<div class="top body">
+      <div class="fleft">
+        <ul class="fleft w20p">
+          <li class="nobg">REDE AEIOU</li>
+          <li class="nobg"><a href="http://webmail.aeiou.pt/" ><span>Mail AEIOU</span>webmail grátis do aeiou</a></li>
+          <li><a href="http://bla.aeiou.pt/" ><span>CHAT BLÁ</span>o maior chat nacional</a></li>
+          <li><a href="http://zap.aeiou.pt/" ><span>ZAP</span>notícias de actualidade</a></li>
+          <li><a href="http://www.aeiou.pt/quiosque/actualidade" ><span>QUIOSQUE</span>revista de Imprensa</a></li>
+        </ul>
+        <ul class="fleft w20p">
+          <li class="nobg"></li>
+          <!-- <li class="nobg"><a href="http://playon.aeiou.pt/" ><span>PLAYON</span>jogos casuais</a></li> -->
+          <li><a href="http://emprego.aeiou.pt/" ><span>EMPREGO</span>bolsa de emprego aeiou</a></li>
+          <li><a href="http://descontos.aeiou.pt/" ><span>DESCONTOS</span>todas as promoções</a></li>
+          <li><a href="http://tube.aeiou.pt/" ><span>TUBE</span>vídeos seleccionados</a></li>
+          <li><a href="http://guia-viagens.aeiou.pt/" ><span>GUIA DE VIAGENS</span>para destinos de sonho</a></li>
+        </ul>
+        <ul class="fleft w20p">
+          <li class="nobg">PARCEIROS AEIOU</li>
+          <li class="nobg"><a href="http://www.vidaeconomica.pt/" ><span>VIDA ECONÓMICA</span>economia e negócios</a></li>
+          <li><a href="https://www.maistecnologia.com/" ><span>MAIS TECNOLOGIA</span>tudo sobre tecnologia</a></li>
+          <li><a href="https://echoboomer.pt/" ><span>ECHO BOOMER</span>Tecnologia e Lifestyle</a></li>
+          <li><a href="http://movenoticias.com/" ><span>MOVE</span>notícias de atualidade</a></li>
+          <li><a href="http://flagra.pt/" ><span>FLAGRA</span>magazine social</a></li>
+        </ul>
+        <ul class="fleft w20p">
+          <li class="nobg"></li>
+          <li class="nobg"><a href="http://www.futebol365.pt/" ><span>FUTEBOL 365</span>tudo sobre o futebol</a></li>
+          <li><a href="http://relvado.aeiou.pt/" ><span>RELVADO</span>o jogo discute-se aqui</a></li>
+          <li><a href="http://www.goalpoint.pt/" ><span>GOAL POINT</span>estatística é tudo</a></li>
+          <li><a href="http://proximonivel.pt/" ><span>PRÓXIMO NÍVEL</span>tudo sobre videojogos</a></li>
+          <li><a href="http://www.colara.com/" ><span>COLARA</span>colecções digitais</a></li>
+        </ul>
+        <ul class="fleft w20p">
+          <li class="nobg"></li>
+          <li class="nobg"><a href="http://portugalmail.net/" ><span>PORTUGALMAIL</span>email profissional</a></li>
+          <li><a href="http://ping.pt/" ><span>PING</span>sites à medida</a></li>
+          <li><a href="http://www.vmuse.com/" ><span>VMUSE</span>serviços cloud</a></li>
+          <li><a href="https://www.chip7.pt/" ><span>CHIP7</span>tudo em informática</a></li>
+        </ul>
+      </div>
+      
+			<div class="fright rel">
+				<img class="big" src="http://www.aeiou.pt/lib/gd2/cartoons/ffffff/000000/as035d4b25.png">
+				<img class="small" src="http://www.aeiou.pt/lib/gd2/cartoons/transparent/ffffff/as035d4b25.png">
+			</div>
+		</div>
+		<div class="rodape">
+			<div class="fleft">
+				<a  href="http://www.aeiou.pt/pesquisa/">Pesquisa</a>
+				<a  href="http://www.aeiou.pt/novidades/">Novidades</a>
+				<a  href="http://www.aeiou.pt/contactos/">Contactos</a>
+				<a  href="http://www.aeiou.pt/publicidade/">Publicidade</a>
+				<a  href="https://emprego.aeiou.pt/?page_id=4&job_board=/company/1/">Recrutamento</a>
+				<a  href="https://www.aeiou.pt/privacy-policy">Política de Privacidade</a>
+				
+			</div>
+			<div class="fright"><span>&nbsp;&copy; 2018</span></div>
+			<div class="fright logo"><img class="sprite" src="http://www.aeiou.pt/img/p.gif" /></div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		jQuery("#footer .small").click(function(){
+			jQuery("#footer .big").fadeIn(250);
+			jQuery("#footer .big").animate({"height":400},250);
+			trackEvent("footer","cartoon","http://www.aeiou.pt/lib/gd2/cartoons/transparent/ffffff/as035d4b25.png");
+		});
+		jQuery("#footer .big").bind("click",function(){
+			$(this).animate({"height":210},250);
+			$(this).fadeOut(250);
+		});
+	</script>
+	<script type="text/javascript" src="http://www.aeiou.pt/js/cols.js?v=3"></script>
+        <script src="https://www.aeiou.pt/js/gdpr.js" aync="async"></script>
+	
+	<!-- cookie consent start -->
+<!--         <script>window.cookieconsent_options = {theme: 'http://toolbar.aeiou.pt/cc/styles/aeiou.css'}</script> -->
+<!--         <script async defer type="text/javascript" src="http://toolbar.aeiou.pt/cc/cookieconsent.js"></script> -->
+        <!--cookie consent end -->
+        <!-- xaxis learning tags start -->
+	<script type='application/javascript'>!function(n,t,a,i){n.mpfContainr||(n.mpfContainr=function(){a.push(arguments)},mpfContainr.q=a,(i=t.createElement('script')).type='application/javascript',i.async=!0,i.src='//cdn.mookie1.com/containr.js',t.head.appendChild(i))}(window,document,[]);
+mpfContainr('V2_1782',{'host': 'pt-gmtdmp.mookie1.com', 'tagType': 'learn','src.rand': '[timestamp]', 'src.id' : 'aeiou' });
+	</script>
+	<noscript>
+	<iframe src='//pt-gmtdmp.mookie1.com/t/v2?tagid=V2_1782&isNoScript&src.rand=[timestamp]&src.id=aeiou' height='0' width='0' style='display:none;visibility:hidden'></iframe>
+	</noscript>        
+	<!-- xaxis learning tags end -->
+	<!-- scripts -->
+	<!--[if lt IE 7 ]>
+	<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+	<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+	<![endif]-->
+<!-- /1111242/adsyoulike_aeiou_hp_1x1_native -->
+<div id='ayl-native' style='height:1px; width:1px;line-height:0px; font-size:0px; display:none;'>
+<script>
+googletag.cmd.push(function() { googletag.display('ayl-native'); });
+</script>
+</div>
+	<!-- end scripts -->
+
+</body>
+</html>

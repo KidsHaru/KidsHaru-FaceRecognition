@@ -1,0 +1,452 @@
+<!DOCTYPE html> 
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11"><title>PHILOSOPEDIA &#8211; The free online reference source for the philosophy-minded</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="PHILOSOPEDIA &raquo; Feed" href="http://philosopedia.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PHILOSOPEDIA &raquo; Comments Feed" href="http://philosopedia.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/philosopedia.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='tech-literacy-roboto-css'  href='//fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700%2C900&#038;ver=20141212' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://philosopedia.org/wp-content/themes/tech-literacy/css/font-awesome.min.css?ver=20150224' type='text/css' media='all' />
+<link rel='stylesheet' id='tech-literacy-style-css'  href='http://philosopedia.org/wp-content/themes/tech-literacy/style.css?ver=4.9.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://philosopedia.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://philosopedia.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://philosopedia.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://philosopedia.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://philosopedia.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+			
+			<style type="text/css">
+				.services-wrapper .service-count:nth-of-type(1) .title-divider a:hover	
+			    {
+					color: #5daae0;
+				}
+
+				.services-wrapper .service-count:nth-of-type(1) .service-image .fa,.services-wrapper .service-count:nth-of-type(1) .more-link
+				{
+					background-color: #5daae0;
+				}
+
+			</style>			
+			<style type="text/css">
+				.services-wrapper .service-count:nth-of-type(2) .title-divider a:hover	
+			    {
+					color: #ea4640;
+				}
+
+				.services-wrapper .service-count:nth-of-type(2) .service-image .fa,.services-wrapper .service-count:nth-of-type(2) .more-link
+				{
+					background-color: #ea4640;
+				}
+
+			</style>			
+			<style type="text/css">
+				.services-wrapper .service-count:nth-of-type(3) .title-divider a:hover	
+			    {
+					color: #00ba71;
+				}
+
+				.services-wrapper .service-count:nth-of-type(3) .service-image .fa,.services-wrapper .service-count:nth-of-type(3) .more-link
+				{
+					background-color: #00ba71;
+				}
+
+			</style>			<style type="text/css">    
+				#wp-custom-header-video-button {
+				    position: absolute;
+				    z-index:1;
+				    top:20px;
+				    right: 20px;
+				    background:rgba(34, 34, 34, 0.5);
+				    border: 1px solid rgba(255,255,255,0.5);
+				}
+				.wp-custom-header iframe,
+				.wp-custom-header video {
+				      display: block;
+				      height: auto;
+					  max-width: 100%;
+					  object-fit: cover;
+				      width: 100vw;
+				      overflow: hidden;
+				}
+
+		    </style>  
+</head>
+  
+<body class="home blog wp-custom-logo">  
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+			    <div class="custom-header-media">
+							</div>
+	    	<header id="masthead" class="site-header" role="banner">
+					<div class="top-nav">
+				<div class="container">		
+					<div class="eight columns">
+						<div class="cart-left">
+							<aside id="text-8" class="widget widget_text">			<div class="textwidget"><ul>
+<li><i class="fa fa-envelope-o"></i><a href="mailto:admin@philosopedia.org">admin@philosopedia.org</a></li>
+</ul>
+</div>
+		</aside>						</div>
+					</div>
+
+					<div class="eight columns">
+						<div class="cart-right">
+							  
+						</div>
+					</div>
+				</div>
+			</div> <!-- .top-nav -->
+				<div class="branding header-image">
+	       <div class="container">
+				<div class="eight columns">
+					<div class="site-branding">
+						<a href="http://philosopedia.org/" class="custom-logo-link" rel="home" itemprop="url"><img width="489" height="98" src="http://philosopedia.org/wp-content/uploads/2018/06/cropped-NooDle-Bar.jpg" class="custom-logo" alt="PHILOSOPEDIA" itemprop="logo" srcset="http://philosopedia.org/wp-content/uploads/2018/06/cropped-NooDle-Bar.jpg 489w, http://philosopedia.org/wp-content/uploads/2018/06/cropped-NooDle-Bar-300x60.jpg 300w" sizes="(max-width: 489px) 100vw, 489px" /></a>											</div><!-- .site-branding -->
+				</div>
+				<div class="eight columns">				</div>
+		   </div>
+	    </div>
+	    
+		<div class="nav-wrap">
+			<div class="container">
+			    <div class="sixteen columns">
+				    <nav id="site-navigation" class="main-navigation clearfix" role="navigation">
+						<button class="menu-toggle" aria-controls="menu" aria-expanded="false"><i class="fa fa-align-justify fa-2x" aria-hidden="true"></i></button>
+						<div class="menu-philosopedia-container"><ul id="menu-philosopedia" class="menu"><li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-26"><a href="http://philosopedia.org">Home</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-29"><a href="http://philosopedia.org/comments/">Comments &#038; Suggestions</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://philosopedia.org/policy-privacy/">Philosopedia Policy Privacy</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="http://philosopedia.org/nobel-prize-winners/">Nobel Prize Winners</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://philosopedia.org/about-philosopedia/">About Philosopedia</a></li>
+</ul></div>					</nav><!-- #site-navigation -->
+				</div>
+			</div>
+		</div>
+
+	</header><!-- #masthead --> 
+
+	
+	
+
+
+<div id="content" class="site-content">   
+		<div class="container">
+		
+			  
+
+	<div id="primary" class="content-area eleven  columns">
+		<main id="main" class="site-main" role="main">
+
+		
+						
+				
+<article id="post-64" class="post-64 post type-post status-publish format-standard hentry category-uncategorized">
+    
+	   
+
+		<div class="latest-content">
+			<header class="entry-header">  
+					<div class="title-meta">
+						<h3 class="entry-title"><a href="http://philosopedia.org/2018/06/08/64/" rel="bookmark">Berlin, Isaiah</a></h3>									<div class="entry-meta">
+				<span class="date-structure">				
+					<span class="dd"><i class="fa fa-calendar"></i>June 8, 2018</span>			
+				</span>
+				 <span class="author vcard"><a class="url fn n" href="http://philosopedia.org/author/PHILOSOPEDIA/"><i class="fa fa-user"></i> PHILOSOPEDIA</a></span>				<span class="comments-link"><i class="fa fa-comments"></i><a href="http://philosopedia.org/2018/06/08/64/#respond">No Comments</a></span> 
+				<span class="cat-links"><i class="fa fa-folder-open"></i> <a href="http://philosopedia.org/category/uncategorized/" rel="category tag">Uncategorized</a> </span>
+			</div><!-- .entry-meta -->					</div>
+		    </header><!-- .entry-header -->
+
+			<div class="entry-content">   
+				<div class="floatright">
+<figure id="attachment_66" style="width: 300px" class="wp-caption alignnone"><img class="size-medium wp-image-66" src="http://philosopedia.org/wp-content/uploads/2018/06/Iberlin-300x200.jpg" alt="" width="300" height="200" srcset="http://philosopedia.org/wp-content/uploads/2018/06/Iberlin-300x200.jpg 300w, http://philosopedia.org/wp-content/uploads/2018/06/Iberlin.jpg 419w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Isaiah Berlin, 1992</figcaption></figure>
+</div>
+<p><b>Berlin, Isaiah</b> [Sir] (6 June 1909 &#8211; 5 November 1997)</p>
+<p>Berlin, a major philosopher and historian of ideas at Oxford University in England, shared with Plato the distinction of having been an intellectual who never wrote a major book.</p>
+<h2><span id="Early_Years" class="mw-headline">Early Years</span></h2>
+<p>Born in Riga, Latvia, he was the son of a timber merchant and landowner. His grandfather on his mother’s side was a Hasidic rabbi of the Lubavitch tradition. His family moved to St. Petersburg, witnessing two Russian revolutions in 1917, then immigrated in 1921 to London, where it had business interests.</p>
+<p>As a boy, Shaya (as he was known then) had some religious education but found the Talmud a “very, very boring book,” adding, “I could never figure out why I should care why the bull gored the cow.” He continued his religious education in London, where as a youth he had his bar mitzvah. “I never had it in me to do a great masterpiece on some big subject,” he said. But he wrote on a variety of subjects.</p>
+<h2><span id="Writings" class="mw-headline">Writings</span></h2>
+<p>He translated Turgenev and wrote <i>Karl Marx</i> (1939), <i>Historical Inevitability</i> (1954), <i>The Age of Enlightenment</i> (1956), <i>Four Essays on Literature</i> (1969), and <i>The Crooked Timber of Humanity </i>(1990). The latter work’s title comes from Kant’s “Out of the crooked timber of humanity no straight thing was ever made.” What this meant to Berlin was that mankind must be wary of dogmatism, of utopianism, or of any system of thinking which pursues the ideal. Berlin argued not for utopianism but for pluralism, for the notion</p>
+<ul>
+<li>that there are many different ends that men may seek and still be fully rational, fully men, capable of understanding each other and sympathizing and deriving light from each other, as we derive it from reading Plato or the novels of medieval Japan &#8211; worlds, outlooks, very remote from your own.</li>
+</ul>
+<p>His 1959 essay, “Two Concepts of Liberty,” made a distinction between negative liberty (that which the individual must be allowed to enjoy without state interference) and positive liberty (that which the state permits by imposing regulations that, by necessity, limit some freedoms in the name of greater liberty for all.</p>
+<p>In it he wrote,</p>
+<ul>
+<li>One belief, more than any other, is responsible for the slaughter of individuals on the altar of the great historical ideas &#8211; justice or progress or happiness of future generations. . . or emancipation of a nation or race or class. . .this is the belief that somewhere. . .there is a final solution.</li>
+</ul>
+<p>He argued, Marilyn Berger noted in <i>The New York Times </i>(7 November 1997), that both kinds of liberty were required for a just society.</p>
+<h2><span id="Hedgehogs_and_Foxes" class="mw-headline">Hedgehogs and Foxes</span></h2>
+<p>Berlin once made a distinction between two types of mind: the hedgehog, which knows one big thing; and the fox, which knows lots of little ones. Thinkers who fixate on one big idea &#8211; Plato, Dante, Pascal, Proust, Dostoevsky, Marx, Hegel, or for that matter someone who would investigate a subject such as humanism for decades &#8211; are hedgehogs.</p>
+<p>However, those who have many little ideas, such as Aristotle, Goethe, Pushkin, Balzac, Joyce, and Turgenev are foxes. Tolstoy, he felt, was a fox who wanted to be a hedgehog.</p>
+<p>Most of Berlin’s friends, wrote Michael Ignatieff (<i>The New Yorker</i>, 28 September 1998), saw him as an arch-fox &#8211; quick-witted, darting from subject to subject, eluding pursuit. Yet he also longed to be a hedgehog—to know one thing, to feel one thing more truly than anyone else. He had reached what he recognized was a critical stage: either he would go on to develop a serious intellectual engagement of his own or he would decline into being what he feared most &#8211; a “chatterbox.”</p>
+<h2><span id="Building:_Letters_1960_-_1975" class="mw-headline"><i>Building: Letters 1960 &#8211; 1975</i></span></h2>
+<p>John Banville, reviewing Berlin&#8217;s <i>Building: Letters 19690-1975</i> (edited by Henry Hardy and Mark Pottle (2013), wrote:</p>
+<dl>
+<dd>The stoutest defenders of the status quo will inevitably be those whom it rewards most richly. In the period covered by Building: Letters 1960–1975, the third of four projected volumes of his correspondence, Isaiah Berlin achieved lavish success in his life and in his career. He was happily, indeed blissfully, married to a well-to-do woman and living with her and her sons in some style in her fine house outside Oxford; he had attained worldwide fame as a historian of ideas whose essays were read with admiration and envy both inside and outside academe; he was the confidant of presidents and statesmen, with an entrée to many a corridor of power on both sides of the Atlantic; and to cap it all, in these years he created a new graduate college at Oxford, securing the funding for it and overseeing its at times troubled development. He knew his place to be a high one, and despite his innate modesty he enjoyed himself hugely up there.</dd>
+</dl>
+<dl>
+<dd>His letters in this volume, as ever discursive, zestful, bubbling with gossip and intrigue, sound a subtly new note. His sense of gaiety, his love of occasion, his appetite for friendship and conversation, fed into what seems at times a blinkered kind of sunny optimism, a belief that surely all this should and would be preserved against the encroaching barbarisms of the age. As the historian David Caute has drily remarked, “Berlin more frequently expressed aversion to violence that established ‘a new order on the ruins of the old’ than to the historically more common violence that re-established the old order on the ruins of the new.”</dd>
+</dl>
+<dl>
+<dd>Certainly the period from 1960 to 1975 was among the most barbarous the world has experienced. These were the years of assassination—of John F. and Robert Kennedy and Martin Luther King, among others—and of some particularly nasty wars, notably in Vietnam, Algeria, Congo, and the Middle East. There were also a number of nuclear standoffs, particularly over Cuba, that very nearly resulted in catastrophe.</dd>
+</dl>
+<dl>
+<dd>Through all this IB, as from here on we shall designate him, sailed with apparent calm, though always with a lively interest, like a phlegmatic lone yachtsman navigating his leak-proof vessel over tempestuous wastes of water. Or so it would seem from his letters; it would be well to keep in mind, however, that letter-writing is a performative act, and IB was a bravura performer. He was never less than engagé yet in private maintained an attitude of amused skepticism. The world may have seemed to be hurtling toward one end, that of general self-destruction, but he was unshakable in his commitment to his version of liberalism and what is called value-pluralism, “the conception that there are many different ends that men may seek and still be fully rational, fully men, capable of understanding each other and sympathizing and deriving light from each other.”</dd>
+</dl>
+<dl>
+<dd>Yet all was not bonhomie and soft sunlight. “I am,” he wrote to Mary McCarthy in 1964, when he was aged fifty-five, “in a state of excessive indignation about everything, from which I deduce old age and hardening of the arteries.” He could be fearsome when he felt he or his profession had been slighted. In 1963 he wrote to the British intellectual and Labour parliamentarian Richard Crossman about a newspaper review in which Crossman had returned to “your old bone…on which you gnaw and gnaw—the fiddling dons of Oxford, dreary and craven pedants engaged in their petty and destructive tasks while worlds are crashing and great problems are crying out for solution.” Responding to the charge, IB reminds Crossman of the German “political professors who thundered away and supplied plenty of ideology for 1871 and 1914,” and reminds him of Friedrich Meinecke’s Die deutsche Katastrophe of 1946, “one of the noblest tracts of our times” and “a sufficient answer to those who want professors to plug political programmes and ideologies, however sincere and eloquent.”</dd>
+</dl>
+<dl>
+<dd>A similar though angrier broadside was delivered to the writer and journalist Ved Mehta, who in 1961 had written an article on contemporary Oxford philosophers for The New Yorker; IB’s brief riposte gleams with icy dismissiveness. “The New Yorker is a satirical magazine, and I assume from the start that a satire was intended and not an accurate representation of the truth. In any case, only a serious student of philosophy could attempt to do that.” Yet he was never pompous, and frequently expressed amazement that people should hold him in high regard. His work, he said, was like money: since he had made it himself it must be counterfeit. And like many writers he credited the judgments of his harshest critics, “whereas those who think well of one’s work are poor sad half-wits, whom one has taken in all too easily.”</dd>
+</dl>
+<dl>
+<dd>[[However, his humorous delectation of the foibles of others sometimes verges on schadenfreude, if not outright cruelty. He revered Stravinsky as a composer—“he was the greatest genius I ever knew well”—yet in private liked to laugh at the old man’s complacent sense of himself and his unchallengeable position at the pinnacle of musical art. In Israel and writing to his wife in anticipation of a potentially controversial visit to Jerusalem by Stravinsky, known for having made anti-Semitic statements, IB wonders if he will accompany the official welcoming party to the airport. “I think may be not. If I have nothing to do…may be it will be comical: the arrival, the honour etc. Mrs S. is suffering from a nervous tic in the face: I shall enjoy that, I fear. [Robert] Craft [Stravinsky’s assistant], the tic, the whole thing may be funny.”</dd>
+</dl>
+<dl>
+<dd>There are instances, however, when he ascends to thrilling heights of moral disdain. Here he is in 1964 contemplating with dismay the rise of the Republican Party presidential nominee Barry Goldwater:</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>I wonder…whether Goldwater followers are not simply the old 20 percent—quite enough too—who were isolationists during the war, did not want to go to Europe but to Japan towards the end of it, supported McCarthy and McCarran [both paranoid anti-Communists], and are in fact the old combination of Southern “Bourbons,” Texas industrialists, Catholic bigots, Fascists, lunatics, political neurotics, embittered ex-Communists, unsuccessful power-seekers of all kinds, as well as rich men and reactionaries, in whom America has never been poor…. This is the optimistic view.</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>In these years too IB was much concerned with the State, and state, of Israel, commenting on and frequently entering into that troubled nation’s endless and intermittently violent arguments with its neighbors and with itself.1 He had been a friend and enthusiastic admirer of Chaim Weizmann, the Zionist leader and first president of Israel, and was ever ready to leap to the defense of a country that he saw, surely rightly, as the last best hope of a historically persecuted people. He was too honest and too much of a realist to imagine that Israel could do no wrong, but he left no one in any doubt as to the staunchness of his conviction that Israel, in whatever form or within whatever borders, must survive.</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>The first letter in this volume, addressed to Teddy Kollek—an official in the office of the Israeli prime minister, David Ben-Gurion, and later to be a famously successful, liberal mayor of Jerusalem—was written after the capture of Adolf Eichmann in Argentina by Israeli agents. In its agitated tone and tortured syntax the letter displays IB’s distress at his belief—correct, as it turned out—that Israel would try Eichmann and execute him for his part in the Holocaust, thereby losing a matchless opportunity to refrain from exacting vengeance even for such heinous crimes and expel Eichmann instead: “Nothing in the world wd make so deep an impression on the world, I am quite sure, as an act by a small and deeply wronged people which refuses to plunge the dagger to the hilt.”</dd>
+</dl>
+<dl>
+<dd>From an early age IB had been acquainted with extremism, social upheaval, and internecine violence. During the February Revolution in Petrograd in 1917, he was out for a stroll with his governess one day when a group of men swept past dragging a tsarist policeman with them. In the account of IB’s biographer, Michael Ignatieff:</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>All the seven-year-old had time to see was a man with a white face twisting and turning as he was borne away. The child could not know where they were taking him, but even then it seemed clear that he would not escape with his life. However brief the scene, it made an indelible impression.</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>Although it would be easy to exaggerate the effects of this “indelible impression,” there is no doubt that throughout his life, both as citizen and philosopher, IB was keenly aware of the potential destructiveness of ideas, “ideas about what relations between men have been, are, might be and should be,” which in time become transformed into visions of a supreme good, and therefore a supreme goal, in the minds of leaders, “above all of the prophets with armies at their backs.” Hence we find him, in the pages of Building and everywhere else, ready always to promote and defend a liberal and pluralist agenda. A thumbnail sketch of his philosophical position is given in a letter to a younger political theorist, Bernard Crick, who had taken issue publicly with IB’s most celebrated work, Two Concepts of Liberty:</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>Freedom (or liberty) is the condition for activity. I think that what you call freedom (a free spirit; a liberal outlook; liberal-handed) I prefer to call power. You want to say, “How free they are! How mobile, active they are, how richly their gifts are realised and scattered,” whereas I wish to say, “How free! How untrammelled! How uninhibited—whithersoever they wish to move, they can; nothing can stop them!” Freedom for you is the living of the life; for me it’s its condition [italics added].</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>IB was anything but a reclusive or unworldly scholar, and was impatient with many aspects of the academic life—the constant jostling for position, the endless squabbles over protocol, the irritation and resentment so many dons feel at the presence of mere students—and found academic work at times well-nigh intolerable. “It is very depressing to be a professor even here,” he wrote from Oxford to a colleague in 1960, and to Richard Crossman three years later he displayed the egalitarian spirit that would inspire him to set about founding a new college to meet the needs of graduate students rather than cater to the comforts and promote the self-esteem of the teaching staff:</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>There is an Anglo-Saxon academic world quite different from the Latin one, where all the professors are judged by their intellectual eminence or political views, but never, never in terms of relations with students, which hardly exist; they are so remote, impersonal and grand.</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>A goodly portion of the correspondence in Building is concerned, as might be expected, with the establishment of Wolfson College. This was a highly significant undertaking in IB’s professional life, but inevitably the tribulations entailed in fund-raising and the dreariness of having to deal with architects and builders, etc., make for less than fascinating reading. However, the success he achieved with the project, and in particular his skill in persuading McGeorge Bundy, president of the Ford Foundation, and the wealthy businessman Sir Isaac Wolfson to provide financial backing does shed a light on the perhaps surprising wheeling-and-dealing side of his character, a side even he had been unaware of hitherto.</dd>
+</dl>
+<dl>
+<dd>Another aspect of the man, and another and harmonious new note sounded in these letters, is his late-flowering uxoriousness. Aline Berlin, née de Gunzbourg, was the daughter of a Paris-based, Russian-born banker and his French-Jewish wife. Aline had been married twice before, and had three sons by her previous husbands. She and IB had met in America during the war, and became close when they found themselves together aboard the Queen Mary en route to New York in 1949. At that time Aline was still married to the nuclear physicist Hans Halban. She and IB fell in love, but IB had to endure a long wait before, in 1955, Aline’s marriage collapsed and she agreed to marry him. The momentous occasion is marked by a laconic entry in IB’s diary on February 18, 1955:</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>Midday. Very cold.</dd>
+<dd>Proposed. 11.50.</dd>
+<dd>Accepted. 11.55.</dd>
+</dl>
+</dd>
+</dl>
+<h2><span id="Views" class="mw-headline">Views</span></h2>
+<p>With Georg Wilhelm Friedrich Hegel, he held that “freedom consists in being at home.” Everyone, he concluded, needed to belong to a group. He was convinced, as was German philosopher Johann Gottfried Herder, of man’s basic need to be part of a particular human community with its own traditions, language, art, and imagination to shape his emotional and physical development.</p>
+<p>However, he noted, “I have no idea how one stops one group, one race, from hating another. The hatred between human groups has never been cured, except by time.” In the 18th Century, he noted, one could believe that nations could live peacefully side by side. “Perhaps in the 18th century you could believe that,” he added, noting that the excesses of nationalism made such a view unrealistic.</p>
+<p>Marilyn Berger, commenting about Berlin at the time of his death, said Berlin had been known for his view that the utopian notion of one big answer that is knowable and self-contained must always be fallacious because it does not take into account the cultural pluralism and conflicting values that are part of humanity’s “crooked timber.” Kant had written that “Out of the crooked timber of humanity no straight thing was ever made,” a view which inspired the title of Berlin’s 1990 work, The Crooked Timber of Humanity. The 1997 publication of his <i>Sense of Reality: Studies in Ideas and Their History</i> underlined his deserved reputation for being a great essayist, conversationalist (Robert Darnton has compared him with Diderot), and rhetorician. The seventh and last volume in a series of his essays, the work rejected the common belief that utopians are simply rebels against social laws and historical development but, rather, are people who think they have discovered those very laws whereas none such actually exist. In the 19th century, he noted, thinkers</p>
+<ul>
+<li>believed that human society grew in a discoverable direction, governed by laws; that the borderline which divided science from utopia . . . was discoverable by reason and observation and could be plotted less or more precisely; that, in short, there was a clock, its movement followed discoverable rules and it could not be put back.</li>
+</ul>
+<p>However, the utopians’ faith that science can plot society’s future has led to still further problems, he asserts. By placing their faith in the laws of social and historical development, utopians “place excessive faith in laws and methods derived from alien fields, mostly from the natural sciences.” This, he cites, is evidence of a lack of the sense of reality. Critics generally hailed the octogenarian’s work as evidencing his ability to make philosophy come alive. Berlin was a fervent Zionist, “not because the Lord offered us the Holy Land as some people, religious Jews, believe,” he said, adding,</p>
+<ul>
+<li>My reason for being a Zionist has nothing to do with preserving Jewish culture, Jewish values, wonderful things done by Jews. But the price is too high, the martyrdom too long. And if I were asked, “Do you want to preserve this culture at all costs?” I’m not sure that I would say yes, because you can’t condemn people to permanent persecution. Of course assimilation might be a quite good thing, but it doesn’t work. Never has worked, never will. There isn’t a Jew in the world known to me who somewhere inside him does not have a tiny drop of uneasiness vis-à-vis them, the majority among whom they live. They may be very friendly, they may be entirely happy, but one has to behave particularly well, because if they don’t behave well they won’t like us.</li>
+</ul>
+<p>Another aspect of the man, and another and harmonious new note sounded in these letters, is his late-flowering uxoriousness. Aline Berlin, née de Gunzbourg, was the daughter of a Paris-based, Russian-born banker and his French-Jewish wife. Aline had been married twice before, and had three sons by her previous husbands. She and IB had met in America during the war, and became close when they found themselves together aboard the Queen Mary en route to New York in 1949. At that time Aline was still married to the nuclear physicist Hans Halban. She and IB fell in love, but IB had to endure a long wait before, in 1955, Aline’s marriage collapsed and she agreed to marry him. The momentous occasion is marked by a laconic entry in IB’s diary on February 18, 1955:</p>
+<pre>Midday. Very cold.
+Proposed. 11.50.
+</pre>
+<p>Accepted. 11.55. The marriage was a tremendous success, and transformed IB’s life. Building is the first volume in which Aline Berlin has allowed a selection of her husband’s letters to her to be published. It was a wise decision. The letters are utterly charming, touching, and funny, and make of IB an even more endearing figure than he appeared in the previous two volumes. In the autumn of 1962, seven years into the marriage, IB spent a term at Harvard as the Ford Visiting Research Professor. As is usual in such cases he was lonely and at something of a loss. Having gone on a shopping expedition to furnish his rooms at Lowell House with household necessaries he writes to Aline, with comic lugubriousness:</p>
+<p>I sit surrounded by my electric gadgets: radio, telly, shoe-shiner, teapot, coffee pot, immersion plugs etc. &amp; am subject to homesickness…. Funny. I used to be where my body was geographically. This division of body &amp; feeling, physical process &amp; real personality is queer. How much more can one love? But he loved America, too, and had many friends there, including Felix Frankfurter, Arthur Schlesinger Jr., Joseph Alsop, Robert Silvers, and Charles “Chip” Bohlen. During the war he had been posted to the British embassy in Washington, and often declared that Washington was his favorite city, a new Rome on the Potomac, although he recognized how petty the capital could be, and how overseriously it took itself. His position, if not at the center of power then at least deeply embedded in the fringes of it, is indicated by a letter to Aline on October 17, 1962, the day after he had attended a White House dinner and met President Kennedy and his wife. He liked them both, with reservations. Of Jacqueline Kennedy he wrote: “She is very nice indeed…. Easy, sincere &amp; amusing,” while JFK—“amused &amp; delighted young tycoon…. Not my style at all”—seemed “rather tense.”</p>
+<p>I don’t think [JFK] was as impressed with me as our friends hoped he wd be. The whole idea of my début was appalling. He gave me up fairly early, I thought: &amp; with relief turned me over to his wife saying “you go sit with Jackie. She wants to bring you out, or somep’n.” That the president should have been tense that evening is not surprising, since October 16 was the day on which the Cuban missile crisis began. Perhaps it was JFK’s coolness, allied to his own cheerful skepticism, that persuaded IB the situation was not as perilous as practically everyone else knew it was. On the night of October 22, after the president had gone on television to inform the world that it was teetering on the brink of nuclear devastation, we find IB writing to Aline, “My God, but it is dull here,” and going on to chat about their future plans together and to offer some ruefully amused gossip about his evening spent among the anointed ones at New Camelot.</p>
+<p>America in general, and Washington in particular, were a source of fascination and attraction to IB throughout his life, and this westward leaning, along with his unwavering opposition to the Soviet Union and all it represented, led him to be considered an intellectual cold warrior. Certainly he knew where his allegiance lay, and had nothing but contempt for lazy-minded fellow travelers—his disgust with much of the student “revolution” of the late 1960s provokes a number of the strongest passages in these letters,2 passages that some readers will take to show him to have been just another old right-wing reactionary. However, looking back on the “Sixties,” who in his or her heart will deny that overall he was right?</p>
+<p>Revolting students were not the only cause of outrage for IB in the 1960s and 1970s. The noirest of his bêtes noires was the Polish historian Isaac Deutscher—“the horrible Deutscher,” as he called him—a Marxist specializing in Soviet history and society, and author of a three-volume life of Trotsky. Although the two men met on only a few occasions, IB’s animosity toward him was unrelenting. In a letter to the teacher and translator Elena Levin, Harry Levin’s wife, in 1954, in which he bitterly disparaged a paper Deutscher had given on Trotsky, IB, speaking of Trotsky but also doubtless of Deutscher’s account of him, declared: “I do hate conscientious, coherent, high-minded doctrinaire torturers of human beings into neat and tidy shapes….”</p>
+<p>Matters were made much worse when in 1955 Deutscher, in an article in the influential London Observer newspaper, wrote a highly critical review of IB’s essay Historical Inevitability, which provoked IB to fire off a controlled but furious letter of protest to the newspaper’s editor, David Astor. “I assumed that Deutscher’s article would be unfriendly,” IB wrote, “since the whole gist of my thesis was directly aimed at his own cherished beliefs…. The review duly appeared and I must confess was nastier than I had conceived possible.”</p>
+<p>The next episode in the unappetizing saga came in 1963 when Deutscher applied for the chair in Soviet studies at the University of Sussex. The college authorities were inclined to hire him. J.S. Fulton, vice-chancellor of the university, wrote to IB, who was on the Academic Advisory Board at Sussex, asking for his views. IB replied in no uncertain terms:</p>
+<p>The candidate of whom you speak [Deutscher’s name is not mentioned anywhere in the letter] is the only man whose presence in the same academic community as myself I should find morally intolerable. How much of this is founded on objective judgement of his academic and intellectual activities, and how much on personal feeling, I find it difficult to say…. But I think there is a limit below which lack of scruple must not go in the case of academic teachers…. The man in question is the only one about whom I have any such feeling—there is literally no one [else], so far as I know, to whom I would wish to urge such objections. His objection to the appointment was based on his conviction that Deutscher, because of his views of Soviet history and ideology, could not be trusted to teach Soviet studies in an unbiased fashion. In this he was probably justified. It hardly needs saying that after IB’s letter, Deutscher did not get the job. Six years later, after Deutscher’s death, an article appeared in a British left-wing gossip magazine accusing IB of having destroyed Deutscher’s chances at Sussex. IB considered suing the magazine, but thought better of it. However, he did write to Deutscher’s widow Tamara, denying the truth of the article. The anguished tone of the letter, and the convoluted language in which the denial is couched, testify to IB’s horror at being discovered to have condemned Deutscher behind the scenes. The affair is best summed up by Michael Ignatieff:</p>
+<p>The difficulty lay in supposing that Deutscher could be counted on to teach non-Marxist concepts with the fairness requisite in a university teacher. This was a fair enough application of the standards of liberal tolerance in a university, but Isaiah muddied the waters considerably by claiming that he himself remained a man of the left. In reality, as the Deutscher affair shows, he was not of that political family at all.3 This was not the first time IB had maneuvered in secret to prevent an appointment he disapproved of—in 1958 he had written a letter aimed at preventing the composer Benjamin Britten from being granted the post of musical director at Covent Garden. The letter does not make for pleasant reading. IB’s objections are openly based on the fact that Britten was homosexual: “Not to put too fine a point upon it, opera is an essentially heterosexual art, and those who do not feel affinity with this tend to employ feeble voices, effeminate producers etc….”4 This does not mean that IB was homophobic—some of his closest friends were homosexual, including Maurice Bowra, Stephen Spender, and Joe Alsop—but the intervention leaves a bad taste nevertheless. Here and in his denial of his part in excluding Deutscher, IB was certainly treading in the mire.</p>
+<p>Yet it would be unjust, indeed wrong, to end on such a sour note. IB was one of the great affirmers of our time, a man to be admired not only for his intellectual achievements but for his loyalty, his humor, his modesty, his delight in the world and the people in it. He was neither a temporizer nor a meliorist, yet all his thought was directed toward a humane estimation of life and its possibilities. Here he is, writing in 1969 to his friend Dorothea Head:</p>
+<p>Nothing is less popular today than to say that there is no millennium, that values collide, that there is no final solution, that one can only gain one value at the expense of another, that whatever one chooses entails the sacrifice of something else—or that it is at any rate often so. This is regarded as either false or cynical or both, but the opposite belief is what, it seems to me, has cost us so much frightful suffering and blood in the past. It was certainly unpopular—it still is—to say such things, but IB never faltered in his determination that they should be said, and said again. Building is a wonderful edifice in his honor, meticulously, indeed lovingly, edited and annotated by Henry Hardy, IB’s hardiest champion, and his colleague Mark Pottle, along with a phalanx of researchers, consultants, and transcribers. That such a book could be assembled, and thereafter handsomely produced by a commercial publisher, is a little light of hope in a dark cultural time.</p>
+<h2><span id="Personal" class="mw-headline">Personal</span></h2>
+<p>A serious opera buff and a sought-after conversationalist, he was a friend of Freud, Nehru, Stravinsky, Boris Pasternak, T. S. Eliot, W. H. Auden, Chaim Weizmann, Virginia Woolf, Edmund Wilson, Aldous Huxley, Bertrand Russell, and Felix Frankfurter.</p>
+<p>Ignatieff has detailed Berlin’s affection for a famous beauty, Akhmatova, who was twenty years older than he and twice married. When Patricia Douglas, a married woman with children, came to take care of him on an occasion when he was suffering from a bad cold, he surprised her in a raw display of feeling by pulling her into bed with him.</p>
+<p>Also, he loved Aline Halban, who was married at the time to an Oxford colleague, and also with children. When she left her husband, she and Berlin were married in 1956 at Hampstead Synagogue, a sign that he may have been closer to Judaism than some of his contemporaries suspected.</p>
+<h2><span id="Mark_Lilla_on_Berlin" class="mw-headline">Mark Lilla on Berlin</span></h2>
+<p>On 25 April 2013, Mark Lilla started an article in <i>The New York Review of Books</i> about &#8220;Berlin Against the Current:</p>
+<dl>
+<dd>To one who thinks philosophically, no story is a matter of indifference, even if it were the natural history of the apes.</p>
+<dl>
+<dd>—H. M. G. Koster</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>It was an anecdote Berlin liked to tell.</dd>
+</dl>
+<dl>
+<dd>In 1944, while working at the British Embassy in Washington, D.C., Isaiah Berlin was called back to London on short notice, and it happened that the only plane available to take him was a loud, uncomfortable military bomber. Because the cabin wasn’t pressurized he had to wear an oxygen mask that kept him from speaking. And there were no lights, either, so he couldn’t read. It was a long flight. He joked afterward, “one was therefore reduced to a most terrible thing—to having to think.”</dd>
+</dl>
+<dl>
+<dd>While airborne, the story went, he had a small epiphany. In the 1930s he had taught philosophy at Oxford, happily, with his likeminded friends Stuart Hampshire, J.L. Austin, and A.J. Ayer. Logical positivism had just come into its own in Britain and Wittgenstein was already developing ideas about language that would challenge it. Something seemed to be happening. But as the war dragged on Berlin wondered whether this style of philosophy was really for him. History had intruded into his life a second time (the first was when he witnessed the Russian Revolution as a young boy in Petrogad) and he had just spent several years in the United States writing influential reports to the British government about the American war effort.</dd>
+</dl>
+<h2><span id="The_Last_Essay" class="mw-headline">The Last Essay</span></h2>
+<p>The posthumous publication of his last essay, “My Intellectual Path” (<i>The New York Review of Books</i>, 14 May 1998), discussed Oxford philosophy before the Second World War. He told of his first interest in philosophy and in the work of G. E. Moore and Bertrand Russell when an undergraduate at Oxford in the late 1920s and early 1930s. The “fashionable view” of verificationism</p>
+<ul>
+<li>was that the meaning of a proposition was the way in which it was verifiable—that if there was no way whatever of verifying what was being said, it was not a statement capable of truth or falsehood, not factual, and therefore either meaningless or a case of some other use of language, as seen in commands or expressions of desire, of in imaginative literature, or in other forms of expression which did not lay claim to empirical truth.</li>
+</ul>
+<p>He never became “a true disciple,” however, always believing</p>
+<ul>
+<li>that statements that could be true or false or plausible or dubious or interesting, while indeed they did relate to the world as empirically conceived (and I have never conceived of the world in any other way, from then to the present day), were nevertheless not necessarily capable of being verified by some simple knockdown criterion, as the Vienna School and their logical positivist followers asserted. From the beginning I felt that general propositions were not verifiable in that way. Statements whether in ordinary use or in the natural sciences (which were the ideal of the Vienna School), could be perfectly meaningful without being strictly verifiable. If I said “All swans are white,” I would never know if I knew this about all the swans there were, or whether the number of swans might not be infinite; a black swan no doubt refuted this generalization, but its positive verification in the full sense seemed to me unattainable; nevertheless it would be absurd to say that it had no meaning.</li>
+</ul>
+<p>His last essay also discusses monism (about which he always felt skeptical); Giambattista Vico (the first philosopher, a Catholic, to have conceived the idea of cultures); J. G. Herder (the father of cultural nationalism (whom he found not to be a relativist and who held that mankind “was not one but many”); romanticism (although Marx and others held that perfection is a goal, “I reject this huge metaphysical interpretation of human life in toto &#8211; I remain an empiricist, and know only what I am able to experience, or think I could experience, and do not begin to believe in supra-individual entities &#8211; nevertheless I own that it made some impact on me.”); pluralism (“I came to the conclusion that there is a plurality of ideals, as there is a plurality of cultures and of temperaments,” a view he held is not relativistic.); freedom; determinism ; and the pursuit of the ideal. The essay concludes,</p>
+<p>To go back to the Encyclopedists and the Marxists and all the other movements the purpose of which is the perfect life: it seems as if the doctrine that all kinds of monstrous cruelties must be permitted, because without these the ideal state of affairs cannot be attained &#8211; all the justifications of broken eggs for the sake of the ultimate omelette, all the brutalities, sacrifices, brainwashing, all those revolutions, everything that has made this century perhaps the most appalling of any since the days of old, at any rate in the West &#8211; all this is for nothing, for the perfect universe is not merely unattainable but inconceivable, and everything done to bring it about is founded on an enormous intellectual fallacy.</p>
+<p>The essay takes on added significance because Berlin had written his views at the request of Ouyang Kang, professor of philosophy at Wuhan University in China, in order that they could be translated and included in a volume about contemporary Anglo-American philosophy, which hitherto had been largely unavailable in China.</p>
+<h2><span id="Roots_of_Romanticism" class="mw-headline"><i>Roots of Romanticism</i></span></h2>
+<p>A posthumous work, <i>The Roots of Romanticism</i> (1999), suggests that because they could not compete with the French in social, political, and philosophical matters, the Germans developed the Romantic movement, “the greatest transformation of Western consciousness, certainly in our time.” To illustrate, he described the thinking of Fichte, Goethe, Hamann, Herder, and Schiller.</p>
+<h2><span id="Last_Years" class="mw-headline">Last Years</span></h2>
+<p>Berlin was President of the British Academy from 1974 to 1978. He became a Humanist Laureate in the Council of Secular Humanism’s International Academy of Humanism.</p>
+<p>“I don’t mind death,” he said of his own death. “I’m not afraid of it. I’m afraid of dying for it could be painful. But I find death a nuisance. I object to it. I’d rather it didn’t happen. . . . I’m terribly curious. I’d like to live forever.”</p>
+<p>(An astute commentary about Berlin was written by Alan Ryan in <i>The New York Review of Books</i>, 17 December 1998. Similarly, Aileen Kelly wrote a profound review of Arie M. Dubnov&#8217;s 2013 book <i>Isaiah Berlin: The Journey of a Jewish Liberal</i> in <i>The New York Review of Books</i> (20 June 2013), one that ends, &#8220;There is a saying credited variously to Mark Twain, Abraham Maslow, and Jewish folklore: To the man with a hammer, everything looks like a nail.&#8217; Dubnov&#8217;s book suggests irresistibly the hybrid proverb: &#8216;Beware hedgehogs bearing hammers.&#8217; &#8221;</p>
+<p>{CE; <i>The Economist</i>, 27 September 1997; FUS; Robert Darnton, <i>The New York Review of Books</i>, 26 June 1997; Marilyn Berger, <i>The New York Times</i>, 7 November 1997}</p>
+<p>&nbsp;</p>
+  
+				 			
+			</div><!-- .entry-content -->
+
+		   
+     
+		</div>
+</article><!-- #post-## -->
+			
+			
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+					
+<div id="secondary" class="widget-area five columns" role="complementary">
+	<div class="left-sidebar"><aside id="search-2" class="widget widget_search"><div id="theme-live-search"> 
+                    <form role="search" method="get" class="search-form" action="http://philosopedia.org/">
+	                    <span class="screen-reader-text">Search for:</span>
+	                    <input id="search" type="text" class="search-field" placeholder="Have a question? Search here" value="" name="s" />
+	                    <label class="search-submit-wrapper"><input type="submit" class="search-submit" value="Search" /></label>
+                        <div id="search_dropdown_list"></div>
+                    </form>
+                </div></aside><aside id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><iframe width="340" height="300" src="https://www.youtube.com/embed/zBxzZaB6W0s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></aside><aside id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><iframe width="440" height="300" src="https://www.youtube.com/embed/LxnjvuhO-FI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></aside><aside id="calendar-3" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>September 2018</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://philosopedia.org/2018/06/">&laquo; Jun</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="5" class="pad">&nbsp;</td><td>1</td><td>2</td>
+	</tr>
+	<tr>
+		<td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td>
+	</tr>
+	<tr>
+		<td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td>
+	</tr>
+	<tr>
+		<td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td>
+	</tr>
+	<tr>
+		<td>24</td><td>25</td><td>26</td><td id="today">27</td><td>28</td><td>29</td><td>30</td>
+	</tr>
+	</tbody>
+	</table></div></aside>
+	</div>
+</div><!-- #secondary -->
+
+				
+		</div> <!-- .container -->
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+			<div class="site-info">
+			<div class="container">
+				
+				<div class="left-sidebar eight columns">
+					<aside id="text-6" class="widget widget_text">			<div class="textwidget"><ul><li><a href="#"><i class="fa fa-facebook"></i></a></li><li><a href="#"><i class="fa fa-twitter"></i></a></li><li><a href="#"><i class="fa fa-pinterest"></i></a></li><li><a href="#"><i class="fa fa-tumblr"></i></a></li></ul></div>
+		</aside> 
+				</div>
+			</div>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://philosopedia.org/wp-content/themes/tech-literacy/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://philosopedia.org/wp-content/themes/tech-literacy/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var techliteracy = {"ajax_url":"http:\/\/philosopedia.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://philosopedia.org/wp-content/themes/tech-literacy/js/custom.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://philosopedia.org/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+
+</body>
+</html>

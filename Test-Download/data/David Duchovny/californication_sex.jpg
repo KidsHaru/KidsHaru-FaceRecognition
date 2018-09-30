@@ -1,0 +1,2244 @@
+
+		
+
+<!doctype html>
+
+<!--[if lt IE 7]><html lang="en-US" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <!--<![endif]-->
+
+	<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMGWFZaCRAGUVNQBwUHVg=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+	<link rel="pingback" href="http://www.vh1.com/news/xmlrpc.php">
+
+	
+	<title>
+		Latest Celebrity Gossip, Celebrity News, Entertainment News - VH1 News			</title>
+
+	<link rel="canonical" href="http://www.vh1.com/news/celebrity/" />
+
+	<link rel="next" href="http://www.vh1.com/news/celebrity/page/2/" />
+
+
+<link rel='dns-prefetch' href='//www.vh1.com' />
+<link rel='dns-prefetch' href='//cdn.playbuzz.com' />
+<link rel='dns-prefetch' href='//btg.mtvnservices.com' />
+<link rel='dns-prefetch' href='//media.mtvnservices.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='mtvn.wordpress.plugins.MTVNMediaPlayer-css'  href='http://www.vh1.com/news/wp-content/plugins/MTVNMediaPlayer/css/media_player.css' type='text/css' media='' />
+<link rel='stylesheet' id='vex-custom-css'  href='http://www.vh1.com/news/wp-content/plugins/AOCore/css/vex.custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='css-on-flipbook-css'  href='http://www.vh1.com/news/wp-content/plugins/AOFlipbookViewer/css/flipbook.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-geg-nav-js-css'  href='http://www.vh1.com/news/wp-content/plugins/GEGNav/css/GEGNav.css' type='text/css' media='all' />
+<link rel='stylesheet' id='news-stylesheet-css'  href='http://www.vh1.com/news/wp-content/plugins/VH1News/css/style.css' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://www.vh1.com/news/wp-json/' />
+<link rel="shortcut icon" href="http://www.vh1.com/favicon.ico" />
+<link rel="stylesheet" href="http://fonts.mtvnservices.com/k/gdr2jlq-d.css?3bb2a6e53c9684ffdc9a9bf61f5b2a62850218b0182b3a8f955d7a9c9c604db9d18d97713afebddbdef2f1611bc74f5a4a7903b65883d37fbe7ef455f73ef5670639f8bf4f14398efd7dda62af5d0334085d329d13149b3e688083e3766591f3c813ad483cb22c42a0"/>
+<script type="text/javascript" src="http://fonts.mtvnservices.com/tts3nhd.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){};</script>
+<script type='text/javascript'>
+if (typeof MTVN == 'undefined') MTVN = {};
+if (typeof MTVN.config == 'undefined') MTVN.config = {};
+if (typeof MTVN.config.btg == 'undefined') MTVN.config.btg = {};
+if (typeof MTVN.config.btg.Flux == 'undefined') MTVN.config.btg.Flux = {};
+MTVN.config.btg.Flux.enabled = false;
+</script><meta property="reporting:beacon_url" content="http://mb.mtvnservices.com/data/collect/v1/mb.gif">
+<meta property="reporting:beacon_topic" content="vh1.com">
+<meta property="ao:mgid" content="mgid:wordpress:category:articles.vh1.com:celebrity">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebPage","url":"http:\/\/www.vh1.com\/news\/celebrity\/"}</script>
+
+
+		
+	<div class="nav" style="display:none;"><ul><li><a href="http://www.vh1.com/shows">Shows</a><ul><li><a href="http://www.vh1.com/full-episodes">Full Episodes</a></li><li><a href="http://www.vh1.com/shows">Shows A-Z</a></li><li><a href="http://www.vh1.com/tv-schedule">TV Schedule</a></li><li><a href="http://www.vh1.com/app">VH1 App</a></li><li><a href="http://www.vh1.com/shows/basketball-wives">Basketball Wives</a></li><li><a href="http://www.vh1.com/shows/black-ink-crew">Black Ink Crew</a></li><li><a href="http://www.vh1.com/shows/black-ink-crew-chicago">Black Ink Crew Chicago</a></li><li><a href="http://www.vh1.com/shows/hip-hop-squares">Hip Hop Squares</a></li><li><a href="http://www.vh1.com/shows/love-and-hip-hop-atlanta">Love & Hip Hop Atlanta</a></li><li><a href="http://www.vh1.com/shows/love-and-hip-hop-hollywood">Love & Hip Hop Hollywood</a></li><li><a href="http://www.vh1.com/shows/martha-snoops-potluck-dinner-party">Martha & Snoop's Potluck Dinner Party</a></li><li><a href="http://www.vh1.com/shows/remy-papoose-meet-the-mackies">Remy & Papoose: Meet The Mackies</a></li></ul></li><li><a href="http://www.vh1.com/news/">News</a></li><li><a href="http://www.vh1.com/app">App</a></li><li><a href="http://www.vh1.com/live-tv">Watch Live TV</a></li></ul></div>
+
+	<script type="application/json" id="site-nav-object">
+	{"envelope":{"version":"1.0","name":"entertainment-standard-json"},"status":{"text":"OK","code":100},"result":{"promo":{"shortId":"49xbos","displayType":"default","promoType":"ENT_M066","headline":"","images":[],"subHeadline":"","url":"","additionalPromoMetadata":[],"copy":"","tuneIn":"","parameters":[],"links":[]},"siteNavigation":[{"title":"Shows","url":"http:\/\/www.vh1.com\/shows","entries":[{"title":"Full Episodes","url":"http:\/\/www.vh1.com\/full-episodes"},{"title":"Shows A-Z","url":"http:\/\/www.vh1.com\/shows"},{"title":"TV Schedule","url":"http:\/\/www.vh1.com\/tv-schedule"},{"title":"VH1 App","url":"http:\/\/www.vh1.com\/app"},{"title":"Basketball Wives","url":"http:\/\/www.vh1.com\/shows\/basketball-wives"},{"title":"Black Ink Crew","url":"http:\/\/www.vh1.com\/shows\/black-ink-crew"},{"title":"Black Ink Crew Chicago","url":"http:\/\/www.vh1.com\/shows\/black-ink-crew-chicago"},{"title":"Hip Hop Squares","url":"http:\/\/www.vh1.com\/shows\/hip-hop-squares"},{"title":"Love & Hip Hop Atlanta","url":"http:\/\/www.vh1.com\/shows\/love-and-hip-hop-atlanta"},{"title":"Love & Hip Hop Hollywood","url":"http:\/\/www.vh1.com\/shows\/love-and-hip-hop-hollywood"},{"title":"Martha & Snoop's Potluck Dinner Party","url":"http:\/\/www.vh1.com\/shows\/martha-snoops-potluck-dinner-party"},{"title":"Remy & Papoose: Meet The Mackies","url":"http:\/\/www.vh1.com\/shows\/remy-papoose-meet-the-mackies"}]},{"title":"News","url":"http:\/\/www.vh1.com\/news\/"},{"title":"App","url":"http:\/\/www.vh1.com\/app"},{"title":"Watch Live TV","url":"http:\/\/www.vh1.com\/live-tv"}],"socialHandlers":{"facebook":"http:\/\/www.facebook.com\/VH1","twitter":"https:\/\/twitter.com\/VH1","tumblr":"http:\/\/vh1.tumblr.com\/"},"search":{"url":"","data":""}},"messages":{}}	</script>
+
+	<script type="application/json" id="site-nav-vars">
+	{"nav_site_name":"VH1 Home","nav_site_url":"http:\/\/www.vh1.com\/"}	</script>
+
+		
+
+
+			<meta property="og:site_name" content="VH1 News">
+				<meta property="og:title" content="Latest Celebrity Gossip, Celebrity News, Entertainment News - VH1 News">
+				<meta property="og:url" content="http://www.vh1.com/news/celebrity/">
+				<meta property="og:image" content="">
+				<meta property="og:type" content="website">
+				<meta property="og:description" content="Alexis Skyy and Fetty Wap were spotted in the studio together recently... Or were they? The internet can&#039;t decide!">
+				<meta property="fb:app_id" content="709094809266522">
+	<script type='text/javascript'>var _sf_startpt=(new Date()).getTime();</script>
+			<meta name="description" content="Alexis Skyy and Fetty Wap were spotted in the studio together recently... Or were they? The internet can&#039;t decide!" />
+	
+	</head>
+
+	<body class="archive category category-celebrity category-2">
+		<div id="page_root">
+
+			<div id="fb-root"></div>
+
+			<div class="navbar navbar-fixed-top-not">
+
+		<div id="ad-container">
+		<div class="container">
+			<div class="ad-banner">
+			<div id="vmn_ad_1" class="vmn_coda_ad vmn_coda_ad-banner " data-ad-sizes="banner" data-ad-keyvalues="" style="padding:0; text-align:center;">
+
+	
+	<noscript>
+			</noscript>
+
+</div>
+
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="navbar-inner">
+		<div class="site_header wp-ao-geg-nav">
+	<div class="top_outer">
+		<div class="top_inner">
+
+			<div class="menu_holder">
+				<div id="hamburger-holder"></div>
+
+				<div class="site_logo">
+					<a href="http://www.vh1.com/">
+						<span data-graphics="A" class="icon"></span>
+						<span class="screen-reader-text"></span>
+					</a>
+				</div>
+
+				<div class="page_overlay"></div>
+			</div>
+
+			<a href="/" class="show_logo">
+				<span class="wrapper"><span class="title sitename"></span></span>
+			</a>
+
+		</div>
+	</div>
+</div>
+<h2 class="category archive-title h2">
+	<a href="http://www.vh1.com/news/">news</a>
+</h2><div class="subnav-wrapper">
+    <input type="checkbox" id="subnav-toggler">
+    <label class="empty" for="subnav-toggler">
+        <span class="icon-chevron-thin-down"></span>
+    </label>
+    <ul>
+        </ul>
+</div>
+		<div class="container">
+						<div id="nav-top">
+				<div class="brand pull-left">
+					<a class="icon-actions-close" id="nav-close">
+						<span class="icon-datas-list"> </span>
+					</a>
+				</div>
+				<a href="http://www.vh1.com/">
+				  <span class="icon-logo-mtv icon-logo-brand"></span>
+				</a>
+				<div class="title">
+					<a href="http://www.vh1.com/news/">
+						<span class="sitename">
+							VH1 News						</span>
+					</a>
+									</div>
+			</div>
+								</div>
+	</div>
+	<div id="nav-dim"></div>
+
+				
+</div>
+
+
+<div class="container">
+	<div id="content" class="clearfix">
+		<div class="row">
+			<div id="main" class=" col-md-8 clearfix" role="main">
+			<div class="row">
+
+				
+	<h1 class="category archive-title h1">
+				<a href="http://www.vh1.com/news/celebrity/"><span>Celebrity</span></a>
+	</h1>
+
+				
+				
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-1">
+	<article id="post-367939" class="clearfix summary post-367939 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-fetty-wap series-love-hip-hop-atlanta series-love-hip-hop-hollywood tax-artist-fetty-wap tax-series-love-hip-hop-atlanta tax-series-love-hip-hop-hollywood" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item promo-block item-lg">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/367939/alexis-skyy-fetty-wap-in-studio-video/" rel="bookmark" title="We Can&#039;t Decide If This Video Shows That Alexis Skyy and Fetty Wap Are in the Studio Together or Not">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660365?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660365?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660365?quality=0.8&amp;format=jpg&amp;height=348&amp;width=620 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660365?quality=0.8&amp;format=jpg&amp;height=409&amp;width=728 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660365?quality=0.8&amp;format=jpg&amp;height=530&amp;width=943 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660365?quality=0.8&amp;format=jpg&amp;height=530&amp;width=943 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/367939/alexis-skyy-fetty-wap-in-studio-video/" rel="bookmark" title="We Can&#039;t Decide If This Video Shows That Alexis Skyy and Fetty Wap Are in the Studio Together or Not">
+								<span class="headline">We Can't Decide If This Video Shows That Alexis Skyy and Fetty Wap Are in the Studio Together or Not</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+14h ago</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-2">
+	<article id="post-367912" class="clearfix summary post-367912 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-lil-scrappy personality-malaysia series-basketball-wives series-love-hip-hop-atlanta tax-artist-lil-scrappy tax-personality-malaysia tax-series-basketball-wives tax-series-love-hip-hop-atlanta" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/367912/malaysia-pargo-basketball-wives-bambi-scrappy-son/" rel="bookmark" title="Aw! Malaysia Pargo Was There for the Birth of Bambi and Scrappy&#039;s Baby Boy!">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660292?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660292?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660292?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660292?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660292?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660292?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/367912/malaysia-pargo-basketball-wives-bambi-scrappy-son/" rel="bookmark" title="Aw! Malaysia Pargo Was There for the Birth of Bambi and Scrappy&#039;s Baby Boy!">
+								<span class="headline">Aw! Malaysia Pargo Was There for the Birth of Bambi and Scrappy's Baby Boy!</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+9/25/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-3">
+	<article id="post-367833" class="clearfix summary post-367833 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-cardi-b tax-artist-cardi-b" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/367833/cardi-b-milan-fashion-week/" rel="bookmark" title="Cardi B Had a Wild Time at Milan Fashion Week">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660225?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660225?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660225?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660225?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660225?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660225?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/367833/cardi-b-milan-fashion-week/" rel="bookmark" title="Cardi B Had a Wild Time at Milan Fashion Week">
+								<span class="headline">Cardi B Had a Wild Time at Milan Fashion Week</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+9/24/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-4">
+	<article id="post-367658" class="clearfix summary post-367658 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity personality-amber-rose tax-personality-amber-rose" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/367658/amber-rose-slut-walk-credit/" rel="bookmark" title="Amber Rose Wants People to Stop Profiting Off Of What They Criticize Her For">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660000?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660000?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660000?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660000?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660000?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660000?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/367658/amber-rose-slut-walk-credit/" rel="bookmark" title="Amber Rose Wants People to Stop Profiting Off Of What They Criticize Her For">
+								<span class="headline">Amber Rose Wants People to Stop Profiting Off Of What They Criticize Her For</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+9/19/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+		<div class="col-xs-12 interstitial" id="interstitial1"></div>
+
+
+
+<div class="post col-xs-12 post-5">
+	<article id="post-366727" class="clearfix summary post-366727 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-cardi-b artist-nicki-minaj personality-laverne-cox series-love-hip-hop tax-artist-cardi-b tax-artist-nicki-minaj tax-personality-laverne-cox tax-series-love-hip-hop" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/366727/cardi-b-denies-transphobic-meme/" rel="bookmark" title="Cardi B Denies Posting Transphobic Meme to Her Official Facebook Page">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659880?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659880?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659880?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659880?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659880?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659880?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/366727/cardi-b-denies-transphobic-meme/" rel="bookmark" title="Cardi B Denies Posting Transphobic Meme to Her Official Facebook Page">
+								<span class="headline">Cardi B Denies Posting Transphobic Meme to Her Official Facebook Page</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+9/17/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-6">
+	<article id="post-366537" class="clearfix summary post-366537 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-50-cent artist-joe-budden artist-safaree tax-artist-50-cent tax-artist-joe-budden tax-artist-safaree" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/366537/50-cent-petty-instagram-joe-budden-safaree/" rel="bookmark" title="50 Cent is Being a Petty Patty and These Two VH1 Stars Are Caught in His Path">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659685?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659685?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659685?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659685?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659685?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659685?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/366537/50-cent-petty-instagram-joe-budden-safaree/" rel="bookmark" title="50 Cent is Being a Petty Patty and These Two VH1 Stars Are Caught in His Path">
+								<span class="headline">50 Cent is Being a Petty Patty and These Two VH1 Stars Are Caught in His Path</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+9/12/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-7">
+	<article id="post-366521" class="clearfix summary post-366521 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-t-i tax-artist-t-i" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/366521/ti-teaches-heiress-harris-how-to-ride-bike/" rel="bookmark" title="This Video of T.I. Teaching His Daughter Heiress How to Drive Is Literally the Cutest Thing You&#039;ll See All Day">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659632?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659632?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659632?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659632?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659632?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659632?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/366521/ti-teaches-heiress-harris-how-to-ride-bike/" rel="bookmark" title="This Video of T.I. Teaching His Daughter Heiress How to Drive Is Literally the Cutest Thing You&#039;ll See All Day">
+								<span class="headline">This Video of T.I. Teaching His Daughter Heiress How to Drive Is Literally the Cutest Thing You'll See All Day</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+9/12/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-8">
+	<article id="post-366440" class="clearfix summary post-366440 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-joe-budden artist-remy-ma tax-artist-joe-budden tax-artist-remy-ma" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/366440/remy-ma-talks-cardi-b-nicki-minaj-beef/" rel="bookmark" title="Remy Ma Has Some Thoughts About All of This Cardi B and Nicki Minaj Beef">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659534?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659534?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659534?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659534?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659534?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659534?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/366440/remy-ma-talks-cardi-b-nicki-minaj-beef/" rel="bookmark" title="Remy Ma Has Some Thoughts About All of This Cardi B and Nicki Minaj Beef">
+								<span class="headline">Remy Ma Has Some Thoughts About All of This Cardi B and Nicki Minaj Beef</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+9/11/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+		<div class="col-xs-12 interstitial" id="interstitial2"></div>
+
+
+
+<div class="post col-xs-12 post-9">
+	<article id="post-366340" class="clearfix summary post-366340 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-ariana-grande artist-mac-miller tax-artist-ariana-grande tax-artist-mac-miller" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/366340/mac-miller-dead-overdose/" rel="bookmark" title="Mac Miller Found Dead of Apparent Overdose">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659378?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659378?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659378?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659378?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659378?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659378?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/366340/mac-miller-dead-overdose/" rel="bookmark" title="Mac Miller Found Dead of Apparent Overdose">
+								<span class="headline">Mac Miller Found Dead of Apparent Overdose</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+9/7/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-10">
+	<article id="post-366292" class="clearfix summary post-366292 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-kelis artist-nas tax-artist-kelis tax-artist-nas" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/366292/nas-instagram-post-kelis-abuse-divorce/" rel="bookmark" title="Nas Pens Instagram Essay to Ex Wife Kelis Airing All of Their Dirty Laundry">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659333?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659333?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659333?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659333?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659333?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659333?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/366292/nas-instagram-post-kelis-abuse-divorce/" rel="bookmark" title="Nas Pens Instagram Essay to Ex Wife Kelis Airing All of Their Dirty Laundry">
+								<span class="headline">Nas Pens Instagram Essay to Ex Wife Kelis Airing All of Their Dirty Laundry</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+9/7/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-11">
+	<article id="post-366163" class="clearfix summary post-366163 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-drake artist-kanye-west artist-pusha-t tax-artist-drake tax-artist-kanye-west tax-artist-pusha-t" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/366163/kanye-west-apologizes-drake-twitter/" rel="bookmark" title="Kanye West Tweets a &quot;Jedi Level&quot; Apology to Drake After Getting Mixed Up With That Pusha T Diss Track">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659183?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659183?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659183?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659183?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659183?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:659183?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/366163/kanye-west-apologizes-drake-twitter/" rel="bookmark" title="Kanye West Tweets a &quot;Jedi Level&quot; Apology to Drake After Getting Mixed Up With That Pusha T Diss Track">
+								<span class="headline">Kanye West Tweets a "Jedi Level" Apology to Drake After Getting Mixed Up With That Pusha T Diss Track</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+9/5/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-12">
+	<article id="post-366065" class="clearfix summary post-366065 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/366065/4-life-lessons-from-beyonce/" rel="bookmark" title="Here Are Four Key Life Lessons Beyoncé Taught Me">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:647955?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:647955?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:647955?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:647955?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:647955?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:647955?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/366065/4-life-lessons-from-beyonce/" rel="bookmark" title="Here Are Four Key Life Lessons Beyoncé Taught Me">
+								<span class="headline">Here Are Four Key Life Lessons Beyoncé Taught Me</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+9/4/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+		<div class="col-xs-12 interstitial" id="interstitial3"></div>
+
+
+
+<div class="post col-xs-12 post-13">
+	<article id="post-365965" class="clearfix summary post-365965 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity personality-serena-williams tax-personality-serena-williams" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365965/serena-williams-2018-us-open/" rel="bookmark" title="5 Things Serena Williams Could Wear and Still Whoop Your A** in a Tennis Match">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658913?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658913?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658913?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658913?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658913?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658913?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365965/serena-williams-2018-us-open/" rel="bookmark" title="5 Things Serena Williams Could Wear and Still Whoop Your A** in a Tennis Match">
+								<span class="headline">5 Things Serena Williams Could Wear and Still Whoop Your A** in a Tennis Match</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/31/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-14">
+	<article id="post-365927" class="clearfix summary post-365927 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity personality-draya-michele personality-kylie-jenner series-basketball-wives series-basketball-wives-la tax-personality-draya-michele tax-personality-kylie-jenner tax-series-basketball-wives tax-series-basketball-wives-la" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365927/draya-michele-orlando-scandrick-marriage/" rel="bookmark" title="Looks Like This Former Basketball Wife Is Ready to Get Married">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658876?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658876?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658876?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658876?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658876?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658876?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365927/draya-michele-orlando-scandrick-marriage/" rel="bookmark" title="Looks Like This Former Basketball Wife Is Ready to Get Married">
+								<span class="headline">Looks Like This Former Basketball Wife Is Ready to Get Married</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/30/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-15">
+	<article id="post-365760" class="clearfix summary post-365760 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-ariana-grande personality-pete-davidson tax-artist-ariana-grande tax-personality-pete-davidson" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365760/pete-davidson-big-sean-tattoo-ariana-grande/" rel="bookmark" title="Y&#039;all, Pete Davidson&#039;s First Tattoo Was Inspired By Ariana Grande&#039;s Ex Big Sean and It&#039;s Ironic AF">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658779?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658779?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658779?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658779?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658779?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658779?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365760/pete-davidson-big-sean-tattoo-ariana-grande/" rel="bookmark" title="Y&#039;all, Pete Davidson&#039;s First Tattoo Was Inspired By Ariana Grande&#039;s Ex Big Sean and It&#039;s Ironic AF">
+								<span class="headline">Y'all, Pete Davidson's First Tattoo Was Inspired By Ariana Grande's Ex Big Sean and It's Ironic AF</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/29/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-16">
+	<article id="post-365738" class="clearfix summary post-365738 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity personality-flavor-flav personality-tiffany-pollard tax-personality-flavor-flav tax-personality-tiffany-pollard" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365738/flavor-flav-new-york-tiffany-pollard-reunite/" rel="bookmark" title="It&#039;s the Reality Reunion of the Century: Flavor Flav and Tiffany &quot;New York&quot; Pollard Saw Each Other For the First Time in Six Years!">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658710?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658710?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658710?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658710?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658710?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658710?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365738/flavor-flav-new-york-tiffany-pollard-reunite/" rel="bookmark" title="It&#039;s the Reality Reunion of the Century: Flavor Flav and Tiffany &quot;New York&quot; Pollard Saw Each Other For the First Time in Six Years!">
+								<span class="headline">It's the Reality Reunion of the Century: Flavor Flav and Tiffany "New York" Pollard Saw Each Other For the First Time in Six Years!</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/29/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+		<div class="col-xs-12 interstitial" id="interstitial4"></div>
+
+
+
+<div class="post col-xs-12 post-17">
+	<article id="post-325784" class="clearfix summary post-325784 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity series-love-hip-hop-hollywood tax-series-love-hip-hop-hollywood" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/325784/celebrities-carnival-costume-west-indian-day-parade/" rel="bookmark" title="From Rihanna to Cardi B, These Celebrities are Getting Us Ready For the West Indian American Day Parade and All the Labor Day Weekend Fun">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:246953?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:246953?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:246953?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:246953?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:246953?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:246953?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/325784/celebrities-carnival-costume-west-indian-day-parade/" rel="bookmark" title="From Rihanna to Cardi B, These Celebrities are Getting Us Ready For the West Indian American Day Parade and All the Labor Day Weekend Fun">
+								<span class="headline">From Rihanna to Cardi B, These Celebrities are Getting Us Ready For the West Indian American Day Parade and All the Labor Day Weekend Fun</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/29/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-18">
+	<article id="post-365638" class="clearfix summary post-365638 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-cardi-b artist-offset tax-artist-cardi-b tax-artist-offset" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365638/cardi-b-nsfw-video-offset/" rel="bookmark" title="Cardi B Posted a Video of Her Getting ~*Intimate*~ With Offset But...Can We Really Be Mad?">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658628?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658628?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658628?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658628?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658628?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658628?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365638/cardi-b-nsfw-video-offset/" rel="bookmark" title="Cardi B Posted a Video of Her Getting ~*Intimate*~ With Offset But...Can We Really Be Mad?">
+								<span class="headline">Cardi B Posted a Video of Her Getting ~*Intimate*~ With Offset But...Can We Really Be Mad?</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/27/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-19">
+	<article id="post-365565" class="clearfix summary post-365565 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-beyonce artist-normani personality-khloe-kardashian personality-kris-jenner personality-kylie-jenner series-love-hip-hop-atlanta tax-artist-beyonce tax-artist-normani tax-personality-khloe-kardashian tax-personality-kris-jenner tax-personality-kylie-jenner tax-series-love-hip-hop-atlanta" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365565/normanis-grandma-twitter-clapback/" rel="bookmark" title="Grandmas Gone Wild: Normani&#039;s Grandma May Be the New Clap Back Queen Among Grandmother Royalty">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658621?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658621?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658621?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658621?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658621?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658621?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365565/normanis-grandma-twitter-clapback/" rel="bookmark" title="Grandmas Gone Wild: Normani&#039;s Grandma May Be the New Clap Back Queen Among Grandmother Royalty">
+								<span class="headline">Grandmas Gone Wild: Normani's Grandma May Be the New Clap Back Queen Among Grandmother Royalty</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/27/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-20">
+	<article id="post-365567" class="clearfix summary post-365567 flipbook type-flipbook status-publish has-post-thumbnail hentry category-celebrity artist-papoose artist-remy-ma series-love-hip-hop tax-artist-papoose tax-artist-remy-ma tax-series-love-hip-hop" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365567/remy-ma-baby-bump-photos/" rel="bookmark" title="Remy Ma&#039;s Growing Baby Bump Is the New Star of Her and Papoose&#039;s Instagrams">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658603?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658603?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658603?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658603?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658603?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658603?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365567/remy-ma-baby-bump-photos/" rel="bookmark" title="Remy Ma&#039;s Growing Baby Bump Is the New Star of Her and Papoose&#039;s Instagrams">
+								<span class="headline">Remy Ma's Growing Baby Bump Is the New Star of Her and Papoose's Instagrams</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/27/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+		<div class="col-xs-12 interstitial" id="interstitial5"></div>
+
+
+
+<div class="post col-xs-12 post-21">
+	<article id="post-365326" class="clearfix summary post-365326 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-cardi-b artist-offset movie-mtv-video-music-awards tax-artist-cardi-b tax-artist-offset tax-movie-mtv-video-music-awards" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365326/cardi-b-vmas-mom-night-out/" rel="bookmark" title="New Mom on the Loose! Cardi B Had a LIT Mom&#039;s Night Out at the VMAs">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658240?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658240?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658240?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658240?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658240?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658240?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365326/cardi-b-vmas-mom-night-out/" rel="bookmark" title="New Mom on the Loose! Cardi B Had a LIT Mom&#039;s Night Out at the VMAs">
+								<span class="headline">New Mom on the Loose! Cardi B Had a LIT Mom's Night Out at the VMAs</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/21/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-22">
+	<article id="post-365296" class="clearfix summary post-365296 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-cardi-b artist-kehlani series-black-ink-crew tax-artist-cardi-b tax-artist-kehlani tax-series-black-ink-crew" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365296/cardi-b-kehlani-ring-donna-black-ink-crew/" rel="bookmark" title="Cardi B Released a New Video and We Can&#039;t Tell If That&#039;s Kehlani Singing With Her or Black Ink Crew&#039;s Donna">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658111?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658111?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658111?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658111?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658111?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658111?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365296/cardi-b-kehlani-ring-donna-black-ink-crew/" rel="bookmark" title="Cardi B Released a New Video and We Can&#039;t Tell If That&#039;s Kehlani Singing With Her or Black Ink Crew&#039;s Donna">
+								<span class="headline">Cardi B Released a New Video and We Can't Tell If That's Kehlani Singing With Her or <em>Black Ink Crew's</em> Donna</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/20/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-23">
+	<article id="post-365281" class="clearfix summary post-365281 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-2-chainz artist-kanye-west personality-kim-kardashian tax-artist-2-chainz tax-artist-kanye-west tax-personality-kim-kardashian" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365281/2-chainz-kesha-ward-married-kanye-slides/" rel="bookmark" title="Despite Kanye and His Slides, 2 Chainz&#039; Wedding Was an Extravagant Trap-n-Tie Affair">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658107?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658107?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658107?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658107?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658107?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658107?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365281/2-chainz-kesha-ward-married-kanye-slides/" rel="bookmark" title="Despite Kanye and His Slides, 2 Chainz&#039; Wedding Was an Extravagant Trap-n-Tie Affair">
+								<span class="headline">Despite Kanye and His Slides, 2 Chainz' Wedding Was an Extravagant Trap-n-Tie Affair</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/20/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-24">
+	<article id="post-365249" class="clearfix summary post-365249 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity series-love-hip-hop tax-series-love-hip-hop" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365249/yandy-smith-foster-daughter-adopt/" rel="bookmark" title="Yandy Smith Asks for Prayers and Advice as She Starts the Process of Becoming a Foster Mom to a Teenage Girl">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658036?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658036?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658036?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658036?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658036?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:658036?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365249/yandy-smith-foster-daughter-adopt/" rel="bookmark" title="Yandy Smith Asks for Prayers and Advice as She Starts the Process of Becoming a Foster Mom to a Teenage Girl">
+								<span class="headline">Yandy Smith Asks for Prayers and Advice as She Starts the Process of Becoming a Foster Mom to a Teenage Girl</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/17/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+		<div class="col-xs-12 interstitial" id="interstitial6"></div>
+
+
+
+<div class="post col-xs-12 post-25">
+	<article id="post-365068" class="clearfix summary post-365068 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-cardi-b artist-nicki-minaj series-love-hip-hop tax-artist-cardi-b tax-artist-nicki-minaj tax-series-love-hip-hop" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365068/nicki-minaj-dj-self-mariahlynn-dreamdoll-beef/" rel="bookmark" title="Nicki Minaj&#039;s Barbz Are Going In on Mariahlynn and Dreamdoll After They Got Involved In Her Beef With DJ Self">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657762?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657762?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657762?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657762?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657762?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657762?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365068/nicki-minaj-dj-self-mariahlynn-dreamdoll-beef/" rel="bookmark" title="Nicki Minaj&#039;s Barbz Are Going In on Mariahlynn and Dreamdoll After They Got Involved In Her Beef With DJ Self">
+								<span class="headline">Nicki Minaj's Barbz Are Going In on Mariahlynn and Dreamdoll After They Got Involved In Her Beef With DJ Self</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/14/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-26">
+	<article id="post-365007" class="clearfix summary post-365007 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-k-michelle series-love-hip-hop series-the-challenge-champs-vs-stars movie-big-brother tax-artist-k-michelle tax-series-love-hip-hop tax-series-the-challenge-champs-vs-stars tax-movie-big-brother" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/365007/jonathan-fernandez-love-and-hip-hop-back-with-trent/" rel="bookmark" title="Love &amp; Hip Hop&#039;s Jonathan Fernandez Is in These Streets With a Potential New Boo AND an Old Flame">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657687?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657687?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657687?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657687?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657687?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657687?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/365007/jonathan-fernandez-love-and-hip-hop-back-with-trent/" rel="bookmark" title="Love &amp; Hip Hop&#039;s Jonathan Fernandez Is in These Streets With a Potential New Boo AND an Old Flame">
+								<span class="headline"><em>Love &amp; Hip Hop's</em> Jonathan Fernandez Is in These Streets With a Potential New Boo AND an Old Flame</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/13/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-27">
+	<article id="post-364985" class="clearfix summary post-364985 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-ty-dolla-ign personality-jimmy-kimmel personality-remy-ma personality-t-pain tax-artist-ty-dolla-ign tax-personality-jimmy-kimmel tax-personality-remy-ma tax-personality-t-pain" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/364985/jimmy-kimmel-hip-hop-mean-tweets/" rel="bookmark" title="Remy Ma is Ready to Fight Someone After Reading Mean Tweets on Jimmy Kimmel">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657611?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657611?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657611?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657611?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657611?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657611?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/364985/jimmy-kimmel-hip-hop-mean-tweets/" rel="bookmark" title="Remy Ma is Ready to Fight Someone After Reading Mean Tweets on Jimmy Kimmel">
+								<span class="headline">Remy Ma is Ready to Fight Someone After Reading Mean Tweets on Jimmy Kimmel</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/10/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-28">
+	<article id="post-364959" class="clearfix summary post-364959 flipbook type-flipbook status-publish has-post-thumbnail hentry category-celebrity" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/364959/kylie-jenner-mom-moments/" rel="bookmark" title="Kylie Jenner is the Ultimate Kool Mom and We&#039;ve Got the Photos to Prove It">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657610?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657610?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657610?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657610?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657610?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657610?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/364959/kylie-jenner-mom-moments/" rel="bookmark" title="Kylie Jenner is the Ultimate Kool Mom and We&#039;ve Got the Photos to Prove It">
+								<span class="headline">Kylie Jenner is the Ultimate Kool Mom and We've Got the Photos to Prove It</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/10/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+		<div class="col-xs-12 interstitial" id="interstitial7"></div>
+
+
+
+<div class="post col-xs-12 post-29">
+	<article id="post-364716" class="clearfix summary post-364716 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-beyonce tax-artist-beyonce" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/364716/beyonce-vogue-fupa-body-love/" rel="bookmark" title="Beyoncé Dismissed Those New Pregnancy Rumors By Saying She Loves Her FUPA in VOGUE Cover Story">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657322?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657322?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657322?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657322?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657322?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657322?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/364716/beyonce-vogue-fupa-body-love/" rel="bookmark" title="Beyoncé Dismissed Those New Pregnancy Rumors By Saying She Loves Her FUPA in VOGUE Cover Story">
+								<span class="headline">Beyoncé Dismissed Those New Pregnancy Rumors By Saying She Loves Her FUPA in <em>VOGUE</em> Cover Story</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/6/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+										
+					
+											
+
+
+
+
+
+<div class="post col-xs-12 post-30">
+	<article id="post-364696" class="clearfix summary post-364696 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity artist-cardi-b personality-kim-kardashian personality-kris-jenner movie-keeping-up-with-the-kardashians-tv-series tax-artist-cardi-b tax-personality-kim-kardashian tax-personality-kris-jenner tax-movie-keeping-up-with-the-kardashians-tv-series" role="article">
+		<section class="entry-content clearfix">
+
+						<div class="item article-block postcard-left">
+
+				<div class="media">
+											<div class="container16x9">
+							<div class="content">
+								<a href="http://www.vh1.com/news/364696/cardi-b-hangs-out-with-kardashian-family/" rel="bookmark" title="Keeping Up With the Card-ashians! Cardi B is Hanging Out With a Very Famous Fam">
+									<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657242?quality=0.8&amp;format=jpg&amp;width=480" srcset="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657242?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 481w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657242?quality=0.8&amp;format=jpg&amp;height=270&amp;width=480 660w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657242?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 768w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657242?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 980w, http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:657242?quality=0.8&amp;format=jpg&amp;height=143&amp;width=255 1200w" class="js-srcset-img"/>
+								</a>
+							</div>
+						</div>
+									</div>
+
+				<div class="meta-wrap">
+					<div class="header">
+						<div class="category ">
+																												</div>
+
+						<h3 class="h3">
+							<a href="http://www.vh1.com/news/364696/cardi-b-hangs-out-with-kardashian-family/" rel="bookmark" title="Keeping Up With the Card-ashians! Cardi B is Hanging Out With a Very Famous Fam">
+								<span class="headline">Keeping Up With the Card-ashians! Cardi B is Hanging Out With a Very Famous Fam</span>
+							</a>
+						</h3>
+						<div class="sub-header">
+							<span class="date">
+8/6/2018</span>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</article>
+</div>
+					
+					
+				
+				
+				<nav class="wp-prev-next">
+	<ul class="clearfix">
+		<noscript>
+			<li class="prev-link noscript">
+							</li>
+			<li class="next-link noscript">
+				 <a href="http://www.vh1.com/news/celebrity/page/2/" class="btn btn-secondary">older</a>			</li>
+		</noscript>
+		<li class="show-more next-link">
+			<a href="http://www.vh1.com/news/celebrity/page/2/" class="btn btn-secondary">show more stories</a>		</li>
+	</ul>
+</nav>
+
+							</div>
+		</div>
+
+		
+					<aside class="sidebar col-md-4">
+				
+<ul class="widgets row">
+    <div class="col-md-12">
+        <li id="coda_ad-2" class="widget CodaAdWidget"><div id="vmn_ad_2" class="vmn_coda_ad vmn_coda_ad-tile widget_ad widget_ad_tile" data-ad-sizes="tile" data-ad-keyvalues="" style="padding:0; ">
+
+	
+	<noscript>
+			</noscript>
+
+</div>
+
+
+</li>
+
+<div class="trending ">
+
+	<li id="bacontrendingwidget-15" class="widget BaconTrendingWidget">
+			<h2 class="widgettitle">trending</h2>
+	
+	<div class="articles trending-list ">
+
+		
+			<div class="row">
+
+				<article class="col-xs-12">
+
+					<div class="item">
+
+						
+							<div class="media">
+
+								<div class="container16x9">
+
+									<div class="content">
+
+										<a href="http://www.vh1.com/news/367895/love-hip-hop-hollywood-kmichelle-moniece/" rel="bookmark" title="Watch the Hilarious Cast Reactions to the Rumor that Moniece and K.Michelle May Have a Little Um..Connection">
+											<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660370?quality=0.8&format=jpg&width=110&height=110"/>
+										</a>
+
+									</div>
+
+									<div class="trend-box 92">
+										<p class="trend-val">92</p>
+									</div>
+
+								</div>
+
+							</div>
+
+						
+						<div class="meta-wrap">
+
+							<div class="section-header">
+
+								
+								<a href="http://www.vh1.com/news/367895/love-hip-hop-hollywood-kmichelle-moniece/" rel="bookmark" title="Watch the Hilarious Cast Reactions to the Rumor that Moniece and K.Michelle May Have a Little Um..Connection">
+
+									<span class="headline">Watch the Hilarious Cast Reactions to the Rumor that Moniece and K.Michelle May Have a Little Um..Connection</span>
+
+									<span class="date">
+										14h ago									</span>
+
+								</a>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</article>
+
+			</div>
+
+		
+			<div class="row">
+
+				<article class="col-xs-12">
+
+					<div class="item">
+
+						
+							<div class="media">
+
+								<div class="container16x9">
+
+									<div class="content">
+
+										<a href="http://www.vh1.com/news/367955/tiffany-foxx-nicki-minaj-stopped-her-red-carpet-award-nomination/" rel="bookmark" title="This Former &lt;em&gt;Love &amp; Hip Hop Atlanta&lt;/em&gt; Star Claims Nicki Minaj Tried to Stop Her From Getting That Schmoney...And It Ain&#039;t Remy Ma">
+											<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660380?quality=0.8&format=jpg&width=110&height=110"/>
+										</a>
+
+									</div>
+
+									<div class="trend-box 47">
+										<p class="trend-val">47</p>
+									</div>
+
+								</div>
+
+							</div>
+
+						
+						<div class="meta-wrap">
+
+							<div class="section-header">
+
+								
+								<a href="http://www.vh1.com/news/367955/tiffany-foxx-nicki-minaj-stopped-her-red-carpet-award-nomination/" rel="bookmark" title="This Former &lt;em&gt;Love &amp; Hip Hop Atlanta&lt;/em&gt; Star Claims Nicki Minaj Tried to Stop Her From Getting That Schmoney...And It Ain&#039;t Remy Ma">
+
+									<span class="headline">This Former <em>Love &amp; Hip Hop Atlanta</em> Star Claims Nicki Minaj Tried to Stop Her From Getting That Schmoney...And It Ain't Remy Ma</span>
+
+									<span class="date">
+										13h ago									</span>
+
+								</a>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</article>
+
+			</div>
+
+		
+			<div class="row">
+
+				<article class="col-xs-12">
+
+					<div class="item">
+
+						
+							<div class="media">
+
+								<div class="container16x9">
+
+									<div class="content">
+
+										<a href="http://www.vh1.com/news/367939/alexis-skyy-fetty-wap-in-studio-video/" rel="bookmark" title="We Can&#039;t Decide If This Video Shows That Alexis Skyy and Fetty Wap Are in the Studio Together or Not">
+											<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660365?quality=0.8&format=jpg&width=110&height=110"/>
+										</a>
+
+									</div>
+
+									<div class="trend-box 19">
+										<p class="trend-val">19</p>
+									</div>
+
+								</div>
+
+							</div>
+
+						
+						<div class="meta-wrap">
+
+							<div class="section-header">
+
+								
+								<a href="http://www.vh1.com/news/367939/alexis-skyy-fetty-wap-in-studio-video/" rel="bookmark" title="We Can&#039;t Decide If This Video Shows That Alexis Skyy and Fetty Wap Are in the Studio Together or Not">
+
+									<span class="headline">We Can't Decide If This Video Shows That Alexis Skyy and Fetty Wap Are in the Studio Together or Not</span>
+
+									<span class="date">
+										14h ago									</span>
+
+								</a>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</article>
+
+			</div>
+
+		
+			<div class="row">
+
+				<article class="col-xs-12">
+
+					<div class="item">
+
+						
+							<div class="media">
+
+								<div class="container16x9">
+
+									<div class="content">
+
+										<a href="http://www.vh1.com/news/367910/moniece-kamron-fizz-anxiety-love-ad/" rel="bookmark" title="Moniece&#039;s Son Has an Adorable Plan For When His Mommy Decides to Leave Television Once and For All">
+											<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660295?quality=0.8&format=jpg&width=110&height=110"/>
+										</a>
+
+									</div>
+
+									<div class="trend-box 15">
+										<p class="trend-val">15</p>
+									</div>
+
+								</div>
+
+							</div>
+
+						
+						<div class="meta-wrap">
+
+							<div class="section-header">
+
+								
+								<a href="http://www.vh1.com/news/367910/moniece-kamron-fizz-anxiety-love-ad/" rel="bookmark" title="Moniece&#039;s Son Has an Adorable Plan For When His Mommy Decides to Leave Television Once and For All">
+
+									<span class="headline">Moniece's Son Has an Adorable Plan For When His Mommy Decides to Leave Television Once and For All</span>
+
+									<span class="date">
+										15h ago									</span>
+
+								</a>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</article>
+
+			</div>
+
+		
+			<div class="row">
+
+				<article class="col-xs-12">
+
+					<div class="item">
+
+						
+							<div class="media">
+
+								<div class="container16x9">
+
+									<div class="content">
+
+										<a href="http://www.vh1.com/news/367880/roccstar-sex-lyrica-anderson-a1-rayj-cheating/" rel="bookmark" title="Roccstar Reveals That He Too Has a Dirty Little Secret Involving Lyrica in the &lt;i&gt;Love &amp; Hip Hop Hollywood&lt;/i&gt; Sneak">
+											<img src="http://vh1.mtvnimages.com/uri/mgid:ao:image:mtv:660279?quality=0.8&format=jpg&width=110&height=110"/>
+										</a>
+
+									</div>
+
+									<div class="trend-box 6">
+										<p class="trend-val">6</p>
+									</div>
+
+								</div>
+
+							</div>
+
+						
+						<div class="meta-wrap">
+
+							<div class="section-header">
+
+								
+								<a href="http://www.vh1.com/news/367880/roccstar-sex-lyrica-anderson-a1-rayj-cheating/" rel="bookmark" title="Roccstar Reveals That He Too Has a Dirty Little Secret Involving Lyrica in the &lt;i&gt;Love &amp; Hip Hop Hollywood&lt;/i&gt; Sneak">
+
+									<span class="headline">Roccstar Reveals That He Too Has a Dirty Little Secret Involving Lyrica in the <i>Love &amp; Hip Hop Hollywood</i> Sneak</span>
+
+									<span class="date">
+										09/25/2018									</span>
+
+								</a>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</article>
+
+			</div>
+
+		
+	</div>
+
+	</li>
+
+</div>
+                        <li class="widget_trending_stories nodata"></li>
+            </div>
+</ul>
+			</aside>
+		
+	</div>
+	</div>
+</div>
+
+
+	<div class="contain-to-grid fixed">
+	<div class="sub-footer">
+		<a href="http://www.vh1.com"><span class="icon-logo-mtv icon-logo-brand"></span></a>
+		<span class="about sitename">VH1 News</span>
+
+					<span class="about"><a href="http://www.vh1.com/news/about/">about</a></span>
+		
+		
+	</div>
+
+	<div class="ent_m006">
+		
+    <ul class="list"><li class="list_item"><a href="http://www.vh1.com/legal/frequently-asked-questions" target="_blank" title="FAQ/Help" class="faq_help">FAQ/Help</a></li><li class="list_item"><a href="http://www.viacomcareers.com/" target="_blank" title="Jobs" class="jobs">Jobs</a></li><li class="list_item"><a href="http://www.vh1.com/legal/terms" target="_blank" title="Terms of Use [Updated 3/14/2017]" class="terms_of_use__updated_3_14_2017_">Terms of Use [Updated 3/14/2017]</a></li><li class="list_item"><a href="http://www.vh1.com/legal/privacy" target="_blank" title="Privacy Policy/Privacy Rights [Updated 6/22/2017]" class="privacy_policy_privacy_rights__updated_6_22_2017_">Privacy Policy/Privacy Rights [Updated 6/22/2017]</a></li><li class="list_item"><a href="http://www.vh1.com/legal/copyright" target="_blank" title="Copyright" class="copyright">Copyright</a></li><li class="list_item"><a href="http://media.viacom.com/accessibility/" target="_blank" title="Closed Captioning" class="closed_captioning">Closed Captioning</a></li><li class="list_item"><a href="http://losangeles.eventful.com/events" target="_blank" title="Eventful" class="eventful">Eventful</a></li><li class="list_item"><a href="http://srp.viacom.com/sitefaq.html" target="_blank" title="Ad Partners" class="ad_partners">Ad Partners</a></li></ul><ul class="list"><li class="list_item"><a href="http://www.facebook.com/VH1" target="_blank" title="facebook" class="facebook">facebook</a></li><li class="list_item"><a href="https://twitter.com/VH1" target="_blank" title="Twitter" class="twitter">Twitter</a></li><li class="list_item"><a href="http://vh1.tumblr.com/" target="_blank" title="Tumblr" class="tumblr">Tumblr</a></li><li class="list_item"><a href="http://instagram.com/vh1" target="_blank" title="Instagram" class="instagram">Instagram</a></li><li class="list_item"><a href="http://exodus.vh1.com/site/signup" target="_blank" title="Newsletter" class="newsletter">Newsletter</a></li></ul><div class="logo"></div><p class="copyright">&#169; 2018 Viacom International Inc. All Rights Reserved. VH1 and all related titles and logos are trademarks of Viacom International Inc.</p>
+
+
+	</div>
+</div>
+
+<div id="vmn_ad_3" class="vmn_coda_ad vmn_coda_ad-6x6 " data-ad-sizes="6x6" data-ad-keyvalues="" style="padding:0; ">
+
+	
+	<noscript>
+			</noscript>
+
+</div>
+
+
+<div id="vmn_ad_4" class="vmn_coda_ad vmn_coda_ad-1x2 " data-ad-sizes="1x2" data-ad-keyvalues="" style="padding:0; ">
+
+	
+	<noscript>
+			</noscript>
+
+</div>
+
+
+<div id="vmn_ad_5" class="vmn_coda_ad vmn_coda_ad-3x3 " data-ad-sizes="3x3" data-ad-keyvalues="" style="padding:0; ">
+
+	
+	<noscript>
+			</noscript>
+
+</div>
+
+
+
+	<div id="mtvn_wordpress_core_templates">
+	</div>
+<script>
+//Toggle auto-firing of ads, ensuring namespaces have been defined without overwriting them.
+if (typeof MTVN == "undefined") MTVN = {};
+if (typeof MTVN.config == "undefined") MTVN.config = {};
+if (typeof MTVN.config.btg == "undefined") MTVN.config.btg = {};
+if (typeof MTVN.config.btg.DoubleClick == "undefined") MTVN.config.btg.DoubleClick = {};
+
+MTVN.config.btg.DoubleClick.auto = false;
+MTVN.config.btg.DoubleClick.onDemand = true;
+
+</script>
+<script type="text/javascript">
+var vmn_page_data = { "metadata": {"property":"vh1","hub":"news","is_main":false}, "mappings": {"ad-unit": {"1":"vh1","2":"news"}, "key-values": "", "exclusion-categories": "blogs,hub_pages"}, "settings": {"reload_interval":60000,"reload":true,"autoRefreshByVisibility":true} };
+</script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/MTVWordPressCore/js/core.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/VMNLazyLoad/js/jquery.inview.min.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/VMNLazyLoad/js/VMNLazyLoad.js'></script>
+<script type='text/javascript' src='//cdn.playbuzz.com/widget/feed.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/themes/news-2014/library/js/scripts.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/themes/news-2014/library/js/jquery.hcsticky.min.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/themes/news-2014/library/js/pickadate.min.js'></script>
+<script type='text/javascript' src='https://media.mtvnservices.com/edge/player/edgeplayer-2.5.3.min.js'></script>
+<script type='text/javascript' src='https://btg.mtvnservices.com/aria/bentojs.js?site=vh1viral&#038;v=1.13.1&#038;stage=1'></script>
+<script type='text/javascript' src='http://btg.mtvnservices.com/aria/coda.html?site=vh1.com&#038;stage=0&#038;v=3.22'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/VMNCodaConductor/js/VMNCodaConductor.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var aocore_settings = {"story_offset":"0","stories_per_page":"5","max_scroll_loads":"5","display_tile_ad":"1"};
+var mtvn_ajax = {"startPage":"1","maxPages":"5","nextLink":"\/news\/celebrity\/page\/2\/","archiveDate":"2018\/08\/28"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/AOCore/js/frontend.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-includes/js/underscore.min.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-includes/js/backbone.min.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/AOFlipbookViewer/js/DOMDiscoveryAgent.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/AOFlipbookViewer/js/dragend.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/webcomponents/AOFlipbookViewer/js/component.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/AOFlipbookViewer/vendor/js/detect_swipe/jquery.detect_swipe.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/GEGNav/js/GEGNav.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/MTVNMediaPlayer/js/media_player.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/VH1News/js/aosocial_bundle.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/themes/Helix/library/js/libs/modernizr.custom.min.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/AOCore/js/disruptive_campaign/vendor/vex.combined.min.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/AOCore/js/disruptive_campaign/disruptive.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/VH1News/js/frontend.js'></script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vmn_chartbeat_config = {"uid":"15518","api_key":"1b42050c1a46dac8186b19e70f775e15","domain":"vh1.com","section":"news,celebrity","author":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.vh1.com/news/wp-content/plugins/VMNChartbeat/js/config.js'></script>
+<script id="dsrpt-cpgn-tpl" type="text/markup-template" charset="utf-8">
+
+	<div class="dsrpt-cpgn">
+
+	</div>
+
+</script>
+<script type="text/javascript">
+
+	(function(VMNCodaConductor) {
+		VMNCodaConductor.registerPreInitCallback(function() {
+			var click_events = [{
+	"selector":"body.home #main article.post .item",
+	"params" :{
+		"type": "internal",
+		"callback" : postClickCallback
+	}
+},
+{
+	"selector":"body.home #main article.flipbook .item",
+	"params" :{
+		"type": "internal",
+		"callback" : postClickCallback
+	}
+},
+{
+	"selector": "body.home #main .trending-list .item",
+	"params" : {
+		"type"     : "internal",
+		"callback" : function(evt, target) {
+			var $container = $(target).closest('.interstitial');
+			var category = $container.children("h2").text().replace("trending in ", "").replace(/\s+/g, "-").toLowerCase();
+			var position = $(target).closest(".row").prevAll().length + 1;
+			return "NewsFeed:trending:"+category+":"+position;
+		}
+	}
+},
+{
+	"selector": "aside.sidebar .trending-list .item",
+	"params" : {
+		"type"     : "internal",
+		"callback" : function(evt, target) {
+			var position       = $(target).closest(".row").prevAll().length + 1;
+			var label          = "";
+			var category_label = "";
+			var section_label  = "";
+
+			if ($("body").hasClass("home"))
+			{
+				section_label = "NewsMain:";
+			}
+			else if ($("body").hasClass("single"))
+			{
+				section_label = "NewsArticle:";
+			}
+			else if ($("body").hasClass("category"))
+			{
+				section_label = "NewsCategory:";
+			}
+
+			if ($(target).hasClass("category") || $(target).parent().hasClass("category"))
+			{
+				category_label = $(target).text()+":";
+			}
+
+			label = section_label+"trending:"+category_label+position;
+			return label;
+		}
+	}
+},
+{
+	"selector":"body.category #main article.post .item",
+	"params" :{
+		"type": "internal",
+		"callback" : postClickCallback
+	}
+},
+{
+	"selector":"body.category #main article.flipbook .item",
+	"params" :{
+		"type": "internal",
+		"callback" : postClickCallback
+	}
+},
+{
+	"selector":"body.category nav.wp-prev-next",
+	"params" :{
+		"type": "internal",
+		"callback" : function(evt, target) {
+			return 'CategoryFeed:show_more_stories';
+		}
+	}
+},
+{
+	"selector":"body.home nav.wp-prev-next",
+	"params" :{
+		"type": "internal",
+		"callback" : function(evt, target) {
+			return 'NewsFeed:show_more_stories';
+		}
+	}
+},
+
+];
+
+var i;
+for (i = 0; i < click_events.length; i++)
+{
+	com.mtvn.wordpress.plugins.VMNCodaConductor.registerClickEvent(click_events[i]);
+}
+
+function postClickCallback (evt, target)
+{
+	//it's a category click
+	if ($(target).closest(".category").length > 0)
+	{
+		return "NewsFeed:"+$(target).text();
+	}
+	else
+	{
+		//finding the main post container.
+		var $post  = $(target).closest("article").parent();
+		var $media = $post.find(".item");
+
+		var position;
+		//we calculate the relative position of the post, within its group.
+		var relative_position = parseInt($post.attr("class").match(/post-\d+/)[0].replace('post-', ''), 10);
+
+		//if it was loaded dynamically by ajax, we calculate how many post were before and add the relative position.
+		var ajax_classes = $post.parent().attr("class").match(/mtvn-ajax-placeholder-\d+/);
+		if (ajax_classes !== null)
+		{
+			var post_per_page = $post.parent().parent().children(".post").length;
+			var ajax_count = parseInt(ajax_classes[0].replace('mtvn-ajax-placeholder-', ''), 10);
+			position = (ajax_count - 1) * post_per_page + relative_position;
+		}
+		else
+		{
+			position = relative_position;
+		}
+
+		//selectiong the size
+		var size = getSize($media);
+
+		if ($("body").hasClass("home"))
+		{
+			section = "NewsFeed:";
+		}
+		else
+		{
+			section = "CategoryFeed:";
+		}
+
+		return section+position+":"+size;
+	}
+}
+
+function getSize($media)
+{
+	var size;
+
+	if ($media.hasClass("item-md"))
+	{
+		size = "medium";
+	}
+	else if ($media.hasClass("item-sm"))
+	{
+		size = "small";
+	}
+	else if ($media.hasClass("item-lg"))
+	{
+		size = "large";
+	}
+	else if ($media.hasClass("postcard-left") || $media.hasClass("postcard-right"))
+	{
+		size = "small";
+	}
+
+	return size;
+}
+		});
+
+		VMNCodaConductor.registerPostInitCallback(function() {
+			com.mtvn.wordpress.plugins.VMNCodaConductor.keyValues = {"content_type":"blogs"}		});
+	})(com.mtvn.wordpress.plugins.VMNCodaConductor);
+
+</script>
+
+<script type="text/javascript" charset="utf-8">
+	(function($) {
+		$.extend(true, com.mtvn.wordpress.plugins.VMNCodaConductor.reporting.page_params, {"omniture":[{"nice_name":"page-type","value":"category page"},{"nice_name":"site-section","value":"news"}]});	})(jQuery);
+</script>
+<script type="text/javascript" charset="utf-8">
+	com.mtvn.wordpress.plugins.VMNCodaConductor.reporting.mappings = {"omniture":{"artist":"prop1","prop3":"prop3","video-view-mode":"prop4","prop5":"prop5","prop6":"prop6","evar7":"evar7","evar8":"evar8","evar9":"evar9","evar10":"evar10","evar54":"evar54","evar12":"evar12","prop30":"prop30","prop31":"prop31","prop33":"prop33","prop34":"prop34","prop35":"prop35","prop36":"prop36","prop37":"prop37","prop38":"prop38","evar41":"evar41","evar53":"evar53","prop43":"prop43","prop45":"prop45","prop46":"prop46","prop47":"prop47","prop48":"prop48","prop49":"prop49","prop50":"prop50","prop52":"prop52","evar2":"evar2","evar3":"evar3","evar4":"evar4","evar5":"evar5","evar6":"evar6","evar11":"evar11","evar16":"evar16","evar17":"evar17","evar18":"evar18","evar26":"evar26","evar27":"evar27","evar28":"evar28","evar29":"evar29","evar30":"evar30","evar31":"evar31","evar32":"evar32","evar33":"evar33","evar34":"evar34","evar36":"evar36","evar42":"evar42","evar45":"evar45","evar46":"evar46","site-section":"evar49","event15":"event15","event16":"event16","event24":"event24","event25":"event25","event26":"event26","event27":"event27","event28":"event28","event29":"event29","event33":"event33","event34":"event34","event35":"event35","event36":"event36","event37":"event37","event38":"event38","event39":"event39","event40":"event40","event44":"event44","event45":"event45","event49":"event49","event50":"event50","event51":"event51","event52":"event52","event54":"event54","event57":"event57","event58":"event58","event59":"event59","event60":"event60","event74":"event74","pagename":"pageName","channel":"channel","currencycode":"currencyCode","hier1":"hier1","hier2":"hier2","evar1":"evar1","event1":"event1","prop2":"prop2","event2":"event2","event3":"event3","event4":"event4","event5":"event5","event6":"event6","prop7":"prop7","event7":"event7","movie-name":"prop8","event8":"event8","personality":"prop9","event9":"event9","blog-name":"prop10","event10":"event10","tier-one":"prop11","event11":"event11","blog-categories":"prop12","event12":"event12","prop13":"prop13","evar13":"evar13","event13":"event13","music-genre":"prop14","evar-video-view-mode":"evar14","event14":"event14","series-name":"prop15","evar15":"evar15","prop16":"prop16","prop17":"prop17","event17":"event17","news-story":"prop18","event18":"event18","story-date":"prop19","evar19":"evar19","event19":"event19","author":"prop20","evar20":"evar20","event20":"event20","prop21":"prop21","evar21":"evar21","event21":"event21","prop22":"prop22","evar22":"evar22","event22":"event22","prop23":"prop23","evar23":"evar23","event23":"event23","prop24":"prop24","evar24":"evar24","prop25":"prop25","evar25":"evar25","prop26":"prop26","prop27":"prop27","page-type":"prop28","prop29":"prop29","event30":"event30","event31":"event31","prop32":"prop32","event32":"event32","evar35":"evar35","evar37":"evar37","evar38":"evar38","prop39":"prop39","evar39":"evar39","prop40":"prop40","evar40":"evar40","prop41":"prop41","event41":"event41","prop42":"prop42","event42":"event42","evar43":"evar43","event43":"event43","prop-event-rollup":"prop44","evar44":"evar44","event46":"event46","evar47":"evar47","event47":"event47","evar48":"evar48","event48":"event48","evar50":"evar50","prop51":"prop51","evar51":"evar51","evar52":"evar52","prop53":"prop53","event53":"event53","prop54":"prop54","prop55":"prop55","evar55":"evar55","event55":"event55","prop56":"prop56","evar56":"evar56","event56":"event56","prop57":"prop57","evar57":"evar57","prop58":"prop58","evar58":"evar58","prop59":"prop59","evar59":"evar59","prop60":"prop60","evar60":"evar60","prop61":"prop61","evar61":"evar61","event61":"event61","prop62":"prop62","evar62":"evar62","event62":"event62","prop63":"prop63","evar63":"evar63","event63":"event63","prop64":"prop64","evar64":"evar64","event64":"event64","prop65":"prop65","evar65":"evar65","event65":"event65","prop66":"prop66","evar66":"evar66","event66":"event66","prop67":"prop67","evar67":"evar67","event67":"event67","prop68":"prop68","evar68":"evar68","event68":"event68","prop69":"prop69","evar69":"evar69","event69":"event69","prop70":"prop70","evar70":"evar70","event70":"event70","prop71":"prop71","evar71":"evar71","event71":"event71","prop72":"prop72","evar72":"evar72","event72":"event72","prop73":"prop73","evar73":"evar73","event73":"event73","prop74":"prop74","evar74":"evar74","prop75":"prop75","evar75":"evar75","event75":"event75","prop76":"prop76","evar76":"evar76","event76":"event76","prop77":"prop77","evar77":"evar77","event77":"event77","prop78":"prop78","evar78":"evar78","event78":"event78","prop79":"prop79","evar79":"evar79","event79":"event79","prop80":"prop80","evar80":"evar80","event80":"event80","prop81":"prop81","evar81":"evar81","event81":"event81","prop82":"prop82","evar82":"evar82","event82":"event82","prop83":"prop83","evar83":"evar83","event83":"event83","prop84":"prop84","evar84":"evar84","event84":"event84","prop85":"prop85","evar85":"evar85","event85":"event85","prop86":"prop86","evar86":"evar86","event86":"event86","prop87":"prop87","evar87":"evar87","event87":"event87","prop88":"prop88","evar88":"evar88","event88":"event88","prop89":"prop89","evar89":"evar89","event89":"event89","prop90":"prop90","evar90":"evar90","event90":"event90","prop91":"prop91","evar91":"evar91","event91":"event91","prop92":"prop92","evar92":"evar92","event92":"event92","prop93":"prop93","evar93":"evar93","event93":"event93","prop94":"prop94","evar94":"evar94","event94":"event94","prop95":"prop95","evar95":"evar95","event95":"event95","prop96":"prop96","evar96":"evar96","event96":"event96","prop97":"prop97","evar97":"evar97","event97":"event97","prop98":"prop98","evar98":"evar98","event98":"event98","events":"events"}}</script>
+	</div>
+	<!-- PAGEOK -->
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3672224fa0","applicationID":"65220400","transactionName":"MQZQMEVRDUNYARddWwhMcwdDWQxeFgsNUFEe","queueTime":0,"applicationTime":784,"atts":"HUFTRg1LHk0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+		

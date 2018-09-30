@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-610937-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-610937-1', { 'send_page_view': false });
+</script>
+  <meta charset="utf-8">
+  <title>Voote</title>
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles.f2ac9f566e60937d3541.css"></head>
+<body>
+  <app-root></app-root>
+<script type="text/javascript" src="runtime.a66f828dca56eeb90e02.js"></script><script type="text/javascript" src="polyfills.9a5846f3d7aea4fa6c7b.js"></script><script type="text/javascript" src="scripts.95f63946aa03ea45d109.js"></script><script type="text/javascript" src="main.1d5d81ba9447e43558a9.js"></script></body>
+</html>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+	<head>
+	
+		<meta charset="utf-8" />
+		
+		<meta name="robots" content="all" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+<meta name="google-site-verification" content="DZCYMOuRMW3-A-09noItP9GbcjobIw8CtHurQg3gez8" />
+
+		<title>Fizzy Digital</title>
+
+		<style>
+
+		@import url(http://fonts.googleapis.com/css?family=Exo+2:400,300,700|Hind:400,700,300);
+
+		html, body {
+
+			background: black;
+			color: white;
+			font-family: 'Hind', sans-serif;
+			font-size: 36px;
+			font-weight: 300;
+			line-height: 48px;
+			height: 100%;
+			margin: 0;
+			padding: 0;
+			text-align: center;
+
+		}
+
+		body {
+
+			overflow: hidden;
+			position: relative;
+
+		}
+
+		body:before {
+
+			background: black url( https://farm9.staticflickr.com/8316/8066090810_65ddcc8d8b_o.jpg ) 50% 50% no-repeat;
+			content: '';
+			display: block;
+			position: absolute;
+
+			top: -2.5%;
+			left: -2.5%;
+
+			height: 105%;
+			width: 105%;
+
+		}
+
+		body:after {
+
+			background: linear-gradient( to bottom, transparent, black );
+			content: '';
+			display: block;
+			position: absolute;
+
+			right: 0;
+			bottom: 0;
+			left: 0;
+
+			height: 80%;
+			width: 100%;
+
+		}
+
+		h1 {
+
+			color: rgba( 255, 255, 255, 0.2 );
+			font-family: 'Exo 2', sans-serif;
+			font-size: 128px;
+			font-weight: 400;
+			line-height: 1;
+			margin: 0;
+			margin-left: -400px;
+			position: absolute;
+			text-transform: lowercase;
+
+			top: 128px;
+			left: 50%;
+
+			width: 800px;
+
+		}
+
+		p {
+
+			margin-left: -400px;
+			position: absolute;
+			z-index: 1;
+
+			bottom: 80px;
+			left: 50%;
+
+			width: 800px;
+
+		}
+
+		a {
+
+			background: coral;
+			border-radius: 4px;
+			color: white;
+			display: table;
+			line-height: 1;
+			margin: 80px auto 0;
+			padding: 20px 80px;
+			text-decoration: none;
+			text-shadow: 0 1px 0 black;
+			transition: all .2s;
+
+		}
+
+		a:hover {
+
+			background: orange;
+
+		}
+
+		</style>
+
+	</head>
+
+	<body>
+
+		<h1>Fizzy Digital Limited</h1>
+
+		<p>A small web consultancy focused exclusively on your business needs. <a href="mailto:info@fizzydigital.com">Get Fizzy!</a></p>
+
+	</body>
+
+</html>

@@ -1,0 +1,1598 @@
+<!DOCTYPE html>
+<html itemscope="itemscope" itemtype="https://schema.org/WebPage" prefix="og: https://ogp.me/ns#" lang="en-CA">
+<head>
+	<meta charset="UTF-8">
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="robots" content="noarchive">
+
+<link rel="icon" href="https://s2.wp.com/wp-content/themes/vip/postmedia-theme-sun/images/canoe_logo_512x512.png" type="image/x-icon" />
+<link rel="shortcut icon" href="https://s2.wp.com/wp-content/themes/vip/postmedia-theme-sun/images/canoe_logo_512x512.png" type="image/x-icon" />
+<link rel="apple-touch-icon-precomposed" href="https://s2.wp.com/wp-content/themes/vip/postmedia-theme-sun/images/canoe_logo_512x512.png" type="image/x-icon" />
+
+<meta name="description" content="Read the latest NFL news and updates. Discover recent happenings, scores, schedules, standings and watch video &amp; photo coverages"/>
+<title>
+NFL Scores, Standings, Schedules and Updates  | Canoe</title>
+
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://canoe.com/xmlrpc.php">
+
+	<script>
+/* Confiant Wrapper for PostMedia, generated on 2018-07-26T13:45:27-04:00 */
+(function() {
+    var w = window;
+    var h = 'clarium.global.ssl.fastly.net';
+    w._clrm = w._clrm || {};
+    w._clrm.gpt = {
+        propertyId: 'BGYDfZoccY7Q3A1w5s4UlZl2hsY',
+        confiantCdn: h,
+        mapping: 'W3siaSI6MiwidCI6Int7b319Ont7d319eHt7aH19IiwicCI6MCwiRCI6MSwiciI6W119LHsiaSI6NiwidCI6Int7Y299fTp7e3d9fXh7e2h9fSIsInAiOjUwLCJEIjowLCJyIjpbeyJ0IjoiZXgiLCJzIjpudWxsLCJ2IjoiY28ifV19XQ==',
+        activation: '|||MjA5ODMxNjc4OA==,|||MjA5ODMyODM2Mw==,|||MjA5ODMzMDc1MQ==,|||MjA5ODMzNDA3NQ==,|||MjA5ODM0OTg4NQ==,|||MjA5ODM1MzI5NA==,|||NDA5OTc1MjYx,|||NDA5OTc1NTAx,|||NDA5OTc2MjIx,|||NDA5OTc2NDYx,|||NDA5OTc3NDIx,|||NDA5OTc4MTQx,|||NDA5OTc4NjIx,|||NDA5OTc4ODYx,|||MjEwMjcwMTQyMg==,|||MjEwMjcwMTY2OA==,|||MjEwMjcwMzUwNw==,|||MjEwMjcwMzcyNg==,|||MjEwMjcwNDA3Nw==,|||MjEwMjcwNDIzOQ==,|||MjEwMjcwNDY4Ng==,|||MjEwMjcwNTcwMw==,|||NDE1ODE2ODYx,|||NDE1ODE3MTAx,|||NDE1ODE4MzAx,|||NDE1ODE5MDIx,|||NDE1ODE5NTAx,|||NDE1ODE5NzQx,|||NDE1ODE5OTgx,|||NDE2MDAwNDYx,|||MjEwMjYyMjcxNQ==,|||MjEwMjYyNzUwMw==,|||MjEwMjYyOTYxOA==,|||MjEwMjcxMDI3OA==,|||MjEwMjcxMjkyNA==,|||MjEwMjcxMzYxMQ==,|||MjEwMjcxNDI4Ng==,|||MjEwMjcxNDg1Mw==,|||MjE0OTk5MjYxNg==,|||MjE1MDAxNTc0MQ==,|||MjE1MDAyMzYzMQ==,|||MjE1MDAyNzI0OA==,|||MjE1MDAzMDMwNg==,|||MjE1MDAzOTAxOA==,|||MjE1MDA0MjEwMw==,|||MjE1MDA1MDAzMg==,|||MjE1MDA1MDU0Nw==,|||MjE1MDA1NjcxOA==,|||MjE1MDA1Njk0NA==,|||MjE1MDA2NDg5NA==,|||MjE1MDA2Njg0OQ==,|||MjE1MDA2ODkzNQ==,|||MjE1MDA3NzM2Mg==,|||MjE1MDA4Njc0Mw==,|||NDEwNTY5NzQx,|||NDEwNTY5OTgx,|||NDEwNTcwOTQx,|||NDEwNTcxNDIx,|||NDEwNTcxNjYx,|||NDEwNTczMTAx,|||NDEwNTczMzQx,|||NDEwNTczODIx,|||MjEwMjYzNTU2Nw==,|||MjEwMjYzODMxNQ==,|||MjEwMjYzODUxMw==,|||MjEwMjY5NjM5Mw==,|||MjEwMjY5NzgyNA==,|||MjEwMjcyMzY4OA==,|||MjEwMjcyNDg3Mw==,|||MjEwMjcyNTYyMA==,|||NDEwMTc2ODYx,|||NDEwMTc3ODIx,|||NDEwMTc4MDYx,|||NDEwMTc4MzAx,|||NDEwMTc4Nzgx,|||NDEwMTc5MDIx,|||NDEwMTgxNDIx,|||NDEwMTk5MTgx,|||MjEwMjY0OTk4OA==,|||MjEwMjY1MDA2OQ==,|||MjEwMjcwOTI5MA==,|||MjEwMjcxNDM4MQ==,|||MjEwMjcxNDc2Mg==,|||MjEwMjcxNzI3MA==,|||MjEwMjczNzgxNQ==,|||MjEwMjczOTUxMA==,|||MjEwMTAyMjU1MQ==,|||MjEwMTA1NDc3NQ==,|||MjExODI0ODA1NA==,|||MjExMDUzODM0Nw==,|||MjExMDUzOTQ4MQ==,|||MjExMDU0MjkwNA==,|||MjExMDU0NDUyMQ==,|||MjExMDU0NTUyOQ==,|||MjExMDU5MTg1MA==,|||MjExMDU5Mzc3Mw==,|||MjExMDg5MTMzMw==,|||MjExMDg5MjMxMQ==,|||MjExMDkxNTQzNg==,|||MjExMDk0NDkxNQ==,|||MjExMDk1MzU1Mg==,|||MjExMDk1NzEzNA==,|||MjExMDk2MDQ2Nw==,|||MjE3MTY3OTU5OA==,|||MjE3MTc1OTg5MQ==,|||MjE3MTc5NDc1NQ==,|||MjE3MTgwMTk5Nw==,|||MjE3MTgwNTI3Mw==,|||MjE3MTgwNzIwOA==,|||MjE3MjI0ODU1NA==,|||MjE3MjMwMTE1MQ==,|||MjE3MjMxMTkwNg==,|||MjE3MjMyNTYyMg==,|||MjE3MjM0ODM4NA==,|||MjE3MjM1MTMzMw==,|||MjE3MjM2MDYwMw==,|||MjE3MjM2Mzc5OA==,|||MjE3MjM4MTUyNw==,|||MjE4Nzg5OTY3Mg==,|co|ex|MQ==',
+        callback: function (blockingType, blockingId, isBlocked, wrapperId, tagId, impressionData) {
+	        console.log('----test_refresh--callback', impressionData , tagId);
+	
+	        var slot_path = typeof impressionData != 'undefined' && typeof impressionData.dfp != 'undefined' ? impressionData.dfp.A : null;
+	
+	        // check if ad is blocked and haven't been refreshed the slot yet.
+	        if( isBlocked && confiant_refresh_slots.indexOf(slot_path) == -1 ){
+	            console.log('---test_refresh--blocked--');
+	            var slots = googletag.pubads().getSlots();
+	            var slot_length = slots.length;
+	
+	            for(var i=0; i < slot_length; i++){
+	                var slot = slots[i];
+	                if(slot_path == slot.getAdUnitPath() ){
+	                    console.log('---test_refresh-- refreshing ', slot);
+	                    // refresh the slot to get new ad
+	                    googletag.pubads().refresh([slot]);
+	                    // mark it as refreshed so it won't refresh multiple time
+	                    confiant_refresh_slots.push(slot_path);
+	                }
+	            }
+	        }
+	    }
+    };
+    var e = document.createElement('script');
+    e.async = true;
+    e.src = '//' + h + '/gpt/a/wrap.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(e, s);
+})();
+</script>
+
+<script type="text/javascript">
+/*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+/* This file is meant as a standalone workflow for
+- testing support for link[rel=preload]
+- enabling async CSS loading in browsers that do not support rel=preload
+- applying rel preload css once loaded, whether supported or not.
+*/
+(function( w ){
+	"use strict";
+	// rel=preload support test
+	if( !w.loadCSS ){
+		w.loadCSS = function(){};
+	}
+	var rp = loadCSS.relpreload = {};
+	// rel=preload feature support test
+	// runs once and returns a function for compat purposes
+	rp.support = (function(){
+		var ret;
+		try {
+			ret = w.document.createElement( "link" ).relList.supports( "preload" );
+		} catch (e) {
+			ret = false;
+		}
+		return function(){
+			return ret;
+		};
+	})();
+	// if preload isn't supported, get an asynchronous load by using a non-matching media attribute
+	// then change that media back to its intended value on load
+	rp.bindMediaToggle = function( link ){
+		// remember existing media attr for ultimate state, or default to 'all'
+		var finalMedia = link.media || "all";
+
+		function enableStylesheet(){
+			link.media = finalMedia;
+		}
+
+		// bind load handlers to enable media
+		if( link.addEventListener ){
+			link.addEventListener( "load", enableStylesheet );
+		} else if( link.attachEvent ){
+			link.attachEvent( "onload", enableStylesheet );
+		}
+
+		// Set rel and non-applicable media type to start an async request
+		// note: timeout allows this to happen async to let rendering continue in IE
+		setTimeout(function(){
+			link.rel = "stylesheet";
+			link.media = "only x";
+		});
+		// also enable media after 3 seconds,
+		// which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
+		setTimeout( enableStylesheet, 3000 );
+	};
+
+	// loop through link elements in DOM
+	rp.poly = function(){
+		// double check this to prevent external calls from running
+		if( rp.support() ){
+			return;
+		}
+		var links = w.document.getElementsByTagName( "link" );
+		for( var i = 0; i < links.length; i++ ){
+			var link = links[ i ];
+			// qualify links to those with rel=preload and as=style attrs
+			if( link.rel === "preload" && link.getAttribute( "as" ) === "style" && !link.getAttribute( "data-loadcss" ) ){
+				// prevent rerunning on link
+				link.setAttribute( "data-loadcss", true );
+				// bind listeners to toggle media back
+				rp.bindMediaToggle( link );
+			}
+		}
+	};
+	// if unsupported, run the polyfill
+	if( !rp.support() ){
+		// run once at least
+		rp.poly();
+
+		// rerun poly on an interval until onload
+		var run = w.setInterval( rp.poly, 500 );
+		if( w.addEventListener ){
+			w.addEventListener( "load", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		} else if( w.attachEvent ){
+			w.attachEvent( "onload", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		}
+	}
+	// commonjs
+	if( typeof exports !== "undefined" ){
+		exports.loadCSS = loadCSS;
+	}
+	else {
+		w.loadCSS = loadCSS;
+	}
+}( typeof global !== "undefined" ? global : this ) );
+
+</script>
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=canoe.com&amp;id=137895177&amp;t=1538023537&amp;back=https%3A%2F%2Fcanoe.com%2Fcategory%2Fsports%2Ffootball' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//ak.sail-horizon.com' />
+<link rel='dns-prefetch' href='//cdn.mediavoice.com' />
+<link rel='dns-prefetch' href='//postmediacanoe.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Canoe &raquo; Feed" href="https://canoe.com/feed" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJyNkcFuwjAMhl9onhkaoB2maRfO3HpOg6GGOI1qd4y3XxrWaeIQcYl+f7Zl+w9eEvg+GkVD60hI8YsTpl5NaM8OCgQdI/rgVHN+N+ewoRYb3h/JFLe7xpnvAqt9Bhoy8ap4SHCZMbjCnzN/wn9jZYQUxiNHzdT3Aioc6HoX1doCn/NeJ7Lk/BlKVCvneODIdv0TtWLfD5S5JGdTRTmcQvYkWvWSX1smE24ajL6rLZLW86BJdvmWB8xq2zSQKuRXeJTbf5W+D3l/WS1fN+u3xXJ1+gH5yrfX?cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='screen-css-1-1' href='https://s0.wp.com/wp-content/themes/vip/plugins/taxonomy-images/css/style.css?m=1506960102h&cssminify=yes' type='text/css' media='screen' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJydUttOwzAM/SHSAAWNPSB+AQmhPaIkM6lRLlXtrOLvSdOuZaoYsLec48s5diz7VpgYGAJLbsADyQO2so3EHvaoROuSxUArRgToyQEzdNIQyQVWGV7J3/oWUlAKpdorDBfVxQNmZDKpBvKSHqTQcdMl0ePeAg88rfr4NG9iTMt10aByAnPKKThrYmoyi9bVbXExdq0oaTIdavj3JE4R5fjzMSZ3oOVu8vrK6JA/X/IHYbBUFNPIvU3KRQ9liDxOdHycW4WFKFw0ijGGEyDencL1JXwr7UC7aPPTFjML/Nvg67PM8rOVZaFU+Z8vq7mT1kWt3JDw5B9v7uvNw/V2W28+vgBJXCvk?cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJylj9sKwjAMhl/IroqHXonPUttsplsPNu2GPr2dTEQcejEIBJKPL3/4EBg61WUNxE2pa4Z4m1plaMV/AcxiE2WCyqJ7wcq7BC6NrPVn7IBlgiibMiui2s9wwVOyQFSgme1nJHQ9wvAXM5CCVC2LQHj/sqYLlHu8xzDd1ihZ6HKDjriuA5P6+WxwzGQac7OEdolGed/iEsEAstDxLTrZ42a/FbuDEGthHsyCqjA='></script>
+<script type='text/javascript' src='//ak.sail-horizon.com/spm/spm.v1.min.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tag = {"options":{"customerId":"b9d3df2fccd108b5eff3c44f573b2cd6"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Postmedia = {"adConfig":{"site":"SMCO_CPTL_CAN_EN_WEB","msite":"vp.m","preroll":"on","networkId":3081,"keys":{"ck":"sports","et":"sm","imp":"football","nk":"print","page":"index","pr":"canoe","sck":"football"},"async":false,"enablecasale":false,"zone":"sports\/football\/index"},"Urls":{"home_url":"https:\/\/canoe.com","stylesheet_directory_uri":"https:\/\/s2.wp.com\/wp-content\/themes\/vip\/postmedia-theme-sun","ajaxurl":"https:\/\/canoe.com\/wp-admin\/admin-ajax.php"},"Properties":{"domain":"","userAgents":["mozilla","msie","webkit","ipad"],"mobileAgents":["iphone","ipod","android"],"isMobile":false,"isIpad":false,"isModal":false},"Facebook":{"pageId":"48139565306","appId":"316823972071999","mobileId":"vp.m"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJydy8EOgyAMANAfsjbOELbD4rc0QKQEkNgyf9/Nu5ddX/LwaOC2qqEqagwlCH64Yct95SooxFnj3mEeH5gEldYxyYA3axMtwTPBhSC9/pLzDrpylv+qJ6XvXMp7MtPTWmvMK52olkKZ'></script>
+<script type='text/javascript' src='https://cdn.mediavoice.com/nativeads/script/postmedia/polarad-sun-tabl-prod.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PN_VO = {"appServiceUrl":"https:\/\/api.pddataservices.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJy9kMEOgjAMhl9I1iCKJ+MrcNLzGA2UjG2uG4S3dyjEi148eGrT/+/3N4XJZcqagCZA6HBAhpEcOB1bMgwsSYfOx6wQe+gZJmpaDIJjzcpTjaLnHXxBWA4DNiSzDfaeaKq99DMoLZmTv9oUuGEN1eq/UoN2SR2XJrMjei3n/0S6lIT+x6wWrbZKBrLm+TSUadGLgcwGJKN0bBIqyew+z/t7xHTwq4jVdRnO+bEo8/JQnPL+AZ/Tp1M='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://postmediacanoe.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:site_name" content="Canoe" />
+<meta property="og:image" content="https://postmediacanoe.files.wordpress.com/2018/05/cropped-canoe_logo_512x512.png?w=200" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:title" content="(no title)" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@Canoe" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="search" type="application/opensearchdescription+xml" href="https://canoe.com/osd.xml" title="Canoe" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="stats-full-init" value="0.009" />
+<meta name="stats-postmedia_theme_pre_initialize" value="0.000" />
+<meta name="stats-initialize" value="0.008" />
+<meta name="stats-postmedia_theme_post_initialize" value="0.000" />
+<meta name="stats-vip_load_plugins" value="0.001" />
+<meta name="stats-load_plugins" value="0.006" />
+<meta name="stats-register_widgets" value="0.001" />
+			<meta property="fb:pages" content="48139565306" />
+			                <script type="text/javascript">var AamGpt={strictEncode:function(a){return encodeURIComponent(a).replace(/[!'()]/g,escape).replace(/\*/g,'%2A')},getCookie:function(b){var d,a,f,e=document.cookie.split(';');for(d=0;d<e.length;d++){a=e[d].substr(0,e[d].indexOf('='));f=e[d].substr(e[d].indexOf('=')+1);a=a.replace(/^\s+|\s+$/g,'');if(a==b){return unescape(f)}}},getKey:function(a){var d=this.getCookie(a);d=this.strictEncode(d);if(typeof d!='undefined'&&d.match(/\w+%3D/)){var b=d.split('%3D');if(typeof b[0]!='undefined'&&b[0].match(/\w+/)){return b[0]}}},getValues:function(a){var e=this.getCookie(a);e=this.strictEncode(e);if(typeof e!='undefined'&&e.match(/\w+%3D\w+/)){var b=e.split('%3D');if(typeof b[1]!='undefined'&&b[1].match(/\w+/)){var d=b[1].split('%2C');if(typeof d[0]!='undefined'){return d}else{return null}}else{return null}}else{return null}}};</script>             <script type="text/javascript" async src="//js-sec.indexww.com/ht/p/184635-109262492718143.js"> </script>
+                        <script type="text/javascript"> var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var a=document.getElementsByTagName('script')[0],b=document.createElement("script");b.async=true;b.src="https://www.googletagservices.com/tag/js/gpt.js";b.type='text/javascript';a.parentNode.insertBefore(b,a)}()); </script>
+            
+        <script type="text/javascript">
+           
+         googletag.cmd.push(function(){  googletag.pubads() 
+                     .setTargeting(
+                        'ck'
+                        , "sports"                     )
+
+                   
+                     .setTargeting(
+                        'et'
+                        , "sm"                     )
+
+                   
+                     .setTargeting(
+                        'imp'
+                        , "football"                     )
+
+                   
+                     .setTargeting(
+                        'nk'
+                        , "print"                     )
+
+                   
+                     .setTargeting(
+                        'page'
+                        , "index"                     )
+
+                   
+                     .setTargeting(
+                        'pr'
+                        , "canoe"                     )
+
+                   
+                     .setTargeting(
+                        'sck'
+                        , "football"                     )
+
+                   
+
+           ; if( typeof AamGpt.getCookie( "aam_dfp" ) != "undefined" ){ googletag.pubads().setTargeting( AamGpt.getKey( "aam_dfp" ),AamGpt.getValues( "aam_dfp") ); };
+
+                
+            if( typeof AamGpt.getCookie("aam_uuid") != "undefined" ){ googletag.pubads().setTargeting( "aamId", AamGpt.getCookie("aam_uuid") ); };
+
+
+            if ( document.referrer )
+                googletag.pubads().setTargeting( "r" ,document.referrer.split('/')[2] )
+            
+                if ( 'undefined' != typeof pnWeatherCookieHandler && null != pnWeatherCookieHandler ) {
+
+                    var pn_weather = pnWeatherCookieHandler.setPostmediaAdConfig();
+                }
+
+                if ( 'undefined' != typeof pn_weather ) {
+
+                    if ( null != pn_weather ) {
+
+                        if ( null != pn_weather.wc ) {
+
+                            googletag.pubads().setTargeting( "wc" , pn_weather.wc );
+
+                            googletag.pubads().setTargeting( "wt", pn_weather.wt );
+
+                            googletag.pubads().setTargeting( "ww", pn_weather.ww );
+
+                        }
+
+                    }
+
+                }
+
+                if(  'undefined' != typeof I10C ) {
+                    if ( 'undefined' != I10C.Morph ) {
+                        if ( null != I10C.Morph ) {
+                            if ( 1 == I10C.Morph ) {
+                               googletag.pubads().setTargeting( "shield" , "1" );
+                            }
+                        }
+                    }
+                }
+            googletag.pubads().collapseEmptyDivs();
+ 	 googletag.pubads().disableInitialLoad();
+ 	 googletag.enableServices();});        </script>
+    
+		 <!-- Amazon Ad Tag --> 
+            <script type='text/javascript'>
+                ! function(a9, a, p, s, t, A, g) {
+                    if (a[a9]) return;
+
+                    function q(c, r) {
+                        a[a9]._Q.push([c, r])
+                    }
+                    a[a9] = {
+                        init: function() {
+                            q("i", arguments)
+                        },
+                        fetchBids: function() {
+                            q("f", arguments)
+                        },
+                        setDisplayBids: function() {},
+                        _Q: []
+                    };
+                    A = p.createElement(s);
+                    A.async = !0;
+                    A.src = t;
+                    g = p.getElementsByTagName(s)[0];
+                    g.parentNode.insertBefore(
+                        A, g)
+                }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");apstag.init({
+                        pubID: '3528',
+                        adServer: 'googletag',
+                        bidTimeout: '2e3'
+                    });
+            </script>
+
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var adSlots = [];
+			/* ]]> */
+		</script>
+            <script type="text/javascript">
+                /* <![CDATA[ */
+                var pn_Gpt_Weather = {"wc":"a-few-clouds","wt":"4","ww":"0"};
+                /* ]]> */
+            </script><meta name="ROBOTS" content="NOARCHIVE" />			<meta name="google-site-verification" content="ljXFsNxnI10A5Du893byKprf90Ycw4E4nL7sYyc7wTU" />
+			<link rel="canonical" href="https://canoe.com/category/sports/football" />
+<link rel="next" href="https://canoe.com/category/sports/football/page/2" />
+<meta name="msvalidate.01" content="82AAA33807D8EF7E8A26FD0304CB4F2B"/>
+						<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,"script","dataLayer","GTM-MKM4ZNQ");</script>
+				<meta property="fb:app_id" content="316823972071999" />
+<meta property="fb:page_id" content="48139565306" />
+<meta property="fb:admins" content="100002625504753" />
+<script type="text/javascript">var sailthru_vars = {"ajaxurl":"https:\/\/postmediacanoe.wordpress.com\/wp-admin\/admin-ajax.php"}</script><meta name="application-name" content="Canoe" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Canoe News | Latest Canada &amp; World Headlines | Top Stories, Breaking News" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://canoe.com/feed;icon-uri=https://postmediacanoe.files.wordpress.com/2018/05/cropped-canoe_logo_512x512.png?w=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+<script type="text/javascript">var Postmedia=Postmedia || {}; Postmedia.Analytics=Postmedia.Analytics || {}; Postmedia.Analytics.Video=Postmedia.Analytics.Video || {}; Postmedia.Search = Postmedia.Search || {};Postmedia.Analytics.AdobeAnalytics=false;Postmedia.Analytics.PageType = "index";Postmedia.Analytics.CategoryAll = "sports\/football";Postmedia.Analytics.SubCategories = "football";</script><link rel="icon" href="https://postmediacanoe.files.wordpress.com/2018/05/cropped-canoe_logo_512x512.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://postmediacanoe.files.wordpress.com/2018/05/cropped-canoe_logo_512x512.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://postmediacanoe.files.wordpress.com/2018/05/cropped-canoe_logo_512x512.png?w=180" />
+<meta name="msapplication-TileImage" content="https://postmediacanoe.files.wordpress.com/2018/05/cropped-canoe_logo_512x512.png?w=270" />
+				<script type="text/javascript">
+					var Postmedia=Postmedia || {};Postmedia.Audience=Postmedia.Audience || {};
+					Postmedia.Audience.identityRequest=Postmedia.Audience.identityRequest || { userIdentities: {} };
+					if (JSON.parse(localStorage.getItem('janrainCaptureProfileData')) != null) {
+						Postmedia.Audience.identityRequest.userIdentities.customerid=JSON.parse(localStorage.getItem('janrainCaptureProfileData')).uuid;
+						Postmedia.Audience.identityRequest.userIdentities.email=JSON.parse(localStorage.getItem('janrainCaptureProfileData')).email;
+					}
+					window.mParticle = {
+				config: {
+						
+							isSandbox: false,
+							isDebug: false,
+							isDevelopmentMode: false,
+													identifyRequest: Postmedia.Audience.identityRequest,
+						useNativeSdk: false,
+						useCookieStorage: true,
+						maxProducts: 10,
+						appVersion: "1.0.0",
+						sessionTimeout: 60,
+						customFlags: {}
+					}
+				}</script>
+				<!--Web Browser + WebView and Web Browser only -->
+				<script type="text/javascript">
+					(function (apiKey) {
+						window.mParticle = window.mParticle || {};
+						window.mParticle.config = window.mParticle.config || {};
+						window.mParticle.config.rq = [];
+						window.mParticle.ready = function (f) {
+							window.mParticle.config.rq.push(f);
+						};
+						var mp = document.createElement("script");
+						mp.type = "text/javascript";
+						mp.async = true;
+						mp.src = ("https:" == document.location.protocol ? "https://jssdkcdns" : "http://jssdkcdn") + ".mparticle.com/js/v2/" + apiKey + "/mparticle.js";
+						var s = document.getElementsByTagName("script")[0];
+						s.parentNode.insertBefore(mp, s);
+					})("cd4afed6a2719d439af431746c942e3c");
+				</script>
+				
+</head>
+<body id="sports" class="archive category category-football category-1134 site-canoe mp6 customizer-styles-applied highlander-enabled highlander-light infinite-scroll" >
+
+<!-- Google Tag Manager -->
+				<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MKM4ZNQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+				
+
+	<div id="fb-root"></div>
+	<div itemscope itemtype="https://schema.org/Organization">
+						<meta itemprop="url" content="https://canoe.com">
+						<meta itemprop="logo" content="https://postmediacanoe.files.wordpress.com/2017/11/canoe-com-logo-white-vertically-centered.png">
+						<link itemprop="sameAs" href="https://www.facebook.com/canoe/">
+						<link itemprop="sameAs" href="https://twitter.com/canoe">
+						<link itemprop="sameAs" href="https://en.wikipedia.org/wiki/Canoe.com">
+						<link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.nurun.canoe">
+						<link itemprop="sameAs" href="http://itunes.apple.com/ca/app/canoe-ca/id347025995?=mt-8">
+						</div>				<!-- Out of Page ad -->
+				<div class="out-of-page">
+				            <div id="gpt-oop" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                    jQuery( document ).ready( function() {
+            apstag.fetchBids({
+                slots: [{
+                    slotID: 'gpt-oop',
+                    sizes: [ 
+							[ 1,1 ]
+					 ]
+                }]
+            }, function( bids ) {
+                /* trigger the first request to DFP */
+                googletag.cmd.push( function() {
+    
+				var gpt_oop = googletag.
+
+			 defineOutOfPageSlot ("/3081/SMCO_CPTL_CAN_EN_WEB/sports/football/index" , 'gpt-oop'); gpt_oop.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "top"                     )
+
+                   
+
+            ;                 apstag.setDisplayBids();
+                pnJustInTime.route( 
+    { 
+                            ad_id: '"#gpt-oop"',
+                            pixels_away:100,
+                            pixels_away_count:1,
+                            mode:'down',
+                            lazy_loading_enabled:'"on"',
+                            refresh_enabled:'"on"',
+                            refresh_count:5,
+                            refresh_time:30,
+                            block_these_ads:'"#gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-oop, #gpt-impulse, #gpt-impulse-mobile, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard"',
+                            admode:'""',
+                            ad_data:'null',
+                            adslot: gpt_oop
+                    } 
+                    );
+                 });
+            });
+         });
+                 </script>
+                </div>
+        
+
+    				</div>
+				<!-- Wallpaper Ad -->
+				<div class="wallpaper-container" style="position:absolute">
+				            <div id="gpt-wallpaper" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                    jQuery( document ).ready( function() {
+            apstag.fetchBids({
+                slots: [{
+                    slotID: 'gpt-wallpaper',
+                    sizes: [ 
+							[ 4,4 ]
+					 ]
+                }]
+            }, function( bids ) {
+                /* trigger the first request to DFP */
+                googletag.cmd.push( function() {
+    
+				var gpt_wallpaper = googletag.
+
+			 defineSlot ("/3081/SMCO_CPTL_CAN_EN_WEB/sports/football/index", [[4,4]] , 'gpt-wallpaper');  adSlots.push( gpt_wallpaper ); gpt_wallpaper.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "top"                     )
+
+                   
+
+            ;                 apstag.setDisplayBids();
+                pnJustInTime.route( 
+    { 
+                            ad_id: '"#gpt-wallpaper"',
+                            pixels_away:100,
+                            pixels_away_count:1,
+                            mode:'down',
+                            lazy_loading_enabled:'"on"',
+                            refresh_enabled:'"on"',
+                            refresh_count:5,
+                            refresh_time:30,
+                            block_these_ads:'"#gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-oop, #gpt-impulse, #gpt-impulse-mobile, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard"',
+                            admode:'""',
+                            ad_data:'null',
+                            adslot: gpt_wallpaper
+                    } 
+                    );
+                 });
+            });
+         });
+                 </script>
+                </div>
+        
+
+    				</div>
+			
+	
+	<div id="page" class="hfeed site desktop" >
+
+			<div class="alerts pmalerts_num_0">
+			<div class="pmalerts_num_0 colour-bar"></div>
+			<div class="l-constrained">
+							</div>
+		</div>
+	
+<header class="l-header full-width   ">
+	<div class="header-wrapper">
+		<div class="top-bar">
+							<div class="l-constrained">
+											<span class="title">Hot Topics</span>
+						<ul class="features">
+													<li class="track_event" data-event-tracking="Featured Item">
+								<a href="/tag/justin-trudeau" >Justin Trudeau</a>
+							</li>
+													<li class="track_event" data-event-tracking="Featured Item">
+								<a href="/tag/donald-trump" >Donald Trump</a>
+							</li>
+													<li class="track_event" data-event-tracking="Featured Item">
+								<a href="/tag/sexual-misconduct" >Sexual Misconduct</a>
+							</li>
+													<li class="track_event" data-event-tracking="Featured Item">
+								<a href="/category/entertainment/celebrity" >Celebrities</a>
+							</li>
+													<li class="track_event" data-event-tracking="Featured Item">
+								<a href="/category/sports/hockey" >NHL</a>
+							</li>
+													<li class="track_event" data-event-tracking="Featured Item">
+								<a href="/tag/toronto-blue-jays" >Blue Jays</a>
+							</li>
+													<li class="track_event" data-event-tracking="Featured Item">
+								<a href="http://classifieds.torontosun.com" >Classifieds</a>
+							</li>
+												</ul>
+										<div class="right-block track_event" data-event-tracking="Header Subscription">
+													<a class="frenchbtn" href="http://fr.canoe.ca" title="postmedia" target="_blank">FRANÇAIS</a>
+											</div>
+				</div>
+								</div>
+		<div class="nav-wrap">
+			<div class="l-constrained">
+									<div class="header-logo track_event" itemscope itemtype="https://schema.org/Organization" data-event-tracking="Logo">
+						<a class="logo" href="https://canoe.com">
+														<img src="https://postmediacanoe.files.wordpress.com/2017/11/canoe-com-logo-white-vertically-centered.png" alt="Canoe" />
+						</a>
+					</div>
+								<div class="nav-search-wrapper track_event" data-event-tracking="Main Navigation">
+					<nav id="primary-nav" class="navigation"><ul id="menu-primary" class="main-nav no-nav-outfits"><li id="menu-item-77" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-77 news"><a href="https://canoe.com/category/news">News</a>
+<div class="subnav">
+<ul class="subnav-menu">	<li id="menu-item-119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-119 news"><a href="https://canoe.com/category/news">All News</a></li>
+	<li id="menu-item-78" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78 national"><a href="https://canoe.com/category/news/national">Canada</a></li>
+	<li id="menu-item-110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110 world"><a href="https://canoe.com/category/news/world">World</a></li>
+	<li id="menu-item-79" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79 crime"><a href="https://canoe.com/category/news/crime">Crime</a></li>
+	<li id="menu-item-389187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389187 good-news"><a href="https://canoe.com/category/news/good-news">Good News</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109 weird"><a href="https://canoe.com/category/news/weird">Weird</a></li>
+	<li id="menu-item-389188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389188 technology"><a href="https://canoe.com/category/technology">Science &amp; Tech</a></li>
+	<li id="menu-item-76" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-76 business"><a href="https://canoe.com/category/business">Money</a></li>
+	</ul>
+</div>
+</li>
+<li id="menu-item-65" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-65 entertainment"><a href="https://canoe.com/category/entertainment">Entertainment</a>
+<div class="subnav">
+<ul class="subnav-menu">	<li id="menu-item-117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-117 entertainment"><a href="https://canoe.com/category/entertainment">All Entertainment</a></li>
+	<li id="menu-item-67" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67 celebrity"><a href="https://canoe.com/category/entertainment/celebrity">Celebrity</a></li>
+	<li id="menu-item-68" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-68 movies"><a href="https://canoe.com/category/entertainment/movies">Movies</a></li>
+	<li id="menu-item-69" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69 music"><a href="https://canoe.com/category/entertainment/music">Music</a></li>
+	<li id="menu-item-108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108 television"><a href="https://canoe.com/category/entertainment/television">Television</a></li>
+	<li id="menu-item-92" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92 gaming"><a href="https://canoe.com/category/entertainment/gaming">Gaming</a></li>
+	</ul>
+</div>
+</li>
+<li id="menu-item-72" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-72 life"><a href="https://canoe.com/category/life">Lifestyle</a>
+<div class="subnav">
+<ul class="subnav-menu">	<li id="menu-item-389148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389148 life"><a href="https://canoe.com/category/life">All Life</a></li>
+	<li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73 food"><a href="https://canoe.com/category/life/food">Food &amp; Drinks</a></li>
+	<li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74 fashion-beauty"><a href="https://canoe.com/category/life/fashion-beauty">Fashion &amp; Beauty</a></li>
+	<li id="menu-item-107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107 sex-files"><a href="https://canoe.com/category/life/sex-files">Sex Files</a></li>
+	<li id="menu-item-389207" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389207 living"><a href="https://canoe.com/category/life/living">Living</a></li>
+	<li id="menu-item-391796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-391796 relationship"><a href="https://canoe.com/category/life/relationship">Advice</a></li>
+	<li id="menu-item-102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-102 travel"><a href="https://canoe.com/category/travel">Travel</a>
+	<div class="subnav">
+<ul class="subnav-menu">		<li id="menu-item-128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-128 travel"><a href="https://canoe.com/category/travel">All Travel</a></li>
+		<li id="menu-item-103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-103 travel-canada"><a href="https://canoe.com/category/travel/travel-canada">Travel Canada</a></li>
+		<li id="menu-item-106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-106 usa"><a href="https://canoe.com/category/travel/usa">Travel USA</a></li>
+		<li id="menu-item-104" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104 europe"><a href="https://canoe.com/category/travel/europe">Travel Europe</a></li>
+		<li id="menu-item-105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-105 international"><a href="https://canoe.com/category/travel/international">Travel International</a></li>
+		</ul>
+	</div>
+</li>
+	<li id="menu-item-389208" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389208 royals"><a href="https://canoe.com/category/life/royals">Royals</a></li>
+	<li id="menu-item-389994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389994"><a href="/horoscopes">Horoscopes</a></li>
+	</ul>
+</div>
+</li>
+<li id="menu-item-98" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children current-category-ancestor current-menu-ancestor current-menu-parent current-category-parent menu-item-has-children menu-item-98 sports"><a href="https://canoe.com/category/sports">Sports</a>
+<div class="subnav">
+<ul class="subnav-menu">	<li id="menu-item-126" class="menu-item menu-item-type-taxonomy menu-item-object-category current-category-ancestor current-category-parent menu-item-126 sports"><a href="https://canoe.com/category/sports">All Sports</a></li>
+	<li id="menu-item-494833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-494833"><a href="https://canoe.com/scores-and-stats">Scores and Stats</a></li>
+	<li id="menu-item-81" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-81 baseball"><a href="https://canoe.com/category/sports/baseball">Baseball</a></li>
+	<li id="menu-item-82" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82 basketball"><a href="https://canoe.com/category/sports/basketball">Basketball</a></li>
+	<li id="menu-item-83" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-83 football"><a href="https://canoe.com/category/sports/football">Football</a></li>
+	<li id="menu-item-85" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85 hockey"><a href="https://canoe.com/category/sports/hockey">Hockey</a>
+	<div class="subnav">
+<ul class="subnav-menu">		<li id="menu-item-123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123 hockey"><a href="https://canoe.com/category/sports/hockey">All Hockey</a></li>
+		<li id="menu-item-389191" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389191 calgary-flames"><a href="https://canoe.com/category/sports/hockey/nhl/calgary-flames">Calgary Flames</a></li>
+		<li id="menu-item-389192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389192 edmonton-oilers"><a href="https://canoe.com/category/sports/hockey/nhl/edmonton-oilers">Edmonton Oilers</a></li>
+		<li id="menu-item-389193" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389193 montreal-canadiens"><a href="https://canoe.com/category/sports/hockey/nhl/montreal-canadiens">Montreal Canadiens</a></li>
+		<li id="menu-item-389194" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389194 ottawa-senators"><a href="https://canoe.com/category/sports/hockey/nhl/ottawa-senators">Ottawa Senators</a></li>
+		<li id="menu-item-114" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114 toronto-maple-leafs"><a href="https://canoe.com/category/sports/hockey/nhl/toronto-maple-leafs">Toronto Maple Leafs</a></li>
+		<li id="menu-item-389189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389189 vancouver-canucks"><a href="https://canoe.com/category/sports/hockey/nhl/vancouver-canucks">Vancouver Canucks</a></li>
+		<li id="menu-item-389190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389190 winnipeg-jets"><a href="https://canoe.com/category/sports/hockey/nhl/winnipeg-jets">Winnipeg Jets</a></li>
+		</ul>
+	</div>
+</li>
+	<li id="menu-item-99" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-99 soccer"><a href="https://canoe.com/category/sports/soccer">Soccer</a>
+	<div class="subnav">
+<ul class="subnav-menu">		<li id="menu-item-389147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389147 soccer"><a href="https://canoe.com/category/sports/soccer">All Soccer</a></li>
+		<li id="menu-item-113" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-113 toronto-fc"><a href="https://canoe.com/category/sports/soccer/mls/toronto-fc">Toronto FC</a></li>
+		<li id="menu-item-389196" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389196 vancouver-whitecaps"><a href="https://canoe.com/category/sports/soccer/mls/vancouver-whitecaps">Vancouver Whitecaps</a></li>
+		<li id="menu-item-390067" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-390067 ottawa-fury-fc"><a href="https://canoe.com/category/sports/soccer/mls/ottawa-fury-fc">Ottawa Fury FC</a></li>
+		<li id="menu-item-390090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-390090 montreal-impact"><a href="https://canoe.com/category/sports/soccer/mls/montreal-impact">Montreal Impact</a></li>
+		</ul>
+	</div>
+</li>
+	<li id="menu-item-389197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-389197 fighting"><a href="https://canoe.com/category/sports/fighting">Fighting</a>
+	<div class="subnav">
+<ul class="subnav-menu">		<li id="menu-item-389206" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389206 fighting"><a href="https://canoe.com/category/sports/fighting">All Fighting</a></li>
+		<li id="menu-item-389200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389200 boxing"><a href="https://canoe.com/category/sports/fighting/boxing">Boxing</a></li>
+		<li id="menu-item-87" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-87 mma"><a href="https://canoe.com/category/sports/fighting/mma">MMA</a></li>
+		</ul>
+	</div>
+</li>
+	<li id="menu-item-389201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389201"><a href="http://slam.canoe.com/Slam/Wrestling/home.html">Wrestling</a></li>
+	<li id="menu-item-389198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-389198"><a>More Sports</a>
+	<div class="subnav">
+<ul class="subnav-menu">		<li id="menu-item-389199" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389199 curling"><a href="https://canoe.com/category/sports/curling">Curling</a></li>
+		<li id="menu-item-100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-100 tennis"><a href="https://canoe.com/category/sports/tennis">Tennis</a></li>
+		<li id="menu-item-88" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88 auto-racing"><a href="https://canoe.com/category/sports/auto-racing">Motorsports</a></li>
+		<li id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125 other-sports"><a href="https://canoe.com/category/sports/other-sports">Other Sports</a></li>
+		</ul>
+	</div>
+</li>
+	</ul>
+</div>
+</li>
+<li id="menu-item-136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136"><a href="http://chealth.canoe.com">C-health</a></li>
+<li id="menu-item-389992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389992"><a href="/comics">Comics</a></li>
+<li id="menu-item-389993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389993"><a href="/puzzles">Puzzles</a></li>
+<li id="menu-item-389398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-389398"><a>More</a>
+<div class="subnav">
+<ul class="subnav-menu">	<li id="menu-item-389399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389399"><a href="/classifieds">Classifieds</a></li>
+	<li id="menu-item-451250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-451250"><a href="/flyercity">This Week&#8217;s Flyers</a></li>
+	<li id="menu-item-389400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-389400"><a href="https://driving.ca">Driving</a>
+	<div class="subnav">
+<ul class="subnav-menu">		<li id="menu-item-389401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389401"><a href="https://driving.ca">All Driving</a></li>
+		<li id="menu-item-389402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389402"><a href="https://driving.ca/category/auto-news">Auto News</a></li>
+		<li id="menu-item-389403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389403"><a href="https://driving.ca/category/reviews">Reviews</a></li>
+		<li id="menu-item-389404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389404"><a href="https://driving.ca/car-comparison">Car Comparison</a></li>
+		<li id="menu-item-389405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389405"><a href="https://driving.ca/buyers-guide/2015">Buyers Guide</a></li>
+		</ul>
+	</div>
+</li>
+	<li id="menu-item-389813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-389813"><a href="https://torontosun.com/category/sunshine-girls">Sunshine Girls</a>
+	<div class="subnav">
+<ul class="subnav-menu">		<li id="menu-item-389814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389814"><a href="https://torontosun.com/category/sunshine-girls">Today&#8217;s Sunshine Girl</a></li>
+		<li id="menu-item-389815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389815"><a href="https://torontosun.com/become-a-sunshine-girl">Become a Sunshine Girl</a></li>
+		</ul>
+	</div>
+</li>
+	</ul>
+</div>
+</li>
+</ul></nav>					<div class="right-block">
+													<span class="social-text">Follow Us</span>
+							<div class="social-bar">
+								<ul class="social-icons">
+																		<li class="facebook track_event" data-event-tracking="Header Social"><a href="https://www.facebook.com/Canoe" title="facebook" target="_blank"></a></li>
+																		<li class="twitter track_event" data-event-tracking="Header Social"><a href="https://twitter.com/Canoe" title="twitter" target="_blank"></a></li>
+																		<li class="more-social">
+										<a href="javascript:void(0)" title="more share options"></a>
+										<div class="more-social-menu">
+											<div class="menu-content">
+																									<p class="social-menu-text">Connect with Canoe</p>
+																								<div class="social-icons-lists">
+													<ul class="social-icons">
+																												<li class="rss track_event" data-event-tracking="Header Social"><a href="/rss" title="rss" target="_blank"><span>RSS</span></a></li>
+																											</ul>
+												</div>
+											</div>
+										</div>
+									</li>
+								</ul> <!-- /social-icons -->
+							</div> <!-- /social-bar -->
+													<ul class="header-actions">
+							<li class="search">
+								<form class="form-search" action="/?" method="get">
+									<span class="track_event" data-event-tracking="Header Search Open">
+										<a href="javascript:void(0);" class="open-search" title="Open Search" alt="Open Search"></a>
+									</span>
+									<fieldset>
+										<input type="text" name="s" id="main-searcher" placeholder="Search Canoe" title="Search">
+										<input class="start-search" type="submit" alt="Search" value="" title="Search">
+										<span class="track_event" data-event-tracking="Header Search Close">
+											<a href="javascript:void(0);" class="close close-search" alt="Close Search" title="Close Search"></a>
+										</span>
+									</fieldset>
+								</form>
+							</li>
+						</ul>
+					</div>
+									</div><!-- /nav-search-wrapper -->
+			</div><!-- /l-constrained-->
+		</div><!-- /nav-wrap -->
+	</div><!-- /header-wrapper -->
+</header>
+<!-- / header -->
+
+		<div id="content" class="site-content">
+
+<div class="l-content">
+	<section class="l-top-content">
+		<div class="adunit">
+			
+	<div class="widget-advertisement advertisement pnLeaderboard">
+		<div id="gpt-billboard"></div>
+		<div id="pn-leaderboard-ad-large">
+			            <div id="gpt-leaderboard" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                    jQuery( document ).ready( function() {
+            apstag.fetchBids({
+                slots: [{
+                    slotID: 'gpt-leaderboard',
+                    sizes: [ 
+							[ 728,90 ], [ 970,90 ], [ 970,250 ], [ 1200,90 ], [ 1200,250 ]
+					 ]
+                }]
+            }, function( bids ) {
+                /* trigger the first request to DFP */
+                googletag.cmd.push( function() {
+    
+				var gpt_leaderboard = googletag.
+
+			 defineSlot ("/3081/SMCO_CPTL_CAN_EN_WEB/sports/football/index", [[728,90],[970,90],[970,250],[1200,90],[1200,250]] , 'gpt-leaderboard');  adSlots.push( gpt_leaderboard ); gpt_leaderboard.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "top"                     )
+
+                   
+
+            ;                 apstag.setDisplayBids();
+                pnJustInTime.route( 
+    { 
+                            ad_id: '"#gpt-leaderboard"',
+                            pixels_away:100,
+                            pixels_away_count:1,
+                            mode:'down',
+                            lazy_loading_enabled:'"on"',
+                            refresh_enabled:'"on"',
+                            refresh_count:5,
+                            refresh_time:30,
+                            block_these_ads:'"#gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-oop, #gpt-impulse, #gpt-impulse-mobile, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard"',
+                            admode:'""',
+                            ad_data:'null',
+                            adslot: gpt_leaderboard
+                    } 
+                    );
+                 });
+            });
+         });
+                 </script>
+                </div>
+        
+
+    		</div>
+	</div>
+		</div>
+	</section>
+	<div class="l-constrained container contentbody">
+				<section class="l-top-breadcrumbs clearfix">
+			<div class="breadcrumb-wrap sports sub menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children current-category-ancestor current-menu-ancestor current-menu-parent current-category-parent">
+
+		<ul class="breadcrumb-list" itemtype="https://schema.org/BreadcrumbList" itemscope>
+		<li class="track_event" data-event-tracking="Home Breadcrumb">
+			<a href="https://canoe.com"><span>Canoe</span></a>
+		</li>
+								<li class="sports sub menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children current-category-ancestor current-menu-ancestor current-menu-parent current-category-parent track_event" data-event-tracking="Parent Breadcrumbs" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a href="https://canoe.com/category/sports" itemprop="url"><span >Sports</span><meta itemprop="position" content="1" /></a>
+							</li>
+								<li class="football sub menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item current-category track_event" data-event-tracking="Parent Breadcrumbs" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a href="https://canoe.com/category/sports/football" itemprop="url"><span >Football</span><meta itemprop="position" content="2" /></a>
+							</li>
+							</ul>
+</div>
+		</section>
+		
+		<section id="primary" class="content-area clearfix">
+			<header class="page-header sports"><h1 itemprop="mainContentOfPage" class="page-title">Football</h1></header>
+			<div class="l-main track_event " id="main" data-event-tracking="outfit"><section id="section_1">
+	<div class="outfit primary clearfix d6" data-outfit-name="d6">
+		<div class="outfit-d6">
+
+						
+				<div class="row">
+					<div class="fixed-fluid-holder active">
+						<div class="fluid-holder">
+							<div class="eightcol first headline">
+												<article 
+
+					id="post-0" 
+					class="post-0 					 show-look-label 
+					post post-excerpt hentry track_event" 
+					data-event-tracking="Outfit|0|Primary – 6|0|1|shar|">
+
+					<figure class="thumbnail ">
+			<a id="link-419423" href="https://canoe.com/sports/football/cfl/calgary-stampeders/no-concrete-decision-from-stamps-on-eric-rogers-availability/wcm/bc8457c5-7dfb-4e1a-812b-9b54fa78edbc" target="_self">
+						<img src="https://postmediacalgarysun.files.wordpress.com/2018/07/a62y5172b1.jpg?w=592&#038;h=444&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="592" 
+					height="444" 
+					id="img-419423"/>
+					</a>
+			</figure>
+					<header>
+						<h2 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/calgary-stampeders/no-concrete-decision-from-stamps-on-eric-rogers-availability/wcm/bc8457c5-7dfb-4e1a-812b-9b54fa78edbc" target="" rel="bookmark" title="">Stamps non-committal on Eric Rogers&#039; availability decision </a></h2>					</header>
+
+					
+					
+				</article>
+											</div>
+							<div class="fourcol last">
+								<ul class="posts-list headline hfeed">
+											<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|0|Primary – 6|0|1|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-410349" href="https://canoe.com/sports/football/cfl/winnipeg-bluebombers/bombshells-winning-helped-confidence-but-bombers-still-need-to-be-better-harris-says-rivers-looks-to-take-reilly-out-of-his-flow-urgency-but-no-panic-for-bombers-as-playoff-race/wcm/ba2ee313-9b53-4df9-bae8-44179450cd58" target="_self">
+						<img src="https://postmediawinnipegsun.files.wordpress.com/2018/08/andrew_harris-e1533959593944.jpg?w=266&#038;h=199&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="266" 
+					height="199" 
+					id="img-410349"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/winnipeg-bluebombers/bombshells-winning-helped-confidence-but-bombers-still-need-to-be-better-harris-says-rivers-looks-to-take-reilly-out-of-his-flow-urgency-but-no-panic-for-bombers-as-playoff-race/wcm/ba2ee313-9b53-4df9-bae8-44179450cd58" target="" rel="bookmark" title="">BOMBSHELLS: Winning helped confidence but Bombers still need to be better, Harris says … Rivers ... </a></h4>					</header>
+
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|0|Primary – 6|0|2|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-428630" href="https://canoe.com/sports/football/cfl/calgary-stampeders/stamps-notes-competition-pushing-stamps-running-backs-onwards-and-upwards/wcm/f4d18b4c-4bb8-4043-ab2a-8045100bfe43" target="_self">
+						<img src="https://postmediacalgarysun.files.wordpress.com/2018/09/0909-eskimos-game69513.jpg?w=266&#038;h=199&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="266" 
+					height="199" 
+					id="img-428630"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/calgary-stampeders/stamps-notes-competition-pushing-stamps-running-backs-onwards-and-upwards/wcm/f4d18b4c-4bb8-4043-ab2a-8045100bfe43" target="" rel="bookmark" title="">Stamps running backs trending upward thanks to inner competition </a></h4>					</header>
+
+					
+				</article>
+							</li>
+											</ul>
+							</div>
+						</div>
+						<div class="fluid-holder">
+							<ul class="posts-list fourcol-li headline hfeed">
+											<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|0|Primary – 6|0|1|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-406917" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/fists-fly-at-eskimos-practice-ahead-of-game-against-winnipeg/wcm/51927d90-319f-4f11-99a2-1028d8259c19" target="_self">
+						<img src="https://postmediaedmontonsun.files.wordpress.com/2018/09/jacob-ruby.jpg?w=266&#038;h=199&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="266" 
+					height="199" 
+					id="img-406917"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/fists-fly-at-eskimos-practice-ahead-of-game-against-winnipeg/wcm/51927d90-319f-4f11-99a2-1028d8259c19" target="" rel="bookmark" title="">Fists fly at Eskimos practice ahead of game against Winnipeg </a></h4>					</header>
+
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|0|Primary – 6|0|2|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-406909" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/mike-reilly-finds-small-town-connection-on-eskimos-roster/wcm/2a69608c-7592-4592-9dd3-3b242b05fc52" target="_self">
+						<img src="https://postmediaedmontonsun.files.wordpress.com/2018/09/fbo-cfl-eskimos-redblacks-2018092211.jpg?w=266&#038;h=199&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="266" 
+					height="199" 
+					id="img-406909"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/mike-reilly-finds-small-town-connection-on-eskimos-roster/wcm/2a69608c-7592-4592-9dd3-3b242b05fc52" target="" rel="bookmark" title="">Mike Reilly finds small-town connection on Eskimos roster </a></h4>					</header>
+
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|0|Primary – 6|0|3|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-406907" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/sack-happy-kwaku-boateng-bolstering-eskimos-pass-rush-three-at-a-time/wcm/d88b4515-7516-4edc-a860-30a9ad9d9c40" target="_self">
+						<img src="https://postmediaedmontonsun.files.wordpress.com/2018/09/fbo-cfl-eskimos-redblacks-2018092210.jpg?w=266&#038;h=199&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="266" 
+					height="199" 
+					id="img-406907"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/sack-happy-kwaku-boateng-bolstering-eskimos-pass-rush-three-at-a-time/wcm/d88b4515-7516-4edc-a860-30a9ad9d9c40" target="" rel="bookmark" title="">Sack happy Kwaku Boateng bolstering Eskimos pass rush three at a time </a></h4>					</header>
+
+					
+				</article>
+							</li>
+										</ul>
+						</div>
+						<div class="fluid-holder">
+													<div class="fourcol first">
+								<ul class="posts-list hfeed headline">
+											<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|0|Primary – 6|0|1|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-432376" href="https://canoe.com/sports/football/cfl/calgary-stampeders/stampeders-know-bethel-thompsons-got-options-downfield/wcm/619b87d9-11cb-4ade-8fef-35271d663add" target="_self">
+						<img src="https://postmediacalgarysun.files.wordpress.com/2018/09/fbo-cfl-ticats-argonauts-20180908.jpg?w=266&#038;h=199&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="266" 
+					height="199" 
+					id="img-432376"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/calgary-stampeders/stampeders-know-bethel-thompsons-got-options-downfield/wcm/619b87d9-11cb-4ade-8fef-35271d663add" target="" rel="bookmark" title="">Argonauts bringing multiple downfield options against Stamps </a></h4>					</header>
+
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|0|Primary – 6|0|2|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-520343" href="https://canoe.com/sports/football/cfl/toronto-argonauts/former-pro-bowl-return-man-mccluster-excited-to-make-argos-debut-against-stampeders/wcm/cb4c00e4-0801-42bb-abc0-44f7eff80024" target="_self">
+						<img src="https://postmediatorontosun.files.wordpress.com/2018/09/gettyimages-487098900-e1537999552836.jpg?w=266&#038;h=199&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="266" 
+					height="199" 
+					id="img-520343"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/toronto-argonauts/former-pro-bowl-return-man-mccluster-excited-to-make-argos-debut-against-stampeders/wcm/cb4c00e4-0801-42bb-abc0-44f7eff80024" target="" rel="bookmark" title="">Former Pro Bowl return man McCluster excited to make Argos debut against Stampeders </a></h4>					</header>
+
+					
+				</article>
+							</li>
+											</ul>
+							</div>
+							<div class="eightcol last headline">
+												<article 
+
+					id="post-850012" 
+					class="post-850012 					 show-look-label 
+					post post-excerpt hentry track_event" 
+					data-event-tracking="Outfit|0|Primary – 6|0|1|shar|">
+
+					<figure class="thumbnail ">
+			<a id="link-520308" href="https://canoe.com/sports/football/nfl/jameis-winston-happy-to-assist-the-best-way-i-possibly-can/wcm/850012fa-5f74-4137-9554-59d36e8c909d" target="_self">
+						<img src="https://postmediatorontosun.files.wordpress.com/2018/09/jameis-winston-e1537997035174.jpg?w=592&#038;h=444&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="592" 
+					height="444" 
+					id="img-520308"/>
+					</a>
+			</figure>
+					<header>
+						<h2 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/nfl/jameis-winston-happy-to-assist-the-best-way-i-possibly-can/wcm/850012fa-5f74-4137-9554-59d36e8c909d" target="" rel="bookmark" title="">Bucs&#039; Winston &#039;happy&#039; to help team </a></h2>					</header>
+
+					
+					
+				</article>
+											</div>
+												</div>
+
+					</div>
+					<div class="fixed-holder last active"><div class="sticky-widget"><div class="widget_pn_dfpad"><div id="postmedia_layouts_ad-top" class="widget-wrap clearfix widget_postmedia_layouts_ad"><div class="widget">            <div id="gpt-bigboxtop" class="pn_dfpads adslot">                         <script type="text/javascript">                                  jQuery( document ).ready( function() {             apstag.fetchBids({                 slots: [{                     slotID: 'gpt-bigboxtop',                     sizes: [  							[ 300,250 ], [ 300,251 ], [ 300,600 ], [ 300,601 ], [ 300,1050 ] 					 ]                 }]             }, function( bids ) {                 /* trigger the first request to DFP */                 googletag.cmd.push( function() {      				var gpt_bigboxtop = googletag.  			 defineSlot ("/3081/SMCO_CPTL_CAN_EN_WEB/sports/football/index", [[300,250],[300,251],[300,600],[300,601],[300,1050]] , 'gpt-bigboxtop');  adSlots.push( gpt_bigboxtop ); gpt_bigboxtop.addService( googletag.pubads() )                       .setTargeting(                         'loc'                         , "top"                     )                                   ;                 apstag.setDisplayBids();                 pnJustInTime.route(      {                              ad_id: '"#gpt-bigboxtop"',                             pixels_away:100,                             pixels_away_count:1,                             mode:'down',                             lazy_loading_enabled:'"on"',                             refresh_enabled:'"on"',                             refresh_count:5,                             refresh_time:30,                             block_these_ads:'"#gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-oop, #gpt-impulse, #gpt-impulse-mobile, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard"',                             admode:'"no-resize"',                             ad_data:'null',                             adslot: gpt_bigboxtop                     }                      );                  });             });          });                  </script>                 </div>               </div></div></div></div></div>				</div>
+								<div class="row smaller-row">
+					<ul class="posts-list hfeed  threecol-li headline">
+								<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|0|Primary – 6|0|1|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-401256" href="https://canoe.com/sports/football/cfl/winnipeg-bluebombers/coach-dressler-records-700th-catch-while-playing-key-mentor-role-with-bombers/wcm/3bfa580b-b361-43e7-bcf7-1b2b586558b9" target="_self">
+						<img src="https://postmediawinnipegsun.files.wordpress.com/2018/06/ws20180615kk23.jpg?w=302&#038;h=226&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="302" 
+					height="226" 
+					id="img-401256"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/winnipeg-bluebombers/coach-dressler-records-700th-catch-while-playing-key-mentor-role-with-bombers/wcm/3bfa580b-b361-43e7-bcf7-1b2b586558b9" target="" rel="bookmark" title="">‘Coach’ Dressler records 700th catch while playing key mentor role with Bombers </a></h4>					</header>
+
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|0|Primary – 6|0|2|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-513654" href="https://canoe.com/sports/football/super-bowl-ticketing-policies-to-be-examined-in-court" target="_self">
+						<img src="https://postmediacanoe.files.wordpress.com/2018/09/superbowlxlviii.jpg?quality=80&#038;strip=all&#038;w=302&#038;h=226&#038;crop=1" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="302" 
+					height="226" 
+					id="img-513654"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/super-bowl-ticketing-policies-to-be-examined-in-court" target="" rel="bookmark" title="">Super Bowl ticketing policies to be examined in court </a></h4>					</header>
+
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|0|Primary – 6|0|3|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-416464" href="https://canoe.com/sports/football/cfl/winnipeg-bluebombers/bombshells-nichols-says-roughing-the-passer-call-against-nfls-clay-matthews-was-pretty-crazy-bombers-defence-has-allowed-only-one-touchdown-in-last-two-games/wcm/1c0052c8-1169-4195-b546-d840c729ce27" target="_self">
+						<img src="https://postmediawinnipegsun.files.wordpress.com/2018/09/ws20180922kk49.jpg?w=302&#038;h=226&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="302" 
+					height="226" 
+					id="img-416464"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/winnipeg-bluebombers/bombshells-nichols-says-roughing-the-passer-call-against-nfls-clay-matthews-was-pretty-crazy-bombers-defence-has-allowed-only-one-touchdown-in-last-two-games/wcm/1c0052c8-1169-4195-b546-d840c729ce27" target="" rel="bookmark" title="">BOMBSHELLS: Nichols says roughing the passer call against NFL’s Clay Matthews was ‘Pretty crazy’ … ... </a></h4>					</header>
+
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|0|Primary – 6|0|4|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-430098" href="https://canoe.com/sports/football/cfl/calgary-stampeders/stamps-notes-friendly-competition-for-stamps-linebackers/wcm/af87a9e3-c7b7-4aa8-870c-8b5b4155465e" target="_self">
+						<img src="https://postmediacalgarysun.files.wordpress.com/2018/09/fbo-cfl-stampeders-tiger-cats-201809151.jpg?w=302&#038;h=226&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="302" 
+					height="226" 
+					id="img-430098"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/calgary-stampeders/stamps-notes-friendly-competition-for-stamps-linebackers/wcm/af87a9e3-c7b7-4aa8-870c-8b5b4155465e" target="" rel="bookmark" title="">Stamps Notes: Friendly competition is good fuel for Stamps linebackers </a></h4>					</header>
+
+					
+				</article>
+							</li>
+								</ul>
+				</div>
+							<!-- /div -->
+
+					</div>
+	</div>
+</section>
+<section id="section_2">
+	<div class="outfit clearfix d12 " data-outfit-name="d12">
+		<div class="outfit-d12">
+											<section class="fixed-holder first left">
+					<div class="widget_pn_dfpad"><div id="postmedia_layouts_ad-mid" class="widget-wrap clearfix widget_postmedia_layouts_ad"><div class="widget">            <div id="gpt-bigboxmid" class="pn_dfpads adslot">                         <script type="text/javascript">                                  jQuery( document ).ready( function() {             apstag.fetchBids({                 slots: [{                     slotID: 'gpt-bigboxmid',                     sizes: [  							[ 300,250 ], [ 300,252 ] 					 ]                 }]             }, function( bids ) {                 /* trigger the first request to DFP */                 googletag.cmd.push( function() {      				var gpt_bigboxmid = googletag.  			 defineSlot ("/3081/SMCO_CPTL_CAN_EN_WEB/sports/football/index", [[300,250],[300,252]] , 'gpt-bigboxmid');  adSlots.push( gpt_bigboxmid ); gpt_bigboxmid.addService( googletag.pubads() )                       .setTargeting(                         'loc'                         , "mid"                     )                                   ;                 apstag.setDisplayBids();                 pnJustInTime.route(      {                              ad_id: '"#gpt-bigboxmid"',                             pixels_away:100,                             pixels_away_count:1,                             mode:'down',                             lazy_loading_enabled:'"on"',                             refresh_enabled:'"on"',                             refresh_count:5,                             refresh_time:30,                             block_these_ads:'"#gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-oop, #gpt-impulse, #gpt-impulse-mobile, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard"',                             admode:'"resize"',                             ad_data:'null',                             adslot: gpt_bigboxmid                     }                      );                  });             });          });                  </script>                 </div>               </div></div></div>				</section>
+								<section class="fixed-fluid-holder right active">
+					<div class="fluid-holder right">
+												<div class="clearfix"></div>
+												<ul class="posts-list hfeed medium-story headline 
+							sixcol-li">
+										<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|1|Secondary – 12|0|1|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-406696" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/crossover-playoff-spot-would-be-a-death-sentence-for-homesick-eskimos/wcm/d2e3ae17-64d2-4781-8746-f831e284ed41" target="_self">
+						<img src="https://postmediaedmontonsun.files.wordpress.com/2018/09/fbo-cfl-eskimos-redblacks-201809227.jpg?w=410&#038;h=307&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="410" 
+					height="307" 
+					id="img-406696"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/crossover-playoff-spot-would-be-a-death-sentence-for-homesick-eskimos/wcm/d2e3ae17-64d2-4781-8746-f831e284ed41" target="" rel="bookmark" title="">Crossover playoff spot would be a death sentence for homesick Eskimos </a></h4>					</header>
+
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|1|Secondary – 12|0|2|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-425654" href="https://canoe.com/sports/football/cfl/calgary-stampeders/three-healthy-running-backs-make-for-tough-decision-for-stamps/wcm/920650a8-148a-4170-ba4a-e88c433d7389" target="_self">
+						<img src="https://postmediacalgarysun.files.wordpress.com/2018/08/cal062818-gya-11.jpg?w=410&#038;h=307&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="410" 
+					height="307" 
+					id="img-425654"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/calgary-stampeders/three-healthy-running-backs-make-for-tough-decision-for-stamps/wcm/920650a8-148a-4170-ba4a-e88c433d7389" target="" rel="bookmark" title="">No shortage of options for Stampeders at running back </a></h4>					</header>
+
+					
+				</article>
+							</li>
+									</ul>
+											</div>
+				</section>
+				<!-- Dynamic Ad Begin -->
+					<div class="dynamic_ad"></div>
+				<!-- Dynamic Ad End -->
+					</div>
+	</div>
+</section><section id="section_3">
+	<div class="outfit clearfix d13 " data-outfit-name="d13">
+		<div class="outfit-d13">
+							<div class="native" data-category="football">
+											<section class="fixed-holder last">
+					<div class="widget_pn_dfpad"><div id="postmedia_layouts_ad-bot" class="widget-wrap clearfix widget_postmedia_layouts_ad"><div class="widget">            <div id="gpt-bigboxbot" class="pn_dfpads adslot">                         <script type="text/javascript">                                  jQuery( document ).ready( function() {             apstag.fetchBids({                 slots: [{                     slotID: 'gpt-bigboxbot',                     sizes: [  							[ 300,250 ], [ 300,253 ] 					 ]                 }]             }, function( bids ) {                 /* trigger the first request to DFP */                 googletag.cmd.push( function() {      				var gpt_bigboxbot = googletag.  			 defineSlot ("/3081/SMCO_CPTL_CAN_EN_WEB/sports/football/index", [[300,250],[300,253]] , 'gpt-bigboxbot');  adSlots.push( gpt_bigboxbot ); gpt_bigboxbot.addService( googletag.pubads() )                       .setTargeting(                         'loc'                         , "bot"                     )                                   ;                 apstag.setDisplayBids();                 pnJustInTime.route(      {                              ad_id: '"#gpt-bigboxbot"',                             pixels_away:100,                             pixels_away_count:1,                             mode:'down',                             lazy_loading_enabled:'"on"',                             refresh_enabled:'"on"',                             refresh_count:5,                             refresh_time:30,                             block_these_ads:'"#gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-oop, #gpt-impulse, #gpt-impulse-mobile, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard"',                             admode:'"resize"',                             ad_data:'null',                             adslot: gpt_bigboxbot                     }                      );                  });             });          });                  </script>                 </div>               </div></div></div>				</section>
+								<section class="fixed-fluid-holder first active"> 
+					<div class="fluid-holder">
+						<div class="seaction-header-wrap track_event" data-event-tracking="Outfit|2|Secondary – 13|1|Header|No type|No name" ><a href="/category/sports/football/Toronto-Argonauts"><header class="section-header sports"><div class="section-label sports"><h1 class="cat-head sports"><span>CFL</span></h1></div></header></a></div>						<div class="clearfix"></div>
+												<ul class="posts-list hfeed 
+							fourcol-li">
+										<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|2|Secondary – 13|0|1|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-393974" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/eskimos-bring-back-veteran-pass-defender-brandyn-thompson/wcm/dd42052d-a79a-4183-97ab-6b2f1ce4113c" target="_self">
+						<img src="https://postmediaedmontonsun.files.wordpress.com/2018/06/brandynthompson-e1528670212980.jpg?w=266&#038;h=199&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="266" 
+					height="199" 
+					id="img-393974"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/eskimos-bring-back-veteran-pass-defender-brandyn-thompson/wcm/dd42052d-a79a-4183-97ab-6b2f1ce4113c" target="" rel="bookmark" title="">Eskimos bring back veteran pass-defender Brandyn Thompson </a></h4>					</header>
+
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|2|Secondary – 13|0|2|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-406699" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/edmonton-eskimos-looking-for-wins-not-excuses/wcm/01c30d4c-9eca-469d-a16b-cbab666567be" target="_self">
+						<img src="https://postmediaedmontonsun.files.wordpress.com/2018/09/fbo-cfl-eskimos-redblacks-201809229.jpg?w=266&#038;h=199&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="266" 
+					height="199" 
+					id="img-406699"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/edmonton-eskimos/edmonton-eskimos-looking-for-wins-not-excuses/wcm/01c30d4c-9eca-469d-a16b-cbab666567be" target="" rel="bookmark" title="">Edmonton Eskimos looking for wins, not excuses </a></h4>					</header>
+
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+
+					class="post post-excerpt hentry track_event 
+					 show-look-label" 
+					data-event-tracking="Outfit|2|Secondary – 13|0|3|shar|"
+				>
+					<figure class="thumbnail ">
+			<a id="link-420116" href="https://canoe.com/sports/football/cfl/calgary-stampeders/stampeders-ol-derek-dennis-back-to-his-best-level/wcm/45626e69-0f01-4c27-b0ef-125cfc0bca22" target="_self">
+						<img src="https://postmediacalgarysun.files.wordpress.com/2018/07/hubderekdennis26.jpg?w=266&#038;h=199&#038;crop=1&#038;quality=80&#038;strip=all" 
+					class="attachment-post-thumbnail wp-post-image " 
+					alt=""
+					width="266" 
+					height="199" 
+					id="img-420116"/>
+					</a>
+			</figure>
+					<header>
+						<h4 itemprop="name" class="entry-title"><a itemprop="url" href="https://canoe.com/sports/football/cfl/calgary-stampeders/stampeders-ol-derek-dennis-back-to-his-best-level/wcm/45626e69-0f01-4c27-b0ef-125cfc0bca22" target="" rel="bookmark" title="">Stampeders recognize Derek Dennis&#039; return to form </a></h4>					</header>
+
+					
+				</article>
+							</li>
+									</ul>
+											</div>
+				</section>
+				<!-- Dynamic Ad Begin -->
+					<div class="dynamic_ad"></div>
+				<!-- Dynamic Ad End -->
+							</div>
+					</div>
+	</div>
+</section><nav class="pagination for-search">
+	<div class="bottom-pag-content category_tag"> Page 1 of 4</div>			<a href="#" class="previous">
+			Previous
+		</a>
+				<a href="https://canoe.com/category/sports/football/page/2" class="next">
+			Next
+		</a>
+	</nav>
+</div></div>		</section>
+
+	</div>
+	<!-- / container -->
+</div>
+<!-- / main -->
+
+
+	</div><!-- #content -->
+
+	<footer class="l-footer">
+		<div class="l-constrained">
+			<div class="top-footer">
+				<p class="footer-section">Connect with Canoe</p>
+
+								<div class="social-bar track_event" data-event-tracking="Footer - Social">
+					<ul class="social-icons">
+										<li class="facebook"><a href="https://www.facebook.com/Canoe" title="facebook" target="_blank"></a></li>
+										<li class="twitter"><a href="https://twitter.com/Canoe" title="twitter" target="_blank"></a></li>
+										<li class="rss"><a href="/rss" title="rss" target="_blank"></a></li>
+										</ul>
+				</div>
+
+				<div class="footer-menu track_event" data-event-tracking="Footer - Menu">
+					<section><ul><li><a href="http://www.postmediasolutions.com/">Advertise</a></li>
+<li><a href="/rss">RSS</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="/contact-us">Contact Us</a></li>
+</ul></section>				</div>
+			</div>
+			<div class="bottom-footer">
+				<div class="copyright-block track_event" data-event-tracking="Footer - Copyrights">
+					<a href="https://www.postmedia.com" class="postmedia" title="postmedia" target="_blank"></a>
+					<div class="mice">&copy; 2018 Postmedia Network Inc. All rights reserved. <span>Unauthorized distribution, transmission or republication strictly prohibited.</span></div>
+					<div class="footer-menu">
+						<section><ul><li id="menu-item-389273" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389273"><a href="http://www.postmedia.com/">About Canoe</a></li>
+<li id="menu-item-389272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389272"><a href="https://pages.postmedia.com/privacy-statement/">Privacy</a></li>
+<li id="menu-item-389274" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389274"><a href="http://www.canada.com/aboutus/copyright.html">Copyright &amp; Permissions</a></li>
+</ul></section>					</div>
+				</div>
+							</div>
+		</div>
+	</footer>
+
+		
+</div><!-- #page -->
+
+		<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = {"settings":{"id":"main","ajaxurl":"https:\/\/canoe.com\/?infinity=scrolling","type":"click","wrapper":true,"wrapper_class":"infinite-wrap","footer":"page","click_handle":"1","text":"Older posts","totop":"Scroll back to top","currentday":null,"order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":0,"history":{"host":"canoe.com","path":"\/category\/sports\/football\/page\/%d","use_trailing_slashes":false,"parameters":""},"query_args":{"category_name":"football","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"tag":"","cat":1134,"tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"posts_per_page":10,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"last_post_date":"2018-09-19 16:02:07","stats":"blog=137895177&v=wpcom&tz=-4&user_id=0&subd=postmediacanoe&x_pagetype=infinite-click"}};
+		//]]>
+		</script>
+		<!-- wpcom_wp_footer -->
+<input type="hidden" id="dfp_weather_field_id" name="dfp_weather_field_id" value="481c3b3365" /><input type="hidden" name="_wp_http_referer" value="/category/sports/football" />			<script>
+				$ = jQuery.noConflict();
+
+				// dynamically load MG2 script to improve initial page load
+				function openNewsletterModal () {
+					var newsletterScript = document.getElementById('scriptMg2Widget');
+					if ( typeof newsletterScript.src == undefined || newsletterScript.src == '' ) {
+						newsletterScript.src = "";
+						newsletterScript.addEventListener( 'load', function () {
+				            mg2WidgetAPI.openNewsletter( { defaultCategoryId: "37" } );
+				        });
+					} else {
+						// script is already loaded
+						mg2WidgetAPI.openNewsletter( { defaultCategoryId: "37" } );
+					}
+			    }
+			</script>
+							<script id="scriptMg2Widget"></script>
+			
+			<div id="mg2Widget-newsletter-container"></div>
+					<div style="display:none" id="signIn"></div>
+		<div style="display:none" id="returnSocial"></div>
+		<div style="display:none" id="returnTraditional"></div>
+		<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201839y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="137895177" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://canoe.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="Canoe" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="9f45a90a4a" /><input type="hidden" name="_wp_http_referer" value="/category/sports/football" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/themes/vip/postmedia-theme-sun/classes/Postmedia/Web/Widgets/TvListings/css/tv_listings.css?m=1504039440h&cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='tv_listings_widget_css_external-css'  href='https://tvmds.tvpassport.com/tvmds/leader/css/tvmds-primetime.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-2' href='https://s2.wp.com/_static/??/wp-content/themes/vip/postmedia-theme-sun/classes/Postmedia/Web/Widgets/BecomeSunshineGirl/css/become_sunshine_girl_widget.css,/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1524699534j&cssminify=yes' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-4-2' href='https://s2.wp.com/_static/??-eJyljtEKwjAMRX/IGnSOPonfUrbQRtosLKni31snwtzr3nIPNyeBp7hhYkM2KNVJrpFYwSjj6GLIGefXfzoOqgdYrVnCggoPEpBJreBIwS3QaWUwLJKDtYamMBNHaILfvEPGQb4fUUuLck12iCtrIsaNfEs/B27leurPfecvnff3N0fcfec=?cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/canoe.com\/wp-admin\/admin-ajax.php","navigation_nonce":"5f51c666a2"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"0","is_front_page":"0","is_archive":"1","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/canoe.com\/wp-admin\/admin-ajax.php","nonce":"6e9ea6fd11","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/postmediacanoe.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fcanoe.com%2Fsports%2Ffootball%2Fsuper-bowl-ticketing-policies-to-be-examined-in-court","blog_id":"137895177","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=137895177&v=wpcom&tz=-4&user_id=0&subd=postmediacanoe","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJzFUstOI0EM/CE6HUCQ02q1d5AiAeKInGkneNIv2u6E4evxhJ1sRNiISCBu7Ue7qly262yaFAWjWHnEgGxXlG1OLAEdgcm+LijyTsbTrEDpbOOBWfunQ8Xe48ze9kPsDYpQXLC9Tq763aYreOmuEjjbsm2fKpZuxClCGQWKo5ZP7E8SysFr5DX6iI42OFxRg/n5fSnULS9PSx2vyio+QnQey4FminOKJN32cdQK3DwbcLxhHo2HXqH+TEvCT83ZJA3X2E8IsK94h2mLkqFZ2geKjZU1iWAxQgE9xWPRPjbqntwChe2dkNdNbB1TbvUt9bDetBxgeWZ6zHYDbSCC74QaPvABnBptZlBUP6skfZm0wlLIIf/LHTlBiq5qD/ZLznn6t//PIK5X+1+l3wcZplD07bfe61342i9Ni7yep1mLzZ5VA/RK15tsDyb8ZpfGuSAf8qqBkiqjH27RDAn98zv8Or04vzydTMYX4/YVcP/VSw=='></script>
+<script type='text/javascript' src='https://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJydjEEOgkAMRS/k2IiQ6MJ4loFpoDhTmmkH4u0luoKN0eV/+e/BIq6b2JANUnESS0+sYAuZYXZt9N2jpRycEALjjBk5EPfHUQ/wiyvfPYoYXO9jxPzcrr1lAyZUmElAJrWEgbx7Q6eFwTBJ9LY+lL18GrSucQf+zxbWgRi36T1c8/d0OzVV3Zzr66UaX8RjioQ='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">
+			jQuery.extend( infiniteScroll.settings.scripts, ["jquery-core","jquery-migrate","jquery","mobile-useragent-info","postmessage","jquery_inview","jetpack_resize","just_in_time_js","dfp-cookies","dfp-weather-cookie-handler","personalize_js","tag","postmedia-utils","postmedia-data","native-ad-script","sailthru-subscribe-script","video-icon-overlay","pn-video-script","postmedia_weather_js","spin","jquery.spin","grofiles-cards","wpgroho","jquery-sonar","pmlazyload","devicepx","jetpack_likes_queuehandler","the-neverending-homepage","dfp-get-lating-data","main","jetpack-twitter-timeline","utility_widget_js","wpcom-vip-analytics","wpcom-masterbar-js","wpcom-masterbar-tracks-js","pm_analytics_analytics_js","pm_analytics_mparticle_js","swfobject","videopress","jetpack-carousel","twitter-widgets","twitter-widgets-infinity","twitter-widgets-pending","tiled-gallery","snapgalleries-thesun-js","sunshinegalleries-thesun-js"] );
+			jQuery.extend( infiniteScroll.settings.styles, ["fp-watchlist-alerts-css","wpcom-smileys","jetpack_likes","the-neverending-homepage","wpcom-core-compat-playlist-styles","wpcom-text-widget-styles","mp6hacks","wpcom-bbpress2-staff-css","taxonomy-image-plugin-public","newsletter_front_css","main","schema","sailthru-newsletter-css","jetpack-widget-social-icons-styles","sailthru-subscribe-widget-styles","utility_widget_css","noticons","geo-location-flair","reblogging","weather_widget","h4-global","tv_listings_widget_css","become_sunshine_girl_widget.css","jetpack-carousel","tiled-gallery","social-sharing-css","snapgalleries-thesun-css","sunshinegalleries-thesun-css","tv_listings_widget_css_external","jetpack-carousel-ie8fix"] );
+		</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'137895177','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'137895177','v':'wpcom','tz':'-4','user_id':'0','subd':'postmediacanoe'}]);
+function st_vt() {var x=document.createElement("img");x.src="https://pixel.wp.com/g.gif?blog=137895177&v=wpcomvt&tz=-4&user_id=0&subd=postmediacanoe&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTc/MUhXW11WSmguZHBnMVY9WDQucUFSZy1GV1NuaFRQTmNMbW00WXQyV0d4YkZGVWdsV00rY2hKcjN4dV0wbURBT3kxbjZiRkEtckViVnZnaF15Q2xdQ0pINU5pMDEmUEIwRklhfDVHXVtaaHNkUmR0TEhMTHpzYnRHXUJMRUY4d1tTfEksLjIrZ2FGYS9YJkZreTRhWnZSemgvXWkzc35OLmcvMw=='}]);
+_stq.push([ 'clickTrackerInit', '137895177', '0' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+			<!-- Chartbeat Code Begins -->
+			<script type="text/javascript">
+				var _sf_async_config={};
+				_sf_async_config.uid = 34988;
+				_sf_async_config.domain = "postmedia.com";
+				_sf_async_config.useCanonical = true;
+				_sf_async_config.sections = "canoe.com";
+				_sf_async_config.videoPageGroups = true;
+
+				
+				( function(){
+					function loadChartbeat() {
+						window._sf_endpt=(new Date()).getTime();
+						var e = document.createElement('script');
+						e.setAttribute('language', 'javascript');
+						e.setAttribute('type', 'text/javascript');
+						e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+						document.body.appendChild(e);
+					}
+					var oldonload = window.onload;
+					window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+				})();
+			</script>
+			<!-- Chartbeat Code Ends -->
+				<!-- Google Code for Remarketing Tag -->	
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 990309138;
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+		</script>
+				<noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990309138/?value=0&amp;guid=ON&amp;script=0"/>
+			</div>
+		</noscript>		
+					<script>
+				document.write('<scr' + 'ipt async type="text/javascript" src="//c.jsrdn.com/s/cs.js?p=22507"><\/sc' + 'ript>');
+			</script>
+			<div id="ds_default_anchor"></div>
+			<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

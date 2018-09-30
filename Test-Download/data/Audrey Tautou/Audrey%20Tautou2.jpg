@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2016 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Kommunales Kino, Esslingen: Kommunales Kino Esslingen</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<link rel="stylesheet" type="text/css" href="typo3temp/Assets/22b408405b.css?1466087047" media="all">
+<link rel="stylesheet" type="text/css" href="typo3temp/Assets/29714ac280.css?1474381159" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/jh_magnificpopup/Resources/Public/css/magnific-popup.css?1474283727" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/Cinema.css?1525686863" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/ck_cinema/Resources/Public/Css/Carousel.css?1522852246" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/femanager/Resources/Public/Css/Main.css?1521472052" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/styles.css?1525867281" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/schienen.css?1521550147" media="all">
+
+
+
+<script src="typo3conf/ext/ck_cinema/Resources/Public/Js/jquery-1.11.3.min.js?1522852248" type="text/javascript"></script>
+<script src="typo3conf/ext/ck_cinema/Resources/Public/Js/Cinema.js?1522852248" type="text/javascript"></script>
+<script src="fileadmin/templates/js/main.js?1473082436" type="text/javascript"></script>
+<script src="typo3temp/Assets/dd82474708.js?1466174535" type="text/javascript"></script>
+
+
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/freecssdropdownmenu/res/css/dropdown/dropdown.css" /><link rel="stylesheet" type="text/css" href="fileadmin/templates/menu/default.css" /><link href="fileadmin/templates/extensions/direct_mail_subscription/pi/DM_subscription.css" media="screen" rel="stylesheet" type="text/css"><link href="fileadmin/templates/css/column.css" media="screen" rel="stylesheet" type="text/css">
+</head>
+<body class="fe-0" id="page-3">
+﻿<div id="stage">
+<div id="socialmedia_1"><a href="https://www.facebook.com/KoKi.Esslingen" target="_blank"><img src="fileadmin/default/picts/icons/spacer.png" width="25" height="25" /></a></div>
+<div id="socialmedia_2"><a href="index.php?id=84" target="_self"><img src="fileadmin/default/picts/icons/spacer.png" width="25" height="25" /></a></div>
+<div id="header">
+<div id="header_container">
+<div id="logo_container"><a href="index.php" target="_self"><img src="fileadmin/default/picts/icons/spacer.png" width="500" height="40" style="margin-top:-20px;" /></a></div>
+<div id="image_container">
+<div class="tx-ck-cinema">
+	
+    
+        <script type="text/javascript">
+            jQuery(document).ready(function ($) {
+
+                var jssor_1_options = {
+                    $AutoPlay: false,
+                    $AutoPlaySteps: 1,
+                    $SlideDuration: 160,
+                    $SlideWidth: 93,
+                    $SlideSpacing: 15,
+                    $Cols: 6,
+                    $ArrowNavigatorOptions: {
+                        $Class: $JssorArrowNavigator$,
+                        $Steps: 1
+                    },
+                    $BulletNavigatorOptions: {
+                        $Class: $JssorBulletNavigator$,
+                        $SpacingX: 1,
+                        $SpacingY: 1
+                    }
+                };
+
+                var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+            });
+        </script>
+    
+    <div class="carousel-container" id="jssor_1" style="position: relative; margin: 0 auto; top: 15px; left: 0px; width: 950px; height: 150px; overflow: hidden; visibility: hidden;">
+        <!-- Loading Screen -->
+        <div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
+            <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
+            <div style="position:absolute;display:block;background:url('img/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
+        </div>
+        <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 800px; height: 150px; overflow: hidden;">
+            
+            <div style="display: none;">
+                
+                        <a href="index.php?id=81&amp;tx_ckcinema_pi1%5BshowUid%5D=2289&amp;tx_ckcinema_pi1%5BmovieUid%5D=2014&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=345c76ad78377c9926e429d9793f5214">
+                            <img data-u="image" alt="image1" src="fileadmin/_processed_/8/f/csm_988c8f07dd834dfe4cb241c8877cf7dc9760992c_1fdd707505.jpg" width="93" height="131" />
+                        </a>
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        <a href="index.php?id=81&amp;tx_ckcinema_pi1%5BshowUid%5D=2290&amp;tx_ckcinema_pi1%5BmovieUid%5D=2008&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=4da6179e27c179995070c883ad0f9996">
+                            <img data-u="image" alt="image2" src="fileadmin/_processed_/b/6/csm_dont-worry-weglaufen-geht-nicht_7cef63f79f.jpg" width="93" height="131" />
+                        </a>
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2291&amp;tx_ckcinema_pi1%5BmovieUid%5D=2011&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=c5eb70929df612346a36ea7f82d200ae">
+                                                <img data-u="image" alt="image3" src="fileadmin/_processed_/7/6/csm_julie_und_julia_e7cb6b3c5e.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=98&amp;tx_ckcinema_pi1%5BshowUid%5D=2292&amp;tx_ckcinema_pi1%5BmovieUid%5D=2016&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=f45e50b29edfc0871c3412e21f38d822">
+                                                <img data-u="image" alt="image4" src="fileadmin/_processed_/c/2/csm_gundermann_artwork_kinoplakat-b_din-a4_1__bb7c95a965.jpg" width="90" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        <a href="index.php?id=81&amp;tx_ckcinema_pi1%5BshowUid%5D=2293&amp;tx_ckcinema_pi1%5BmovieUid%5D=2015&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=0e24b3c329f4c8b565af7d626a25abe5">
+                            <img data-u="image" alt="image5" src="fileadmin/_processed_/0/6/csm_prinzip-montessori-das_14b3512850.jpg" width="93" height="131" />
+                        </a>
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        <a href="index.php?id=81&amp;tx_ckcinema_pi1%5BshowUid%5D=2294&amp;tx_ckcinema_pi1%5BmovieUid%5D=2017&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=d2c21f47528ec2782f3baa8c50a758bb">
+                            <img data-u="image" alt="image6" src="fileadmin/_processed_/b/e/csm_nach-dem-urteil_d0848b6b84.jpg" width="93" height="131" />
+                        </a>
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2317&amp;tx_ckcinema_pi1%5BmovieUid%5D=1541&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=dd8394c29545995f6251b16a3a79ba19">
+                                                <img data-u="image" alt="image7" src="fileadmin/_processed_/9/f/csm_burg-schreckenstein_1a2a8ed49e.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2318&amp;tx_ckcinema_pi1%5BmovieUid%5D=1680&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=028c7a740ca2f81494afb64f96cf5eb2">
+                                                <img data-u="image" alt="image8" src="fileadmin/_processed_/b/1/csm_pippi-in-taka-tuka-land_2ae3ccf637.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2319&amp;tx_ckcinema_pi1%5BmovieUid%5D=2021&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=c9e8beca35fc74e8e3c33f2257e038eb">
+                                                <img data-u="image" alt="image9" src="fileadmin/_processed_/f/a/csm_luis-und-die-aliens-2_77e958f586.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        <a href="index.php?id=81&amp;tx_ckcinema_pi1%5BshowUid%5D=2300&amp;tx_ckcinema_pi1%5BmovieUid%5D=1942&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=c34e1d12b59f5fc6f8a5a98f668df0da">
+                            <img data-u="image" alt="image10" src="fileadmin/_processed_/0/6/csm_kindheit-kinoplakat_2553d88408.jpg" width="93" height="131" />
+                        </a>
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2354&amp;tx_ckcinema_pi1%5BmovieUid%5D=1878&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=6fbe6d987ccb92424b46c7451ca117cb">
+                                                <img data-u="image" alt="image11" src="fileadmin/_processed_/4/9/csm_lazi-akademie-poster_ed21629b9b.jpg" width="94" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2302&amp;tx_ckcinema_pi1%5BmovieUid%5D=1617&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=ef019f2629a068a83a6ac7d9a8dc4601">
+                                                <img data-u="image" alt="image12" src="fileadmin/_processed_/0/c/csm_united-kingdom-a_1708b0416a.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2303&amp;tx_ckcinema_pi1%5BmovieUid%5D=2018&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=0d0810137f05bb31fecfcf6ae68810df">
+                                                <img data-u="image" alt="image13" src="fileadmin/_processed_/8/3/csm_symphony-of-now_dd663efd0d.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2351&amp;tx_ckcinema_pi1%5BmovieUid%5D=1967&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=3dc2173aa71bd373bbcb9706a6c414b8">
+                                                <img data-u="image" alt="image14" src="fileadmin/_processed_/c/3/csm_Tanz-ins-Leben-Trailer-Deutsch-rcm590x842u_c994b48392.jpg" width="92" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2352&amp;tx_ckcinema_pi1%5BmovieUid%5D=1956&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=6700b1573cb91ea0ba697f3b5a7ff656">
+                                                <img data-u="image" alt="image15" src="fileadmin/_processed_/c/9/csm_gruene-luege-die_9a6364b684.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2353&amp;tx_ckcinema_pi1%5BmovieUid%5D=1540&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=718d4e2a590574ed70f8496770dd24e5">
+                                                <img data-u="image" alt="image16" src="fileadmin/_processed_/a/9/csm_zafir-der-schwarze_hengst_01c7d43239.jpg" width="94" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        <a href="index.php?id=81&amp;tx_ckcinema_pi1%5BshowUid%5D=2355&amp;tx_ckcinema_pi1%5BmovieUid%5D=1999&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=c6c3115606d4a2465fc4b8c13d2a84e6">
+                            <img data-u="image" alt="image17" src="fileadmin/_processed_/a/b/csm_halaleluja-kinoplakat_1f05ebaec8.jpg" width="93" height="131" />
+                        </a>
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        <a href="index.php?id=81&amp;tx_ckcinema_pi1%5BshowUid%5D=2356&amp;tx_ckcinema_pi1%5BmovieUid%5D=2030&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=9a8333b3b07e43dfc66c58ce48c978f4">
+                            <img data-u="image" alt="image18" src="fileadmin/_processed_/1/3/csm_gruener-wirds-nicht-sagte-der-gaertner-2_b478e6b2ca.jpg" width="93" height="131" />
+                        </a>
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=98&amp;tx_ckcinema_pi1%5BshowUid%5D=2357&amp;tx_ckcinema_pi1%5BmovieUid%5D=2025&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=5069b0d0f268a147732b6eabf66037b6">
+                                                <img data-u="image" alt="image19" src="fileadmin/_processed_/0/1/csm_blackkklansman_5d7755cce9.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2358&amp;tx_ckcinema_pi1%5BmovieUid%5D=845&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=150265c4a963aac7afa387baf3f1c503">
+                                                <img data-u="image" alt="image20" src="fileadmin/_processed_/2/9/csm_lola-auf-der-erbse_8159e5dc60.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2359&amp;tx_ckcinema_pi1%5BmovieUid%5D=2024&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=36844eeb75c6513270fbef3d3986b803">
+                                                <img data-u="image" alt="image21" src="fileadmin/_processed_/7/b/csm_blanka-kinoplakat_ac72fcd759.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2362&amp;tx_ckcinema_pi1%5BmovieUid%5D=2042&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=3c94a67b84b057753563800477f83aac">
+                                                <img data-u="image" alt="image22" src="fileadmin/_processed_/8/1/csm_gans-im-glueck_c69ae77f5b.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2365&amp;tx_ckcinema_pi1%5BmovieUid%5D=2031&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=79218e071bf928d1dc136a834a43e11e">
+                                                <img data-u="image" alt="image23" src="fileadmin/_processed_/0/0/csm_nicht-schon-wieder-rudi_aebfd310bf.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2368&amp;tx_ckcinema_pi1%5BmovieUid%5D=1905&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=6024de4fcc365140e14d71e0ebfabd15">
+                                                <img data-u="image" alt="image24" src="fileadmin/_processed_/2/7/csm_Sneak-PreviewKrimi_2018_6127f7829e.jpg" width="94" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2371&amp;tx_ckcinema_pi1%5BmovieUid%5D=1993&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=4ad1b37dd07fd5468827894438a1af46">
+                                                <img data-u="image" alt="image25" src="fileadmin/_processed_/1/6/csm_global-family_7c1c1e0733.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        <a href="index.php?id=81&amp;tx_ckcinema_pi1%5BshowUid%5D=2372&amp;tx_ckcinema_pi1%5BmovieUid%5D=2034&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=bd5a2db9486b10cd392134991589d969">
+                            <img data-u="image" alt="image26" src="fileadmin/_processed_/8/7/csm_book-club_9f90855a38.jpg" width="93" height="131" />
+                        </a>
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=98&amp;tx_ckcinema_pi1%5BshowUid%5D=2373&amp;tx_ckcinema_pi1%5BmovieUid%5D=2029&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=98979d3f6820b422829f14164873a528">
+                                                <img data-u="image" alt="image27" src="fileadmin/_processed_/a/b/csm_kindeswohl_d851a4b956.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        <a href="index.php?id=81&amp;tx_ckcinema_pi1%5BshowUid%5D=2374&amp;tx_ckcinema_pi1%5BmovieUid%5D=2035&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=faaae2b6fb0c2faf224c7662337a632b">
+                            <img data-u="image" alt="image28" src="fileadmin/_processed_/3/c/csm_sweet-country_d524ba6576.jpg" width="93" height="131" />
+                        </a>
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2375&amp;tx_ckcinema_pi1%5BmovieUid%5D=1857&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=7d9da64c628c166db47a8a67a5405f19">
+                                                <img data-u="image" alt="image29" src="fileadmin/_processed_/b/1/csm_mein-freund-die-giraffe_736665d125.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <div style="display: none;">
+                
+                        
+                            
+
+                                    
+                                            <a href="index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2389&amp;tx_ckcinema_pi1%5BmovieUid%5D=2032&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=59970e3d3347dbe503689fd0a1ae01e3">
+                                                <img data-u="image" alt="image30" src="fileadmin/_processed_/d/c/csm_iuventa_29614c67a2.jpg" width="93" height="131" />
+                                            </a>
+                                        
+                                
+                        
+                    
+            </div>
+            
+            <a data-u="ad" href="http://www.jssor.com" style="display:none">Bootstrap Slider</a>
+        </div>
+        <!-- Bullet Navigator -->
+        <div data-u="navigator" class="jssorb03" style="bottom:10px;right:10px;">
+            <!-- bullet navigator item prototype -->
+            <div data-u="prototype" style="width:21px;height:21px;">
+                <div data-u="numbertemplate"></div>
+            </div>
+        </div>
+        <!-- Arrow Navigator -->
+        <span data-u="arrowleft" class="jssora03l" style="top:0px;left:-80px;width:55px;height:84px;background: #800000;" data-autocenter="2"><span class="arrl"></span></span>
+        <span data-u="arrowright" class="jssora03r" style="top:0px;right:110px;width:55px;height:84px;background: #800000;" data-autocenter="2"><span class="arrr"></span></span>
+
+
+    </div>
+
+</div>
+</div>
+
+<div id="impnav">
+</div>
+
+</div>
+</div>
+
+<div id="content_container">
+<div id="links">
+<div id="tnav"><ul class="dropdown dropdown-horizontal"><li class="toplevel"><a href="index.php?id=4" title="Verein">VEREIN</a><ul class="dropdown-bg"><li class="dropdown-item"><a href="index.php?id=8" title="UNSER TEAM">UNSER TEAM</a></li><li class="dropdown-item"><a href="index.php?id=9" title="Mitgliedschaft">MITGLIEDSCHAFT</a></li><li class="dropdown-item"><a href="index.php?id=337" title="Mitmachen">MITMACHEN</a></li><li class="dropdown-item"><a href="index.php?id=10" title="Konzeption">KONZEPTION</a></li><li class="dropdown-item"><a href="index.php?id=12" title="Meilensteine">MEILENSTEINE</a></li><li class="dropdown-item"><a href="index.php?id=11" title="Satzung">SATZUNG</a></li></ul><span class="dir"></span></li><li class="toplevel"><a href="index.php?id=5" title="Kino">KINO</a><ul class="dropdown-bg"><li class="dir last"><a href="index.php?id=83" title="Barrierefreiheit">Barrierefreiheit</a><ul class="dropdown-bg"><li class="dropdown-item"><a href="index.php?id=84" title="Audiodeskription">AUDIODESKRIPTION</a></li><li class="dropdown-item"><a href="index.php?id=85" title="Service für Hörbeeinträchtigte">SERVICE FÜR HÖRBEEINTRÄCHTIGTE</a></li></ul></li></ul><span class="dir"></span></li><li class="toplevel"><a href="index.php?id=6" title="Kontakt">KONTAKT</a><ul class="dropdown-bg"><li class="dropdown-item"><a href="index.php?id=154" title="Kontaktformular">KONTAKTFORMULAR</a></li><li class="dropdown-item"><a href="index.php?id=349" title="NEWSLETTER">NEWSLETTER</a></li><li class="dropdown-item"><a href="index.php?id=87" title="Filmeinreichungen">FILMEINREICHUNGEN</a></li></ul><span class="dir"></span></li><li class="toplevel"><a href="index.php?id=352" title="Impressum">IMPRESSUM</a></li><li class="toplevel"><a href="index.php?id=351" title="Datenschutzerklärung">DATENSCHUTZERKLÄRUNG</a></li><li class="toplevel"><a href="index.php?id=138" title="Suche">SUCHE</a></li></ul>
+</div>
+<div id="programm_container">
+<div id="programm_nav">
+<ul id='programm_nav'><li><a href="index.php?id=14&amp;no_cache=1">HAUPTPROGRAMM</a></li><li><a href="index.php?id=15">SPECIALS</a></li><li><a href="index.php?id=17">GONZO! KINDERKINO</a></li><li><a href="index.php?id=18">JUNGES KINO</a></li><li><a href="index.php?id=20">KINO AUF DER BURG</a></li><li><a href="index.php?id=51">SCHULKINO</a></li><li><a href="index.php?id=37">KRIMITAGE</a></li><li><a href="index.php?id=67">QUEERFILM</a></li><li><a href="index.php?id=77">KINO AM CAMPUS</a></li><li><a href="index.php?id=23">FILM-ARCHIV</a></li></ul>
+</div>
+</div>
+
+</div>
+
+	<div id="content_right">
+			<div id="c303" class="csc-default layout-0"><div class="csc-header csc-header-n1"><h1 class="csc-firstHeader">FILM &amp; ELEKTRO-PARTY</h1></div><div class="csc-textpic csc-textpic-center csc-textpic-below"><div class="csc-textpic-text"><p class="bodytext"><b>2. OKTOBER | 21:15 Uhr</b></p>
+<p class="bodytext"><b><a href="https://koki-es.de/index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2303&amp;tx_ckcinema_pi1%5BmovieUid%5D=2018&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=0d0810137f05bb31fecfcf6ae68810df" target="_top">&gt; SYMPHONY OF NOW</a></b></p></div><div class="csc-textpic-imagewrap" data-csc-images="1" data-csc-cols="2"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><figure class="csc-textpic-image csc-textpic-last"><a href="https://koki-es.de/index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2303&amp;tx_ckcinema_pi1%5BmovieUid%5D=2018&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=0d0810137f05bb31fecfcf6ae68810df" target="_blank"><img src="fileadmin/_processed_/8/3/csm_symphony-of-now_e497e103e5.jpg" width="166" height="235" alt=""></a></figure></div></div></div></div></div><div id="c1406" class="csc-default layout-0"></div><div id="c1510" class="csc-default layout-0"><div id="c429" class="csc-default layout-0"><div class="csc-header csc-header-n1"><h1 class="csc-firstHeader">30. QueerFilmFestival Esslingen</h1></div><div class="csc-textpic csc-textpic-center csc-textpic-below"><div class="csc-textpic-text"><p class="bodytext"><b>Programm ab ca. 8. Oktober</b></p>
+<p class="bodytext"><b>VVK-Start am 15. Oktober</b></p></div><div class="csc-textpic-imagewrap" data-csc-images="1" data-csc-cols="1"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><figure class="csc-textpic-image csc-textpic-last"><a href="fileadmin/_processed_/d/5/csm_mockup_2_9be2b8d66e.jpg" class="magnificpopup" rel="magnificpopup[429]"><img src="fileadmin/_processed_/d/5/csm_mockup_2_ebbdb82edb.jpg" width="166" height="164" alt=""></a><figcaption class="csc-textpic-caption">© Teodor Constantin</figcaption></figure></div></div></div></div></div></div>
+        </div>
+	<div id="content_main">
+		<div id="c1" class="csc-default layout-0"><div class="csc-header csc-header-n1"><h1 class="csc-firstHeader">Liebes Publikum!</h1></div><div class="csc-textpic-text"><p class="bodytext"><br /></p></div></div><div id="c9" class="csc-default layout-0"><div class="csc-textpic-text"><p class="bodytext">Im September nähern wir uns nach dem etwas reduzierten Sommerprogramm allmählich wieder unserem regulären Angebot an: das<b> <a href="index.php?id=17">&gt; GONZO! KINDERKINO</a></b>, das <b><a href="https://koki-es.de/index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2246&amp;tx_ckcinema_pi1%5BmovieUid%5D=1953&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=028bdd2cdc96e798b370114c594e81df" target="_blank">&gt; FILM-CAFÉ</a></b> und unsere<b> <a href="https://koki-es.de/index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2261&amp;tx_ckcinema_pi1%5BmovieUid%5D=1017&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=dbcfde2b1e7383d3a2a32f8e75d51a26" target="_blank">&gt; SNEAK-PREVIEW</a></b> sind bereits wieder am Start, <b>Frühstück &amp; Film</b>,<b> Film &amp; Disco</b> sowie das <b>Zukunftskino</b> wird es wieder ab Oktober geben. </p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext">Mit dem schönen, begeisternden Dokumentarfilm <a href="https://koki-es.de/index.php?id=96&amp;tx_ckcinema_pi1%5BshowUid%5D=2288&amp;tx_ckcinema_pi1%5BmovieUid%5D=2015&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=66f795ca6bf50607491b2ce98f248acd" target="_blank"><b>&gt; DAS PRINZIP MONTESSORI</b></a> steigen wir gemeinsam mit der Esslinger Silcherschule und deren Förderverein auch wieder in unser Film &amp; Talk-Format ein. Zu diesem Film ergänzt sich übrigens der norwegische Dokumentarfilm über Waldkindergärten <b><a href="https://koki-es.de/index.php?id=81&amp;tx_ckcinema_pi1%5BshowUid%5D=2284&amp;tx_ckcinema_pi1%5BmovieUid%5D=1942&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=9f1716c4ddca02e646c4995435d3310d" target="_blank">&gt; KINDHEIT</a> </b>ganz wunderbar und wir erfüllen damit auch unser Versprechen, ihm eine 2nd Chance einzuräumen.</p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext">Gleich zweimal haben wir uns für eine Kooperation mit dem Stadtmuseum Esslingen zusammengetan. Die interaktive Ausstellung für die ganze Familie <b>&quot;Von hier nach dort&quot;</b> läuft noch bis zum 7. Oktober im Schwörhaus und beschäftigt sich mit Orientierung, mit dem Unterwegssein und Ankommen. Und das tun unsere kleinen realen oder animierten Kinohelden wie die Kinder <b><a href="https://koki-es.de/index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2306&amp;tx_ckcinema_pi1%5BmovieUid%5D=337&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=352f866ace8fa7bfb87d66fd873fa4ee" target="_blank">&gt; AUF DEM WEG ZUR SCHULE</a></b>, <b><a href="https://koki-es.de/index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2318&amp;tx_ckcinema_pi1%5BmovieUid%5D=1680&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=028c7a740ca2f81494afb64f96cf5eb2" target="_blank">&gt; PIPPI LANGSTRUMPF</a>,</b> <b><a href="https://koki-es.de/index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2309&amp;tx_ckcinema_pi1%5BmovieUid%5D=1724&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=7372be7146caf77d45b8677d73fc7b45" target="_blank">&gt; LOUIS UND LUCA</a> </b>oder die beiden Jungs aus dem Wüstenabenteuer<a href="https://koki-es.de/index.php?id=82&amp;tx_ckcinema_pi1%5BshowUid%5D=2312&amp;tx_ckcinema_pi1%5BmovieUid%5D=1723&amp;tx_ckcinema_pi1%5Baction%5D=detail&amp;tx_ckcinema_pi1%5Bcontroller%5D=Program&amp;cHash=a1a36198b601415351bc046c2e82050d" target="_blank"> <b>&gt; KARAKUM</b></a><b> </b>auch. Bis zum 14. Oktober kann im Stadtmuseum im Gelben Haus noch die Ausstellung <b>&quot;In aller Munde&quot; </b>besichtigt werden. Wie in unserer kleinen Filmreihe, die wir flankierend dazu zeigen, werden die unterschiedlichsten Aspekte unserer Esskultur beleuchtet! </p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext"><b><span class="gesamt">Wir wünschen Ihnen schöne Spätsommertage und freuen uns auf Sie!</span></b></p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext"><b><span class="gesamt">Ihr Kinoteam</span></b></p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext">&nbsp;</p><table border="0" cellpadding="0" cellspacing="0" width="168" class="contenttable"><tbody> </tbody></table><table border="0" cellpadding="0" cellspacing="0" width="168" class="contenttable"> </table><p class="bodytext">&nbsp;</p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext">&nbsp;</p></div></div>
+	</div>
+
+
+</div>
+</div>
+<script src="typo3conf/ext/jh_magnificpopup/Resources/Public/js/jquery.magnific-popup.min.js?1473864896" type="text/javascript"></script>
+<script src="typo3conf/ext/jh_magnificpopup/Resources/Public/js/jquery.filter-isImageFile.min.js?1473864896" type="text/javascript"></script>
+<script src="typo3conf/ext/jh_magnificpopup/Resources/Public/js/jquery.mfpInlineFunctions.min.js?1473864896" type="text/javascript"></script>
+<script src="typo3conf/ext/femanager/Resources/Public/JavaScripts/jquery.fineuploader-3.5.0.min.js?1521472052" type="text/javascript"></script>
+<script src="typo3conf/ext/ck_cinema/Resources/Public/Js/jssor.slider.mini.js?1522852248" type="text/javascript"></script>
+<script src="typo3conf/ext/femanager/Resources/Public/JavaScripts/Validation.js?1521472052" type="text/javascript"></script>
+<script src="typo3conf/ext/femanager/Resources/Public/JavaScripts/Femanager.js?1521472052" type="text/javascript"></script>
+<script src="typo3temp/Assets/4c532e4f4c.js?1470406735" type="text/javascript"></script>
+
+
+</body>
+</html>

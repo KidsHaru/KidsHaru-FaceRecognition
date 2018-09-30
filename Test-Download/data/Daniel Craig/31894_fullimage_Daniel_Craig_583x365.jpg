@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8" />
+	<link href="https://fonts.googleapis.com/css?family=Maven+Pro" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+	<div class="main">
+		<div class="scrolling-wrapper">
+			<div class="error container">Sorry, helaas is er iets misgegaan. Probeer het nogmaals.</div>
+			<div class="header">
+				<h1 class="title container">Wij maken gebruik van cookies.</h1>
+			</div>
+			<div class="content-wrapper">
+				<div class="content container">
+					<p>Op deze en andere websites en apps van Talpa Network maken wij gebruik van cookies en andere soortgelijke technieken. Wij plaatsen en gebruiken verschillende soorten cookies voor de volgende doeleinden:</p>
+					<div class="two-columns-content">
+						<p><strong>Functionele cookies:</strong> Om onze websites en apps goed te laten werken.</p>
+						<p><strong>Analytische cookies:</strong> Voor het verzamelen en analyseren van statistieken om de ervaring op onze websites en apps en de effectiviteit van advertenties te verbeteren.</p>
+						<p><strong>Tracking cookies:</strong> Om persoonlijke profielen van je op te bouwen zodat we je gerichte content en advertenties kunnen tonen die aansluiten bij je interesses.</p>
+						<p><strong>Social cookies:</strong> Om je in staat te stellen je reactie te delen door middel van ‘likes’ of commentaar.</p>
+					</div>
+					<p>Daarnaast kunnen derde partijen (die zich deels buiten de EU bevinden) cookies op onze websites en apps plaatsen, waaronder tracking cookies die ook gebruikt kunnen worden om een profiel van je op te bouwen. Tracking cookies hebben mogelijk impact op je privacy.</p>
+					<p>Wil je meer informatie over wat cookies zijn, welke specifieke soorten cookies we waarom gebruiken en hoe je hierop controle kunt uitoefenen? Dan verwijzen we je naar onze <a href="https://privacy.talpanetwork.com/nl/cookies/" target="_blank">Cookie Policy</a> en onze <a href="https://privacy.talpanetwork.com/nl/privacy/" target="_blank">Privacy Policy</a>.</p>
+					<p>Door hieronder je toestemming te geven, stem je er mee in dat we cookies plaatsen en uitlezen op al onze websites en apps (<a href="https://privacy.talpanetwork.com/nl/cookies/#c1" target="_blank">zie dit overzicht</a>) en deze verzamelde gegevens combineren.</p>
+				</div>
+			</div>
+		</div>
+		<div class="button-wrapper container">
+			<button type="button" onclick="acceptCookies(event);">Akkoord en doorgaan</button>
+		</div>
+	</div>
+
+	<script src="./env.js" type="text/javascript"></script>
+	<script src="./main.js" type="text/javascript"></script>
+</body>
+</html>
