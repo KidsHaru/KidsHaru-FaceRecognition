@@ -1,4 +1,4 @@
-import face_recognition
+import face_api
 import cv2
 import os
 import camera
@@ -16,12 +16,12 @@ class FaceRecog():
         files = os.listdir(dirname)
         for filename in files:
             name, ext = os.path.splitext(filename)
-            if ext == '.jpg' or ext == '.png':
+            if ext == '.jpg':
                 self.known_face_names.append(name)
                 pathname = os.path.join(dirname, filename)
-                img = face_recognition.load_image_file(pathname)
-                face_encoding = face_recognition.face_encodings(img)[0]
-                self.face_recognition.append(face_encoding)
+                img = face_api.load_image_file(pathname)
+                face_encoding = face_api.face_encodings(img)[0]
+                self.known_face_encodings.append(face_encoding)
 
         # Initialize some variables
         self.face_locations = []
@@ -45,13 +45,13 @@ class FaceRecog():
         # 비디오 프레임만 처리하여 시간 절약
         if self.process_this_frame:
             # 얼굴과 얼굴 인코더를 찾는다
-            self.face_locations = face_recognition.face_locations(rgb_small_frame)
-            self.face_encodings = face_recognition.face_encodings(rgb_small_frame, self.face_locations)
+            self.face_locations = face_api.face_locations(rgb_small_frame)
+            self.face_encodings = face_api.face_encodings(rgb_small_frame, self.face_locations)
 
             self.face_names = []
             for face_encoding in self.face_encodings:
                 # 얼굴이 알려진 얼굴과 일치하는지 확인한다
-                distances = face_recognition.face_distance(self.known_face_encodings, face_encoding)
+                distances = face_api.face_distance(self.known_face_encodings, face_encoding)
                 min_value = min(distances)
 
                 # 0.6 대표적인 성는으로 테스트한다
