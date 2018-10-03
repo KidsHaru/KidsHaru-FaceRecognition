@@ -1,6 +1,6 @@
 # face_recog.py
 
-import face_recognition
+import Face-Recognition
 import cv2
 import camera
 import os
