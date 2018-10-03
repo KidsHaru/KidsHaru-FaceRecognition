@@ -1,11 +1,13 @@
+# -*- coding: utf-8 -*-
 from __future__ import print_function
 import click
 import os
 import re
-import face_model
+import api as face_recognition
 import multiprocessing
 import sys
 import itertools
+
 
 def print_result(filename, location):
     top, right, bottom, left = location
@@ -30,6 +32,7 @@ def process_images_in_process_pool(images_to_check, number_of_cpus, model):
     else:
         processes = number_of_cpus
 
+    # macOS will crash due to a bug in libdispatch if you don't use 'forkserver'
     context = multiprocessing
     if "forkserver" in multiprocessing.get_all_start_methods():
         context = multiprocessing.get_context("forkserver")
