@@ -5,7 +5,6 @@ import camera
 import numpy as np
 
 class FaceRecog():
-
     # 웹캠에서 아래 내용을 메모하고 비디오 파일을 사용합니다
     def __init__(self):
         self.camera = camera.VideoCamera()

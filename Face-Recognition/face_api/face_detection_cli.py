@@ -46,7 +46,6 @@ def process_images_in_process_pool(images_to_check, number_of_cpus, model):
 
     pool.starmap(test_image, function_parameters)
 
-
 @click.command()
 @click.argument('image_to_check')
 @click.option('--cpus', default=1, help='number of CPU cores to use in parallel. -1 means "use all in system"')
