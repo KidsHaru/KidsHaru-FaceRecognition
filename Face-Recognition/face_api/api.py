@@ -57,7 +57,6 @@ def _raw_face_locations(img, number_of_times_to_upsample=1, model="hog"):
 
 # 사람 얼굴의 경계 상자 배열 반환
 def face_locations(img, number_of_times_to_upsample=1, model="hog"):
-    
     if model == "cnn":
         return [_trim_css_to_bounds(_rect_to_css(face.rect), img.shape) for face in _raw_face_locations(img, number_of_times_to_upsample, "cnn")]
     else:
