@@ -1,7 +1,10 @@
+import os
 import json
 import requests
 from picture_utility import picture_class as pc
 from picture_utility import picture_download as pd
+from picture_utility import picture_search as ps 
+from picture_utility import picture_detect as pd
 
 # https://docs.google.com/document/d/1lwofKqyqlq--8LuiqjpFgP4R-7mPNt0JT5QwAcu_MRA/edit
 # FaceRecognition <-> Server
@@ -9,20 +12,12 @@ from picture_utility import picture_download as pd
 # https://kidsharu.github.io/KidsHaru-APIDoc/
 # 자세한 API 문서
 
-url = "https://fc3i3hiwel.execute-api.ap-northeast-2.amazonaws.com/develop/pictures/processing"
-
-'''
-# data get - 수정 필요
-try:
-    # URL에서 정보 얻기
-    response = requests.get(url)
-
-    # 데이터 추가
-    data = pc.picture_data()
-    data.append_data(response)
-except:
-    print("URL 주소 인식 실패")
-'''
+path_dir = "./picture_utility/picture_before"
+for (path, dir, files) in os.walk(path_dir):
+    for filename in files:
+        ext = os.path.splitext(filename)[-1]
+        if ext == '.jpg' or ext == '.png':
+            print("%s/%s" % (path, filename))
 
 '''
 # picture download - 수정 필요
@@ -37,5 +32,3 @@ try:
 except:
     print("사진을 저장하는데 실패하였습니다.")
 '''
-
-

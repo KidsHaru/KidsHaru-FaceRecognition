@@ -5,6 +5,8 @@ class picture_data:
         self.picture_id = []    # picture_id
         self.status = []        # status (processing)
         self.picture_url = []   # picture_url (http:// ... .jpg)
+        self.box = []           # picture_box
+        self.encoding = []      # picture_encoding data
         print("생성되었습니다")
 
     # picture_class destory
