@@ -1,13 +1,14 @@
-import model_custom
-import cv2
 from sklearn.cluster import DBSCAN
+import pickle
 import numpy as np
 import os
-import pickle
 import signal
 import sys
+import cv2
+import model_custom
 
-img = cv2.imread("davichi.jpg")
+'''
+img = cv2.imread("./image_file/test/davichi.jpg")
 boxed = model_custom.face_locations(img, model="hog")
 # print(boxed)
 
@@ -21,3 +22,12 @@ clt.fit(encodings)
 label_ids = np.unique(clt.labels_)
 num_unique_faces = len(np.where(label_ids > -1)[0])
 print(num_unique_faces)
+
+
+file = open("./picture_utility/picture_pickle.txt", "wb")
+pickle.dump("Test", file)
+file.close()
+
+file = open("./picture_utility/picture_pickle.txt", "rb")
+print(pickle.load(file))
+'''
