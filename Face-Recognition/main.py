@@ -15,7 +15,7 @@ data = pc.picture_data()
 cnt = pdl.getDownload(data)
 
 # picture detecting, encoding
-for i in range(18, 19):
+for i in range(cnt):
     album_id = data.getAlbumId(i).strip()
     picture_id = data.getPictureId(i).strip()
     status = data.getStatus(i).strip()
