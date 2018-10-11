@@ -13,26 +13,30 @@ class picture_data:
     def __del__(self):
         print("삭제되었습니다")
 
-    # picture_data_append
-    def append_data(self, response):
-        for i in response.json():
-            self.album_id.append(i['album_id'])
-            self.picture_id.append(i['picture_id'])
-            self.status.append(i['status'])
-            self.picture_url.append(i['picture_url'])
-
     # file set
     def setAlbumId(self, x, data):
-        self.album_id[x] = data
+        self.album_id.append(data)
 
     def setPictureId(self, x, data):
-        self.picture_id[x] = data
+        self.picture_id.append(data)
 
     def setStatus(self, x, data):
-        self.status[x] = data
+        self.status.append(data)
 
     def setPictureUrl(self, x, data):
-        self.picture_url[x] = data
+        self.picture_url.append(data)
+
+    def setBox(self, x, data):
+        self.box.append(data)
+
+    def setEncoding(self, x, data):
+        self.encoding.append(data)
+
+    def ResetBox(self, x, data):
+        self.box[x] = data
+
+    def ResetEncoding(self, x, data):
+        self.encoding[x] = data  
 
     # file get
     def getAlbumId(self, x):
@@ -50,10 +54,8 @@ class picture_data:
     def getLen(self):
         return len(self.album_id)
 
-    # print data
-    def print_id(self, start, end):
-        for i in range(start, end):
-            print(self.album_id[i])
-            print(self.picture_id[i])
-            print(self.status[i])
-            print(self.picture_url[i])
+    def getBox(self, x):
+        return self.box[x]
+
+    def getEncoding(self):
+        return self.encoding[x]
