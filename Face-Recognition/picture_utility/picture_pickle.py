@@ -1,36 +1,38 @@
 import json
 import requests
 import pickle
+import gzip
 
-def ControlFilePickle(data, data2):
-
-
-    # picture class pickle 저장
-    path = "./picture_utility/picture_pickle"
-    if not os.path.isdir(path):    # 디렉토리 유무 확인
-        os.mkdir(path)             # 없으면 생성하라
-
-    album_id = open(path + "/album_id.pickle", "wb")
-    pickle.dump(data, album_id)
-    album_id.close()
-
-    picture_id = open(path + "/picture_id.pickle", "wb")
-    pickle.dump(data, picture_id)
-    picture_id.close()
-
-    status = open(path + "/status.pickle", "wb")
-    pickle.dump(data, status)
-    status.close()
-
-    picture_url = open(path + "/picture_url.pickle", "wb")
-    pickle.dump(data, picture_url)
-    picture_url.close()
+def ReadPickle(data2):
+    path = "./picture_utility/picture_pickle/picture_class.pickle"
+    file = gzip.open(path, "rb")
+    temp = pickle.load(file)
+    # print(temp)
+    file.close()
+    
+    for i in range(temp.getLen()):
+        data2.setAlbumId(i, temp.getAlbumId(i))
+        data2.setPictureId(i, temp.getPictureId(i))
+        data2.setStatus(i, temp.getStatus(i))
+        data2.setPictureUrl(i, temp.getPictureUrl(i))
+        data2.setBox(i, temp.getBox(i))
+        data2.setEncoding(i, temp.getEncoding(i))
+        # print('데이터 불러오기 완료!')
 
 
-    box = open(path + "/box.pickle", "wb")
-    box.dump(data, box)
-    box.close()
+def WritePickle(data2):
+    path = "./picture_utility/picture_pickle/picture_class.pickle"
+    file = gzip.open(path, "wb")
+    pickle.dump(data2, file)
+    # print(file)
+    file.close()
 
-    encoding = open(path + "/encoding.pickle", "wb")
-    encoding.dump(data, encoding)
-    encoding.close()
+
+def WriteAppendFile(data, data2, i):
+    data2.setAlbumId(data2.getLen(), data.getAlbumId(i))
+    data2.setPictureId(data2.getLen(), data.getPictureId(i))
+    data2.setStatus(data2.getLen(), data.getStatus(i))
+    data2.setPictureUrl(data2.getLen(), data.getPictureUrl(i))
+    data2.setBox(data2.getLen(), data.getBox(i))
+    data2.setEncoding(data2.getLen(), data.getEncoding(i))
+    # print('데이터 저장 완료!')

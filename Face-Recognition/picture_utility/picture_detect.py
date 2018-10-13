@@ -15,7 +15,7 @@ def faceDetect(album_id, picture_id, status, picture_url):
 
     dirname = "picture_after"
     if os.path.isfile("./picture_utility/" + dirname + "/" + album_id + "/" + picture_id):    # 디렉토리 유무 확인
-        print("./picture_utility/" + dirname + "/" + album_id + "/" + picture_id)
+        # print("./picture_utility/" + dirname + "/" + album_id + "/" + picture_id)
         return -1, -1
 
     # 이미지 인식
@@ -50,7 +50,7 @@ def faceDetect(album_id, picture_id, status, picture_url):
         cnt += 1
 
     # message
-    print('Face Detecting 완료!')
-    print(box)
+    # print('Face Detecting 완료!')
+    # print(box)
 
     return box, encoding
