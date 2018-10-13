@@ -5,6 +5,7 @@ from picture_utility import picture_class as pc
 from picture_utility import picture_download as pdl
 from picture_utility import picture_detect as pdt
 from picture_utility import picture_pickle as pp
+from clustering_utility import face_clustering as fc
 
 # https://docs.google.com/document/d/1lwofKqyqlq--8LuiqjpFgP4R-7mPNt0JT5QwAcu_MRA/edit
 # FaceRecognition <-> Server
@@ -44,5 +45,7 @@ for i in range(cnt):
         pp.WriteAppendFile(data, data2, i)
 
 pp.WritePickle(data2)
-print(data2.getLen())
+# print(data2.getLen())
+
+
 
