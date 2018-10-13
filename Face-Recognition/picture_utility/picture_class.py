@@ -57,5 +57,5 @@ class picture_data:
     def getBox(self, x):
         return self.box[x]
 
-    def getEncoding(self):
+    def getEncoding(self, x):
         return self.encoding[x]
