@@ -47,5 +47,5 @@ for i in range(cnt):
 pp.WritePickle(data2)
 # print(data2.getLen())
 
-
+fc.clustering(data2)
 
