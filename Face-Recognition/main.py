@@ -13,7 +13,6 @@ from clustering_utility import face_clustering as fc
 # https://kidsharu.github.io/KidsHaru-APIDoc/
 # 자세한 API 문서
 
-
 # picture path 확인, 나누기
 data = pc.picture_data()
 cnt = pdl.getDownload(data)
@@ -38,7 +37,6 @@ for i in range(cnt):
         data.ResetEncoding(i, encoding)
         data.ResetPictureCut(i, cut_url)
         print(cut_url)
-
 
 # picture pickle
 data2 = pc.picture_data()
