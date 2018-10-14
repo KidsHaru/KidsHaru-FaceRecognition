@@ -16,7 +16,7 @@ def faceDetect(album_id, picture_id, status, picture_url):
     dirname = "picture_after"
     if os.path.isfile("./picture_utility/" + dirname + "/" + album_id + "/" + picture_id):    # 디렉토리 유무 확인
         # print("./picture_utility/" + dirname + "/" + album_id + "/" + picture_id)
-        return -1, -1
+        return -1, -1, -1
 
     # 이미지 인식
     font = cv2.FONT_HERSHEY_SIMPLEX
@@ -42,15 +42,17 @@ def faceDetect(album_id, picture_id, status, picture_url):
     if len(box) >= 1:
         pm.faceMkdir("./picture_utility/", dirname1, album_id)
     cnt = 1
+    cut_url = []
     for top, right, bottom, left in box:
         crop_img = img[top:bottom, left:right]
         re_img_id = picture_id.split('.')
-        # print("./picture_utility/" + dirname1 + "/" + album_id + "/" + re_img_id[0] + "_" + str(cnt) + "." + re_img_id[1])
-        cv2.imwrite("./picture_utility/" + dirname1 + "/" + album_id + "/" + re_img_id[0] + "_" + str(cnt) + "." + re_img_id[1], crop_img)
+        
+        cut_url.append("./picture_utility/" + dirname1 + "/" + album_id + "/" + re_img_id[0] + "_" + str(cnt) + "." + re_img_id[1])
+        cv2.imwrite(cut_url[cnt-1], crop_img)
         cnt += 1
 
     # message
     # print('Face Detecting 완료!')
     # print(box)
 
-    return box, encoding
+    return box, encoding, cut_url

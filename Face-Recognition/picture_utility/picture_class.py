@@ -5,6 +5,7 @@ class picture_data:
         self.picture_id = []    # picture_id
         self.status = []        # status (processing)
         self.picture_url = []   # picture_url (http:// ... .jpg)
+        self.picture_cut = []   # pictrue_cut
         self.box = []           # picture_box
         self.encoding = []      # picture_encoding data
         print("생성되었습니다")
@@ -14,23 +15,29 @@ class picture_data:
         print("삭제되었습니다")
 
     # file set
-    def setAlbumId(self, x, data):
+    def setAlbumId(self, data):
         self.album_id.append(data)
 
-    def setPictureId(self, x, data):
+    def setPictureId(self, data):
         self.picture_id.append(data)
 
-    def setStatus(self, x, data):
+    def setStatus(self, data):
         self.status.append(data)
 
-    def setPictureUrl(self, x, data):
+    def setPictureUrl(self, data):
         self.picture_url.append(data)
 
-    def setBox(self, x, data):
+    def setBox(self, data):
         self.box.append(data)
 
-    def setEncoding(self, x, data):
+    def setEncoding(self, data):
         self.encoding.append(data)
+
+    def setPictureCut(self, data):
+        self.picture_cut.append(data)
+
+    def ResetPictureCut(self, x, data):
+        self.picture_cut[x] = data
 
     def ResetBox(self, x, data):
         self.box[x] = data
@@ -50,6 +57,9 @@ class picture_data:
 
     def getPictureUrl(self, x):
         return self.picture_url[x]
+
+    def getPictureCut(self, x):
+        return self.picture_cut[x]
 
     def getLen(self):
         return len(self.album_id)

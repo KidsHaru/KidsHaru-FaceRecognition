@@ -13,12 +13,13 @@ def getDownload(data):
                 # print(album_id)
                 # print(filename)
                 
+                data.setAlbumId(album_id)
+                data.setPictureId(filename)
+                data.setStatus("processing")
+                data.setPictureUrl(path + "/" + filename)
+                data.setPictureCut("-")
+                data.setBox("-")
+                data.setEncoding("-")
                 cnt += 1
-                data.setAlbumId(cnt, album_id)
-                data.setPictureId(cnt, filename)
-                data.setStatus(cnt, "processing")
-                data.setPictureUrl(cnt, path + "/" + filename)
-                data.setBox(cnt, "-")
-                data.setEncoding(cnt, "-")
 
     return cnt
