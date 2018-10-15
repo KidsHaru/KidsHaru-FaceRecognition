@@ -26,7 +26,7 @@ def clustering(data2):
         #print(img[i].split('/')[4])
     
     # cluster the embeddings
-    clt = DBSCAN(eps=0.3, min_samples=3, metric="euclidean")
+    clt = DBSCAN(eps=0.2, min_samples=3, metric="euclidean")
     X = clt.fit(encodings)
     print(X)
 
