@@ -26,8 +26,9 @@ def clustering(data2):
         #print(img[i].split('/')[4])
     
     # cluster the embeddings
-    clt = DBSCAN(metric="euclidean")
-    clt.fit(encodings)
+    clt = DBSCAN(eps=0.2, min_samples=3, metric="euclidean")
+    X = clt.fit(encodings)
+    print(X)
 
     # label 결정
     label_ids = np.unique(clt.labels_)
