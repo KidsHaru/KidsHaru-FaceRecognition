@@ -121,7 +121,7 @@ for i in range(cnt):
                         'rect_height' : data2.getBox(i)[j][2] - data2.getBox(i)[j][0]
                 }
                 print(json_data)
-                print(img_count)
+                print(img[count])
                 json_string = json.dumps(json_data).encode("utf-8")
                 response = requests.post(post_url, data=json_string)
                 count += 1
