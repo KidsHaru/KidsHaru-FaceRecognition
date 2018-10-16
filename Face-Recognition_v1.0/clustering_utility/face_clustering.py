@@ -8,12 +8,18 @@ import cv2
 import model_custom
 from picture_utility import picture_class as pc
 import shutil
+import gzip
 
 def clustering(data2):
     cnt = 0
     name = []
     img = []
     encodings = []
+
+    path = "./clustering_utility/clustering_class.pickle"
+    file = gzip.open(path, "wb")
+    pickle.dump(encodings, file)
+    file.close()
 
     cnt = 0
     for i in range(data2.getLen()):
@@ -22,6 +28,11 @@ def clustering(data2):
                 # print(data2.getPictureCut(i)[j])
                 img.append(data2.getPictureCut(i)[j])
                 encodings.append(data2.getEncoding(i)[j])
+
+    path = "./clustering_utility/clustering_class.pickle"
+    file = gzip.open(path, "wb")
+    pickle.dump(encodings, file)
+    file.close()
 
     # for i in range(len(img)):
         #print(img[i].split('/')[4])

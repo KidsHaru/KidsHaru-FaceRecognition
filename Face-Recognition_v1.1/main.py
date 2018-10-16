@@ -79,11 +79,6 @@ for i in range(cnt):
         data.ResetPictureCut(i, cut_url)
         # print(box)
 
-'''
-for i in range(500):
-    post_url = "https://fc3i3hiwel.execute-api.ap-northeast-2.amazonaws.com/develop/faces/" + str(i)
-    response = requests.delete(post_url)
-'''
 # picture pickle
 data2 = pc.picture_data()
 pp.ReadPickle(data2)
@@ -92,6 +87,9 @@ for i in range(cnt):
     if(data.getBox(i) != '-' and data.getEncoding(i) != '-'):
         pp.WriteAppendFile(data, data2, i)
 
+ecnt, check, img= fc.clustering(data2)
+
+count = ecnt
 # picture
 for i in range(cnt):
     album_id = str(data2.getAlbumId(i)).strip()
@@ -99,6 +97,7 @@ for i in range(cnt):
     status = data2.getStatus(i)
     picture_url = str(data2.getPictureUrl(i)).strip()
     
+    # print(i, img)
     if status == "processing":
         post_url = "https://fc3i3hiwel.execute-api.ap-northeast-2.amazonaws.com/develop/pictures/" + str(picture_id_data) + "/faces"
         print(post_url)
@@ -111,21 +110,25 @@ for i in range(cnt):
         rect_height = []
         # top, right, bottom, left
         for j in range(len(data2.getBox(i))):
+                if check[count] == "-":
+                    check[count] = -1
+
                 json_data = {
-                        'child_id' : int(j+1),
+                        'child_id' : int(check[count]),
                         'rect_x' : data2.getBox(i)[j][3],
                         'rect_y' : data2.getBox(i)[j][0],
-                        'rect_width' : data2.getBox(i)[j][1],
-                        'rect_height' : data2.getBox(i)[j][2]
+                        'rect_width' : data2.getBox(i)[j][1] - data2.getBox(i)[j][3],
+                        'rect_height' : data2.getBox(i)[j][2] - data2.getBox(i)[j][0]
                 }
                 print(json_data)
+                print(img_count)
                 json_string = json.dumps(json_data).encode("utf-8")
                 response = requests.post(post_url, data=json_string)
+                count += 1
 
     data2.ResetStatus(i, "complete")
 
+
 pp.WritePickle(data2)
 print(data2.getLen())
-
-fc.clustering(data2)
 

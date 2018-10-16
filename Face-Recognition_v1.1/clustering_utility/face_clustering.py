@@ -8,18 +8,32 @@ import cv2
 import model_custom
 from picture_utility import picture_class as pc
 import shutil
+import gzip
 
 def clustering(data2):
     cnt = 0
     name = []
     img = []
+    check = []
     encodings = []
 
+    path = "./clustering_utility/clustering_class.pickle"
+    file = gzip.open(path, "rb")
+    encodings = pickle.load(file)
+
+    ecnt = len(encodings)
+    file.close()
+
+    for i in range(ecnt):
+        img.append("-")
+        check.append("-")
+    
     cnt = 0
     for i in range(data2.getLen()):
         if data2.getEncoding(i) != []:
             for j in range(len(data2.getEncoding(i))):
                 # print(data2.getPictureCut(i)[j])
+                check.append("-")
                 img.append(data2.getPictureCut(i)[j])
                 encodings.append(data2.getEncoding(i)[j])
 
@@ -43,7 +57,7 @@ def clustering(data2):
     path = "./clustering_utility/ID/"
     for label_id in label_ids:
         dir_name = "ID%d" % label_id
-        print(dir_name)
+        # print(dir_name)
 
         if not os.path.isdir(path):
             os.mkdir(path)
@@ -57,11 +71,22 @@ def clustering(data2):
 
         # save face images
         for i in indexes:
-            image = cv2.imread(img[i])
-        
-            url_path = path + dir_name + "/" + img[i].split('/')[3] + "_" + img[i].split('/')[4]
-            # print(url_path, img[i])
-            # print(i)
+            if i > ecnt:
+                image = cv2.imread(img[i])
+                check[i] = str(label_id)
+            
+                url_path = path + dir_name + "/" + img[i].split('/')[3] + "_" + img[i].split('/')[4]
+                # print(url_path, img[i])
+                # print(i)
 
-            cv2.imwrite(url_path, image)
-    print('clustering done')
+                cv2.imwrite(url_path, image)
+    
+    return ecnt, check, img
+
+    
+
+
+
+
+
+
