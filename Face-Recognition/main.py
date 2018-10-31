@@ -1,5 +1,18 @@
 import sys
+import numpy as np
+from utility import path
 
+str1 = path.getDirname("test_image_tmp")
+print(str1)
+
+
+'''
+num = np.array([1, 2, 3, 4, 5], dtype='int64')
+
+num = np.append(num, 6)
+
+print(num)
+'''
 
 '''
 if __name__ == "__main__":
