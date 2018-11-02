@@ -2,7 +2,7 @@ import sys
 import numpy as np
 from utility import path
 
-str1 = path.getDirname("test_image_tmp")
+str1 = path.getDirname("image")
 print(str1)
 
 
