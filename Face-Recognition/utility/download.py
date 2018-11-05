@@ -6,6 +6,7 @@ from pandas import Series, DataFrame
 def getLinkDownload(url):
     album_id = Series(np.array([]))
     picture_id = Series(np.array([]))
+    picture_name = Series(np.array([]))
     status = Series(np.array([]))
     picture_url = Series(np.array([]))
     box = Series(np.array([]))
@@ -25,6 +26,7 @@ def getLinkDownload(url):
                 temp_url = filename.split('.')
                 temp_picture = temp_url[0]
                 picture_id = np.append(picture_id, temp_picture)
+                picture_name = np.append(picture_name, filename)
 
                 # Status
                 status = np.append(status, "processing")
@@ -39,7 +41,13 @@ def getLinkDownload(url):
                 encoding = np.append(encoding, "empty")
     
     data = DataFrame({
-        'album_id': album_id
-        'picture': picture_id
-    })
-    return 1
+        'album_id': album_id,
+        'picture_id': picture_id,
+        'picture_name': picture_name,
+        'status': status,
+        'picture_url': picture_url,
+        'box': box,
+        'encoding': encoding
+    }, columns=['album_id', 'picture_id', 'picture_name', 'status', 'picture_url', 'box', 'encoding'])
+
+    return data

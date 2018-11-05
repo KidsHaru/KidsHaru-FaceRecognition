@@ -1,10 +1,30 @@
+import os
 import sys
 import numpy as np
-from utility import path, download
+import pandas as pd
+from pandas import Series, DataFrame
+from utility import path, download, pickle
 
+# 이미지 다운로드
 url = path.getDirname("image")
 data = download.getLinkDownload(url)
-print(data)
+
+# 이미지 저장
+temp = DataFrame({})
+url = path.getDirname("pickle_data") + "/picture_pickle.pickle"
+print(os.path.exists(url))
+if os.path.isfile(url):
+    data_temp = pickle.ReadPickle(url)
+    print('pickle 로드 완료!')
+else:
+    pickle.WritePickle(url, temp)
+    data_temp = 1
+    print('pickle 저장 완료!')
+    
+
+print(data_temp)
+
+
 
 
 '''
