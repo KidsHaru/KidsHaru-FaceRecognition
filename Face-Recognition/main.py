@@ -1,9 +1,10 @@
 import sys
 import numpy as np
-from utility import path
+from utility import path, download
 
-str1 = path.getDirname("image")
-print(str1)
+url = path.getDirname("image")
+data = download.getLinkDownload(url)
+print(data)
 
 
 '''
