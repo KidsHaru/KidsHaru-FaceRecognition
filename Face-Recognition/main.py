@@ -20,20 +20,24 @@ else:
     pickle.WritePickle(url, temp)
     data_temp = 1
     print('pickle 저장 완료!')
-    
 
-print(data_temp)
+result = data.index
+print(result[70])
+
+data.loc[data.index == 710, 'box'] = 'test'
+print(data)
+
+# 이미지 detecting
+# for x in range(len(data)):
+    # box, encoding, 
 
 
 
 
-'''
-num = np.array([1, 2, 3, 4, 5], dtype='int64')
 
-num = np.append(num, 6)
 
-print(num)
-'''
+
+
 
 '''
 if __name__ == "__main__":
