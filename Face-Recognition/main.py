@@ -4,11 +4,14 @@ import numpy as np
 import pandas as pd
 from pandas import Series, DataFrame
 from utility import path, download, pickle
+from picture_util import detecting
 
+# =========================================
 # 이미지 다운로드
 url = path.getDirname("image")
 data = download.getLinkDownload(url)
 
+# =========================================
 # 이미지 저장
 temp = DataFrame({})
 url = path.getDirname("pickle_data") + "/picture_pickle.pickle"
@@ -21,15 +24,18 @@ else:
     data_temp = 1
     print('pickle 저장 완료!')
 
-result = data.index
-print(result[70])
-
-data.loc[data.index == 710, 'box'] = 'test'
-print(data)
+# =========================================
+box = []
+encoding = []
 
 # 이미지 detecting
-# for x in range(len(data)):
-    # box, encoding, 
+for x in range(2, 3):
+    box_t, encoding_t = detecting.faceDetect(data.ix[x])
+    box.append(box_t)
+    encoding.append(encoding_t)
+
+box_nd = np.append(box, [])
+print(box)
 
 
 
@@ -38,6 +44,12 @@ print(data)
 
 
 
+
+# result = data.index
+# print(result[70])
+
+# data.loc[data.index == 710, 'box'] = 'test'
+# print(data.ix[1]['box'])
 
 '''
 if __name__ == "__main__":

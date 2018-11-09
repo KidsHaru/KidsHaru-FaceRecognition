@@ -11,6 +11,7 @@ def getLinkDownload(url):
     picture_url = Series(np.array([]))
     box = Series(np.array([]))
     encoding = Series(np.array([]))
+    clustering = Series(np.array([]))
 
     for (path, dir, files) in os.walk(url):
         for filename in files:
@@ -39,6 +40,9 @@ def getLinkDownload(url):
 
                 # Picture_Encoding
                 encoding = np.append(encoding, "empty")
+
+                # Clustering Encoding
+                clustering = np.append(clustering, "empty")
     
     data = DataFrame({
         'album_id': album_id,
@@ -47,7 +51,8 @@ def getLinkDownload(url):
         'status': status,
         'picture_url': picture_url,
         'box': box,
-        'encoding': encoding
-    }, columns=['album_id', 'picture_id', 'picture_name', 'status', 'picture_url', 'box', 'encoding'])
+        'encoding': encoding,
+        'clustering': clustering
+    }, columns=['album_id', 'picture_id', 'picture_name', 'status', 'picture_url', 'box', 'encoding', 'clustering'])
 
     return data

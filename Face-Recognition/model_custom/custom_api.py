@@ -2,7 +2,8 @@
 import PIL.Image
 import dlib
 import numpy as np
-import models
+import face_recognition_models as models
+# import models
 
 # ====================================================================================================================
 # models에 있는 모델 변수 적용
