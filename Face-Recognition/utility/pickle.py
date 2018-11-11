@@ -5,6 +5,7 @@ def ReadPickle(url):
     file = gzip.open(url, "rb")
     temp = pickle.load(file)
     file.close()
+    
     return temp
 
 def WritePickle(url, data):

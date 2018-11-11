@@ -15,15 +15,29 @@ data = download.getLinkDownload(url)
 # 이미지 저장
 temp = DataFrame({})
 url = path.getDirname("pickle_data") + "/picture_pickle.pickle"
-print(os.path.exists(url))
 if os.path.isfile(url):
     data_temp = pickle.ReadPickle(url)
     print('pickle 로드 완료!')
+
+    if len(data_temp) > 0:
+        for x in range(len(data)):
+            print(data.loc[x])
+            
+    else:
+        pickle.WritePickle(url, data)
+        print('pickle 저장 완료!')
+        
+
+    # 데이터 비교 후 삽입
+    # for x in range(len(data)):
+        # print(data_temp.ix[x])
+    # print(data_temp)
 else:
     pickle.WritePickle(url, temp)
-    data_temp = 1
     print('pickle 저장 완료!')
 
+# print(data['picture_url'][1])
+'''
 # =========================================
 box = []
 encoding = []
@@ -31,12 +45,12 @@ encoding = []
 # 이미지 detecting
 for x in range(2, 3):
     box_t, encoding_t = detecting.faceDetect(data.ix[x])
+    
     box.append(box_t)
     encoding.append(encoding_t)
 
-box_nd = np.append(box, [])
 print(box)
-
+'''
 
 
 

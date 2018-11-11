@@ -12,11 +12,11 @@ def faceDetect(data):
     
     # CNN 모델로 face_detecting 완료
     box = model_custom.face_locations(img, model="cnn")
-    # print(box)
+    print(box)
 
     # Encoding
     encoding = model_custom.face_encodings(img, box)
-    # print(encoding)
+    print(encoding)
     
     return box, encoding
 
