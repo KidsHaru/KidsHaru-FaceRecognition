@@ -58,30 +58,44 @@ else:
 data = pickle.ReadPickle(url)
 print('pickle 로드 완료!')
 
-data_temp = data_temp.loc[data_temp['encoding'] == "empty"]
+data.loc[data.index == 1, 'encoding'] = 'complete'
 
 index = []
 box = []
 encoding = []
 encodings = []
+for x in range(len(data)):
+    # data 완료 구분
+    url_temp = data.ix[x]['picture_url']
+    name_temp = data.ix[x]['picture_name']
 
-for x in range(len(data_temp)):
-    box_t, encoding_t = detecting.faceDetect(data_temp.ix[x])
-    
-    if len(box_t) > 0 and len(encoding_t) > 0:
-        index.append(x)
-        box.append(box_t)
-        encoding.append(encoding_t)
+    data_temp = data.loc[data['encoding'] == "empty"]
+    arr2 = []
+    try:
+        arr1 = data_temp.loc[data_temp['picture_url'] == url_temp]
+        if len(arr1) > 0:
+            arr2 = arr1.loc[data_temp['picture_name'] == name_temp]
+    except:
+        pass
 
-        for y in range(len(box[len(index) - 1])):
-            # print(box[len(index) - 1][y])
-            encodings.append( encoding[len(index) - 1][y] )
+    if len(arr2) > 0:
+        box_t, encoding_t = detecting.faceDetect(data.ix[x])
 
-        data_temp.loc[data_temp.index == x, 'box'] = len(box[len(index) - 1])
-        data_temp.loc[data_temp.index == x, 'encoding'] = "complete"
-        
-clustering.cluster(encodings)
+        if len(box_t) > 0 and len(encoding_t) > 0:
+            index.append(x)
+            box.append(box_t)
+            encoding.append(encoding_t)
 
+            for y in range(len(box[len(index) - 1])):
+                # print(box[len(index) - 1][y])
+                encodings.append( encoding[len(index) - 1][y] )
+
+            data_temp.loc[data_temp.index == x, 'box'] = len(box[len(index) - 1])
+            data_temp.loc[data_temp.index == x, 'encoding'] = "complete"
+
+            clustering.cluster(encodings)
+
+# print(data_temp)
 # print(encodings)
 # print(data)
     
