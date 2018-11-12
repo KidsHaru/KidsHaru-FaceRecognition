@@ -2,9 +2,13 @@ import os
 import sys
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot  as plt
+import seaborn as sns
+from mpl_toolkits.mplot3d import Axes3D
 from pandas import Series, DataFrame
 from utility import path, download, pickle
-from picture_util import detecting
+from picture_util import detecting, clustering
+
 
 # =========================================
 # 이미지 다운로드
@@ -47,23 +51,41 @@ else:
     pickle.WritePickle(url, temp)
     print('pickle 저장 완료!')
 
-# print(data_temp)
-
-
 # =========================================
 # 이미지 detecting
+
+# 재 로드 하기
+data = pickle.ReadPickle(url)
+print('pickle 로드 완료!')
+
+data_temp = data_temp.loc[data_temp['encoding'] == "empty"]
+
 index = []
 box = []
 encoding = []
+encodings = []
 
-for x in range(2, 3):
+for x in range(len(data_temp)):
     box_t, encoding_t = detecting.faceDetect(data_temp.ix[x])
     
-    index.append(x)
-    box.append(box_t)
-    encoding.append(encoding_t)
+    if len(box_t) > 0 and len(encoding_t) > 0:
+        index.append(x)
+        box.append(box_t)
+        encoding.append(encoding_t)
 
-print(index)
+        for y in range(len(box[len(index) - 1])):
+            # print(box[len(index) - 1][y])
+            encodings.append( encoding[len(index) - 1][y] )
+
+        data_temp.loc[data_temp.index == x, 'box'] = len(box[len(index) - 1])
+        data_temp.loc[data_temp.index == x, 'encoding'] = "complete"
+        
+clustering.cluster(encodings)
+
+# print(encodings)
+# print(data)
+    
+
 
 
 

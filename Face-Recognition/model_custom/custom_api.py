@@ -77,7 +77,7 @@ def load_image_file(file, mode='RGB'):
 # param number_of_time_to_upsample : 면을 찾는 이미지를 sampling 하는 횟수, 많아질 수록 사진이 작아진다
 # model : 사용할 얼굴 검출 모델, cnn이 더 정확하나, 여기서는 HOG 알고리즘을 사용한다. -> CNN 변경
 # return : 검출한 경계 상자 배열 -> dlib 상자 리스트
-def _raw_face_locations(img, number_of_times_to_upsample=1, model="cnn"):
+def _raw_face_locations(img, number_of_times_to_upsample=1, model="hog"):
     if model == "cnn":
         return face_detector_tool(img, number_of_times_to_upsample)
     else:
@@ -89,7 +89,7 @@ def _raw_face_locations(img, number_of_times_to_upsample=1, model="cnn"):
 # param number_of_time_to_upsample : 면을 찾는 이미지를 sampling 하는 횟수, 많아질 수록 사진이 작아진다
 # model : 사용할 얼굴 검출 모델, cnn이 더 정확하나, 여기서는 HOG 알고리즘을 사용한다. -> CNN 변경
 # return : 검출한 경계 상자 배열 -> dlib 상자 리스트
-def face_locations(img, number_of_times_to_upsample=1, model="cnn"):
+def face_locations(img, number_of_times_to_upsample=1, model="hog"):
     if model == "cnn":
         return [_trim_css_to_bounds(_rect_to_css(face.rect), img.shape) for face in _raw_face_locations(img, number_of_times_to_upsample, "cnn")]
     else:
@@ -178,7 +178,7 @@ def face_landmarks(face_image, face_locations=None, model="large"):
 # param alert_face_locations: 각 면의 경계사항 (선택 사항)
 # param num_jeters : 얼굴을 다시 샘플링하는 횟수, 더 높은것이 정확하지만 느리다. (100배는 100배 느림)
 # return : 128차원 페이스 인코딩 리스트 (면마다 하나씩)
-def face_encodings(face_image, known_face_locations=None, num_jitters=1):
+def face_encodings(face_image, known_face_locations=None, num_jitters=3):
     raw_landmarks = _raw_face_landmarks(face_image, known_face_locations, model="small")
     return [np.array(face_encoder.compute_face_descriptor(face_image, raw_landmark_set, num_jitters)) for raw_landmark_set in raw_landmarks]
 
