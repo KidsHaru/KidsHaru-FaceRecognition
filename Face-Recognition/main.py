@@ -33,7 +33,7 @@ if os.path.isfile(url):
             try:
                 arr1 = data_temp.loc[data_temp['picture_url'] == url_temp]
                 if len(arr1) > 0:
-                    arr2 = arr1.loc[data_temp['picture_name'] == name_temp]
+                    arr2 = arr1.loc[arr1['picture_name'] == name_temp]
             except:
                 pass
             
@@ -51,6 +51,52 @@ else:
     pickle.WritePickle(url, temp)
     print('pickle 저장 완료!')
 
+# print(len(data), len(data_temp))
+
+# =========================================
+# index, box, encoding 저장
+index = []
+box = []
+encoding = []
+encodings = []
+
+index_url = path.getDirname("pickle_data") + "/index_pickle.pickle"
+box_url = path.getDirname("pickle_data") + "/box_pickle.pickle"
+encoding_url = path.getDirname("pickle_data") + "/encoding_pickle.pickle"
+encodings_url = path.getDirname("pickle_data") + "/encodings_pickle.pickle"
+
+if os.path.isfile(index_url):
+    index = pickle.ReadPickle(index_url)
+    print('pickle 로드 완료!')
+
+    if len(index) > 0:
+        for x in range(len(data)):
+            url_temp = data.ix[x]['picture_url']
+            name_temp = data.ix[x]['picture_name']
+
+            arr2 = []
+            try:
+                arr1 = data_temp.loc[data_temp['picture_url'] == url_temp]
+                if len(arr1) > 0:
+                    arr2 = arr1.loc[arr1['picture_name'] == name_temp]
+            except:
+                pass
+            
+            if len(arr2) < 1:
+                data_temp = data_temp.append(data.ix[x], ignore_index = True)
+        
+        pickle.WritePickle(url, data_temp)
+        print('pickle 저장 완료!')
+
+    else:
+        pickle.WritePickle(url, data)
+        print('pickle 저장 완료!')
+
+else:
+    pickle.WritePickle(url, temp)
+    print('pickle 저장 완료!')
+
+
 # =========================================
 # 이미지 detecting
 
@@ -59,26 +105,16 @@ data = pickle.ReadPickle(url)
 print('pickle 로드 완료!')
 
 data.loc[data.index == 1, 'encoding'] = 'complete'
+data_temp = data.loc[data['encoding'] == "empty"]
+result = data_temp.index
 
-index = []
-box = []
-encoding = []
-encodings = []
-for x in range(len(data)):
+
+for x in range(0, 10):
     # data 완료 구분
     url_temp = data.ix[x]['picture_url']
     name_temp = data.ix[x]['picture_name']
 
-    data_temp = data.loc[data['encoding'] == "empty"]
-    arr2 = []
-    try:
-        arr1 = data_temp.loc[data_temp['picture_url'] == url_temp]
-        if len(arr1) > 0:
-            arr2 = arr1.loc[data_temp['picture_name'] == name_temp]
-    except:
-        pass
-
-    if len(arr2) > 0:
+    if x in result:
         box_t, encoding_t = detecting.faceDetect(data.ix[x])
 
         if len(box_t) > 0 and len(encoding_t) > 0:
@@ -90,17 +126,18 @@ for x in range(len(data)):
                 # print(box[len(index) - 1][y])
                 encodings.append( encoding[len(index) - 1][y] )
 
-            data_temp.loc[data_temp.index == x, 'box'] = len(box[len(index) - 1])
-            data_temp.loc[data_temp.index == x, 'encoding'] = "complete"
+            data.loc[data.index == x, 'box'] = len(box[len(index) - 1])
+            data.loc[data.index == x, 'encoding'] = "complete"
 
             clustering.cluster(encodings)
+    
+    else:
+        pass
+
 
 # print(data_temp)
 # print(encodings)
 # print(data)
-    
-
-
 
 
 
