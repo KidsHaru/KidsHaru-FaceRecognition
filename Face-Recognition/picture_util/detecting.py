@@ -62,11 +62,11 @@ def WebfaceDetect(dirname, data):
 
     # CNN 모델로 face_detecting 완료
     box = model_custom.face_locations(norm_img, model="hog")
-    print(box)
 
     box_list = []
     for top, right, bottom, left in box:
         box_list.append( ( int(top/x), int(right/x), int(bottom/x), int(left/x) ) )
+    print(box_list)
 
     # print(box_list)
     # Encoding
