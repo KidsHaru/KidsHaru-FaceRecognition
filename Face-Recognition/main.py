@@ -47,7 +47,8 @@ encodings = saving.util_saving("encodings", encodings_url)
 data_temp = data.loc[data['encoding'] == "empty"]
 result = data_temp.index
 
-for x in range(0, 10):
+label_ids = 0
+for x in range(len(data)):
     if x in result:
         box_t, encoding_t = detecting.faceDetect(data.ix[x])   
 
@@ -64,19 +65,24 @@ for x in range(0, 10):
             data.loc[data.index == x, 'box'] = len(box[temp_len])
             data.loc[data.index == x, 'encoding'] = "complete"
 
-            clustering.cluster(encodings)
+            clustering.cluster(data, indexE, encodings)
 
-print(index)
-print(indexE)
+        else:
+            data.loc[data.index == x, 'box'] = -1
+            data.loc[data.index == x, 'encoding'] = "Fail"
+
+# =========================================
+# 저장하기
+data = pickle.WritePickle(url, data)
+
+index = pickle.WritePickle(index_url, index)
+box = pickle.WritePickle(box_url, box)
+encoding = pickle.WritePickle(encoding_url, encoding)
+
+indexE = pickle.WritePickle(indexE_url, indexE)
+encodings = pickle.WritePickle(encodings_url, encodings)
+
 print(data)
-
-
-# print(data_temp)
-# print(encodings)
-# print(data)
-
-
-
 
 
 # result = data.index
