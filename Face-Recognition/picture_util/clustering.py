@@ -13,30 +13,29 @@ def cluster(data, indexE, encoding):
     print(len(label_ids))
     print("===============")
 
-    for n in range(len(data)):
-            data.loc[data.index == n, 'clustering'] = "empty"
+    data['clustering'] = "empty"
         
     count = 0
     final = 0
     for label_id in label_ids:
         dir_name = "ID%d" % label_id
-        print(dir_name)
+        # print(dir_name)
 
         # find all indexes of label_id
         indexes = np.where(clt.labels_ == label_id)[0]
-        print(indexes)
-        for n in range(len(indexE)):
-                len_t = int(indexE[n].split(".")[0])
-                
-                result = data.loc[data.index == len_t]['clustering']
+        # print(indexes)
+        for n in range(len(indexes)):
+                index_len = indexes[n]
+                temp_len = int(indexE[index_len].split(".")[0])
+
+                result = data.loc[data.index == temp_len]['clustering']
+
                 if result.item() == "empty":
                         result = ""
-                        temp = result + str(label_id) + "."
-                        data.loc[data.index == int(indexE[n].split(".")[0]), 'clustering'] = temp
-                else:
-                        temp = result + str(label_id) + "."
-                        data.loc[data.index == int(indexE[n].split(".")[0]), 'clustering'] = temp
-
+                temp = indexE[index_len].split(".")[1] + "." + str(label_id) + ";"
+                
+                data.loc[data.index == int(indexE[index_len].split(".")[0]), 'clustering'] = result + temp
+                
         if label_id > -1:
                 count += len(indexes)
                 final += len(indexes)

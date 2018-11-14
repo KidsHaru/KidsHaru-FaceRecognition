@@ -2,6 +2,8 @@ import json
 import requests
 import os
 import sys
+import shutil
+import urllib.request
 import numpy as np
 import pandas as pd
 from pandas import Series, DataFrame
@@ -10,8 +12,13 @@ from picture_util import detecting, clustering, saving
 
 # =========================================
 # 이미지 다운로드
-url = path.getDirname("image")
-data = download.getLinkDownload(url)
+
+URL1 = 'https://gimic6gh9i.execute-api.ap-northeast-2.amazonaws.com/develop/pictures/processing'
+URL2 = 'https://gimic6gh9i.execute-api.ap-northeast-2.amazonaws.com/develop/pictures/{:d}/faces'
+URL3 = 'https://gimic6gh9i.execute-api.ap-northeast-2.amazonaws.com/develop/pictures/{:d}'
+
+response = requests.get(URL1)
+data = download.getWebDownload(response)
 
 # =========================================
 # 이미지 저장
@@ -48,8 +55,11 @@ result = data_temp.index
 
 for x in range(len(data)):
     if x in result:
-        box_t, encoding_t = detecting.faceDetect(data.ix[x])   
+        url_path = data.loc[data.index == x, 'picture_url'].item()
+        dirname = path.getDirname("download") + "/" + data.loc[data.index == x, 'picture_name'].item()
+        urllib.request.urlretrieve(url_path, dirname)
 
+        box_t, encoding_t = detecting.WebfaceDetect(dirname, data.ix[x])
         if len(box_t) > 0 and len(encoding_t) > 0:
             index.append(x)
             box.append(box_t)
@@ -68,6 +78,7 @@ for x in range(len(data)):
         else:
             data.loc[data.index == x, 'box'] = -1
             data.loc[data.index == x, 'encoding'] = "Fail"
+        os.remove(dirname)
 
 # =========================================
 # 저장하기
@@ -81,16 +92,3 @@ pickle.WritePickle(indexE_url, indexE)
 pickle.WritePickle(encodings_url, encodings)
 
 print(data)
-
-'''
-if __name__ == "__main__":
-    if len(sys.argv) - 1:
-        if(sys.argv[1] == '-d' or sys.argv[1] == '--download'):
-            print('다운로드 시작')
-
-        else:
-            print('명령 인자를 바르게 입력해주세요')
-
-    else:
-        print('명령 인자를 바르게 입력해주세요')
-'''
