@@ -66,7 +66,7 @@ def WebfaceDetect(dirname, data):
     box_list = []
     for top, right, bottom, left in box:
         box_list.append( ( int(top/x), int(right/x), int(bottom/x), int(left/x) ) )
-    print(box_list)
+    # print(box_list)
 
     # print(box_list)
     # Encoding

@@ -9,9 +9,9 @@ def cluster(data, indexE, encoding):
     # label 결정
     label_ids = np.unique(clt.labels_)
     num_unique_faces = len(np.where(label_ids > -1)[0])
+    print("======================================")
     print("clustered %d unique faces." % num_unique_faces)
     print(len(label_ids))
-    print("===============")
 
     data['clustering'] = "empty"
         
