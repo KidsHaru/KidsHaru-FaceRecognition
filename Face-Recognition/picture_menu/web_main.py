@@ -127,4 +127,5 @@ def web_play():
 
         pickle.WritePickle(indexE_url, indexE)
         pickle.WritePickle(encodings_url, encodings)
-        print(data)
+        # print(data)
+        data.to_csv("test.csv", mode='w')
