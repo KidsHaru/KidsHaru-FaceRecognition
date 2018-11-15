@@ -17,6 +17,7 @@ def web_play():
         URL1 = 'https://gimic6gh9i.execute-api.ap-northeast-2.amazonaws.com/develop/pictures/processing'
         URL2 = 'https://gimic6gh9i.execute-api.ap-northeast-2.amazonaws.com/develop/pictures/{:d}/faces'
         URL3 = 'https://gimic6gh9i.execute-api.ap-northeast-2.amazonaws.com/develop/pictures/{:d}'
+        URL4 = 'https://gimic6gh9i.execute-api.ap-northeast-2.amazonaws.com/develop/noti/albums/{:d}/modified'
 
         response = requests.get(URL1)
         data = download.getWebDownload(response)
@@ -55,6 +56,7 @@ def web_play():
         result = data_temp.index
 
         for x in range(len(data)):
+                cl_album = data.loc[data.index == x, 'album_id'].item()
                 cl_picture = data.loc[data.index == x, 'picture_id'].item()
                 if x in result:
                         url_path = data.loc[data.index == x, 'picture_url'].item()
@@ -116,6 +118,11 @@ def web_play():
                         put_url = URL3.format(int(cl_picture))
                         # print(json_data, put_url)
                         response = requests.put(put_url, data=json_string)
+
+                        json_data = {}
+                        json_string = json.dumps(json_data).encode("utf-8")
+                        post_url = URL4.format(cl_album)
+                        response = requests.post(post_url, data=json_string)
 
         # =========================================
         # 저장하기

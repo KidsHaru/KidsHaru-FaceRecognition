@@ -20,7 +20,7 @@ def faceDetect(data):
     norm_img = cv2.normalize(img_t, dst, 0, 255, cv2.NORM_MINMAX)
 
     # CNN 모델로 face_detecting 완료
-    box = model_custom.face_locations(norm_img, model="hog")
+    box = model_custom.face_locations(norm_img, model="cnn")
     # print(box)
 
     box_list = []
@@ -61,7 +61,7 @@ def WebfaceDetect(dirname, data):
     norm_img = cv2.normalize(img_t, dst, 0, 255, cv2.NORM_MINMAX)
 
     # CNN 모델로 face_detecting 완료
-    box = model_custom.face_locations(norm_img, model="hog")
+    box = model_custom.face_locations(norm_img, model="cnn")
 
     box_list = []
     for top, right, bottom, left in box:
