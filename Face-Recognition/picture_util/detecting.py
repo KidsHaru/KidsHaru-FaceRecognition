@@ -10,9 +10,12 @@ def faceDetect(data):
     font = cv2.FONT_HERSHEY_SIMPLEX
     img = cv2.imread(dirname)
 
-    # 높이 700으로 image 사이즈 조정
+    # 800으로 image 사이즈 조정
     height, width, channel = img.shape
-    x = 700 / height
+    if height >= width:
+        x = 800 / height
+    else:
+        x = 800 / width
     img_t = cv2.resize(img, dsize=(0, 0), fx= x, fy= x, interpolation=cv2.INTER_LINEAR)
 
     # 노말라이징
@@ -51,9 +54,12 @@ def WebfaceDetect(dirname, data):
     font = cv2.FONT_HERSHEY_SIMPLEX
     img = cv2.imread(dirname)
 
-    # 높이 700으로 image 사이즈 조정
+    # 800으로 image 사이즈 조정
     height, width, channel = img.shape
-    x = 700 / height
+    if height >= width:
+        x = 800 / height
+    else:
+        x = 800 / width
     img_t = cv2.resize(img, dsize=(0, 0), fx= x, fy= x, interpolation=cv2.INTER_LINEAR)
 
     # 노말라이징

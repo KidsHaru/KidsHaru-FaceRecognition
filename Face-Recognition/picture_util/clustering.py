@@ -2,7 +2,7 @@ from sklearn.cluster import DBSCAN
 import numpy as np
 
 def cluster(data, indexE, encoding):
-    clt = DBSCAN(eps=0.23, min_samples=2, metric="euclidean")
+    clt = DBSCAN(eps=0.235, min_samples=2, metric="euclidean")
     X = clt.fit(encoding)
     # print(X)
 
@@ -34,9 +34,10 @@ def cluster(data, indexE, encoding):
                         result = ""
 
                 temp = indexE[index_len].split(".")[1] + "." + str(label_id) + ";"
-                
-                print(temp_len, result, temp)
+
                 data.loc[data.index == int(indexE[index_len].split(".")[0]), 'clustering'] = result + temp
+
+                # print(temp_len, data.loc[data.index == int(indexE[index_len].split(".")[0]), 'clustering'].item())
                 
         if label_id > -1:
                 count += len(indexes)
