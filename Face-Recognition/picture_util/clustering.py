@@ -2,7 +2,7 @@ from sklearn.cluster import DBSCAN
 import numpy as np
 
 def cluster(data, indexE, encoding):
-    clt = DBSCAN(eps=0.235, min_samples=2, metric="euclidean")
+    clt = DBSCAN(eps=0.220, min_samples=2, metric="euclidean")
     X = clt.fit(encoding)
     # print(X)
 

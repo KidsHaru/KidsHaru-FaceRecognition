@@ -1,4 +1,5 @@
 import sys
+import time
 from picture_menu import local_main, reset, web_main
 
 if __name__ == "__main__":
@@ -17,8 +18,13 @@ if __name__ == "__main__":
 
         # 웹 페이지에서 사진을 다운받아 저장하고 싶을 때
         elif(sys.argv[1] == '-w' or sys.argv[1] == '--web'):
-            web_main.web_play()
-
+            while(True):
+                try:
+                    web_main.web_play()
+                except:
+                    pass
+                time.sleep(5)
+                
         else:
             print('명령 인자를 바르게 입력해주세요')
 
